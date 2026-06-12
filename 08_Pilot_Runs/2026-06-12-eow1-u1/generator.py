@@ -46,16 +46,23 @@ def header(page, total, title="My Classroom"):
     c.line(92, H-54, 320, H-54)
     c.drawString(380, H-52, "DATE:")
     c.line(432, H-54, 560, H-54)
-    # title (centered block: badge + text)
-    tw = pdfmetrics.stringWidth(title, "PopB", 34)
-    bx = W/2 - (tw + 52)/2
+    # title (centered block: badge + text, auto-shrinks to avoid the meta block)
+    fs = 34
+    max_right = W - 220
+    while fs > 20:
+        tw = pdfmetrics.stringWidth(title, "PopB", fs)
+        bx = W/2 - (tw + 52)/2
+        if bx + 52 + tw <= max_right and bx >= 110: break
+        fs -= 1
+    tw = pdfmetrics.stringWidth(title, "PopB", fs)
+    bx = max(110, W/2 - (tw + 52)/2)
     badge(bx + 20, H-100, 20, str(1), 24)
-    c.setFillColor(INK); c.setFont("PopB", 34)
-    c.drawString(bx + 52, H-112, title)
+    c.setFillColor(INK); c.setFont("PopB", fs)
+    c.drawString(bx + 52, H-100 - fs*0.36, title)
     # meta top right
-    c.setFont("PopM", 10.5)
-    c.drawRightString(W-36, H-88, "EOW1 · Unit 1 · My Classroom")
-    c.drawRightString(W-36, H-104, f"Page {page} / {total}")
+    c.setFont("PopM", 10)
+    c.drawRightString(W-30, H-76, "EOW1 · Unit 1 · My Classroom")
+    c.drawRightString(W-30, H-91, f"Page {page} / {total}")
     return H - 150
 
 def section(y, letter, label, instr):
