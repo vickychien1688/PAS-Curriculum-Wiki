@@ -21,6 +21,7 @@ Use these patterns as reusable activity templates. Do not invent a new pattern u
 | WS-013 | Song Worksheet | Chant/song reinforcement | Lyrics gap fill, match, or sequence. |
 | WS-014 | Dictionary / Word Bank | Unit reference | Picture dictionary or categorized word list. |
 | WS-015 | Spiral Grammar | Review across units | Mixed grammar review with scope guard. |
+| WS-016 | Word Scramble | Spelling and vocabulary recall | Scrambled letters + picture hint; students write the word. Use only current unit vocabulary; 4-6 items for Level 1-2. |
 
 ## Pattern Details
 
