@@ -1,6 +1,6 @@
 # EOW4 Source Map
 
-Status: Source folders indexed; unit scope extraction pending.
+Status: Unit scope extracted from official NGL scope & sequence (see scope-and-sequence.md and unit pages). Verify against scanned teacher manual before student-facing use.
 
 ## Main Sources
 

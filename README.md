@@ -6,7 +6,7 @@ Use it before asking GPT or Codex to create lesson plans, brainstorm course idea
 
 ## Current Scope
 
-- Detailed unit scope: EOW1
+- Detailed unit scope: EOW1-4 (EOW2-4 from official NGL scope & sequence)
 - Indexed source folders: EOW1-4
 - EOW official sources: Google Drive and local exported PDFs
 - Reading Base master source: Canva

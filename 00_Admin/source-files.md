@@ -25,7 +25,7 @@
 
 | Source | Needed for |
 |---|---|
-| Full Level 2-4 EOW scope extraction | Unit-level vocabulary, grammar, reading, and values. |
+| Teacher-manual verification for EOW2-4 unit pages | Scanned manuals in Drive are image-based; OCR or manual check still pending. |
 | Reading Base Units 6-8 designs for Levels 2-4 | Canva `r-level 2/3/4` currently show Units 1-5 only. |
 | Reading Base Units 7-8 designs for Level 1 | Canva `r-level 1` currently shows Units 1-6 only. |
 | Dropbox Level 2-4 visible style indexes | Style matching beyond Level 1. |
