@@ -21,7 +21,16 @@ Use these patterns as reusable activity templates. Do not invent a new pattern u
 | WS-013 | Song Worksheet | Chant/song reinforcement | Lyrics gap fill, match, or sequence. |
 | WS-014 | Dictionary / Word Bank | Unit reference | Picture dictionary or categorized word list. |
 | WS-015 | Spiral Grammar | Review across units | Mixed grammar review with scope guard. |
-| WS-016 | Word Scramble | Spelling and vocabulary recall | Scrambled letters + picture hint; students write the word. Use only current unit vocabulary; 4-6 items for Level 1-2. |
+| WS-016 | Word Scramble | Spelling and vocabulary recall | Scrambled letters + picture hint; students write the word. Use only current unit vocabulary; 4-6 items for Level 1-2. Add a bottom **Word Box** (STW style). |
+| WS-017 | Scrambled Sentences | Grammar / sentence-frame production | Words of a sentence given out of order; student rewrites it correctly on handwriting lines. Use unit grammar frames only (e.g. `It's a ___.`, `Is it a ___?`). |
+| WS-018 | Word Hunt | Vocabulary recognition (Level 1-2) | Each row: target word + a short letter string containing it once; student circles the word. Simpler than the WS-011 grid search. |
+| WS-019 | ABC Order | Alphabetical-order strategy / spelling | Word Box at top; student writes the unit words in alphabetical order on numbered handwriting lines. Matches EOW1 U1 vocab strategy. |
+| WS-020 | Write It Twice | Handwriting / spelling | Each word printed once + two primary-ruled (two-line) slots to copy it. Cleaner than faint-trace; good for Level 1 handwriting. |
+| WS-021 | Color/Letter Recognition | Letter or category recognition (Pre-K/K) | A field of shapes (e.g. apples) each holding a letter/picture; student colours only the ones that match the target. Adapt for EOW as "colour only the classroom objects" etc. |
+| WS-022 | Sentence Completion | Vocabulary in context | Word Box at top; numbered sentences each with a blank handwriting line; student fills each blank with a word from the bank. A sentence-level form of WS-003. |
+| WS-023 | Reading Comprehension | Reading + comprehension | A short levelled passage (with picture), then questions: short-answer (handwriting lines) and/or multiple choice (a/b/c). **Requires the actual Reading Base story text** — if not yet extracted from Canva, mark `DATA NEEDED`; do not invent the story. |
+
+See `07_Style_Sources/STW_reference.md` for the Super Teacher Worksheets layout conventions (frame, title tab, handwriting lines, Word Box).
 
 ## Pattern Details
 
