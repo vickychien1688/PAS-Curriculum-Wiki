@@ -1,0 +1,209 @@
+{
+  "project_info": {
+    "title": "My Handmade Toy — Day Four: My Toy Friend",
+    "created": 1782403922.965,
+    "last_updated": 1782426391.539,
+    "total_slides": 18
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "deleted",
+      "pageNum": -1
+    },
+    {
+      "id": "phonics_ar",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "phonics_or",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "phonics_er",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "phonics_ir",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "phonics_ur",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "phonics_review_4",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_11",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_12",
+      "state": "edited",
+      "pageNum": 17
+    },
+    {
+      "id": "slide_13",
+      "state": "edited",
+      "pageNum": 18
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "My Handmade Toy — Day Four: My Toy Friend",
+      "summary": "Title slide for Day Four.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "phonics_ar",
+      "title": "AR Sound: -ar- Words",
+      "summary": "Phonics slide for -ar- words: card, farm, star, car. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_or",
+      "title": "OR Sound: -or- Words",
+      "summary": "Phonics slide for -or- words: born, horn, north, short. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_er",
+      "title": "ER Sound: -er- Words",
+      "summary": "Phonics slide for -er- words: ruler, dancer, bakery, soccer. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_ir",
+      "title": "IR Sound: -ir- Words",
+      "summary": "Phonics slide for -ir- words: stir, dirt, shirt, birthday. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_ur",
+      "title": "UR Sound: -ur- Words",
+      "summary": "Phonics slide for -ur- words: fur, burn, surf, purse. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_review_4",
+      "title": "Can You Read These Words? Phonics Review!",
+      "summary": "Phonics review game slide with all 20 words from today's phonics lesson for students to practice reading."
+    },
+    {
+      "id": "slide_3",
+      "title": "\"I'm Lisa. You are my very own bear.\"",
+      "summary": "Story time page 1.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_4",
+      "title": "Lisa sews a button on his green overalls.",
+      "summary": "Story time page 2.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_5",
+      "title": "\"I like you the way you are.\"",
+      "summary": "Story time page 3.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_6",
+      "title": "\"I've always wanted a friend.\" — \"Me too!\"",
+      "summary": "Story time page 4.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_7",
+      "title": "Friends share and care.",
+      "summary": "Value discussion.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_8",
+      "title": "Let's Make a Rubber Band Pop-Up Toy!",
+      "summary": "Craft time materials.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_9",
+      "title": "How to Make It (4 Steps)",
+      "summary": "Craft time steps.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10",
+      "title": "Show and Tell — What to Say",
+      "summary": "Show and tell script.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11",
+      "title": "Your Turn! Show Us Your Toy!",
+      "summary": "Show and tell time.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12",
+      "title": "Draw and Write About Your Toy",
+      "summary": "Worksheet time.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13",
+      "title": "Great Job! You are all amazing!",
+      "summary": "Celebration and goodbye.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

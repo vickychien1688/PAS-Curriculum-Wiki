@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "title": "My Handmade Toy — Day Three: The Big Adventure",
+    "created": 1782403485.198,
+    "last_updated": 1782406822.097,
+    "total_slides": 17
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "deleted",
+      "pageNum": -1
+    },
+    {
+      "id": "phonics_ou",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "phonics_ow_out",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "phonics_oo_long",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "phonics_oo_short",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "phonics_review_3",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_11",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_12",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_13",
+      "state": "edited",
+      "pageNum": 17
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "My Handmade Toy — Day Three: The Big Adventure",
+      "summary": "Title slide for Day Three.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "phonics_ou",
+      "title": "OU Sound: -ou- Words",
+      "summary": "Phonics slide for -ou- words: house, mouse, cloud, count. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_ow_out",
+      "title": "OW Sound: -ow- Words",
+      "summary": "Phonics slide for -ow- words (as in out): cow, owl, brown, clown. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_oo_long",
+      "title": "Long OO: -oo- Words",
+      "summary": "Phonics slide for long -oo- words: moon, pool, spoon, zoo. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_oo_short",
+      "title": "Short OO: -oo- Words",
+      "summary": "Phonics slide for short -oo- words: book, cook, wood, foot. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_review_3",
+      "title": "Can You Read These Words? Phonics Review!",
+      "summary": "Phonics review game slide with all 16 words from today's phonics lesson for students to practice reading."
+    },
+    {
+      "id": "slide_3",
+      "title": "Does he have a button?",
+      "summary": "Grammar focus on Does questions.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_4",
+      "title": "He doesn't look new.",
+      "summary": "Grammar focus on Negative Sentences.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_5",
+      "title": "Let's Practice! Does or Doesn't?",
+      "summary": "Grammar practice.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_6",
+      "title": "Corduroy goes up the escalator.",
+      "summary": "Story time page 1.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_7",
+      "title": "\"This must be a bed. I've always wanted to sleep in a bed.\"",
+      "summary": "Story time page 2.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_8",
+      "title": "He pulls and pulls. POP!",
+      "summary": "Story time page 3.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_9",
+      "title": "Does he get the button? No, he doesn't.",
+      "summary": "Story time page 4.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10",
+      "title": "Do You Remember?",
+      "summary": "Reading comprehension questions.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11",
+      "title": "Find the Button Game!",
+      "summary": "Activity time.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12",
+      "title": "Let's Write with Does and Doesn't!",
+      "summary": "Worksheet time.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13",
+      "title": "Will Lisa come back?",
+      "summary": "Wrap-up and preview of day 4.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}
