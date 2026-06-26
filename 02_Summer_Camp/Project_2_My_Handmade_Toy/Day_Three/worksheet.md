@@ -1,50 +1,44 @@
-# Project Two: My Handmade Toy
-## Day Three Worksheet: The Big Adventure
+# Project Two: My Handmade Toy - Day Three Worksheets
 
-**Name:** _______________________   **Date:** _______________________
+## Page 1: Our Story (Reading & Vocabulary)
+**Title:** THE BIG ADVENTURE - Day 3
+**Layout:** 
+- Top: A large watercolor illustration of Corduroy exploring the store.
+- Middle: The story text broken down into 4 numbered sentences.
+  1. Corduroy goes up.
+  2. This must be a palace!
+  3. He wants a button.
+  4. Oh no! He falls down.
+- Bottom: "My Turn!" section. True/False questions based on the story.
 
----
+## Page 2: Phonics Power (-ou, -ow, -oo)
+**Title:** PHONICS POWER - Day 3
+**Layout:**
+- **Part A: Long & Short Sounds** (Grid layout, 8 words with illustrations)
+  - -ou: house, mouse
+  - -ow: cow, owl
+  - -oo (long): moon, pool
+  - -oo (short): book, foot
+- **Part B: Listen and Circle**
+  - 4 questions with illustrations. Options to circle: ( ou / ow ), ( oo / oo ), etc.
+- **Part C: Write the Missing Letters**
+  - 4 illustrations with incomplete words: h _ _ se, c _ _, m _ _ n, b _ _ k.
 
-### Part A: Phonics (SG5 Unit 5 & 6) - *WS-003 Fill in the Blank*
-*Write the missing letters ( ou , ow , oo ) to complete the word.*
+## Page 3: Grammar Explorer (Does / Doesn't)
+**Title:** GRAMMAR EXPLORER - Day 3
+**Layout:**
+- **Part A: Does he have...?**
+  - 4 illustrations (e.g., a boy with a car, a girl without a doll).
+  - Fill in the blanks: "Yes, he does." or "No, he doesn't."
+- **Part B: Negative Sentences**
+  - Match the picture to the correct negative sentence (e.g., "He doesn't have a button.")
 
-1. h _ _ s e   *(Picture: A house)*
-2. c _ _       *(Picture: A cow)*
-3. m _ _ n     *(Picture: The moon)*
-4. b _ _ k     *(Picture: A book)*
-
----
-
-### Part B: Reading Comprehension - *WS-004 True / False*
-*Read the sentences about Corduroy. Circle True or False.*
-
-1. Corduroy goes up the escalator.           ( **True** / **False** )
-2. Corduroy wants to sleep in a small box.   ( **True** / **False** )
-3. Corduroy finds his button on the bed.     ( **True** / **False** )
-4. Corduroy gets the button.                 ( **True** / **False** )
-
----
-
-### Part C: Grammar (Does he have...?) - *WS-002 Circle*
-*Look at the picture. Circle the correct answer.*
-
-1. *(Picture: A boy holding a red car)*
-   Does he have a car?
-   a) Yes, he does.
-   b) No, he doesn't.
-
-2. *(Picture: A girl holding a doll, no robot)*
-   Does she have a robot?
-   a) Yes, she does.
-   b) No, she doesn't.
-
----
-
-### Part D: Grammar (Negative Sentences) - *WS-017 Scrambled Sentences*
-*Put the words in the correct order to make a sentence.*
-
-1. have / He / a / doesn't / button / .
-   ______________________________________________________________
-
-2. doesn't / She / look / new / .
-   ______________________________________________________________
+## Page 4: Sentence Builder
+**Title:** SENTENCE BUILDER - Day 3
+**Layout:**
+- **Part A: Unscramble the Sentences**
+  - 3 sentences with words in boxes to reorder.
+  - e.g., [have] [He] [a] [doesn't] [button] [.] -> _________________________
+- **Part B: Draw and Write**
+  - A large drawing box: "Draw Corduroy's adventure."
+  - Sentence starter: "Corduroy wants _________."

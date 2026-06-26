@@ -1,54 +1,45 @@
-# Project Two: My Handmade Toy
-## Day Two Worksheet: Corduroy's Clothes
+# Project Two: My Handmade Toy - Day Two Worksheets
 
-**Name:** _______________________   **Date:** _______________________
+## Page 1: Our Story (Reading & Vocabulary)
+**Title:** CORDUROY'S CLOTHES - Day 2
+**Layout:** 
+- Top: A large watercolor illustration of Lisa dressing Corduroy.
+- Middle: The story text broken down into 4 numbered sentences.
+  1. Corduroy needs clothes.
+  2. He is wearing a blue shirt.
+  3. He is wearing brown pants.
+  4. He looks great!
+- Bottom: "My Turn!" section. A sentence frame: "He is wearing a _________." with a Word Bank: shirt, pants, hat, dress, shoes, socks.
 
----
+## Page 2: Phonics Power (-oa, -ow, -oi, -oy)
+**Title:** PHONICS POWER - Day 2
+**Layout:**
+- **Part A: Long O & Oy Words** (Grid layout, 8 words with illustrations)
+  - -oa: boat, coat
+  - -ow: row, window
+  - -oi: oil, boil
+  - -oy: toy, boy
+- **Part B: Listen and Circle**
+  - 4 questions with illustrations. Options to circle: ( oa / ow ), ( oi / oy ), etc.
+- **Part C: Write the Missing Letters**
+  - 4 illustrations with incomplete words: b _ _ t, b _ _, c _ _ t, t _ _.
 
-### Part A: Phonics (SG5 Unit 3 & 4) - *WS-001 Matching*
-*Draw a line to match the word to the picture.*
+## Page 3: Clothes Explorer (Vocabulary & Adjectives)
+**Title:** CLOTHES EXPLORER - Day 2
+**Layout:**
+- **Part A: Clothes Tiles - Check the ones you see!**
+  - 6 grid boxes with illustrations and checkboxes: shirt, pants, hat, dress, shoes, socks.
+- **Part B: Color and Match**
+  - Match the color word to the correct clothing item (e.g., "red" -> picture of a red hat).
+- **Part C: Adjective + Noun**
+  - Circle the correct order: ( a shirt blue / a blue shirt ), ( pants brown / brown pants ).
 
-1. **boat**   ( -oa- )       [ Picture of a toy boy ]
-2. **window** ( -ow- )       [ Picture of a toy ]
-3. **boy**    ( -oi- )       [ Picture of a boat ]
-4. **toy**    ( -oy- )       [ Picture of a window ]
-
----
-
-### Part B: Vocabulary (Clothes & Adjectives) - *WS-016 Word Scramble*
-*Unscramble the letters to write the correct word. Use the Word Box.*
-
-**[ Word Box: shirt , dress , big , new ]**
-
-1. i h r t s   ➔  _______________  *(Picture: A red shirt)*
-2. s e r s d   ➔  _______________  *(Picture: A pink dress)*
-3. g i b       ➔  _______________  *(Picture: A very large hat)*
-4. e w n       ➔  _______________  *(Picture: A shiny new shoe)*
-
----
-
-### Part C: Grammar (Adjective + Noun) - *WS-002 Circle*
-*Circle the correct phrase for the picture.*
-
-1. *(Picture: A blue shirt)*
-   a) a shirt blue
-   b) a blue shirt
-
-2. *(Picture: A small hat)*
-   a) a small hat
-   b) a hat small
-
----
-
-### Part D: Grammar (What is he/she wearing?) - *WS-006 Sentence Builder*
-*Look at the picture and write the sentence. Use the Word Box.*
-
-**[ Word Box: He , She , is , wearing , a , green , skirt , gray , pants ]**
-
-1. *(Picture: A girl wearing a green skirt)*
-   What is she wearing?
-   ______________________________________________________________
-
-2. *(Picture: A boy wearing gray pants)*
-   What is he wearing?
-   ______________________________________________________________
+## Page 4: Sentence Builder
+**Title:** SENTENCE BUILDER - Day 2
+**Layout:**
+- **Part A: Unscramble the Sentences**
+  - 3 sentences with words in boxes to reorder.
+  - e.g., [wearing] [He] [a] [shirt] [is] [blue] [.] -> _________________________
+- **Part B: Draw and Write**
+  - A large drawing box: "Draw Corduroy in new clothes."
+  - Sentence starter: "He is wearing _________."

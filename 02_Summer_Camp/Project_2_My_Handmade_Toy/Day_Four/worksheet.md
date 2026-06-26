@@ -1,42 +1,38 @@
-# Project Two: My Handmade Toy
-## Day Four Worksheet: My Toy Friend
+# Project Two: My Handmade Toy - Day Four Worksheets
 
-**Name:** _______________________   **Date:** _______________________
+## Page 1: Our Story (Reading & Vocabulary)
+**Title:** MY TOY FRIEND - Day 4
+**Layout:** 
+- Top: A large watercolor illustration of Lisa hugging Corduroy.
+- Middle: The story text broken down into 4 numbered sentences.
+  1. Lisa comes back.
+  2. "You are my friend."
+  3. She takes him home.
+  4. They are happy!
+- Bottom: "My Turn!" section. Fill in the blanks using a Word Box: friend, home, happy.
 
----
+## Page 2: Phonics Power (-ar, -or, -er, -ir, -ur)
+**Title:** PHONICS POWER - Day 4
+**Layout:**
+- **Part A: R-Controlled Vowels** (Grid layout, 8 words with illustrations)
+  - -ar: car, star
+  - -or: born, horn
+  - -ir: shirt, dirt
+  - -ur: fur, burn
+- **Part B: Listen and Circle**
+  - 4 questions with illustrations. Options to circle: ( ar / or ), ( ir / ur ), etc.
+- **Part C: Write the Missing Letters**
+  - 4 illustrations with incomplete words: c _ _ , h _ _ n, sh _ _ t, f _ _.
 
-### Part A: Phonics (SG5 Unit 7 & 8) - *WS-001 Matching*
-*Draw a line to match the word to the picture.*
-
-1. **car**    ( -ar- )       [ Picture of a shirt ]
-2. **born**   ( -or- )       [ Picture of a car ]
-3. **shirt**  ( -ir- )       [ Picture of fur ]
-4. **fur**    ( -ur- )       [ Picture of a baby being born ]
-
----
-
-### Part B: Story Review - *WS-004 True / False*
-*Read the sentences about the end of the story. Circle True or False.*
-
-1. Lisa comes back to the toy store.         ( **True** / **False** )
-2. Lisa takes Corduroy home.                 ( **True** / **False** )
-3. Lisa doesn't like Corduroy's clothes.     ( **True** / **False** )
-4. Corduroy and Lisa are friends.            ( **True** / **False** )
-
----
-
-### Part C: My Handmade Toy (Draw and Write) - *WS-007 Picture Description*
-*Draw your jumping toy in the box. Then complete the sentences to present your toy.*
-
-**[ Draw your toy here ]**
-*(A large empty box for drawing)*
-
-**Presentation Script:**
-
-Look! This is _________ toy.
-
-I work hard to make it.
-
-It is a ________________________. *(cat / robot / monster)*
-
-Let's share and play!
+## Page 3: Show and Tell (Presentation Prep)
+**Title:** SHOW AND TELL - Day 4
+**Layout:**
+- **Part A: Draw Your Toy**
+  - A very large drawing box with a nice frame: "Draw your Rubber Band Pop-Up Toy!"
+- **Part B: My Presentation**
+  - A structured fill-in-the-blank script for the final presentation.
+  - "Look! This is _____ toy."
+  - "I work _____ to make it."
+  - "It is a _________."
+  - "Let's _____ and play!"
+  - Word Bank: my, hard, cat/robot/monster, share.
