@@ -1,0 +1,232 @@
+{
+  "project_info": {
+    "title": "Title",
+    "created": 1782468836.452,
+    "last_updated": 1782470369.815,
+    "total_slides": 20
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_13",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_14",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_15",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_16",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_17",
+      "state": "edited",
+      "pageNum": 17
+    },
+    {
+      "id": "slide_18",
+      "state": "edited",
+      "pageNum": 18
+    },
+    {
+      "id": "slide_19",
+      "state": "edited",
+      "pageNum": 19
+    },
+    {
+      "id": "slide_20",
+      "state": "edited",
+      "pageNum": 20
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "Title",
+      "summary": "Comic-book cover layout. The tired animals from Day 1 looking at a glowing refrigerator full of healthy food.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_2",
+      "title": "Warm Up Time!",
+      "summary": "The child superhero doing the Head, Shoulders, Knees and Toes dance with a music note icon.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_3",
+      "title": "Phonics Power!",
+      "summary": "The superhero character holding a glowing magnifying glass, looking at floating letters (A, I, R, E).",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_4",
+      "title": "-air-",
+      "summary": "2x2 grid. (1) fair, (2) chair, (3) stairs, (4) pair. Highlight \"air\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_5",
+      "title": "-are-",
+      "summary": "2x2 grid. (1) hare, (2) square, (3) share, (4) care. Highlight \"are\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_6",
+      "title": "-ear-",
+      "summary": "2x2 grid. (1) bear, (2) pear, (3) wear, (4) tear. Highlight \"ear\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_7",
+      "title": "-ear- / -eer-",
+      "summary": "2x2 grid. (1) ear, (2) beard, (3) deer, (4) cheer. Highlight \"ear/eer\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_8",
+      "title": "Game Time: Sound Stomp!",
+      "summary": "A large comic-style boot stomping the ground with \"STOMP!\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_9",
+      "title": "Hero Fuel!",
+      "summary": "Comic bubbles pointing to different foods: apple, banana, orange, milk, water.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10",
+      "title": "Hero Training!",
+      "summary": "Split panel. LEFT: \"Eat an apple!\" (hero eating). RIGHT: \"Wash your hands!\" (hero washing hands).",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11",
+      "title": "Story Time!",
+      "summary": "The five animals are still tired. Coach Lion appears and points to a table full of healthy food.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12",
+      "title": "Fuel for the Gorilla!",
+      "summary": "The gorilla eating a banana. \"The gorilla eats a banana. Now he is strong!\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13",
+      "title": "Fuel for the Giraffe!",
+      "summary": "The giraffe drinking water. \"The giraffe drinks water. Now she is fast!\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_14",
+      "title": "Clean Hero!",
+      "summary": "The monkey washing its hands. \"Wash your hands, monkey! Be a clean hero!\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_15",
+      "title": "Powers Restored!",
+      "summary": "All animals standing tall and strong, glowing with energy. \"We are Healthy Heroes!\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_16",
+      "title": "Every Day!",
+      "summary": "A comic calendar. \"I eat an apple every day. I wash my hands every day.\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_17",
+      "title": "Game Time: Healthy Habits Match!",
+      "summary": "Comic panels showing good habits vs bad habits for kids to identify.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_18",
+      "title": "What do you do?",
+      "summary": "A hero asking the audience: \"Do you brush your teeth? Yes, I do!\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_19",
+      "title": "Hero Mission: Worksheet Time!",
+      "summary": "Clipboard with \"SUPERHERO TASKS\". Task A: ABC Order, Task B: Matching, Task C: Fill in the Blank.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_20",
+      "title": "Great Job Today!",
+      "summary": "The glowing emblem. Coach Lion says: \"Tomorrow, we train our speaking powers!\"",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}
