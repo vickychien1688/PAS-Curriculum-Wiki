@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "title": "Craft Day!",
+    "created": 1782670275.138,
+    "last_updated": 1782672013.084,
+    "total_slides": 10
+  },
+  "slides": [
+    {
+      "id": "slide_01_welcome",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_02_song",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_03_phonics_review1",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_04_phonics_review2",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_05_phonics_review3",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_06_craft_intro",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_07_show_tell",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_08_act_like",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_09_worksheet",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10_goodbye",
+      "state": "edited",
+      "pageNum": 10
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_01_welcome",
+      "title": "Craft Day!",
+      "summary": "Welcome slide for Day 4 Craft Day. Excited animals and craft supplies. Title: Today is Craft Day! We're making our own pets!",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_02_song",
+      "title": "Let's Sing!",
+      "summary": "Old MacDonald Had a Farm song slide. Musical notes, farm animals, microphone icon.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_03_phonics_review1",
+      "title": "Phonics Review: Short U",
+      "summary": "Review game for SG2 U7-8 word families (-ub, -ug, -up, -ud, -un, -ut). Show pictures, students guess the word.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_04_phonics_review2",
+      "title": "Phonics Review: Long A",
+      "summary": "Review game for SG3 U1-2 word families (-ake, -ape, -ave, -ame, -ane, -ate). Show pictures, students guess the word.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_05_phonics_review3",
+      "title": "Phonics Review: Long I",
+      "summary": "Review game for SG3 U3-4 word families (-ike, -ime, -ine, -ite, -ide, -ipe, -ire, -ive). Show pictures, students guess the word.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_06_craft_intro",
+      "title": "My Pet Craft!",
+      "summary": "Craft instructions: Choose an animal, draw it, color it, cut it out, make a stick puppet. Step-by-step visual guide.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_07_show_tell",
+      "title": "Show and Tell Time!",
+      "summary": "Pet Show stage with spotlights. Target sentences: My pet is a ___. It is ___. It can ___. Then act like the animal!",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_08_act_like",
+      "title": "Act Like Your Pet!",
+      "summary": "Movement activity - students act like their animal. Other students guess. Fun action poses of different animals.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_09_worksheet",
+      "title": "Worksheet Time!",
+      "summary": "Draw your pet in your handbook and write the sentences about it.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10_goodbye",
+      "title": "Great Job! See You Next Time!",
+      "summary": "Celebration slide with all the animals from the week. Get your Passport stamped! Goodbye!",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

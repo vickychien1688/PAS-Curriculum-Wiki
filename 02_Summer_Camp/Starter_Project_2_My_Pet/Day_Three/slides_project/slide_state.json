@@ -1,0 +1,350 @@
+{
+  "project_info": {
+    "title": "Welcome to the Zoo!",
+    "created": 1782665271.8,
+    "last_updated": 1782670134.396,
+    "total_slides": 31
+  },
+  "slides": [
+    {
+      "id": "slide_01_welcome",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_02_song",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_03_secret_sound",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_04_word_family_1",
+      "state": "deleted",
+      "pageNum": -1
+    },
+    {
+      "id": "slide_05_word_family_2",
+      "state": "deleted",
+      "pageNum": -1
+    },
+    {
+      "id": "slide_04_wf_ike",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_05_wf_ime",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_06_wf_ine",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_07_wf_ite",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_08_wf_ide",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_09_wf_ipe",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10_wf_ire",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11_wf_ive",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_06_blend",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_07_crack_code",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_08_phonics_game",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_09_story_cover",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_10_elephant",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_11_giraffe",
+      "state": "edited",
+      "pageNum": 17
+    },
+    {
+      "id": "slide_story_lion",
+      "state": "edited",
+      "pageNum": 18
+    },
+    {
+      "id": "slide_story_camel",
+      "state": "edited",
+      "pageNum": 19
+    },
+    {
+      "id": "slide_story_snake",
+      "state": "edited",
+      "pageNum": 20
+    },
+    {
+      "id": "slide_story_monkey",
+      "state": "edited",
+      "pageNum": 21
+    },
+    {
+      "id": "slide_story_frog",
+      "state": "edited",
+      "pageNum": 22
+    },
+    {
+      "id": "slide_12_puppy",
+      "state": "edited",
+      "pageNum": 23
+    },
+    {
+      "id": "slide_13_animals",
+      "state": "edited",
+      "pageNum": 24
+    },
+    {
+      "id": "slide_14_big_small",
+      "state": "edited",
+      "pageNum": 25
+    },
+    {
+      "id": "slide_15_zoo_box",
+      "state": "edited",
+      "pageNum": 26
+    },
+    {
+      "id": "slide_16_it_is",
+      "state": "edited",
+      "pageNum": 27
+    },
+    {
+      "id": "slide_17_my_pet",
+      "state": "edited",
+      "pageNum": 28
+    },
+    {
+      "id": "slide_18_guessing",
+      "state": "edited",
+      "pageNum": 29
+    },
+    {
+      "id": "slide_19_worksheet",
+      "state": "edited",
+      "pageNum": 30
+    },
+    {
+      "id": "slide_20_goodbye",
+      "state": "edited",
+      "pageNum": 31
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_01_welcome",
+      "title": "Welcome to the Zoo!",
+      "summary": "Welcome slide with an exciting zoo gate entrance, inviting students into today's adventure.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_02_song",
+      "title": "Let's Sing! - Let's Go to the Zoo",
+      "summary": "Song time slide with musical notes, dancing animals, and jungle vines framing the screen.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_03_secret_sound",
+      "title": "Today's Secret Sound: Magic e makes i say its name",
+      "summary": "Introduce long i sound with a magical treasure chest revealing the letter pattern.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_04_wf_ike",
+      "title": "Word Family: -ike",
+      "summary": "One word family -ike with 3 words: bike, hike, like. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_05_wf_ime",
+      "title": "Word Family: -ime",
+      "summary": "One word family -ime with 3 words: time, dime, lime. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_06_wf_ine",
+      "title": "Word Family: -ine",
+      "summary": "One word family -ine with 3 words: nine, line, pine. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_07_wf_ite",
+      "title": "Word Family: -ite",
+      "summary": "One word family -ite with 3 words: kite, bite, white. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_08_wf_ide",
+      "title": "Word Family: -ide",
+      "summary": "One word family -ide with 3 words: hide, ride, slide. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_09_wf_ipe",
+      "title": "Word Family: -ipe",
+      "summary": "One word family -ipe with 3 words: pipe, wipe, stripe. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_10_wf_ire",
+      "title": "Word Family: -ire",
+      "summary": "One word family -ire with 3 words: fire, tire, wire. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_11_wf_ive",
+      "title": "Word Family: -ive",
+      "summary": "One word family -ive with 3 words: five, hive, dive. Each word has a large clear illustration next to it."
+    },
+    {
+      "id": "slide_06_blend",
+      "title": "Let's Blend!",
+      "summary": "Blending practice with animated-style letter tiles coming together to form words.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_07_crack_code",
+      "title": "Crack the Code!",
+      "summary": "Interactive decoding game where students sound out mystery words hidden in treasure boxes.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_08_phonics_game",
+      "title": "Phonics Swat It!",
+      "summary": "Fly swatter game with word family words scattered on screen for students to find and swat.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_09_story_cover",
+      "title": "Story Time: Dear Zoo",
+      "summary": "Story cover introduction with a large mysterious crate/package from the zoo with zoo stamp and address label.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10_elephant",
+      "title": "He was too BIG!",
+      "summary": "Story scene: A huge crate opens to reveal an elephant. Text: He was too big! I sent him back.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11_giraffe",
+      "title": "She was too TALL!",
+      "summary": "Story scene: A tall crate opens to reveal a giraffe. Text: She was too tall! I sent her back.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_story_lion",
+      "title": "He was too FIERCE!",
+      "summary": "Story scene: A crate opens to reveal a fierce lion with a big mane roaring. Text: He was too fierce! I sent him back."
+    },
+    {
+      "id": "slide_story_camel",
+      "title": "He was too GRUMPY!",
+      "summary": "Story scene: A crate opens to reveal a grumpy camel with an annoyed expression. Text: He was too grumpy! I sent him back."
+    },
+    {
+      "id": "slide_story_snake",
+      "title": "He was too SCARY!",
+      "summary": "Story scene: A crate opens to reveal a long snake slithering out. Text: He was too scary! I sent him back."
+    },
+    {
+      "id": "slide_story_monkey",
+      "title": "He was too NAUGHTY!",
+      "summary": "Story scene: A crate opens to reveal a mischievous monkey causing chaos. Text: He was too naughty! I sent him back."
+    },
+    {
+      "id": "slide_story_frog",
+      "title": "He was too JUMPY!",
+      "summary": "Story scene: A crate opens to reveal a frog jumping everywhere. Text: He was too jumpy! I sent him back."
+    },
+    {
+      "id": "slide_12_puppy",
+      "title": "He was PERFECT!",
+      "summary": "Story scene: A small basket opens to reveal a puppy. Text: He was perfect! I kept him.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13_animals",
+      "title": "Animal Friends!",
+      "summary": "Word Power vocabulary slide showing all target animals with labels: bird, cat, dog, fish, monkey, mouse.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_14_big_small",
+      "title": "Big or Small?",
+      "summary": "Size comparison activity with pairs of animals showing big vs small contrast.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_15_zoo_box",
+      "title": "The Zoo Box Game!",
+      "summary": "Interactive game slide with a mystery box - students reach in, pick a card, act it out.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_16_it_is",
+      "title": "It is ___. It can ___.",
+      "summary": "Sentence pattern practice with animal pictures and fill-in-the-blank frames.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_17_my_pet",
+      "title": "My Pet Is a...",
+      "summary": "Students describe their dream pet using the full sentence structure.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_18_guessing",
+      "title": "Guess My Pet!",
+      "summary": "Guessing game where students give clues about their pet and classmates guess.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_19_worksheet",
+      "title": "Worksheet Time!",
+      "summary": "Instructions to open SP2-03 worksheet with encouraging visuals.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_20_goodbye",
+      "title": "Great Job Today!",
+      "summary": "Celebration slide with confetti, happy zoo animals waving goodbye.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "project_info": {
+    "title": "Welcome Back!",
+    "created": 1782650088.49,
+    "last_updated": 1782650521.308,
+    "total_slides": 20
+  },
+  "slides": [
+    {
+      "id": "slide_01_welcome",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_02_song",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_03_secret_sound",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_04_word_family_1",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_05_word_family_2",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_06_blend",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_07_crack_code",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_08_phonics_game",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_09_story_cover",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10_story_scene1",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11_story_scene2",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12_story_sharing",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_13_toys_vocab",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_14_toys_tpr",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_15_mystery_bag",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_16_counting",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_17_i_have",
+      "state": "edited",
+      "pageNum": 17
+    },
+    {
+      "id": "slide_18_birthday",
+      "state": "edited",
+      "pageNum": 18
+    },
+    {
+      "id": "slide_19_worksheet",
+      "state": "edited",
+      "pageNum": 19
+    },
+    {
+      "id": "slide_20_goodbye",
+      "state": "edited",
+      "pageNum": 20
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_01_welcome",
+      "title": "Welcome Back!",
+      "summary": "Welcome slide with watercolor balloons and toys theme",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_02_song",
+      "title": "Song Time!",
+      "summary": "Song slide for 'My Toys' with watercolor children and musical notes",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_03_secret_sound",
+      "title": "Today's Secret Sound",
+      "summary": "Introduction to long 'a' sound with magic 'e', showing cake, wave, game",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_04_word_family_1",
+      "title": "Word Family: -ake, -ape, -ave",
+      "summary": "Three columns showing -ake, -ape, -ave words with watercolor illustrations",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_05_word_family_2",
+      "title": "Word Family: -ame, -ane, -ate",
+      "summary": "Three columns showing -ame, -ane, -ate words with watercolor illustrations",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_06_blend",
+      "title": "Let's Blend!",
+      "summary": "Demonstration of blending c-a-k-e and other long 'a' words",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_07_crack_code",
+      "title": "Crack the Code!",
+      "summary": "Game show style phonics review with dashed letters to reveal words",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_08_phonics_game",
+      "title": "Magic E Hop!",
+      "summary": "Phonics game with long 'a' words scattered for students to identify",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_09_story_cover",
+      "title": "Story Time!",
+      "summary": "Storybook cover for 'Have a Balloon' by Sam Boughton",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10_story_scene1",
+      "title": "Have a Balloon!",
+      "summary": "Story scene of monkey giving a balloon with 'Have a balloon!' text",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11_story_scene2",
+      "title": "Thank You!",
+      "summary": "Story scene of receiving the balloon with 'Thank you!' text",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12_story_sharing",
+      "title": "Here You Are!",
+      "summary": "Story scene about sharing with 'Here you are. Thank you.' text",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13_toys_vocab",
+      "title": "Word Power: Toys!",
+      "summary": "Grid showing ball, car, kite, yo-yo, robot with labels",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_14_toys_tpr",
+      "title": "Show Me!",
+      "summary": "TPR actions for toys: bounce a ball, drive a car, fly a kite, spin a yo-yo",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_15_mystery_bag",
+      "title": "Mystery Bag!",
+      "summary": "Mystery bag game for guessing toys by touch",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_16_counting",
+      "title": "How Many?",
+      "summary": "Counting toys with numbers 1-12 and sentence frame 'I have ___ ___'",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_17_i_have",
+      "title": "I have 3 cars!",
+      "summary": "Sentence pattern practice with various toy quantities",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_18_birthday",
+      "title": "Happy Birthday!",
+      "summary": "Birthday party scene with gift-giving dialogue",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_19_worksheet",
+      "title": "Worksheet Time!",
+      "summary": "Instructions to open workbook to SP2-02",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_20_goodbye",
+      "title": "Great Job Today!",
+      "summary": "Goodbye slide with watercolor balloons and 'Day 2 Complete!' text",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

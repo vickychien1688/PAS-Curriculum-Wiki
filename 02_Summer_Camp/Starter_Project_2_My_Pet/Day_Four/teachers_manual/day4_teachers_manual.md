@@ -9,25 +9,27 @@
 - **Vocabulary:** Review animals (bird, cat, dog, fish, monkey, mouse), actions, and sizes.
 - **Phonics:** Review short 'u' and long 'a', 'i' word families from Days 1-3.
 - **Grammar/Sentences:** Present their craft using "My pet is a ___.", "It is ___.", and "It can ___."
-- **Craft:** Students create their own pet and act like it.
+- **Craft:** Students create a "Pet Habitat Box" (模仿 Dear Zoo 的包裹箱) and present their hidden pet.
 
 ## Materials Preparation
 | Item | Quantity | Notes |
 |------|----------|-------|
 | Projector/Screen | 1 | For displaying slides and videos |
-| Drawing Paper | 1 per student | Heavy cardstock or drawing paper for creating pets |
+| Brown Paper Bags or Envelopes | 1 per student | To make the "zoo crate/box" |
+| Colored Paper | Assorted | For making the flap/lid and decorating |
+| Drawing Paper | 1 per student | For drawing the pet inside |
 | Crayons/Markers | 1 set per table | For coloring |
-| Scissors & Glue | 1 set per table | For cutting out the pets |
-| Craft Sticks | 1 per student | Optional: to make stick puppets |
+| Scissors & Glue | 1 set per table | For cutting and assembling |
+| Stickers/Stamps | Assorted | "FROM THE ZOO" labels, star stickers |
 | Student Handbooks | 1 per student | Contains Day 4 presentation page |
 
 ## Time Allocation Summary
 | Section | Duration | Focus |
 |---------|----------|-------|
-| 1. Welcome & Song | 5 min | Greetings, Animal Song |
-| 2. Phonics Review | 25 min | Review SG2 U7-8 & SG3 U1-4 |
-| 3. Craft Activity | 40 min | Creating "My Pet" |
-| 4. Show & Tell | 15 min | Presentation and movement activity |
+| 1. Welcome & Song | 5 min | Greetings, Old MacDonald Had a Farm |
+| 2. Phonics Review | 20 min | Review SG2 U7-8 & SG3 U1-4 |
+| 3. Craft Activity | 40 min | Creating "Pet Habitat Box" |
+| 4. Show & Tell | 20 min | Guessing Game & Presentation |
 | 5. Clean-up & Goodbye | 5 min | Tidy up, Passport stamps |
 
 ---
@@ -38,65 +40,106 @@
 
 #### Slide 1: Craft Day!
 - **Objective:** Build excitement for the craft activity.
-- **Script:** "Hello, everyone! Today is a special day. We are going to make our own pets!"
+- **Script:** "Hello, everyone! Today is a special day — just like the zoo, we are going to send a SURPRISE pet to our friends!"
 - **Interaction:** Have students shout "Yay!"
 
 #### Slide 2: Let's Sing!
 - **Objective:** Warm up with an animal song.
-- **Script:** "Let's sing our animal song one more time!"
-- **Interaction:** Play the animal song from Day 3. Students sing and move.
+- **Script:** "Let's sing our animal song one more time! Old MacDonald had a farm..."
+- **Interaction:** Play the song. Students sing and make animal sounds.
 
-### Section 2: Phonics Review (25 min)
+### Section 2: Phonics Review (20 min)
 
-#### Slides 3-5: Phonics Game
+#### Slides 3-5: Phonics Review Game
 - **Objective:** Review the word families learned this week.
-- **Script:** "Let's play a game! Look at the picture. What is the missing sound?"
-- **Interaction:** Show pictures of words learned (bug, run, cake, bike, etc.). Have students call out the missing vowel sound or word family.
-- **Teacher Notes:** Use this time to ensure students are solid on the sounds before moving to the craft. You can use a flyswatter game or a simple board race.
+- **Script:** "Let's play a game! Look at the picture. Can you say the word?"
+- **Interaction:** Show pictures of words learned (bug, sun, cake, bike, etc.). Students call out the word.
+- **Game Options:**
+  - **Flyswatter Game:** Two students race to slap the correct word on the board.
+  - **Board Race:** Teams race to write the word family ending.
+  - **Monster Stomp:** Students stomp when they hear a word from the target family.
 
-### Section 3: Craft Activity (40 min)
+### Section 3: Craft Activity — Pet Habitat Box (40 min)
 
-#### Slide 6: My Pet Craft
-- **Objective:** Explain the craft activity.
-- **Script:** "Today, you will make your very own pet! What animal do you want? A dog? A cat? A fish?"
-- **Interaction:** Ask a few students what pet they want to make.
+#### Slide 6: My Pet Habitat Box!
+- **Objective:** Explain the craft activity — making a Dear Zoo-style box with a hidden pet inside.
+- **Script:** "Remember Dear Zoo? The zoo sent animals in boxes! Today, YOU are the zoo! You will make a box and hide YOUR pet inside. Your friends will try to guess what's inside!"
+- **Interaction:** Show the example. Ask: "What pet will YOU hide?"
 
 #### Crafting Steps:
-1. **Choose & Draw:** Students choose an animal and draw it on the heavy paper.
-2. **Color:** Students color their pets using crayons or markers. Encourage them to be creative (e.g., a blue dog, a green cat).
-3. **Cut (Optional):** If appropriate for the class level, have students carefully cut out their pets.
-4. **Assemble:** Students can tape or glue their pet to a craft stick to make a puppet.
 
-- **Teacher Notes:** Circulate and ask questions while they work. "What is it?" "Is it big or small?" "What color is it?"
+**Step 1: Make the Box (10 min)**
+- Give each student a brown paper bag or large envelope.
+- Students fold the top to create a "flap" (like a crate lid that opens).
+- Decorate the outside:
+  - Write "FROM THE ZOO" or "DO NOT OPEN!" on the front.
+  - Draw lines to look like wooden crate slats.
+  - Add stickers or stamps.
+- **Script:** "This is your zoo box! Make it look like a real crate. Write 'FROM THE ZOO' on the front!"
 
-### Section 4: Show & Tell (15 min)
+**Step 2: Draw Your Pet (15 min)**
+- Students choose an animal and draw it on a separate piece of paper.
+- Color it in — encourage creativity (a purple cat? a rainbow fish?).
+- Cut out the animal shape.
+- **Script:** "Now draw your pet! What animal is it? Is it big or small? What color? Be creative!"
 
-#### Slide 7: Show and Tell Time!
-- **Objective:** Practice speaking and movement.
-- **Script:** "It's time for the Pet Show! Bring your pet to the front."
-- **Interaction:** Invite students to the front of the class one by one or in small groups.
+**Step 3: Hide Your Pet (5 min)**
+- Students place their cut-out pet INSIDE the box/bag.
+- Close the flap.
+- **Script:** "Shhh! Put your pet inside the box. Close the lid. Don't let anyone see!"
 
-#### Presentation & Movement:
-- **Target Sentences:** 
-  - "My pet is a [cat]."
-  - "It is [small]."
-  - "It can [jump]."
-- **Movement Activity:** After presenting, the student must act like their pet (e.g., crawl like a cat, jump like a dog, swim like a fish) and make the animal sound. The rest of the class can guess the animal if they haven't said it yet, or just cheer them on.
+**Step 4: Add Clues (10 min)**
+- On the OUTSIDE of the box, students draw or write 2-3 clues:
+  - Size clue: Draw a big or small symbol
+  - Action clue: Draw what it can do (e.g., wings = fly, legs = run)
+  - Optional: Write "It is ___." or "It can ___." on the outside
+- **Script:** "Now add some clues on the outside! Can your friends guess what's inside?"
 
-#### Slide 8: Worksheet Time (Day 4 Page)
-- **Objective:** Record the craft.
-- **Script:** "Let's draw our pet in our handbook!"
-- **Interaction:** Students draw their finished craft on the Day 4 page and trace/write the sentences to describe it.
-- **Teacher Notes:** Take a photo of each student with their craft to stick in the handbook later if possible.
+- **Teacher Notes:** Circulate and ask questions: "What is it?" "Is it big or small?" "What can it do?" Help students write clues if needed.
+
+### Section 4: Show & Tell — The Pet Reveal! (20 min)
+
+#### Slide 7: The Pet Show!
+- **Objective:** Interactive guessing game + presentation.
+- **Script:** "It's time for the Pet Show! Bring your box to the front. Your friends will try to guess your pet!"
+
+#### Show & Tell Flow:
+1. **Student holds up their box** (flap closed).
+2. **Class asks questions:** "Is it big?" "Is it small?" "Can it fly?" "Can it swim?"
+3. **Student gives clues:** "It is small." "It can jump."
+4. **Class guesses:** "Is it a frog?" "Is it a cat?"
+5. **The Big Reveal:** Student opens the flap and shows the pet!
+6. **Student says:** "My pet is a [dog]! It is [big]. It can [run]."
+7. **Everyone shouts together:** "He's PERFECT!" 🎉 (just like Dear Zoo!)
+
+#### Slide 8: Act Like Your Pet!
+- **Objective:** Movement activity after the reveal.
+- **After revealing their pet,** the student must ACT like their animal:
+  - Dog → run around and bark
+  - Cat → crawl and meow
+  - Bird → flap arms and tweet
+  - Fish → swim motion
+  - Monkey → jump and scratch
+  - Frog → hop!
+- The rest of the class copies the movement together.
+
+#### Slide 9: Worksheet Time
+- **Objective:** Record the craft in the handbook.
+- **Script:** "Let's draw our pet box in our handbook!"
+- **Interaction:** Students draw their box and pet on the Day 4 page. Write/trace the sentences.
 
 ### Section 5: Clean-up & Goodbye (5 min)
 
-#### Slide 9: Clean Up!
-- **Objective:** Teach responsibility.
-- **Script:** "Time to clean up! Put away the crayons and paper."
-- **Interaction:** Play a clean-up song. Students tidy their desks.
-
-#### Slide 10: Goodbye!
+#### Slide 10: Great Job! See You Next Time!
 - **Objective:** Close the project positively.
-- **Script:** "You all did a great job! Get your Passport stamped. See you next time!"
-- **Interaction:** Stamp the students' Learning Passports. Say goodbye.
+- **Script:** "You all did an amazing job this week! You learned about animals, actions, and phonics. Get your Passport stamped! See you next time!"
+- **Interaction:** Stamp the students' Learning Passports. Students take their Pet Habitat Box home.
+
+---
+
+## Assessment Notes
+- Can the student name their pet animal in English?
+- Can the student use "My pet is a ___" correctly?
+- Can the student describe their pet using "It is ___" and "It can ___"?
+- Did the student participate in the guessing game (asking/answering questions)?
+- Did the student act out their animal's movement?
