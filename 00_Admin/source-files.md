@@ -20,6 +20,7 @@
 | Dropbox Level 1 style folder | `https://www.dropbox.com/home/英文資料/英文學習單/Level%201?di=left_nav_browse` | Browser-visible | Used as style source. File list partially indexed from Safari. |
 | Google Drive EOW1 worksheet folder | `https://drive.google.com/drive/folders/1UDwYeOC_fugQBkpt1fwSMUZWcSMwTxjh` | Connector-readable | Official EOW worksheet folder indexed by unit; useful but less aligned with desired local style than Dropbox. |
 | Google Drive EOW2-4 source folders | See `00_Admin/google-drive-levels-2-4.md` | Connector-readable | Official EOW teacher manuals, worksheets, answer keys, and audio folders indexed. |
+| Hand in Hand Starter Scope and Sequence | Textbook pages 30–31 (screenshot extracted) | Extracted | 12 units + 6 School Links. Full scope and sequence digitized to `01_EOW/Hand_in_Hand_Starter/scope-and-sequence.md`. |
 
 ## Missing Sources
 

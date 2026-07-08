@@ -19,6 +19,7 @@ Read this page first when looking for source material or deciding where new mate
 | Need | Go to | Wiki page |
 |---|---|---|
 | Official scope and sequence | Google Drive teacher manuals; EOW1 already extracted | [EOW1 scope](../01_EOW/EOW1/scope-and-sequence.md), [EOW2](../01_EOW/EOW2/source-map.md) / [EOW3](../01_EOW/EOW3/source-map.md) / [EOW4](../01_EOW/EOW4/source-map.md) source maps |
+| Starter scope and sequence | Hand in Hand Starter textbook | [Hand in Hand Starter](../01_EOW/Hand_in_Hand_Starter/scope-and-sequence.md) |
 | Official worksheets / answer keys / audio | Google Drive unit folders | [Google Drive Levels 2-4](google-drive-levels-2-4.md), [Drive EOW2-4 index](../07_Style_Sources/Google_Drive_EOW2-4/index.md) |
 | Reading Base story text or edits | Canva `r-level X` folders | [Reading Base Canva index](../03_Reading_Base/canva-index.md) |
 | Grammar Box content or edits | Canva `Gramma Box` numbered folders | [Grammar Box Canva index](../02_Grammar_Box/canva-index.md) |
@@ -30,6 +31,7 @@ Read this page first when looking for source material or deciding where new mate
 
 | Level | EOW official scope | Reading Base (Canva) | Grammar Box (Canva) | Style |
 |---|---|---|---|---|
+| Starter | [Hand in Hand Starter](../01_EOW/Hand_in_Hand_Starter/scope-and-sequence.md) | N/A | N/A | Same as Level 1 |
 | 1 | [EOW1 unit pages](../01_EOW/EOW1/scope-and-sequence.md) | [`r-level 1`](https://www.canva.com/folder/FAFueD7HCEM) | [`Gramma Box/1`](https://www.canva.com/folder/FAFxAtDeNqI) | [Dropbox Level 1](../07_Style_Sources/Dropbox_Level1/index.md) |
 | 2 | [EOW2 source map](../01_EOW/EOW2/source-map.md) | [`r-level 2`](https://www.canva.com/folder/FAFueFFNuLA) | [`Gramma Box/2`](https://www.canva.com/folder/FAFxAj5B3LA) | Dropbox Level 2 index TBD |
 | 3 | [EOW3 source map](../01_EOW/EOW3/source-map.md) | [`r-level 3`](https://www.canva.com/folder/FAFueGCSlZA) | [`Gramma Box/3`](https://www.canva.com/folder/FAFxAljbpeU) | Dropbox Level 3 index TBD |
