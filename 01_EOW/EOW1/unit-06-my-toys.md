@@ -9,8 +9,8 @@
 | Vocabulary 1 | ball, bike, car, kite, top, train, truck |
 | Vocabulary 2 | game, doll, puzzle, robot, teddy bear |
 | Vocabulary Strategy | Compound words |
-| Grammar 1 | Simple present of want: I / you / he, she |
-| Grammar 2 | Questions with this and these |
+| Grammar 1 | **Do and Does** — `Do they/you/I/we want ...?`; `Does he/she want ...?` |
+| Grammar 2 | **Is and Are** — `Is this/that ...?`; `Are these/those ...?`; `it`／`they` short answers |
 | Reading | We Love Teddy Bears |
 | Reading Strategy | Visualize |
 | Value | Share your toys. |
@@ -19,12 +19,12 @@
 
 | Material | Status |
 |---|---|
-| Grammar Box Level 1 Unit 5-6 | Available; see `02_Grammar_Box/Level1/unit-05-06.md`. |
+| EOW1 Grammar alignment | Verified; see [Unit 6](../../02_Grammar_Box/Level1/eow1-grammar-alignment.md#unit-6) and the [source PDF](../../02_Grammar_Box/Level1/sources/EOW1-Grammar.pdf). |
 | Reading Base | Available; see `03_Reading_Base/eow1-unit-06.md`. |
 | Worksheet examples | DATA NEEDED |
 
 ## Generation Boundaries
 
 - Toy nouns should stay inside the official list.
-- `want/wants`, `this/these`, and simple possession can be practiced.
+- Grammar 1 uses `Do ... want?`／`Does ... want?`; Grammar 2 uses `this/that/these/those` with the matching `is/are` and `it/they` answers.
 - Avoid advanced possessive adjectives unless it is a review worksheet.

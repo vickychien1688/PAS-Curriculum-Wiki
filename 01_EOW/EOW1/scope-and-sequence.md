@@ -15,6 +15,10 @@ Source: `/Users/chienhsiuting/Downloads/EOW1-課本內容使用手冊.pdf`, PDF 
 | 7 | My Body | Health and Physical Education, Social Studies | Sculptures Are Fun | Be clean. |
 | 8 | Good Food | Health and Physical Education, Social Studies | Fun Food | Eat good food. |
 
+## Grammar Alignment
+
+Use the [EOW1 Grammar Alignment](../../02_Grammar_Box/Level1/eow1-grammar-alignment.md) index for the verified Unit 1–8 lesson map, core sentence patterns, usage notes, and source page ranges. The underlying PDF was confirmed by the user on 2026-08-17 as fully aligned with EOW 1.[1]
+
 ## Unit Files
 
 - [Unit 1 - My Classroom](unit-01-my-classroom.md)
@@ -28,5 +32,9 @@ Source: `/Users/chienhsiuting/Downloads/EOW1-課本內容使用手冊.pdf`, PDF 
 
 ## Generator Rule
 
-When generating materials for EOW1, use only the vocabulary, grammar, reading, and value assigned to the selected unit unless the user explicitly requests review or spiral review.
+When generating materials for EOW1, use only the vocabulary, grammar, reading, and value assigned to the selected unit unless the user explicitly requests review or spiral review. Resolve exact grammar patterns through the [EOW1 Grammar Alignment](../../02_Grammar_Box/Level1/eow1-grammar-alignment.md) page.
+
+## References
+
+[1]: ../../02_Grammar_Box/Level1/sources/EOW1-Grammar.pdf "EOW1 Grammar PDF"
 

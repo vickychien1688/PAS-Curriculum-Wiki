@@ -9,8 +9,8 @@
 | Vocabulary 1 | brother, father, grandfather, grandmother, mother, parents, sister |
 | Vocabulary 2 | big, old, short, small, tall, young |
 | Vocabulary Strategy | Compound words; antonyms |
-| Grammar 1 | `to have` |
-| Grammar 2 | He / She and questions with who |
+| Grammar 1 | **Present Simple: Have** — `Do you have ...?`; `How many ... do you have?`; `I have ...` |
+| Grammar 2 | **Who** — `Who’s he/she?`; `He’s/She’s my ...`; simple descriptions |
 | Reading | Families Are Different |
 | Reading Strategy | Make connections to personal experience |
 | Value | Love your family. |
@@ -19,12 +19,12 @@
 
 | Material | Status |
 |---|---|
-| Grammar Box Level 1 Unit 3-4 | Available; see `02_Grammar_Box/Level1/unit-03-04.md`. |
+| EOW1 Grammar alignment | Verified; see [Unit 3](../../02_Grammar_Box/Level1/eow1-grammar-alignment.md#unit-3) and the [source PDF](../../02_Grammar_Box/Level1/sources/EOW1-Grammar.pdf). |
 | Reading Base | Available; see `03_Reading_Base/eow1-unit-03.md`. |
 | Worksheet examples | DATA NEEDED |
 
 ## Generation Boundaries
 
 - Use family nouns and simple adjectives from this unit.
-- He/She and Who questions are allowed.
+- Grammar must include `Do you have ...?`, `How many ... do you have?`, and `Who’s he/she?` at the source level.
 - Avoid unrelated jobs, places, or advanced possessive forms unless marked as review.

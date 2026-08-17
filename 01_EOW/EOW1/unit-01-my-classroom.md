@@ -9,8 +9,8 @@
 | Vocabulary 1 | clock, computer, crayon, map, paper, pen, pencil |
 | Vocabulary 2 | book, chair, desk, eraser, picture |
 | Vocabulary Strategy | Alphabetical order |
-| Grammar 1 | Yes / No questions with `it's` |
-| Grammar 2 | What and How many |
+| Grammar 1 | **Be Verb: Is** — `Is it a/an ...?`; `Yes, it is.`／`No, it isn’t.`; `It’s ...` |
+| Grammar 2 | **What, What Color, and How Many** — `What is it?`; `What color is it?`; `How many ...?` |
 | Reading | Drawing and Writing |
 | Reading Strategy | Compare and contrast |
 | Value | Work hard in school. |
@@ -19,7 +19,7 @@
 
 | Material | Status |
 |---|---|
-| Grammar Box Level 1 Unit 1-2 | Available, image-based PDF; topics indexed in `02_Grammar_Box/Level1/unit-01-02.md`. |
+| EOW1 Grammar alignment | Verified; see [Unit 1](../../02_Grammar_Box/Level1/eow1-grammar-alignment.md#unit-1) and the [source PDF](../../02_Grammar_Box/Level1/sources/EOW1-Grammar.pdf). |
 | Reading Base | Available; see `03_Reading_Base/eow1-unit-01.md`. |
 | Worksheet examples | DATA NEEDED |
 

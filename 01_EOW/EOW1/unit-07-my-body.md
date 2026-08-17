@@ -9,8 +9,8 @@
 | Vocabulary 1 | ear, eye, foot, hair, hand, head, leg, mouth, nose |
 | Vocabulary 2 | jump, long hair, run, strong arms, walk |
 | Vocabulary Strategy | Using a dictionary |
-| Grammar 1 | Possessive adjectives |
-| Grammar 2 | Ability with can |
+| Grammar 1 | **My, Your, His, and Her** — possessive adjectives with `hair is`／`eyes are` and `have/has` |
+| Grammar 2 | **Can** — `Can you/he/she ...?`; `Yes, ... can.`／`No, ... can’t.` |
 | Reading | Sculptures Are Fun |
 | Reading Strategy | Identify main idea and details |
 | Value | Be clean. |
@@ -19,7 +19,7 @@
 
 | Material | Status |
 |---|---|
-| Grammar Box Level 1 Unit 7-8 | Available; see `02_Grammar_Box/Level1/unit-07-08.md`. |
+| EOW1 Grammar alignment | Verified; see [Unit 7](../../02_Grammar_Box/Level1/eow1-grammar-alignment.md#unit-7) and the [source PDF](../../02_Grammar_Box/Level1/sources/EOW1-Grammar.pdf). |
 | Reading Base | DATA NEEDED |
 | Worksheet examples | DATA NEEDED |
 

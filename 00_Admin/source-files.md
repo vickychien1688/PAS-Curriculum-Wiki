@@ -5,6 +5,7 @@
 | Source | Local path | Status | Notes |
 |---|---|---|---|
 | EOW1 textbook content manual | `/Users/chienhsiuting/Downloads/EOW1-課本內容使用手冊.pdf` | Extractable | 232 pages. Scope and Sequence is available on pages 2-3 of the PDF. |
+| EOW1 Grammar alignment | `02_Grammar_Box/Level1/sources/EOW1-Grammar.pdf` | **User-confirmed alignment source** | 32 PDF pages covering Units 1–8 and 16 lessons. Searchable index: `02_Grammar_Box/Level1/eow1-grammar-alignment.md`. |
 | Grammar Box Level 1 Unit 1-2 | `/Users/chienhsiuting/Downloads/grammar L1-U1.2 （可列印）黑白單面.pdf` | Image-based PDF | Needs OCR or manual verification. Visual review completed for topic index. |
 | Grammar Box Level 1 Unit 3-4 | `/Users/chienhsiuting/Downloads/level1-unit3-4 .pdf` | Extractable with cleanup | Text has heavy letter spacing. Topics indexed. |
 | Grammar Box Level 1 Unit 5-6 | `/Users/chienhsiuting/Downloads/Level 1 GBunit5-6.pdf` | Extractable with cleanup | Text has heavy letter spacing. Topics indexed. |
@@ -39,4 +40,4 @@
 - Reading Base PDFs expose extractable text, but most pages use letter-spaced text. The story index is usable now; exact story text should be proofread against Canva before printing or quoting.
 - Reading Base Unit 6 contains additional pages after the listed Story 4 range. Extracted text suggests some pages may belong to Unit 5 clothing content, so this needs manual source confirmation.
 - Dropbox contains the preferred worksheet style samples. Current index is based on visible browser file names and thumbnails, not full downloaded files.
-- Canva is now the primary source for Reading Base and Grammar Box. Local PDFs should be treated as exports or backups unless the user says otherwise.
+- Canva remains the primary editable source for Reading Base and Grammar Box designs. The user-confirmed `02_Grammar_Box/Level1/sources/EOW1-Grammar.pdf` is the authoritative EOW1 grammar alignment reference; other local PDFs remain exports or backups unless the user says otherwise.
