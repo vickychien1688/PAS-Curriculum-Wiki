@@ -4,9 +4,13 @@ Status: Canva master source identified; exported PDF story maps partially availa
 
 Reading Base lives in Canva. Local PDF exports are useful for extraction, but Canva should be treated as the editable source of truth.
 
-## Editing Standard
+## Editing Standards
 
-Each Reading Base unit contains four stories. Design and edit the stories in the following order:
+Reading Base writing and structure vary by level. Read the [level-specific editing standards](editing-standards-by-level.md) before planning or revising a story.
+
+Do not assume that every level uses the same story count, page count, language density, humor, or activity format. Confirm the approved plan for the selected level and unit first.
+
+When a unit uses the four-story structure, follow this alignment:
 
 | Story | Required alignment |
 |---|---|
@@ -15,7 +19,7 @@ Each Reading Base unit contains four stories. Design and edit the stories in the
 | Story 3 | The unit's Reading section |
 | Story 4 | The unit's Value section |
 
-### Story Content Principles
+### Shared Story Content Principles
 
 Each story must:
 
@@ -28,13 +32,12 @@ Whichever approach is used, the story must stay inside the selected EOW level an
 
 Before finalizing a Reading Base unit, confirm that:
 
-- all four stories follow the required alignment order;
-- Story 1 uses Vocabulary 1 and Grammar 1;
-- Story 2 uses Vocabulary 2 and Grammar 2;
-- Story 3 supports the unit's Reading section;
-- Story 4 communicates the unit's Value focus;
-- each story is engaging for children or clearly based on an age-appropriate classic adaptation; and
-- all language and content remain within the selected level and unit.
+- the story count and page format match the selected level's approved plan;
+- each story or chapter has a documented source alignment;
+- a four-story unit follows the required alignment order;
+- each story is engaging for children or clearly based on an age-appropriate classic adaptation;
+- all language and content remain within the selected level and unit;
+- the story follows the level-specific standards for language, tone, structure, and activity design.
 
 ## Current Index
 
@@ -55,15 +58,28 @@ For each Reading Base story, add:
 level:
 unit:
 story_number:
+story_count_for_unit:
 story_title:
+approval_status:
+approved_version:
 pages:
+word_count:
+point_of_view:
+genre:
+tone:
 source_alignment:
 target_vocabulary:
 target_grammar:
-reading_skill:
+spiral_review_language:
+reading_focus:
 value_focus:
 classic_adaptation_source:
+story_hook:
+central_problem:
+resolution:
+activity_type:
 worksheet_opportunities:
+important_revision_decisions:
 notes:
 ```
 
