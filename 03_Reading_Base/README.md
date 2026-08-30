@@ -4,6 +4,38 @@ Status: Canva master source identified; exported PDF story maps partially availa
 
 Reading Base lives in Canva. Local PDF exports are useful for extraction, but Canva should be treated as the editable source of truth.
 
+## Editing Standard
+
+Each Reading Base unit contains four stories. Design and edit the stories in the following order:
+
+| Story | Required alignment |
+|---|---|
+| Story 1 | Vocabulary 1 + Grammar 1 |
+| Story 2 | Vocabulary 2 + Grammar 2 |
+| Story 3 | The unit's Reading section |
+| Story 4 | The unit's Value section |
+
+### Story Content Principles
+
+Each story must:
+
+- be interesting and engaging enough to motivate children to learn; or
+- be an age-appropriate adaptation inspired by a classic work.
+
+Whichever approach is used, the story must stay inside the selected EOW level and unit. Do not introduce vocabulary, grammar, reading content, or values outside the mapped scope. If required source content is missing, mark it as `DATA NEEDED` instead of inventing it.
+
+### Editing Checklist
+
+Before finalizing a Reading Base unit, confirm that:
+
+- all four stories follow the required alignment order;
+- Story 1 uses Vocabulary 1 and Grammar 1;
+- Story 2 uses Vocabulary 2 and Grammar 2;
+- Story 3 supports the unit's Reading section;
+- Story 4 communicates the unit's Value focus;
+- each story is engaging for children or clearly based on an age-appropriate classic adaptation; and
+- all language and content remain within the selected level and unit.
+
 ## Current Index
 
 - [Canva Reading Base Index](canva-index.md)
@@ -22,11 +54,15 @@ For each Reading Base story, add:
 ```yaml
 level:
 unit:
+story_number:
 story_title:
 pages:
+source_alignment:
 target_vocabulary:
 target_grammar:
 reading_skill:
+value_focus:
+classic_adaptation_source:
 worksheet_opportunities:
 notes:
 ```
