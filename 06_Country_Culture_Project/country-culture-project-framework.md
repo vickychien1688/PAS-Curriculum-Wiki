@@ -81,16 +81,48 @@ Formula:
 
 **Current Learning + Prior Learning + New Cultural Context → Retrieval and Transfer**
 
+#### Critical rule: Curriculum Scope ≠ Current Student Mastery
+
+A vocabulary item, sentence pattern, phonics target, or grammar point appearing somewhere in a level's full-year textbook/scope does **not** mean students have already learned it at the time of the Country Culture Project.
+
+Before assigning language to any level, determine:
+1. the students' current position in the curriculum;
+2. what has actually been completed before the project begins;
+3. what is currently being introduced;
+4. what can legitimately be treated as prior learning / spiral review.
+
+Do not use later-unit language merely because it exists in the same textbook.
+
+If the current learning position is unknown, mark it `CURRENT POSITION NEEDED` rather than assuming mastery.
+
 ### Step 5 — Differentiate by Level
 
 The cultural goal may be shared across levels, but the language expectation must differ.
 
 General progression:
-- Starter / early levels: recognition, high-frequency vocabulary, familiar oral patterns
-- Developing levels: sentence building, Q&A, description, guided comprehension
-- Higher levels: short reading, explanation, comparison, opinion, discussion, transfer
+- **Starter: Look & Listen** — visual recognition, listening exposure, pointing/choosing, repeating selected oral words; no assumption of independent word reading or sentence production
+- **Level 1: Know & Say** — simple vocabulary and familiar learned sentence patterns
+- **Level 2: See & Describe** — simple sentence building, Q&A, and description
+- **Level 3: Know & Explain** — short reading, guided comprehension, and basic explanation
+- **Level 4: Read & Connect** — cultural reading, language application, connection and response
+- **Level 5: Think & Communicate** — comparison, reasoning, opinion, discussion, and communication
 
 Differentiation must not simply mean "more words and more questions" for older students.
+
+#### Starter guardrails
+
+Starter must be aligned to the students' **actual current literacy stage**, not to the full Hand in Hand Starter scope.
+
+For a cohort that has only recently begun learning the alphabet (e.g. A, B, C):
+- prioritize pictures, listening, pointing, choosing, coloring, and oral repetition;
+- treat country/culture words primarily as oral exposure;
+- do not require independent reading of words such as `Germany`, `flag`, or `castle`;
+- do not require spelling those words;
+- do not require full-sentence production unless that sentence pattern has actually been learned and is appropriate for the cohort;
+- tracing may be used only when developmentally and instructionally appropriate;
+- a Starter sheet may function as an **activity sheet** rather than a conventional English worksheet.
+
+A successful Starter outcome may simply be that a child recognizes a German flag, associates it with Germany, and understands or repeats a small number of highly concrete oral words.
 
 ### Step 6 — Protect Teacher Autonomy
 
@@ -149,9 +181,10 @@ PAS Wiki remains the source of truth for scope, mappings, specifications, and al
 
 When generating language-aligned materials:
 1. Read the relevant PAS curriculum source/alignment first.
-2. Use current or previously learned language appropriate to that level.
-3. Mark missing curriculum information as `DATA NEEDED` rather than inventing an alignment.
-4. Treat cultural facts as content to be verified separately from PAS language scope.
+2. Confirm the cohort's current learning position; do not equate full-book scope with current mastery.
+3. Use current or genuinely previously learned language appropriate to that level.
+4. Mark missing curriculum information as `DATA NEEDED` and unknown current progress as `CURRENT POSITION NEEDED` rather than inventing an alignment.
+5. Treat cultural facts as content to be verified separately from PAS language scope.
 
 ## 5. Required Artifacts for Each Country
 
@@ -173,6 +206,10 @@ Do not:
 - turn the project into an additional formal subject;
 - prescribe every teacher's lesson minute-by-minute;
 - force only the current grammar point when prior learning fits naturally;
+- assume students know everything listed anywhere in their level's textbook;
+- assign later-unit language that students have not yet learned;
+- treat Starter as a simplified Level 1;
+- require early Starter learners to independently read/write culture vocabulary beyond their literacy stage;
 - make higher levels harder only by adding more questions;
 - create resources before defining cultural and language goals;
 - copy the Germany topics mechanically to future countries.
@@ -180,6 +217,8 @@ Do not:
 ## 7. Scaling Rule for Codex / Other Agents
 
 When asked to create a new Country Culture Project, an agent must first read this framework and the relevant PAS curriculum sources.
+
+Before proposing language alignment, the agent must establish the students' **current curriculum position and completed prior scope**. A full-year scope document is not evidence that all listed language has already been learned.
 
 The agent should propose the five cultural learning goals **before** producing worksheets or production assets.
 
