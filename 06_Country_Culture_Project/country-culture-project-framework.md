@@ -109,6 +109,19 @@ General progression:
 
 Differentiation must not simply mean "more words and more questions" for older students.
 
+#### Language accessibility rule for higher levels
+
+Higher level does **not** mean unnecessarily difficult vocabulary, longer sentences, or dense academic prose.
+
+Increase **thinking complexity before language complexity**.
+
+For Level 4 and Level 5:
+- keep cultural texts concise and readable;
+- prefer familiar words and short-to-medium sentences where possible;
+- introduce only a small number of genuinely useful cultural words;
+- increase challenge through main idea, evidence, comparison, inference, reasoning, choice, and opinion;
+- do not make a worksheet look advanced merely by filling it with long or abstract words.
+
 #### Starter guardrails
 
 Starter must be aligned to the students' **actual current literacy stage**, not to the full Hand in Hand Starter scope.
@@ -136,7 +149,87 @@ Teachers may choose presentation methods appropriate to their students, includin
 
 Suggested activities are optional unless explicitly marked required for a shared event.
 
-### Step 7 — Provide Weekly Resource Support
+### Step 7 — Design Worksheets as Supported Application
+
+Country Culture worksheets must not become culture tests or blank-page writing tasks. They should help students move from cultural input to successful English output.
+
+Core worksheet principles:
+
+> **Visual-first + Language-accessible + Scaffolded output + PAS-verified language**
+
+#### Visual-first rule
+
+Meaningful visuals are part of the learning design, not decoration.
+
+Every worksheet should allow students to understand the week's theme before reading a large amount of text. Use maps, flags, cultural images, icons, illustrated choices, visual fact cards, diagrams, or picture-supported tasks where appropriate.
+
+Younger levels should be especially visual. Higher levels may contain more reading, but should not suddenly become text-heavy examination sheets.
+
+#### Scaffolded output rule
+
+Do not move students directly from comprehension to an open blank line.
+
+Preferred progression:
+
+**Choose → Build → Complete → Write**
+
+Possible scaffolds include:
+- picture choices;
+- word banks;
+- sentence blocks;
+- matching;
+- multiple choice;
+- sentence starters;
+- idea banks;
+- reason banks;
+- structured comparison frames;
+- guided writing frames.
+
+Scaffolding may gradually reduce across the five-week project:
+- Week 1: heavy support
+- Week 2: supported
+- Week 3: guided
+- Week 4: semi-independent
+- Week 5: application
+
+This progression is a guideline, not a requirement to force independent writing where the level is not ready.
+
+#### My Country Writing rule
+
+Where developmentally appropriate, each weekly worksheet should end with a small **My [Country] Writing** application section.
+
+The writing section must:
+1. connect primarily to the level's current Unit 1 grammar and/or verified prior grammar suitable for spiral review;
+2. use only sentence patterns that can be traced to PAS curriculum sources or verified prior learning;
+3. provide appropriate scaffolding before asking for independent output;
+4. use the week's cultural content as the meaning/context for the writing;
+5. remain short enough that it supports the culture project rather than turning it into an additional grammar worksheet.
+
+Starter is exempt from formal writing. Starter may finish with visual recognition, choosing, coloring, tracing when appropriate, or oral repetition.
+
+For other levels, the intended progression is not "write more because you are older." It is:
+
+**Recognize → Retrieve known language → Build meaning → Produce a successful sentence/response**
+
+Examples of scaffold types by level:
+- Level 1: picture + word bank + familiar sentence frame
+- Level 2: sentence blocks + choice + complete a sentence
+- Level 3: short input + evidence choice + guided sentence
+- Level 4: comparison/idea bank + structured response
+- Level 5: idea bank + sentence starter + reason bank, with limited independent extension
+
+#### Grammar traceability requirement
+
+Every writing pattern used in a Country Culture worksheet must be traceable to one of:
+- the current PAS unit grammar;
+- a previously completed PAS grammar target;
+- a verified prior sentence pattern appropriate for spiral review.
+
+Do **not** invent a convenient grammar structure simply because it fits the cultural topic.
+
+For production specifications, record the source of the writing pattern (level, unit, grammar/pattern) so that Codex or another production agent can audit it before generating assets.
+
+### Step 8 — Provide Weekly Resource Support
 
 PAS may publish an optional weekly resource pack aligned to the weekly goal. Possible resources include:
 - PDF worksheet
@@ -153,7 +246,7 @@ Teachers may:
 
 Resources support teachers; they do not dictate instruction.
 
-### Step 8 — One Main Experience
+### Step 9 — One Main Experience
 
 Each 5-week project should normally contain only one major shared experiential event.
 
@@ -161,7 +254,7 @@ Where possible, choose an experience that cannot be replicated well by a workshe
 
 The final experience should recycle earlier weeks rather than introduce an entirely separate body of content.
 
-### Step 9 — Pilot Review
+### Step 10 — Pilot Review
 
 After the pilot, record:
 - which resources teachers actually used;
@@ -183,8 +276,9 @@ When generating language-aligned materials:
 1. Read the relevant PAS curriculum source/alignment first.
 2. Confirm the cohort's current learning position; do not equate full-book scope with current mastery.
 3. Use current or genuinely previously learned language appropriate to that level.
-4. Mark missing curriculum information as `DATA NEEDED` and unknown current progress as `CURRENT POSITION NEEDED` rather than inventing an alignment.
-5. Treat cultural facts as content to be verified separately from PAS language scope.
+4. For every writing frame/pattern, record its PAS grammar source or verified prior-learning source.
+5. Mark missing curriculum information as `DATA NEEDED` and unknown current progress as `CURRENT POSITION NEEDED` rather than inventing an alignment.
+6. Treat cultural facts as content to be verified separately from PAS language scope.
 
 ## 5. Required Artifacts for Each Country
 
@@ -196,6 +290,8 @@ Each country project should eventually contain:
 5. Weekly Resource Specifications
 6. Main Event Specification
 7. Post-Pilot Review
+
+Weekly Resource Specifications should include the grammar trace for any My Country Writing section.
 
 ## 6. Anti-Patterns
 
@@ -210,7 +306,10 @@ Do not:
 - assign later-unit language that students have not yet learned;
 - treat Starter as a simplified Level 1;
 - require early Starter learners to independently read/write culture vocabulary beyond their literacy stage;
-- make higher levels harder only by adding more questions;
+- make higher levels harder only by adding longer words, denser texts, or more questions;
+- give students large open-ended writing blanks before providing language scaffolds;
+- invent writing sentence patterns that cannot be traced to PAS current/prior learning;
+- create text-heavy worksheets with visuals used only as decoration;
 - create resources before defining cultural and language goals;
 - copy the Germany topics mechanically to future countries.
 
@@ -219,6 +318,8 @@ Do not:
 When asked to create a new Country Culture Project, an agent must first read this framework and the relevant PAS curriculum sources.
 
 Before proposing language alignment, the agent must establish the students' **current curriculum position and completed prior scope**. A full-year scope document is not evidence that all listed language has already been learned.
+
+Before generating a worksheet, the agent must identify and record the PAS source for every writing sentence pattern. If the pattern cannot be verified, it must not be used as required student output.
 
 The agent should propose the five cultural learning goals **before** producing worksheets or production assets.
 
