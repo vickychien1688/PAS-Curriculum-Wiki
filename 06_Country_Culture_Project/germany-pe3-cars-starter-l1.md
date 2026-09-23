@@ -28,6 +28,8 @@ Shared close: These cars are from Germany!
 
 ## Level 1 Starter-derived sample — pending review
 
+Latest discussion: Vicky proposes numbering all ten logos 1–10 in the existing row order and recording a question/answer for each. The recommended script asks Is it from Germany? and uses Yes, it is. for German brands; otherwise No, it isn't. followed by It's from Japan. or It's from the United States. Brand names can remain teacher reference labels rather than additional spoken targets. This wording is a proposal, not a confirmed or recorded lesson. Numbering has not yet been added to the current PDF; sp/98 has not been replaced and still contains the six earlier clips.
+
 The final September 24 instruction supersedes the intermediate four-question, six-question and three-country classification proposals: retain the Starter artwork, ten logos and five-German-brand hunt, and add the current Yes/No question pattern only. The new model uses BMW for Yes, it is. and Toyota for No, it isn't. The five German logos and their visual/audio order are preserved. No extra country-name or spelling task is introduced.
 
 The title is Find the German Cars! and the added teacher-led prompt is Is it from Germany? All model responses are complete sentences. The original circling activity remains. The footer illustration was repaired with the built-in image tool so both vehicles, visible wheels and the flagpole finial fit inside the frame.
