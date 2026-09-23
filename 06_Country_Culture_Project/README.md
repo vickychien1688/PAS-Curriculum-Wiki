@@ -2,7 +2,7 @@
 
 Updated 2026-09-24. Read current status before reusing old pilot plans.
 
-- [Germany PE3 Cars: Starter / Level 1](germany-pe3-cars-starter-l1.md): confirmed content and six-line audio script; forest-green visual direction; latest samples and remaining work. Audio and print approval are separate.
+- [Germany PE3 Cars: Starter / Level 1](germany-pe3-cars-starter-l1.md): six-line audio approved and published at sp/97; forest-green V4.3 sample with verified audio QR; print production remains pending. Audio and print approval are separate.
 - [Reusable framework](country-culture-project-framework.md): cultural goals, language scaffolds, teacher choice, and Golden Sample production. Its original duration is historical.
 - [Germany five-week pilot](germany-pilot.md): historical September 1 plan, not current production instructions.
 

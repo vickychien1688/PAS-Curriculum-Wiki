@@ -1,6 +1,6 @@
 # Germany Journey PE3 — Cars / Starter & Level 1
 
-Content specification: approved direction, 2026-09-24. V4 artwork direction confirmed; V4.2 curved-title sample is the latest visual version. V2 and V3 artwork were rejected.
+Content specification: approved direction, 2026-09-24. V4 artwork direction confirmed; V4.3 adds the verified Starter audio QR to the V4.2 curved-title sample. V2 and V3 artwork were rejected.
 
 ## Cultural goal
 Children discover that familiar car brands come from Germany. Logo matching is a visual tool, not a brand-memory, reading, or spelling test.
@@ -33,7 +33,7 @@ Five correct German circles, including any teacher-modelled BMW; five comparison
 
 ## Deliverables and boundary
 V2 content assets: output/pe3-cars-v2/ — 1-page worksheet, 10-page exploration cards, 2-page teacher guide/answer key, page previews, editable Python/Markdown, asset/source notes. Its visual layout was rejected and must not be delivered as approved artwork.
-Latest worksheet sample: output/pe3-cars-v4-2-curved-title/. Starter retains the upper-right LISTEN and real audio QR, consistent with PE1 and PE2.
+Latest worksheet sample: output/pe3-cars-v4-3-audio-qr/. Starter retains the upper-right LISTEN and real audio QR, consistent with PE1 and PE2.
 
 ## Starter audio, six confirmed sentences
 1. BMW is from Germany.
@@ -47,16 +47,16 @@ The initial 31.97-second six-line recording was rejected on 2026-09-24 for unsta
 
 The subsequent 31.40-second pitch-compressed candidate was also rejected: it sounded lifeless and frightening. High stability plus whole-sentence pitch compression must not be repeated.
 
-The latest private candidate is `output/pe3-starter-natural-audio/`, returning to native Sparkles recordings using the established PE2 speed 0.85 and candidate stability range 0.65–0.75. Only constant-gain normalization and three-second repetition pauses are applied; no pitch or timing manipulation. Natural vocal expression takes priority over a flat pitch graph. See the private manifest for exact selected takes and transcription checks. Listening approval remains outstanding.
+The six-line native recording approved by Vicky on September 24 (「可以」) is `output/pe3-starter-natural-audio/`, returning to native Sparkles recordings using the established PE2 speed 0.85 and candidate stability range 0.65–0.75. Only constant-gain normalization and three-second repetition pauses are applied; no pitch or timing manipulation. Natural vocal expression takes priority over a flat pitch graph. See the private manifest for exact selected takes and transcription checks. Listening approval is recorded in the private APPROVED.md and manifest; it does not approve the print artwork.
 
-Retain the worksheet's upper-right headphone / LISTEN / Scan to listen! area. After lesson audio confirmation, upload the exact selected files to the existing Our Reading Space /sp/<id> workflow and generate a verified QR. No PE3 public audio page exists yet. Do not invent a URL, copy a different lesson QR, or remove the audio area.
+The Starter listening page is **https://e-reading.now/sp/97** (Germany Journey → Project 3 — Made in Germany → German Cars → Starter). All six uploaded files match the approved per-line SHA256 hashes. Anonymous access and all six browser playback completions were verified. The V4.3 worksheet retains the upper-right headphone / LISTEN / Scan to listen! block and includes a real QR that decodes to this page. Physical phone scanning remains pending. The local full track has three-second practice gaps; the existing web player uses its normal short inter-line gaps. No complete worksheet was uploaded to the public listening page.
 
 ## Current visual order and production status
 
 Row 1: Toyota, BMW, Lexus, Audi, Mercedes-Benz.
 Row 2: Honda, Tesla, Porsche, Volkswagen, Mazda.
 
-PE1 blue and PE2 magenta remain series references; PE3 uses the confirmed forest-green direction. The title's baseline, individual-letter rotation, spacing, and rounded style must follow the ribbon arc. V4.1's straight title was rejected; V4.2 is the latest visual sample, not an approved print master. The original 1054 × 1493 artwork still needs print-resolution work. Card and teacher-guide visual adaptation remains pending.
+PE1 blue and PE2 magenta remain series references; PE3 uses the confirmed forest-green direction. The title's baseline, individual-letter rotation, spacing, and rounded style must follow the ribbon arc. V4.1's straight title was rejected; V4.3 preserves the V4.2 curve and adds the audio QR. It is a visual sample, not an approved print master. The original 1054 × 1493 artwork still needs print-resolution work. Card and teacher-guide visual adaptation remains pending.
 
 Full artwork, audio, editable source, provenance and rejection records are stored in the private `claude-config/projects/our-reading-space-culture/` work package. This public Wiki holds specifications and status, not complete paid worksheets. The production skills are `culture-worksheet` and `culture-audio` in the shared private configuration repository.
 
