@@ -8,7 +8,7 @@ Children discover that familiar car brands come from Germany. Logo matching is a
 ## Shared Logo Hunt
 Title: Find the German Cars!
 Closing text printed on worksheet: These cars are from Germany!
-One A4 worksheet contains ten brands in mixed order; one corresponding exploration card per brand, with real vehicle photograph, authentic brand logo, national flag and country name.
+One worksheet contains ten brands in mixed order; one corresponding exploration card per brand, with real vehicle photograph, authentic brand logo, national flag and country name.
 
 Germany: Mercedes-Benz, BMW, Audi, Porsche, Volkswagen.
 Japan: Toyota, Lexus, Honda, Mazda.
@@ -56,7 +56,7 @@ The Starter listening page is **https://e-reading.now/sp/97** (Germany Journey �
 Row 1: Toyota, BMW, Lexus, Audi, Mercedes-Benz.
 Row 2: Honda, Tesla, Porsche, Volkswagen, Mazda.
 
-PE1 blue and PE2 magenta remain series references; PE3 uses the confirmed forest-green direction. The title's baseline, individual-letter rotation, spacing, and rounded style must follow the ribbon arc. V4.1's straight title was rejected; V4.3 preserves the V4.2 curve and adds the audio QR. It is a visual sample, not an approved print master. The original 1054 × 1493 artwork still needs print-resolution work. Card and teacher-guide visual adaptation remains pending.
+PE1 blue and PE2 magenta remain series references; PE3 uses the confirmed forest-green direction. The title's baseline, individual-letter rotation, spacing, and rounded style must follow the ribbon arc. V4.1's straight title was rejected; V4.3 preserves the V4.2 curve and adds the audio QR. It is a visual sample, not an approved print master. A September 24 review of the actual PE1/PE2 production files corrected the print requirement: approved native illustrations around 1070 pixels may be retained; regeneration at higher resolution is not a prerequisite. PE3 still needs editable vector instructions, DYK body text and footer, alignment with the series master dimensions (581.04 × 804.96 pt), and the established 600-dpi export (4842 × 6708). Card and teacher-guide visual adaptation remains pending. Audio/QR publication and private GitHub backup do not complete desktop final delivery, level-specific resource-center PDF/PNG uploads, Drive PDF delivery or the shared asset index.
 
 Full artwork, audio, editable source, provenance and rejection records are stored in the private `claude-config/projects/our-reading-space-culture/` work package. This public Wiki holds specifications and status, not complete paid worksheets. The production skills are `culture-worksheet` and `culture-audio` in the shared private configuration repository.
 
