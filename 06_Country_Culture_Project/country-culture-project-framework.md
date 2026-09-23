@@ -1,5 +1,7 @@
 # Country Culture Project Framework
 
+> Version notice (2026-09-24): the original five-week / 10-lesson duration below is historical. See the [current project entry](README.md) and [PE3 Cars specification](germany-pe3-cars-starter-l1.md). The latest country-program target is 20 lessons; detailed remapping is still pending.
+
 > Status: Pilot framework established from the Germany Project planning process on 2026-09-01.
 >
 > Purpose: This is the reusable system for designing future PAS country culture projects. Germany is the first pilot. The goal is to scale the decision-making process, not merely copy finished worksheets.

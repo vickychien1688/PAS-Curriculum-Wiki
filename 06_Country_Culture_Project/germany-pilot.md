@@ -1,5 +1,7 @@
 # Germany Project — Pilot
 
+> Version notice (2026-09-24): the original five-week / 10-lesson duration below is historical. See the [current project entry](README.md) and [PE3 Cars specification](germany-pe3-cars-starter-l1.md). The latest country-program target is 20 lessons; detailed remapping is still pending.
+
 > Country Culture Project Pilot 01
 >
 > Status: Planning / framework approved; detailed level-language alignment and resource production still to be completed.
