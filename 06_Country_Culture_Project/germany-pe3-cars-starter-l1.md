@@ -5,7 +5,7 @@ Content specification: approved direction, 2026-09-24. V4 artwork direction conf
 ## Cultural goal
 Children discover that familiar car brands come from Germany. Logo matching is a visual tool, not a brand-memory, reading, or spelling test.
 
-## Shared Logo Hunt
+## Starter Logo Hunt
 Title: Find the German Cars!
 Closing text printed on worksheet: These cars are from Germany!
 One worksheet contains ten brands in mixed order; one corresponding exploration card per brand, with real vehicle photograph, authentic brand logo, national flag and country name.
@@ -22,11 +22,21 @@ Children visit cards and circle the five German brands using flag and country-na
 Starter teacher: Look! A BMW! / From Germany!
 Starter child: points and circles; repeats Germany! / From Germany! No reading or spelling requirement.
 
-Level 1 teacher: Look! This is a BMW. It’s from Germany.
-Level 1 child minimum: It’s from Germany.
-Brand names may be prompted. Substitute a Mercedes-Benz, a Porsche, a Volkswagen, or an Audi as appropriate.
+Level 1 is now a separate worksheet: on September 24 Vicky explicitly rejected sharing the Starter page. A subsequent three-country classification task with A/B/C codes was rejected as too difficult. See the current sample below; do not revive the shared-page or classification proposal.
 
 Shared close: These cars are from Germany!
+
+## Level 1 separate sample — pending review
+
+Title: Is It from Germany? A picture-supported teacher model asks `Is it from Germany?` and answers `Yes, it is.`; children also practice `No, it isn't.`. The single main task shows four real car photographs beside country flags and asks children to circle Yes or No. Order and answer: BMW Yes, Toyota No, Audi Yes, Tesla No. No country-name memorization, brand spelling, classification codes or written sentence output is required. This is a proposal made after the difficulty correction, not user-approved print content.
+
+The EOW1 Unit 1 Yes/No be-verb response pattern is the scaffold; the cultural `from Germany` extension is not claimed as a literal textbook target. Flags supply the evidence directly on the page.
+
+Vicky's subsequent explicit instruction requires full-sentence choices: **Yes, it is. / No, it isn't.** All four items now print these complete responses for circling; do not revert to bare Yes/No labels. This confirms the option format, not full-page approval.
+
+The private working package is `output/pe3-cars-level1-v1/`; the teacher-facing sample is in desktop `Germany-PE3/_樣本/Level 1/`. It uses the original series page dimensions, vector body text and QR, and a 600-dpi PNG. Starter is unchanged.
+
+The independent Level 1 listening entrance is **https://e-reading.now/sp/98**, reusing exactly the six already-approved German-brand recordings. All six hashes and playback completion events were checked; the final PDF QR decodes correctly. This is a German-brand listening supplement, not a new recording of the printed Yes/No exchange, which is teacher-led. Physical phone scanning, sample approval, resource-center/Drive delivery and the final asset index remain pending.
 
 ## Completion
 Five correct German circles, including any teacher-modelled BMW; five comparison brands uncircled; child can point to the German flag as evidence with teacher support. Oral output is level-appropriate; spelling is not assessed.
