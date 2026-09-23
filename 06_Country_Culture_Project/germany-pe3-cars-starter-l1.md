@@ -26,7 +26,7 @@ Level 1 has its own output file but now follows Vicky's final direction: reuse t
 
 Shared close: These cars are from Germany!
 
-## Level 1 numbered-logo sample — audio and artwork review
+## Level 1 numbered-logo worksheet and published audio
 
 Vicky confirmed ten numbered logos, a separate spoken brand heading followed by the question/answer on separate lines, and the closing These cars are from Germany. Production was authorized on September 24. The earlier proposal to omit spoken brand names or omit the closing is superseded.
 
@@ -34,11 +34,11 @@ The approved content direction retains the Starter ten-logo hunt and the current
 
 Visual/audio order: 1 Toyota, 2 BMW, 3 Lexus, 4 Audi, 5 Mercedes-Benz; 6 Honda, 7 Tesla, 8 Porsche, 9 Volkswagen, 10 Mazda. German answers are 2, 4, 5, 8, 9. The number and brand are spoken first (One. Toyota.), then the question with a two-second response gap before the answer. Repeated questions and answers reuse the same native recordings. The final These cars are from Germany. uses the exact previously approved Starter recording.
 
-The new local review track is 117.526 seconds, with ten complete question files and sixteen unique sentence files. All 27 STT checks (unique sentences, groups and full track) match the intended words. The voice remains Sparkles, speed 0.85, similarity 0.85, native stability 0.65–0.75 candidates; only constant gain and pauses were applied. Technical pitch/transcription checks are not listening approval; the new lesson still awaits Vicky's listening review.
+The accepted local track is 117.526 seconds, with ten complete question files and sixteen unique sentence files. All 27 STT checks (unique sentences, groups and full track) match the intended words. The voice remains Sparkles, speed 0.85, similarity 0.85, native stability 0.65–0.75 candidates; only constant gain and pauses were applied. Technical pitch/transcription checks are not listening approval. After the concrete review was delivered, Vicky replied “那就這樣進行”, accepting this version and authorizing publication. The confirmation is recorded separately in the private APPROVED.md.
 
 Private source: output/pe3-level1-numbered-audio/. Numbered worksheet: output/pe3-cars-level1-v2-numbered/. Desktop: Germany-PE3/_樣本/Level 1/. The page preserves the forest-green arc title, ten authentic logos, full-sentence model, repaired footer scene, native text and original 581.04 × 804.96 pt dimensions, with a 600-dpi PNG. All ten numbered positions and the final QR have been checked. It remains a review sample, not an approved print master.
 
-The real QR still points to https://e-reading.now/sp/98. **That public page currently contains the previous six approved German-brand clips, not the new ten-question audio.** After listening confirmation, replace the files at the same verified entrance and recheck hashes and playback. Starter sp/97 remains unchanged. Physical phone scan and formal resource-center/Drive delivery are pending.
+The real QR still points to https://e-reading.now/sp/98. **That public page now contains the ten complete numbered question/answer recordings plus the closing sentence.** All eleven remote SHA256 hashes match the accepted files. The question files preserve their two-second response gaps; the website adds its existing 350ms gap between tracks. Public access, displayed text and the final PDF/600-dpi PNG QR were verified; all eleven clips completed in order in a muted browser playback check, recorded in the private publication manifest. Starter sp/97 remains unchanged. Physical phone scan and formal resource-center/Drive delivery are pending.
 
 ## Completion
 Five correct German circles, including any teacher-modelled BMW; five comparison brands uncircled; child can point to the German flag as evidence with teacher support. Oral output is level-appropriate; spelling is not assessed.
