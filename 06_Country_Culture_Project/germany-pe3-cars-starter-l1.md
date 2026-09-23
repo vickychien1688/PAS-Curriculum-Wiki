@@ -45,7 +45,9 @@ Latest worksheet sample: output/pe3-cars-v4-2-curved-title/. Starter retains the
 
 The initial 31.97-second six-line recording was rejected on 2026-09-24 for unstable pitch and rising endings. It must not be described as approved or still awaiting its first review. The 14-second generic and five-line-only versions are also superseded.
 
-The latest private review candidate is `output/pe3-starter-steady-audio/`: 31.40 seconds, six newly processed lines, Sparkles at speed 0.85, three-second pauses. Excessive pitch excursions and the final-word contour were adjusted. Full-track transcription matches the six sentences; isolated Porsche transcription gives the homophone Portia, so brand pronunciation still needs listening review. Signal and transcription checks are not listening approval.
+The subsequent 31.40-second pitch-compressed candidate was also rejected: it sounded lifeless and frightening. High stability plus whole-sentence pitch compression must not be repeated.
+
+The latest private candidate is `output/pe3-starter-natural-audio/`, returning to native Sparkles recordings using the established PE2 speed 0.85 and candidate stability range 0.65–0.75. Only constant-gain normalization and three-second repetition pauses are applied; no pitch or timing manipulation. Natural vocal expression takes priority over a flat pitch graph. See the private manifest for exact selected takes and transcription checks. Listening approval remains outstanding.
 
 Retain the worksheet's upper-right headphone / LISTEN / Scan to listen! area. After lesson audio confirmation, upload the exact selected files to the existing Our Reading Space /sp/<id> workflow and generate a verified QR. No PE3 public audio page exists yet. Do not invent a URL, copy a different lesson QR, or remove the audio area.
 
