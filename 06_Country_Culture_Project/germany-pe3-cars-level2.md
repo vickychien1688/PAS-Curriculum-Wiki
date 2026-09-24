@@ -2,7 +2,13 @@
 
 Updated 2026-09-24. Status: content review pending. The request to continue Level 2 authorizes development; it does not establish approval of newly proposed wording. No Level 2 worksheet, recording, or public listening page has been produced.
 
-## Learning design
+## Latest visual and task discussion
+
+On September 24, Vicky described the real classroom activity: children search a small wall covered with car logos. She then proposed enlarging this scene and using the same picture to find brands from Japan, Germany, and the United States. The response proposal uses the ten existing logo numbers in three full-sentence country questions, with five, four, and one number spaces respectively. No second duplicate logo grid is needed. This is a proposal, not approved artwork or final wording.
+
+All ten logos remain in their established order. Answers: Germany 2/4/5/8/9; Japan 1/3/6/10; United States 7. Children must not cover logos or numbers. The original four sentences only identify German brands, so reading or teaching clues must also support the other countries before production. The earlier Level 1 rejection of a three-country task does not override this new Level 2 discussion.
+
+## Earlier reading proposal (requires revision)
 
 Follow the current approved PE2 Level 2 structure: four short reading sentences, a large supporting illustration, one task tied to the reading, and one complete Did You Know sentence. Add plural present-progressive language in context, retain familiar country-of-origin content, and use visible brand labels to support reading rather than testing brand spelling.
 
@@ -29,6 +35,6 @@ Full proposed wording, revised proposed audio script, and source notes remain in
 
 ## Production after content review
 
-Preserve PE3 forest green, curved Nunito ribbon lettering, the approved children illustration, authentic logos, and the listening area. Use editable native text, the measured 581.04 × 804.96 pt series page, and 600 dpi PNG. Create a separate Level 2 listening entrance after the required review; do not reuse Starter sp/97 or Level 1 sp/98.
+Preserve PE3 forest green, curved Nunito ribbon lettering, the approved series illustration style, a new classroom logo-wall scene, authentic logos, and the listening area. Use editable native text, the measured 581.04 × 804.96 pt series page, and 600 dpi PNG. Create a separate Level 2 listening entrance after the required review; do not reuse Starter sp/97 or Level 1 sp/98.
 
 Pending: Vicky's response on reading load, wording, and the proposed fact; then one layout sample and a real Sparkles audio preview. Audio, visual, print, and distribution status must remain separate.
