@@ -1,6 +1,6 @@
 # Germany PE3 Cars — Level 2 classroom logo wall
 
-Updated 2026-09-24. Status: Vicky approved the latest seven-sentence audio with “因檔也 OK，QR code 可以上去了。” and authorized publication and the worksheet QR. The approved original clips are locked; publication currently awaits teacher login. No Level 2 public listening entrance has been created yet. Print approval is separate.
+Updated 2026-09-24. Status: Vicky approved the latest seven-sentence audio with “因檔也 OK，QR code 可以上去了。” and authorized publication and the worksheet QR. The seven exact original clips are published at [Level 2 listening page](https://e-reading.now/sp/99); the real QR is now in both the PDF and 600dpi PNG. Print approval is separate.
 
 Vicky confirmed the enlarged classroom logo-wall activity with “就是這樣” and clarified that “開工” meant start producing this worksheet, not open the work dashboard.
 
@@ -39,7 +39,7 @@ Answers: Germany B/D/E/H/I; Japan A/C/F/J; United States G. Each letter is used 
 - Full-page and detail visual inspection completed; all ten authentic logo source hashes, text and 5/4/1 answer counts checked.
 - Current Sparkles seven-sentence preview: 47.226939 seconds, five reading lines plus the two DYK facts, with unchanged three-second repeat gaps. Eighteen bounded native candidates at speed 0.80 and style 0.20; only constant gain applied. No post-generation time stretch, pitch flattening or trimming of final words. No digital clipping was detected; this does not certify perceived sound quality.
 - All seven individual clips and the full track passed lexical STT comparison. Acoustic diagnostics were compared with actual approved recordings; the agent did not audition or certify naturalness.
-- The listening placeholder remains until the authenticated upload creates the actual Level 2 destination; audio approval is no longer pending.
+- Replaced the listening placeholder with the verified sp/99 QR. Seven remote SHA256 hashes match the approved originals; anonymous access and seven sequential browser playback completions passed. Final PDF and 600dpi PNG QR decode correctly. Full-page/detail inspection passed; only the QR module changed, with page dimensions and all artwork preserved. Phone scan has not been performed.
 
 ## Sources and private artifacts
 
@@ -57,6 +57,6 @@ Desktop samples and production files follow Germany-PE3/_樣本/Level 2/ and _�
 
 ## Next
 
-Vicky chose the early-car historical significance and emphasized that it has only three wheels. The official photograph and updated fact are now in the sample. The Bertha Benz idea was not adopted; the opening Where question was subsequently requested and is now on the sheet. The old five-clip audio is marked superseded. The new seven-sentence review is now generated and provided as playable local audio, with every sentence newly recorded at a slightly slower native speed after the latest feedback. Vicky has now approved the exact 47.226939-second version and its seven MP3 clips; authenticated publication is pending. Historical scope is the pioneering Benz petrol car, not earlier steam experiments; the Mercedes-Benz brand formed later. [Official history](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html), [official photo](https://group.mercedes-benz.com/company/tradition/company-history/wheel-design.html), [brand history](https://group.mercedes-benz.com/company/tradition/mercedes-benz/).
+Vicky chose the early-car historical significance and emphasized that it has only three wheels. The official photograph and updated fact are now in the sample. The Bertha Benz idea was not adopted; the opening Where question was subsequently requested and is now on the sheet. The old five-clip audio is marked superseded. The new seven-sentence review is now generated and provided as playable local audio, with every sentence newly recorded at a slightly slower native speed after the latest feedback. Vicky has now approved the exact 47.226939-second version and its seven MP3 clips; the exact seven clips are now published unchanged at sp/99. Historical scope is the pioneering Benz petrol car, not earlier steam experiments; the Mercedes-Benz brand formed later. [Official history](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html), [official photo](https://group.mercedes-benz.com/company/tradition/company-history/wheel-design.html), [brand history](https://group.mercedes-benz.com/company/tradition/mercedes-benz/).
 
-After teacher login is restored, establish a separate Level 2 public entrance, upload the seven exact approved clips and replace the pending box with a real verified QR. Print approval and formal resource-center/Drive distribution remain separate. Starter sp/97 and Level 1 sp/98 remain unchanged.
+Level 2 publication and QR integration are complete. The approved local full track retains three-second gaps; the public player supports individual sentence playback and uses its existing 350ms automatic gap for Play All. Print approval and formal resource-center/Drive distribution remain separate. Starter sp/97 and Level 1 sp/98 remain unchanged.
