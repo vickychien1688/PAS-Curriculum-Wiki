@@ -1,22 +1,13 @@
-# Germany PE3 Cars — Level 3 Unit 1 reading proposal
+# Germany PE3 Cars — Level 3 Unit 1 historical comic
 
-Updated 2026-09-25. **Vicky explicitly confirmed the current class is at EOW3 Unit 1.** This supersedes the previous unknown-progress status and past-tense draft. The requested historical depth and reading comprehension remain; the earlier logo-clue approach remains rejected.
+Updated 2026-09-25. Four comic panels replace the previous logo section. The class is at EOW3 Unit 1: use explicitly dated historical-present narration, followed by three comprehension questions with full-sentence choices. Avoid fuel/pharmacy, past-tense exercises and why/because. The brand closing line is superseded.
 
-## Current proposal
+The user identified inconsistent cars within the two journey panels and requested years, reading order, and an explanation in the article. Version 3 uses matching Model 3 vehicle structure/seating in both journey panels, and editable 1–4 / 1886 / 1888 labels. The reading now contains 11 sentences, with an explicit simple-present sentence explaining the car's improvement. Reading captions and the unrecorded audio script match.
 
-Use historical present with an explicit 1886 opening and 1888 transition. Ten short reading sentences cover Carl Benz as an inventor, the three-wheeled car and its engine replacing a horse, and Bertha's family journey showing a practical use for cars. Three complete-sentence multiple-choice items ask about the inventor's job, what moves the car, and what the journey demonstrates. Vicky has explicitly replaced the pharmacy fact with five authentic German-brand logos: BMW, Audi, Mercedes-Benz, Porsche and Volkswagen. The exact approved DYK caption is “These cars are all from Germany.” Keep all five brands and the word “all”. This user decision overrides the general preference for an extra DYK fact.
+[Mercedes-Benz history](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html) identifies the 1886 Model 1 public outing and the improved car used in 1888. [DPMA](https://www.dpma.de/english/our_office/publications/ingeniouswomen/berthabenz_1/index.html) specifically identifies No.3. [Mercedes-Benz's anniversary account](https://media.mercedes-benz.it/mercedes-benz-classic---125-anni-fa-bertha-benz-affrontava-il-primo-lungo-viaggio-in-auto-della-storia/) dates Model 3 variants to 1886–1894; do not say it was first invented in 1888. Source accounts differ on the sons' exact ages, so only two teenage sons are depicted, with no age claim.
 
-Unit 1 alignment is occupational vocabulary and simple-present WH questions. The class is currently studying Unit 1; full unit mastery is not implied. The reading word engine needs picture/gloss support. Fuel and pharmacy have been removed after the user found them difficult and the short anecdote lacking context. Do not assume was/were, irregular past verbs or why/because have been taught. Prior PE2 historical readings and the possibility of teacher support do not replace alignment with this class's actual progress.
+The illustration reconstructs model features; it is not a technical replica or evidence of exact journey seating. The preserved museum example is not proven to be Bertha's exact vehicle. Research photographs are held privately, not embedded in student proof.
 
-The eleven-line audio script includes both date cues. It is text only, not generated or approved. The main reading awaits review; the historical direction, current unit, DYK logo placement and exact caption are confirmed and should not be asked again.
+Private bundle output/pe3-cars-level3-content/comic/ contains art-proof-v3.png, editable comic-story-proof-v3.pdf, 600dpi PNG, preview, source notes, storyboard, prompts and QA. The PDF follows 581.04×804.96pt and PNG 4842×6708px. This is the comic-reading section proof, not the complete series worksheet. No Level 3 audio, listening entry or QR exists yet.
 
-## Sources and production
-
-- PAS EOW3 teacher manual, Google Drive file 1pXcN1Nm0j--W5AoacnY_kCIDrZXzZPxY: student p.16/TR1.3 occupational WH questions; p.17 inventor. Unit 6 introduces was/were and Unit 7 why/because, beyond current progress.
-- [Official car history](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html): completion in 1885, public outing in 1886, three wheels and an engine, and the 1888 journey using an improved car. Do not call the preserved 1886 Model 1 photograph the exact car used on the 1888 trip.
-- [Official Bertha history](https://group.mercedes-benz.com/company/tradition/founders-pioneers/bertha-benz.html): the two sons; the pharmacy fact is now archived and is not part of the current student page. Keep Carl and Bertha's roles accurate.
-- Use the preserved official vehicle photo; an official portrait may be added with source checks. Preserve forest-green curved ribbon, Nunito, listening area and original series dimensions: 581.04 × 804.96 pt / 4842 × 6708 px. No new Level 3 PDF, recording, listening entry or QR exists yet.
-
-Full proprietary text, answers, audio proposal and archived superseded drafts live in private output/pe3-cars-level3-content/. Desktop review copies are in Germany-PE3/_樣本/Level 3/. Next: review the concrete wording, then make the sample and actual listening preview before publication.
-
-DYK assets reuse the verified logo files and sources.json from the existing PE3 Level 2 asset bundle. The official historical car photo remains in the reading area; do not mix non-German logos into this DYK group or reinstate the rejected logo-clue comprehension task.
+Next: review corrected art and exact wording, compose the full series page with comprehension, LISTEN and name/date, then create the listening preview. Actual sound and print approval remain separate. No complete student worksheet or full script is stored in this public Wiki.
