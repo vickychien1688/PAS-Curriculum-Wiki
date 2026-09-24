@@ -1,8 +1,8 @@
 # Germany PE3 Cars — Level 3 Unit 1 historical comic
 
-Updated 2026-09-25. **v4.1 full worksheet layout sample completed; user review pending.** The class is at EOW3 Unit 1. Keep explicitly dated historical-present narration, 11 sentences and three comprehension questions with full-sentence choices. No fuel/pharmacy, past-tense exercises, why/because, logo block or brand closing line.
+Updated 2026-09-25. **v4.1 artwork, native-text layout and reading approved; eleven-sentence audio preview completed.** The class is at EOW3 Unit 1. Keep explicitly dated historical-present narration, 11 sentences and three comprehension questions with full-sentence choices. No fuel/pharmacy, past-tense exercises, why/because, logo block or brand closing line.
 
-The four panels carry editable numbers 1–4 and years 1886, 1886, 1888, 1888. The article explains that Carl improves the car; the journey sentence neutrally describes Bertha and her two sons travelling together, without assigning one driver throughout. Audio draft and reading match; no Level 3 audio or real QR exists yet.
+The four panels carry editable numbers 1–4 and years 1886, 1886, 1888, 1888. The article explains that Carl improves the car; the journey sentence neutrally describes Bertha and her two sons travelling together, without assigning one driver throughout. The approved reading and audio script match. Vicky approved the worksheet and authorized audio with「完美～製作因檔」on 2026-09-25; this is not listening approval.
 
 ## Vehicle and seating evidence
 
@@ -16,9 +16,16 @@ v4 follows this relative arrangement: Eugen and Bertha together on the main benc
 
 ## Deliverable and next stage
 
-The private bundle output/pe3-cars-level3-content/comic/ now contains art-proof-v4.png, Level 3-ws-01.pdf (with an identical versioned comic-story-proof-v4-1.pdf alias), its 600dpi PNG and preview, prompt, sources and QA. Page dimensions remain 581.04×804.96pt / 4842×6708px. Desktop copies are in Germany-PE3/_樣本/Level 3/. The full page now includes the exact existing school logo/header, native curved subject title, three full-sentence comprehension questions and Name/Date. Audio and QR remain pending, so this is a sample rather than a finished listening worksheet.
+The private bundle output/pe3-cars-level3-content/comic/ now contains art-proof-v4.png, Level 3-ws-01.pdf (with an identical versioned comic-story-proof-v4-1.pdf alias), its 600dpi PNG and preview, prompt, sources and QA. Page dimensions remain 581.04×804.96pt / 4842×6708px. Desktop copies are in Germany-PE3/_樣本/Level 3/. The full page now includes the exact existing school logo/header, native curved subject title, three full-sentence comprehension questions and Name/Date. An eleven-sentence private listening preview is ready; its sound approval, dedicated public listening page and QR remain pending.
 
-Next: review corrected art/text and create listening after script approval; publish the level-specific QR and final resources. Preserve the shared school logo/header required by the user’s 2026-09-25 screenshot. Full student artwork/script stays in private storage, not this public Wiki. No new historical-source images are embedded in student PDF.
+Next: obtain feedback on the concrete audio preview, preserve the exact approved recording, then publish the level-specific QR and final resources. Preserve the shared school logo/header required by the user’s 2026-09-25 screenshot. Full student artwork/script stays in private storage, not this public Wiki. No new historical-source images are embedded in student PDF.
 
 
-Layout revision v4.1 (2026-09-25): removed the redundant Follow instruction. The three comprehension items are now parallel vertical columns, each containing the question and full-sentence A/B choices without reducing type size. Restore the established pale-green rounded Name/Date/heart/slogan footer; remove the custom project/level caption. Deliver native PDF text and vector lines, with illustrations embedded separately. Native text/fonts checked in reading, questions and footer; full page and details visually reviewed. Audio/QR remain pending.
+Layout revision v4.1 (2026-09-25): removed the redundant Follow instruction. The three comprehension items are now parallel vertical columns, each containing the question and full-sentence A/B choices without reducing type size. Restore the established pale-green rounded Name/Date/heart/slogan footer; remove the custom project/level caption. Deliver native PDF text and vector lines, with illustrations embedded separately. Native text/fonts checked in reading, questions and footer; full page and details visually reviewed. The worksheet is user-approved; audio preview is ready, listening approval/QR remain pending.
+
+
+## Audio preview (2026-09-25)
+
+Private bundle: output/pe3-level3-history-audio/. Full track 66.646 seconds with eleven individual clips and three-second practice gaps after every sentence. Established Sparkles voice, native speed 0.85, similarity 0.85, bounded stability 0.70–0.75 candidates; per-line settings and original takes are preserved. Year pairs are spoken conventionally. Constant gain only; no pitch flattening or post-generation time stretching.
+
+All eleven final clips and the assembled track passed lexical transcription checks (date-format and homophone normalization documented), decoding and digital-clipping checks. Full PCM assembly matches individual recordings plus exact three-second gaps. Previous approved recordings were referenced; acoustic diagnostics are not auditory approval. The agent did not audition or certify the delivery. There is no Level 3 public URL/QR yet. Full scripts, recordings, selection notes and hashes stay in private storage; desktop review files are under Germany-PE3/_樣本/Level 3/音檔試聽/.
