@@ -1,10 +1,11 @@
 # Country Culture Project — current entry point
 
-Updated 2026-09-24. Read current status before reusing old pilot plans.
+Updated 2026-09-25. Read current status before reusing old pilot plans.
 
 - [Germany PE3 Cars: Starter / Level 1](germany-pe3-cars-starter-l1.md): six-line audio approved and published at sp/97; forest-green V4.3 sample with verified audio QR; print production remains pending. Audio and print approval are separate.
 - Level 1 now reuses the Starter ten-logo hunt and adds the currently learned Yes/No exchange. The footer crop is repaired; sp/98 now contains the separately approved ten numbered question groups plus the closing sentence; all 11 uploaded audio hashes and sequential playback were verified. The new page is a review sample.
-- [Germany PE3 Cars: Level 2 classroom logo wall](germany-pe3-cars-level2.md): worksheet sample and 34.749-second five-sentence preview produced; three-country number activity, review pending, public listening entrance and QR not yet created.
+- [Germany PE3 Cars: Level 2 classroom logo wall](germany-pe3-cars-level2.md): A-J classroom activity; latest seven original audio clips approved and published at sp/99. PDF/600dpi PNG QR decoded; phone scan and formal print distribution remain separate.
+- [Germany PE3 Cars: Level 3 content proposal](germany-pe3-cars-level3.md): revised to historical reading about Carl and Bertha Benz, three comprehension questions and a new pharmacy fact; logo-only clues rejected. Exact wording review pending, not yet laid out or recorded.
 - [Reusable framework](country-culture-project-framework.md): cultural goals, language scaffolds, teacher choice, and Golden Sample production. Its original duration is historical.
 - [Germany five-week pilot](germany-pilot.md): historical September 1 plan, not current production instructions.
 
