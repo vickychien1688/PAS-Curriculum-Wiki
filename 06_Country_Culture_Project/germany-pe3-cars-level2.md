@@ -20,10 +20,13 @@ Existing order retained:
 9. Volkswagen
 10. Mazda
 
-Answers: Germany 2/4/5/8/9; Japan 1/3/6/10; United States 7. Each number is used once. The United States question uses singular car. The previously rejected Audi four-ring fact is absent; the concluding fact returns to German origin. Countries follow the existing brand-origin convention, not factory location or current ownership.
+Answers: Germany 2/4/5/8/9; Japan 1/3/6/10; United States 7. Each number is used once. The United States question uses singular car. The previously rejected Audi four-ring fact is absent; the concluding fact now explains the early Benz petrol automobile and its three wheels, with an official vehicle photograph. Countries follow the existing brand-origin convention, not factory location or current ownership.
 
 ## Production and checks
 
+- The DYK now uses an unaltered official Mercedes-Benz Group photograph of the 1886 Benz Patent-Motorwagen, with credit, instead of an AI interpretation. The revised fact highlights its three wheels with only. Full worksheet and detail renders have been inspected.
+
+- Japan flag on the white page now has a fine neutral-gray outline around its actual 3:2 white field. The only changed rendered pixels are at this outline. Current PE3 Starter V4.3 and Level 1 v2 sheets were reviewed and contain German flags only.
 - Forest-green PE3 identity, original school branding and curved Nunito ribbon title preserved.
 - New classroom background generated with the built-in image tool; authentic saved logo files, numbers, brand names and body text inserted as separate native PDF objects.
 - Measured series format: 581.04 × 804.96 pt PDF, 4842 × 6708 PNG at 600 dpi.
@@ -44,5 +47,7 @@ Private claude-config working package:
 Desktop samples and production files follow Germany-PE3/_樣本/Level 2/ and _產線/. Full proprietary worksheets and audio are not uploaded to this public repository.
 
 ## Next
+
+Vicky chose the early-car historical significance and emphasized that it has only three wheels. The official photograph and updated fact are now in the sample. The previous Bertha Benz and extra opening-question ideas were not adopted. The old five-clip audio is marked superseded: retain the first four clips and produce the two new DYK clips for a six-sentence review. No new clips have been synthesized or published. Historical scope is the pioneering Benz petrol car, not earlier steam experiments; the Mercedes-Benz brand formed later. [Official history](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html), [official photo](https://group.mercedes-benz.com/company/tradition/company-history/wheel-design.html), [brand history](https://group.mercedes-benz.com/company/tradition/mercedes-benz/).
 
 Review the concrete sample and new lesson audio. After listening approval, establish a separate Level 2 public entrance, upload exact approved clips and replace the pending box with a real verified QR. Print approval and formal resource-center/Drive distribution remain separate. Starter sp/97 and Level 1 sp/98 remain unchanged.
