@@ -6,7 +6,7 @@ Vicky confirmed the enlarged classroom logo-wall activity with “就是這樣�
 
 ## Produced learning design
 
-The main image shows children looking at a classroom wall containing ten authentic brand logos. It is also the source picture for the number-writing activity; there is no duplicate logo grid. Four short reading sentences provide the country-of-origin clues for all ten brands. Students read full country questions and write only the corresponding numbers.
+The main image shows children looking at a classroom wall containing ten authentic brand logos. It is also the source picture for the number-writing activity; there is no duplicate logo grid. Five reading sentences include an observation question and provide the country-of-origin clues for all ten brands. Students read full country questions and write only the corresponding numbers.
 
 Existing order retained:
 1. Toyota
@@ -23,6 +23,8 @@ Existing order retained:
 Answers: Germany 2/4/5/8/9; Japan 1/3/6/10; United States 7. Each number is used once. The United States question uses singular car. The previously rejected Audi four-ring fact is absent; the concluding fact now explains the early Benz petrol automobile and its three wheels, with an official vehicle photograph. Countries follow the existing brand-origin convention, not factory location or current ownership.
 
 ## Production and checks
+
+- Restored the missing Where are these cars from? question after the opening sentence, preserving body font size and the main picture geometry. The DYK title now has true transparency instead of an unmatched mint rectangle; final full-page and detail renders inspected.
 
 - The DYK now uses an unaltered official Mercedes-Benz Group photograph of the 1886 Benz Patent-Motorwagen, with credit, instead of an AI interpretation. The revised fact highlights its three wheels with only. Full worksheet and detail renders have been inspected.
 
@@ -48,6 +50,6 @@ Desktop samples and production files follow Germany-PE3/_樣本/Level 2/ and _�
 
 ## Next
 
-Vicky chose the early-car historical significance and emphasized that it has only three wheels. The official photograph and updated fact are now in the sample. The previous Bertha Benz and extra opening-question ideas were not adopted. The old five-clip audio is marked superseded: retain the first four clips and produce the two new DYK clips for a six-sentence review. No new clips have been synthesized or published. Historical scope is the pioneering Benz petrol car, not earlier steam experiments; the Mercedes-Benz brand formed later. [Official history](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html), [official photo](https://group.mercedes-benz.com/company/tradition/company-history/wheel-design.html), [brand history](https://group.mercedes-benz.com/company/tradition/mercedes-benz/).
+Vicky chose the early-car historical significance and emphasized that it has only three wheels. The official photograph and updated fact are now in the sample. The Bertha Benz idea was not adopted; the opening Where question was subsequently requested and is now on the sheet. The old five-clip audio is marked superseded: retain the original four reading clips and produce the Where question plus two DYK clips for a seven-sentence review. No new clips have been synthesized or published. Historical scope is the pioneering Benz petrol car, not earlier steam experiments; the Mercedes-Benz brand formed later. [Official history](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html), [official photo](https://group.mercedes-benz.com/company/tradition/company-history/wheel-design.html), [brand history](https://group.mercedes-benz.com/company/tradition/mercedes-benz/).
 
 Review the concrete sample and new lesson audio. After listening approval, establish a separate Level 2 public entrance, upload exact approved clips and replace the pending box with a real verified QR. Print approval and formal resource-center/Drive distribution remain separate. Starter sp/97 and Level 1 sp/98 remain unchanged.
