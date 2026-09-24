@@ -1,6 +1,6 @@
 # Germany PE3 Cars — Level 3 Unit 1 historical comic
 
-Updated 2026-09-25. **v4 full worksheet layout sample completed; user review pending.** The class is at EOW3 Unit 1. Keep explicitly dated historical-present narration, 11 sentences and three comprehension questions with full-sentence choices. No fuel/pharmacy, past-tense exercises, why/because, logo block or brand closing line.
+Updated 2026-09-25. **v4.1 full worksheet layout sample completed; user review pending.** The class is at EOW3 Unit 1. Keep explicitly dated historical-present narration, 11 sentences and three comprehension questions with full-sentence choices. No fuel/pharmacy, past-tense exercises, why/because, logo block or brand closing line.
 
 The four panels carry editable numbers 1–4 and years 1886, 1886, 1888, 1888. The article explains that Carl improves the car; the journey sentence neutrally describes Bertha and her two sons travelling together, without assigning one driver throughout. Audio draft and reading match; no Level 3 audio or real QR exists yet.
 
@@ -16,6 +16,9 @@ v4 follows this relative arrangement: Eugen and Bertha together on the main benc
 
 ## Deliverable and next stage
 
-The private bundle output/pe3-cars-level3-content/comic/ now contains art-proof-v4.png, Level 3-ws-01.pdf (with an identical versioned comic-story-proof-v4.pdf alias), its 600dpi PNG and preview, prompt, sources and QA. Page dimensions remain 581.04×804.96pt / 4842×6708px. Desktop copies are in Germany-PE3/_樣本/Level 3/. The full page now includes the exact existing school logo/header, native curved subject title, three full-sentence comprehension questions and Name/Date. Audio and QR remain pending, so this is a sample rather than a finished listening worksheet.
+The private bundle output/pe3-cars-level3-content/comic/ now contains art-proof-v4.png, Level 3-ws-01.pdf (with an identical versioned comic-story-proof-v4-1.pdf alias), its 600dpi PNG and preview, prompt, sources and QA. Page dimensions remain 581.04×804.96pt / 4842×6708px. Desktop copies are in Germany-PE3/_樣本/Level 3/. The full page now includes the exact existing school logo/header, native curved subject title, three full-sentence comprehension questions and Name/Date. Audio and QR remain pending, so this is a sample rather than a finished listening worksheet.
 
 Next: review corrected art/text and create listening after script approval; publish the level-specific QR and final resources. Preserve the shared school logo/header required by the user’s 2026-09-25 screenshot. Full student artwork/script stays in private storage, not this public Wiki. No new historical-source images are embedded in student PDF.
+
+
+Layout revision v4.1 (2026-09-25): removed the redundant Follow instruction. The three comprehension items are now parallel vertical columns, each containing the question and full-sentence A/B choices without reducing type size. Restore the established pale-green rounded Name/Date/heart/slogan footer; remove the custom project/level caption. Deliver native PDF text and vector lines, with illustrations embedded separately. Native text/fonts checked in reading, questions and footer; full page and details visually reviewed. Audio/QR remain pending.
