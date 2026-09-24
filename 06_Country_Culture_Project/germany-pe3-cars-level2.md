@@ -19,13 +19,13 @@ Retain ten authentic logos, numbered in the existing order:
 9. Volkswagen
 10. Mazda
 
-The single activity asks learners to circle the five German brands: 2, 4, 5, 8, 9. No answers are pre-circled. The proposed fact describes the four rings visible in the Audi logo; no new history or date memorization is added.
+The single activity asks learners to circle the five German brands: 2, 4, 5, 8, 9. No answers are pre-circled. Vicky rejected the Audi four-ring sentence on September 24; it has been withdrawn. The replacement proposal returns to the original German-origin conclusion and remains unapproved.
 
 ## Source verification
 
 PE1 and PE2 actual Level 2 final PNGs, final-folder notes, and PE2 current production content were read. PAS EOW2 teacher-handbook text confirms Unit 1 third-person plural present progressive (Scope & Sequence p.2; Student Book p.16 / TR1.4; teacher audio transcript p.64). This verifies curriculum alignment, not the current class's actual progress. Topic vocabulary requires visual and teacher support.
 
-Full proposed wording, six-clip script, and source notes remain in private `claude-config/projects/our-reading-space-culture/output/pe3-cars-level2-content/`. The original handbook and proprietary complete teaching materials are not uploaded to this public repository.
+Full proposed wording, revised proposed audio script, and source notes remain in private `claude-config/projects/our-reading-space-culture/output/pe3-cars-level2-content/`. The original handbook and proprietary complete teaching materials are not uploaded to this public repository.
 
 ## Production after content review
 

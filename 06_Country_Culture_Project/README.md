@@ -4,7 +4,7 @@ Updated 2026-09-24. Read current status before reusing old pilot plans.
 
 - [Germany PE3 Cars: Starter / Level 1](germany-pe3-cars-starter-l1.md): six-line audio approved and published at sp/97; forest-green V4.3 sample with verified audio QR; print production remains pending. Audio and print approval are separate.
 - Level 1 now reuses the Starter ten-logo hunt and adds the currently learned Yes/No exchange. The footer crop is repaired; sp/98 now contains the separately approved ten numbered question groups plus the closing sentence; all 11 uploaded audio hashes and sequential playback were verified. The new page is a review sample.
-- [Germany PE3 Cars: Level 2 proposal](germany-pe3-cars-level2.md): four short reading sentences, one five-logo hunt, and an Audi-logo fact; content review pending, no worksheet/audio/public page produced yet.
+- [Germany PE3 Cars: Level 2 proposal](germany-pe3-cars-level2.md): four short reading sentences, one five-logo hunt, with the concluding fact still under review; the Audi four-ring sentence was rejected, no worksheet/audio/public page produced yet.
 - [Reusable framework](country-culture-project-framework.md): cultural goals, language scaffolds, teacher choice, and Golden Sample production. Its original duration is historical.
 - [Germany five-week pilot](germany-pilot.md): historical September 1 plan, not current production instructions.
 
