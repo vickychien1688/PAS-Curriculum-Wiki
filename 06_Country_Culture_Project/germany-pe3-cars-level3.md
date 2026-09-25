@@ -1,5 +1,8 @@
 # Germany PE3 Cars — Level 3 Unit 1 historical comic
 
+2026-09-26 delivery update: User approved the current audio and requested all six PE3 worksheets in JPG and PDF on Google Drive and the franchisee resource library. Each level now has both formats under its existing PE 3 / Project 3 folder, with Desktop final copies. L4 and L5 explicitly share one approved 11-sentence plus Whole Story56.264s listening entry: https://e-reading.now/sp/101. The exact12audio hashes match, both vector QR codes point to this entry. Last item displays Whole Story only. Phone scanning remains untested. This supersedes older pending-distribution wording below. Starter retains its existing A4/raster-body artwork; vector/series-size improvement is still separate.
+
+
 Updated 2026-09-25. **v4.1 artwork, native-text layout and reading approved; twelve exact audio files approved and published at sp/100; vector QR integrated.** The class is at EOW3 Unit 1. Keep explicitly dated historical-present narration, 11 sentences and three comprehension questions with full-sentence choices. No fuel/pharmacy, past-tense exercises, why/because, logo block or brand closing line.
 
 The four panels carry editable numbers 1–4 and years 1886, 1886, 1888, 1888. The article explains that Carl improves the car; the journey sentence neutrally describes Bertha and her two sons travelling together, without assigning one driver throughout. The approved reading and audio script match. Vicky approved the worksheet and authorized audio with「完美～製作因檔」on 2026-09-25; that instruction approved the worksheet; subsequent「可以做qr code」after the concrete audio preview approved the twelve files and authorized publication.
