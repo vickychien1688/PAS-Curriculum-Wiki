@@ -1,5 +1,7 @@
 # Germany PE3 Cars — Level 4 / Level 5: From Three Wheels to Today!
 
+Copy clarification2026-09-25 (v4.1): the person visited is explicitly named as Bertha's mother, the boys' grandmother. This replaces an ambiguous pronoun in both levels and the planned audio script;173 words /17 sentences and the two-figure article remain.
+
 Updated2026-09-25. **v4 is a revised173-word /17-sentence review draft for both levels.** After accepting the old150-word text, Vicky requested two illustrations (the initial car and the family journey) and said the content was missing the intended feeling. She selected directions1+3: cars becoming useful in everyday life plus Germany's place in automotive history. The old approval is preserved as history and does not approve the new text.
 
 The article links familiar present-day car use, the1886 three-wheeled modern car, the1888 trip in an improved version that demonstrated practical use and informed improvements, and Carl's place in Mercedes-Benz history. Today's German brands provide a connection to the learner's world. It does not claim Carl founded all German car brands or that one journey instantly made cars available to everyone.
