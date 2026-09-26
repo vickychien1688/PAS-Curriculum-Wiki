@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-26 listening identity update: The user explicitly limited this correction to all six PE3 worksheets; PE1/PE2 remain unchanged. All six now use one native vector listening component: open-arch headphones, Nunito Bold LISTEN and Scan to listen!, fixed corner radii, spacing and QR frame. Removed the extra Level line from L4/L5. Original content/artwork positions and listening destinations are preserved. Desktop and franchise copies were updated, and Google Drive retains the same six PDF IDs with updated versions. QR decoding and unchanged-outside-region checks passed; physical phone scanning remains separate.
+
 2026-09-26 delivery update: The latest user clarification requires Google Drive to contain only the final PDF per level. The six PE3 JPGs were moved to Trash and each existing PE 3 folder was verified to contain exactly one original PDF. The franchisee resource library retains PDF and JPG; Desktop final copies retain PDF, PNG and JPG. L4 and L5 explicitly share one approved 11-sentence plus Whole Story56.264s listening entry: https://e-reading.now/sp/101. The exact12audio hashes match, both vector QR codes point to this entry. Last item displays Whole Story only. Phone scanning remains untested. This supersedes older pending-distribution wording below. Starter retains its existing A4/raster-body artwork; vector/series-size improvement is still separate.
 
 
