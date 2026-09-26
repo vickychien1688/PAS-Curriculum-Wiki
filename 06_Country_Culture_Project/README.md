@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-27: [Production-to-delivery workflow](production-and-delivery-workflow.md) now links the full reusable skill sequence, including continuous Whole Story, shared-level audio, per-platform file formats, and handoff verification.
+
 2026-09-26 listening-page images: [Representative image requirement and completion](listening-page-images.md). All41 PE1/PE2/PE3 listening entries now have at least one corresponding image above the audio list;22 previously empty entries were repaired. Approved recordings and all QR destinations remain unchanged.
 
 2026-09-26 listening identity update: The user explicitly limited this correction to all six PE3 worksheets; PE1/PE2 remain unchanged. All six now use one native vector listening component: open-arch headphones, Nunito Bold LISTEN and Scan to listen!, fixed corner radii, spacing and QR frame. Removed the extra Level line from L4/L5. Original content/artwork positions and listening destinations are preserved. Desktop and franchise copies were updated, and Google Drive retains the same six PDF IDs with updated versions. QR decoding and unchanged-outside-region checks passed; physical phone scanning remains separate.
