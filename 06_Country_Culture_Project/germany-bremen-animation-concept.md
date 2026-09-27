@@ -1,7 +1,13 @@
-2026-09-27動畫構想：使用者喜歡Black Cat《不來梅樂手》，詢問自寫英文腳本、提示詞、網路生圖及動畫的可行性。先建立本課動畫構想，尚未製作或發布影片；不把Black Cat版本視為已取得改作授權。
+# Bremen Town Musicians animation
 
-Proposed original adaptation from the 1819 Grimm story: own script, character designs, image prompts and short image-to-video shots, then narration and subtitles. Script, platform and production scope remain undecided; no film has been generated or published. Black Cat is a pedagogical reference, not an authorized source of assets.
+Updated 2026-09-27. This original classroom adaptation is based on Grimm’s public-domain story. Black Cat is a teaching reference, not a source for copied dialogue, illustrations or video.
 
-2026-09-27: Artistly original four-animal cast v01 and 12-scene English script draft prepared for review. Cast proportions and maturity need refinement; no video or trained character model has been generated. Full assets remain private.
+The user supplied a 20-shot English master script and authorized production. A complete 256-second rough cut is now available in the private course workspace, at 1920 × 1080 and 24 fps, together with a 15-second stacking-comedy preview and English subtitles.
 
-2026-09-27: User supplied a new 20-shot master script (256 seconds), superseding the assistant 12-scene draft. Production prompts split this into 43 short clips while preserving user dialogue. Original script and full prompts remain private. Cast and audio are not yet approved; no video generated.
+The user-designated cottage illustration is the visual reference for subsequent night scenes. Earlier daytime illustrations remain the day reference. The user explicitly permits selecting ChatGPT for illustration and using it to repair Artistly output; consistency takes priority over the platform. Initial character exploration used Artistly, selected scene frames use ChatGPT, animation uses Video Express, and narration uses ElevenLabs Sparkles. Browser work runs through Ego Lite.
+
+The stacking scene now uses repeated unsuccessful attempts followed by success, while keeping the original scene duration. Generated frames with disappearing animals or distorted character features are excluded through shot selection and clean reaction cuts.
+
+Twenty-four source video clips and twenty native narration clips are archived privately. All twenty per-shot transcript checks passed. The rough cut passed duration, decode, representative-frame, subtitle-overlap and audio-peak checks. It has sparse original comic sound effects, with no background music or frame-accurate lip sync; the user’s final visual, timing and listening review remains pending.
+
+Full dialogue, prompts, illustrations, audio and video remain private. No revised worksheet, public audio, video or QR has been published. The number of readings and the Fairy Tale Route’s place in the curriculum remain open decisions.
