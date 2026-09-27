@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-27: [PE2 ws-03 Bremen story research](germany-pe2-ws03-bremen-revision.md). Latest user direction: rebuild ws-03 around the German Fairy Tale Route, retaining castles and forests and using Bremen and the four would-be musicians as the concrete example. Levels 3–5 are the priority; graded passages pending review. Existing published worksheets and audio remain unchanged.
+
 2026-09-27: [Production-to-delivery workflow](production-and-delivery-workflow.md) now links the full reusable skill sequence, including continuous Whole Story, shared-level audio, per-platform file formats, and handoff verification.
 
 2026-09-26 listening-page images: [Representative image requirement and completion](listening-page-images.md). All41 PE1/PE2/PE3 listening entries now have at least one corresponding image above the audio list;22 previously empty entries were repaired. Approved recordings and all QR destinations remain unchanged.
