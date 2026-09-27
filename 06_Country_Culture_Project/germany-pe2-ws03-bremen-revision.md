@@ -44,3 +44,12 @@ L3聚焦誰、遇到什麼困難、如何一起解決；L4/L5沿同一故事，�
 
 ## 下一步
 先按童話之路新架構寫Level 3具體短文及中心句，再展開L4/L5；內容審閱後才處理版面、配圖、音檔與交付。此次僅研究與紀錄，現有發布版保持有效。
+
+## 最新研究與照片方向
+最新補充：使用者要求先研究故事內容、文化象徵、摸驢腳好運習俗及勇氣，從較不熟悉的不來梅故事發想；同意使用真實照片介紹。先不定稿文章架構。城堡森林與童話之路仍為可用背景。
+- Bremen官方完整故事（1857版本）：https://www.bremen.eu/tale-of-the-bremen-town-musicians 。驢、狗、貓年老而受威脅，公雞是將被煮湯，不必把四隻離家原因全部簡化為年老。森林是原故事的實際場景。
+- https://www.welterbe.bremen.de/discover/town-musicians-of-bremen-21310 官方明確以勇氣與團結解讀故事；教學可對應離開困境、邀請同伴、各自貢獻聲音與能力的具體行動。
+- 地位宜寫德國著名童話、尤其是不來梅的城市象徵，避免無據宣稱是德國全國最重要故事。
+- 摸驢的兩隻前腿求好運屬民俗，使用People believe…或for good luck敘述，勿保證效果。
+- 真照片作為文化入口：雕像全景看四動物疊站；前腿細節連結習俗。已找到官方候選照片頁https://www.deutsche-maerchenstrasse.com/en/start/poi/bremen-town-musicians ，主圖標示WFB/Carina Tank | CC0；正式排版前仍需對上確切圖片檔與授權。
+- Bremen官方預覽照片：https://medien.bremen.de/media/944/472/btz-7052-bremen-stadtmusikanten-wfb-carina-tank-5192.jpg 。僅用於參考預覽，此URL與上方CC0來源是否同一張尚待逐圖確認；不把官方網站所有圖片概括為CC0。
