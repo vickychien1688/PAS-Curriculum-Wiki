@@ -1,5 +1,7 @@
 # Bremen Town Musicians animation
 
+Current revision v05 is IN PROGRESS. The user selected the illustrated After the Story card as the bonus-interview opening, then explicitly requested that interview questions be agreed before production continues. A three-question sequence about leaving, courage and cooperation is a proposal only. Interview drafts are not approved. The latest playable review remains v04, with reported mouth-speaker mismatches, opening type inconsistency and animal-stack ghosting still requiring repair and verification. No v05 completion or publication is claimed.
+
 Updated 2026-09-28. Original classroom adaptation of Grimm’s public-domain story. Black Cat is a teaching reference, not a source for copied dialogue, artwork or video.
 
 The private v04 review version runs 167.667 seconds at 1920 × 1080, 24 fps: 64 picture segments, 55 spoken lines and 77 English subtitle cues. Six fixed voices include Sparkles narration and separate donkey, dog, cat, rooster and robber voices. Earlier v01–v03 versions remain as superseded history.
