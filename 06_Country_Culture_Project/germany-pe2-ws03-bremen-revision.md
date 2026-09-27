@@ -53,3 +53,6 @@ L3聚焦誰、遇到什麼困難、如何一起解決；L4/L5沿同一故事，�
 - 摸驢的兩隻前腿求好運屬民俗，使用People believe…或for good luck敘述，勿保證效果。
 - 真照片作為文化入口：雕像全景看四動物疊站；前腿細節連結習俗。已找到官方候選照片頁https://www.deutsche-maerchenstrasse.com/en/start/poi/bremen-town-musicians ，主圖標示WFB/Carina Tank | CC0；正式排版前仍需對上確切圖片檔與授權。
 - Bremen官方預覽照片：https://medien.bremen.de/media/944/472/btz-7052-bremen-stadtmusikanten-wfb-carina-tank-5192.jpg 。僅用於參考預覽，此URL與上方CC0來源是否同一張尚待逐圖確認；不把官方網站所有圖片概括為CC0。
+
+## 原故事核讀
+2026-09-27最新指示：先讀原故事，再一起討論後續；暫不推進文章架構、題目或製作。已核讀1819年首次收錄於格林《兒童與家庭童話》第二版的KHM27德文全文，區分1857最終版。原文：https://de.wikisource.org/wiki/Die_Bremer_Stadtmusikanten_(1819) 。以1819版自行中文轉述，不採現代中文改編。保留離家危機、公雞看見燈光、四動物破窗嚇退強盜、強盜夜返誤認女巫／持刀者／黑怪物／法官、動物留居等事件；雕像與摸腳習俗不屬原故事。
