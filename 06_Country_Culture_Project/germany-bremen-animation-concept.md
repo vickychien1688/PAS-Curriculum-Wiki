@@ -17,3 +17,10 @@ Two companion covers, a portrait story cover and a landscape 16:9 animation cove
 Technical verification includes full decode, durations, speech boundaries, subtitle non-overlap and audio peak. Mixed speech matches all 55 intended lines after documented animal-call and interjection spelling exceptions. New sources were sampled every half-second; representative frames on both sides of every final edit boundary were reviewed. This is not a claim of every-frame playback, subjective audio approval or user approval.
 
 Full scripts, prompts, illustrations, audio, videos, covers and rejected versions remain in the private production archive. No new worksheet, public audio, video or QR has been published. Reading count and the Fairy Tale Route’s place in the curriculum remain open decisions.
+
+
+## 2026-09-28 v07 審片修訂規格
+
+2026-09-28最新：不來梅v07修訂審片版完成，完整影片329.583秒、採訪單獨版156.792秒，1920×1080／24fps／BT.709。依七項回饋重接白天對話、重生小型棕白狗疊站／跌倒／逐步重試、保持屋外與室內反打開窗，強盜只躡手躡腳進屋一次再受驚退出；增加搬小凳子橋段，後段採訪與定案結語維持全員草坪大景。使用35支選用新動畫與40段新原生角色表演，ElevenLabs延續六聲線與字詞時序；保留同版封面、After the Story留白、正式Logo與單行Our Reading Space TV。641個字幕用字與最終混音轉錄依序吻合，兩檔解碼、字幕、音畫長度與音量檢查通過。已看新素材每0.5秒抽幀、四段疊站動作12fps片段與最終新接點代表幀；不宣稱全片逐幀人工審片或逐音素唇形精度。v06保留歷史，未公開發布。
+
+本輪屬文化課視覺與執行交付，不改PE2／PE3學習單、QR或現行課程音檔。完整影片、腳本、提示詞、原料及否決試片存私人工作包；公開Wiki僅保留規格與狀態。
