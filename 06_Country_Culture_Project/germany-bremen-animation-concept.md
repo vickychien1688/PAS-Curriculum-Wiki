@@ -1,5 +1,9 @@
 # Bremen Town Musicians animation
 
+2026-09-28最新：不來梅v10改成兩部獨立影片，故事篇189.542秒（3:09.5）、After the Story採訪篇161.083秒（2:41.1），各有原系列封面、完整收尾、從零起算的英文字幕及審片JSON。依v09回饋修正約1:21小狗長貓耳、約3:52問Cat卻由Donkey動嘴：保留正確的小狗說話與記者提問，Video Express重做Cat表演並以既定ElevenLabs貓聲轉換，驢子閉嘴聆聽。全片盤點接點，48處同場景加入短動作銜接；DIS殘影試作及三處不合格RIFE過渡已排除，換場／構圖改變與不適合插幀處保留乾淨剪接。新家結局與採訪不再合成主交付。兩檔全片解碼、影音長度、音量、字幕檢查通過；兩片字幕合起來與v09台詞逐詞相同。檢查所有過渡中間幀、重點逐幀接點及新角色表演抽幀；這不等同全片逐幀人工播放或逐音素對嘴保證。未公開發布。
+
+## Historical v06 summary (superseded)
+
 Revision v06 supersedes the rejected v05 edit. The completed review exports are 305.000 seconds for the full film and 142.417 seconds for the separate interview, at 1920×1080 / 24 fps / BT.709. Ninety-one dialogue shots use short, native Video Express Lipsync HD performances, with ElevenLabs voice conversion preserving performance timing and the established cast. The interview uses composed medium/two-shots; the animal-stack sequence retains the full scene through attempts and climbs. The approved closing message, illustrated cover typography, story-to-interview pause, authentic microphone logo and unbroken horizontal Our Reading Space TV banner remain. Source frames, stressed-word articulation samples, final cut boundaries, dialogue wording, subtitle timing and full decoding were checked. This is a revision for viewing feedback, not a claim of manually certified phoneme-perfect articulation. All full media, scripts, rejected takes and QA stay in the private archive. No public film publication has occurred; worksheet structure and exploration QR decisions remain separate.
 
 Updated 2026-09-28. Original classroom adaptation of Grimm’s public-domain story. Black Cat is a teaching reference, not a source for copied dialogue, artwork or video.
@@ -35,6 +39,11 @@ Full scripts, prompts, illustrations, audio, videos, covers and rejected version
 
 ## 2026-09-28 v09穩定度與視線規格
 
-2026-09-28最新：不來梅v09穩定度與採訪視線修訂審片版完成，完整影片335.875秒、單獨採訪153.958秒，1920×1080／24fps／BT.709。v08收到整片抖動、1:18公雞／疊高晃動，以及訪狗卻看貓的回饋後改列歷史。v09以相同首尾母圖重新生成夜間討論、跌倒、逐隻爬上與怪獸大景，採原速連續動作，取消舊的逐幀局部公雞頭貼片。新畫面以靜態背景固定整張影格，另對八段保留鏡頭做細小抖動平滑；成片量測後再修正首次跌落的高頻晃動；開場額外穩定的試作反而較差，改保留原鏡頭。採訪維持全員大景，重做左右轉身，I01與G05用完整原生聆聽表演修正記者聽狗回答時轉錯方向，保留說話動物原本嘴型。六聲線、定案結語、封面與真Logo延續。配音與字幕逐詞核對，兩片解碼／影音長度／音量／字幕檢查通過，全片背景運動逐幀量測，另檢查關鍵動作6fps抽幀與剪接代表幀。這不等同全片逐幀人工觀看或逐音素嘴型保證。未公開發布。
+2026-09-28歷史（v09，收到小狗貓耳、Cat回答錯人及接點回饋，由v10兩片接替）：不來梅v09穩定度與採訪視線修訂審片版完成，完整影片335.875秒、單獨採訪153.958秒，1920×1080／24fps／BT.709。v08收到整片抖動、1:18公雞／疊高晃動，以及訪狗卻看貓的回饋後改列歷史。v09以相同首尾母圖重新生成夜間討論、跌倒、逐隻爬上與怪獸大景，採原速連續動作，取消舊的逐幀局部公雞頭貼片。新畫面以靜態背景固定整張影格，另對八段保留鏡頭做細小抖動平滑；成片量測後再修正首次跌落的高頻晃動；開場額外穩定的試作反而較差，改保留原鏡頭。採訪維持全員大景，重做左右轉身，I01與G05用完整原生聆聽表演修正記者聽狗回答時轉錯方向，保留說話動物原本嘴型。六聲線、定案結語、封面與真Logo延續。配音與字幕逐詞核對，兩片解碼／影音長度／音量／字幕檢查通過，全片背景運動逐幀量測，另檢查關鍵動作6fps抽幀與剪接代表幀。這不等同全片逐幀人工觀看或逐音素嘴型保證。未公開發布。
 
 本輪屬文化課視覺及執行交付，未改學習單、QR與平台音檔。完整影片、角色音軌、提示詞、重建程式及否決紀錄存私人工作包。公開頁只保留規格及驗證範圍。
+
+
+## 2026-09-28 v10分片交付規格
+
+故事與採訪從本版起為兩個獨立成品，各自開場、結尾及字幕零點。保留定案台詞、六個聲線、原封面美術、真Logo及水平Our Reading Space TV台標。舊合併版僅供歷史核對。完整MP4、腳本、提示詞、角色音軌、原料與被否決試作只存私人工作包；公開Wiki僅存課程製作規格及檢查範圍。本輪未變更學習單、QR與平台音檔。
