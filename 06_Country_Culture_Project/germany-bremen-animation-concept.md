@@ -62,3 +62,8 @@ Full scripts, prompts, illustrations, audio, videos, covers and rejected version
 ## 2026-09-28續作交接
 
 故事v11與獨立採訪v10維持现行審片版。本次僅整理新對話交接，未生成新影片、未更改課程或發布。固定美術與聲線、最新交付入口、修訂狀態、QA範圍及重建資料已整理於私人工作包HANDOFF_BREMEN.md。
+
+
+## 2026-09-29 worksheet learning point
+
+The user confirmed that the rooster/cat “star” exchange should be included in worksheet planning. Teach the functional phrase “make room for”, infer the performer/celebrity sense of “star” from context, and recognize the playful contrast between the rooster's self-importance and small size. Reference story v15 around2:00 and2:07. Use age-appropriate pointing, meaning selection or oral discussion; level assignment and page layout remain to be set. Full activity draft and teacher notes stay in the private curriculum package.
