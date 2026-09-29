@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-30: [Additional PE2 Bremen story companion](germany-pe2-bremen-story-companion.md). The user confirmed one Level 3 version and one shared Level 4/5 version. Two passage/activity proposals with film cues and teacher notes are ready for content review; no new print worksheet or publication yet. Final numbering and the separate Fairy Tale Route arrangement remain open.
+
 2026-09-29 approved and delivered: [PE2 Level 4/5 layout v4](germany-pe2-level45-paragraph-layout.md) is the final 13 pt version, with natural paragraphs, 8 pt section gaps and every original word retained. Desktop finals, six existing Drive PDF versions and twelve franchise PDF/PNG resources are updated. Future culture worksheet passage and activity text use actual PDF 13 pt; previous 11.457 pt and 15 pt drafts are superseded. Full materials and delivery receipts remain private.
 
 2026-09-27: [PE2 ws-03 Bremen story research](germany-pe2-ws03-bremen-revision.md). Latest user direction: rebuild ws-03 around the German Fairy Tale Route, retaining castles and forests and using Bremen and the four would-be musicians as the concrete example. Levels 3–5 are the priority; graded passages pending review. Existing published worksheets and audio remain unchanged.
