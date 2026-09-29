@@ -1,5 +1,14 @@
 # PE2 Level 4 / Level 5 paragraph layout revision
 
+## Latest: 15 pt large-text revision
+2026-09-29: The user found the first paragraph revision too small. That 11.457 pt draft is now superseded by a six-page 15 pt revision (approximately 31% larger), with a 20 pt baseline step and 6 pt additional paragraph spacing. Original artwork is smaller at the upper right, with text continuing below it. The worksheet 02 clue text is also increased to 11.5 pt. Every original passage, exercise answer, audio recording and QR destination is retained. These remain review drafts; existing distribution has not been replaced.
+
+All six pages preserve the exact passage words and full-page word counts, with 15 pt body spans confirmed. Header pixels and all six PDF/PNG QR targets match the originals; all pages and relevant details have been visually checked. Sources, individual PDF/PNG files, the combined review PDF and QA are kept in the private work package.
+
+The earlier backup timeout was recovered and 55 private files verified at b8fc099; the current revision has a separate final sync receipt.
+
+## Prior revision (superseded due to small body type)
+
 Updated: 2026-09-29. Stage: teaching-material layout revision for review.
 
 ## Confirmed request

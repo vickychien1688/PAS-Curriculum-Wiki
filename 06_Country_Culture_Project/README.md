@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-29 update: [PE2 Level 4/5 large-text paragraphs](germany-pe2-level45-paragraph-layout.md) now use 15 pt body type after the user found the earlier draft too small; wording, audio and QR unchanged.
+
 2026-09-29: [PE2 Level 4/5 natural paragraph layout](germany-pe2-level45-paragraph-layout.md). Six existing worksheets reflowed into paragraphs with exact wording and original font size preserved; review copies are complete, existing distribution unchanged.
 
 2026-09-27: [PE2 ws-03 Bremen story research](germany-pe2-ws03-bremen-revision.md). Latest user direction: rebuild ws-03 around the German Fairy Tale Route, retaining castles and forests and using Bremen and the four would-be musicians as the concrete example. Levels 3–5 are the priority; graded passages pending review. Existing published worksheets and audio remain unchanged.
