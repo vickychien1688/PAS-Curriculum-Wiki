@@ -1,5 +1,14 @@
 # PE2 additional Bremen story worksheet
 
+## Latest Level 3 production (2026-09-30)
+
+After the user flagged the missing Level3 work, its separate worksheet sample is complete: the existing82-word passage, four unaltered film stills to order, one fixed picture-identification prompt about departure as the first brave step, and the two tested Dropbox video QR codes. Native13pt text, final PDF/600dpi PNG QR decoding and full-page Poppler review passed. The existing teacher guide already covers these fixed answers.
+
+Eight sentence recordings plus a continuous36.833-second Whole Story are prepared. All9 decoded files pass lexical STT and PCM-origin checks; Sparkles is retained with the lesson-specific native v3 approach and constant gain only. A playable preview was supplied for lesson-specific listening confirmation. Level3 audio has not yet been published; the original top-right article LISTEN module clearly marks its QR pending. Do not substitute the Level4/5 or old worksheet URL. Full materials and provenance are private, with a copy in the desktop sample area. Final numbering and student distribution remain separate.
+
+The completed Level4/5 entry [sp/214](https://e-reading.now/sp/214), approved original recordings and layoutv7 three-code worksheet remain unchanged.
+
+
 Updated 2026-09-30. Stage: Level 4/5 student sample v7 with video QR codes and a separate one-page teacher guide ready for visual review, not approved print material.
 
 ## Confirmed scope
