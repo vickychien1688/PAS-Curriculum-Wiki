@@ -5,3 +5,11 @@ __pycache__/
 
 # generated de-background cache
 **/_trans/
+
+# EOW2 worksheet dev artifacts
+08_Pilot_Runs/**/_preview/
+08_Pilot_Runs/**/_trans/
+08_Pilot_Runs/**/_contact.png
+08_Pilot_Runs/*_cat-table.png
+08_Pilot_Runs/**/_cattable.png
+08_Pilot_Runs/**/scenes/_*.png
