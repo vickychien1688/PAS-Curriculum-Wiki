@@ -12,14 +12,16 @@ Treat this as an additional story page. Its final worksheet number and placement
 
 The user states that the central teaching point is the courage to take a different first step toward changing one’s life. The first draft foregrounded cooperation and finding a home, relegating courage to teacher extension; it missed the intended emphasis and is superseded. Both revised passages explicitly foreground the brave decision to set out, with cooperation and friendship as developments and outcomes. This matches the already approved interview v17 closing at 02:06–02:33. The film itself is unchanged.
 
-## Prepared content proposal (v2)
+## Prepared content proposal (v3)
 
 - Level 3: follow the decision to begin a new life, order four story events, and identify departure as the first brave step.
-- Levels 4/5 shared: answer why the animals want a change, what first brave step they take and what they find. Relate this to one small new thing the student would like to try. The previously accepted rooster/cat joke remains a secondary language feature.
+- Levels 4/5 shared: three binary-choice questions about the motive for change, the first brave step and the outcome. Each has one answer supported directly by the passage. The user rejects open-ended responses for this type of worksheet; remove free writing and personal-experience questions. The previously accepted rooster/cat joke remains a secondary language feature.
 - Both: a brief cultural note connecting the tale to Bremen's real statue and the local custom of touching the donkey's front legs for good luck. This describes a custom, not a promised effect.
 - Teacher notes contain the full causal sequence, suggested answers, relevant time ranges and optional interview discussion about courage, helping friends and finding a new life.
 
 The film remains the content anchor: story v15, 184 seconds; interview v17, 159.542 seconds. The primary activity can be completed from the story; the interview is an extension. The animals aim to become musicians in Bremen but never arrive, and the rooster's danger is not incorrectly described as old age.
+
+The user’s 2026-09-30 activity correction is a continuing constraint for this type of Level 4/5 culture worksheet: use clear options and objectively checkable answers. A higher level does not imply free-response writing. Both v2 passages and the courage theme are retained; only the Level 4/5 activity and its instructions are revised.
 
 ## Production and next step
 
