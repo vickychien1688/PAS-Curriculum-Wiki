@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-30: [PE3 X-ray, Starter–Level 5](germany-pe3-xray-all-levels.md). Detailed original-source research and a six-level content proposal are prepared after the user’s research-first correction. Content awaits review; no worksheet, new audio or QR is published. Full content and evidence stay private.
+
 ## Current delivery — 2026-09-30
 
 2026-09-30 completed: the user approved the Level3 narration (「因檔ok」, audio OK). Eight sentence clips plus the36.833-second Whole Story are published at [sp/215](https://e-reading.now/sp/215), with original remote hashes verified, native-rate browser technical playback ending for all9 tracks, and a1920×1080 representative image. Level3 layoutv2 now has all three QR codes; six PDF/PNG decodes, 13pt text, unchanged pixels outside the article QR and full-page Poppler review passed. The Level4/5 shared v7 layout and [sp/214](https://e-reading.now/sp/214) remain current. Three student PDFs are delivered to the existing Google Drive Level3/4/5 PE2 folders, with filename PE2-LevelN-不來梅樂手學習單.pdf accepted by the user and folder readback/byte sizes verified. Teacher guides stay on the original Drive links; videos stay on the tested direct-player Dropbox links. Full PDFs and production records remain private. Formal ws numbering and physical printed QR scans remain separate; no new franchise resource cards were published.
