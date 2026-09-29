@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-29 latest: [PE2 Level 4/5 layout v4](germany-pe2-level45-paragraph-layout.md) uses 13 pt passage/activity text following the user’s 12–13 pt preference; 15 pt was too large. Natural paragraphs and 8 pt section gaps retained, original wording/punctuation/order verified.
+
 2026-09-29 latest: [PE2 Level 4/5 full-page layout v3](germany-pe2-level45-paragraph-layout.md) enlarges second-activity text and choices to 15 pt and makes both section gaps 8 pt; all six pages verified, wording/audio/QR preserved. Supersedes v2 for small activity text and excessive blank gaps.
 
 2026-09-29 update: [PE2 Level 4/5 large-text paragraphs](germany-pe2-level45-paragraph-layout.md) now use 15 pt body type after the user found the earlier draft too small; wording, audio and QR unchanged.

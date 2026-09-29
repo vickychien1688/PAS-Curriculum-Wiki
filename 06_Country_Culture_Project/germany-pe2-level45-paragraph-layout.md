@@ -1,6 +1,14 @@
 # PE2 Level 4 / Level 5 paragraph layout revision
 
-## Latest v3: larger activity text and consistent section spacing
+## Latest v4: 13 pt reading and activity text, unchanged content
+
+2026-09-29: The user said 12–13 pt is sufficient and found 15 pt too large. All six Level 4/5 review worksheets now use 13 pt reading passages, activity clues/captions and choices, with 12 pt activity instructions and answer-column headings. Reading retains three natural paragraphs with an 18.5 pt baseline step and 6 pt additional paragraph gap. Pictures and answer areas are rebalanced while both section gaps remain 8 pt.
+
+No content was rewritten. All six passages were compared directly with the original PDFs after normalizing layout whitespace: wording, punctuation and sentence sequence are identical, with matching passage hashes. Full-page word counts, 13 pt text spans, unchanged header pixels and all PDF/PNG QR destinations also pass. Six final Poppler pages were visually inspected; 16 desktop sample files match their source hashes. Source files, reproducible scripts, vector PDFs, 600 dpi PNGs, the combined PDF and QA are private in `output/pe2-level45-13pt/`.
+
+This supersedes v3 for font size only, retaining its repaired section spacing. It remains a review sample; final/distributed files have not been replaced. The separate Bremen rewrite is unaffected.
+
+## Earlier v3: superseded because 15 pt was too large
 
 2026-09-29: The user requested larger text in the second activity and rejected the large blank bands shown in three screenshots. All six Level 4/5 worksheets now use 15 pt for activity captions, clue sentences and choice labels, and 13.5 pt for activity instructions. Reading passages remain three natural paragraphs at 15 pt, with every original word and sentence sequence retained.
 
