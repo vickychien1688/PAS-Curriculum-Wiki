@@ -1,6 +1,6 @@
 # PE2 additional Bremen story worksheet
 
-Updated 2026-09-30. Stage: Level 4/5 student sample v6 with video QR codes and a separate one-page teacher guide ready for visual review, not approved print material.
+Updated 2026-09-30. Stage: Level 4/5 student sample v7 with video QR codes and a separate one-page teacher guide ready for visual review, not approved print material.
 
 ## Confirmed scope
 
@@ -55,7 +55,15 @@ The user found the preview links required too many taps. Following [Dropbox offi
 
 Layout v6 replaces all four student/teacher video QR targets and linked regions with the tested raw URLs. Text and layout remain unchanged; eight PDF/PNG QR decodes and full-page visual checks passed. The three Google Drive teacher PDFs were replaced as new versions under the same IDs and inherited sharing; each folder still contains one 75,918-byte guide. Student distribution, article narration and Level 3 layout remain pending separately.
 
-## Article narration preview (2026-09-30)
+## Approved article audio and QR publication (2026-09-30)
+
+Vicky approved the exact Level4/5 preview with 「很好」. Nine sentence clips and the continuous50.051-second Whole Story were uploaded unchanged to one shared [article listening entry](https://e-reading.now/sp/214). The existing story frame appears above the list. All ten remote audio hashes match the approved files, the image loads at1920×1080, and ten browser audio segments completed normally at playbackRate1 after an actual Play All button click. A separate script-start autoplay attempt was blocked by normal browser gesture policy; the user-gesture test passed. This is technical playback verification, not agent auditory approval.
+
+Layoutv7 fills the original top-right LISTEN frame with the real article QR; the two Dropbox video codes below are unchanged. All three codes decoded from the PDF and600dpi PNG (six checks); native13pt body/questions/choices, the119-word passage, and pixels outside the QR area are unchanged. Full-page Poppler inspection passed. The original teacher guide on Google Drive remains unchanged.
+
+Desktop sample and the shared asset index are updated for both levels. Full sources and audio remain private. Physical phone scanning of the article QR, the separate Level3 worksheet/audio, final new-page numbering and student worksheet distribution remain follow-up work.
+
+## Historical article narration preview (2026-09-30)
 
 The user accepted the current sample and corrected the next request to audio. The current Level 4/5 passage now has nine individual sentence clips and a continuous 50.051-second Whole Story preview, shared across the two levels. The 119-word passage is unchanged. Sparkles is retained; after two Turbo candidates showed marked upward final-word contours, one bounded native v3 calm/unhurried take was prepared using an existing culture-course precedent. Requested speed is 0.85; this is a lesson-specific audition, not a new global model setting.
 
