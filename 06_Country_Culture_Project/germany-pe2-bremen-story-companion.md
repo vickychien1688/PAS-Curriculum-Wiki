@@ -1,6 +1,6 @@
 # PE2 additional Bremen story worksheet
 
-Updated 2026-09-30. Stage: content review, not approved print material.
+Updated 2026-09-30. Stage: first Level 4/5 layout sample ready for visual review, not approved print material.
 
 ## Confirmed scope
 
@@ -25,11 +25,13 @@ The user’s 2026-09-30 activity correction is a continuing constraint for this 
 
 ## Production and next step
 
-Two concrete passage/activity drafts are ready for user review. Follow the established content-before-layout workflow, then make a Golden Sample in the approved PE2 series with actual 13 pt passage and activity text. Keep L4/5 identical for this new page; do not reuse the old automatic sentence-removal distinction.
+2026-09-30: The user responded positively to the three specific closed questions. One shared Level 4/5 Golden Sample is now complete: a single 581.04 × 804.96 pt vector-text PDF and 4842 × 6708 px / 600 dpi PNG. It retains the 118-word courage-focused passage, exact approved questions, quote corner and statue note. Body, questions and choices use actual 13 pt; instructions use 12 pt. Natural paragraphs have 18.5 pt baseline spacing and 6 pt extra paragraph gaps; main frames are separated by 8 pt.
 
-No print worksheet, new recording, QR, public player, or distribution update has been produced in this step. Video and reading-audio destinations must be labelled for their actual purpose when the new page is produced.
+The approved PE2 berry header, authentic logo and DYK artwork are reused; the long title follows the ribbon curve. An unaltered film frame from story v15 (64.5 seconds) shows the four friends setting out. The existing statue photo retains author and license attribution. Exact text, 28 native 13 pt lines, page bounds, dimensions, full-page Poppler rendering and detail views were checked.
 
-Full student text, teacher notes and source manifests are private in `claude-config/projects/our-reading-space-culture/output/pe2-bremen-story-worksheet/`; desktop review copies are in the existing Germany-PE2 sample directory. Existing approved files remain available.
+The listening component remains, explicitly marked as pending an audio QR. No new audio, QR, public player or distribution update is claimed. The sample is in the existing Germany-PE2 desktop sample area. Review this first shared layout before producing the Level 3 illustrated-order page, following the established Golden Sample workflow.
+
+Full files, reproducible sources, fonts, artwork, source manifest and QA are private in `claude-config/projects/our-reading-space-culture/output/pe2-bremen-story-worksheet/layout-level45-v1/`. Public Wiki contains specifications only. Final numbering, layout approval, new audio and QR remain pending.
 
 ## Cultural sources rechecked 2026-09-30
 
