@@ -1,5 +1,11 @@
 # PE2 additional Bremen story worksheet
 
+## Current delivery — 2026-09-30
+
+2026-09-30 completed: the user approved the Level3 narration (「因檔ok」, audio OK). Eight sentence clips plus the36.833-second Whole Story are published at [sp/215](https://e-reading.now/sp/215), with original remote hashes verified, native-rate browser technical playback ending for all9 tracks, and a1920×1080 representative image. Level3 layoutv2 now has all three QR codes; six PDF/PNG decodes, 13pt text, unchanged pixels outside the article QR and full-page Poppler review passed. The Level4/5 shared v7 layout and [sp/214](https://e-reading.now/sp/214) remain current. Three student PDFs are delivered to the existing Google Drive Level3/4/5 PE2 folders, with filename PE2-LevelN-不來梅樂手學習單.pdf accepted by the user and folder readback/byte sizes verified. Teacher guides stay on the original Drive links; videos stay on the tested direct-player Dropbox links. Full PDFs and production records remain private. Formal ws numbering and physical printed QR scans remain separate; no new franchise resource cards were published.
+
+The entries below preserve earlier decisions and production history; pending publication or L3 statements there are superseded by this delivery.
+
 ## Latest Level 3 production (2026-09-30)
 
 After the user flagged the missing Level3 work, its separate worksheet sample is complete: the existing82-word passage, four unaltered film stills to order, one fixed picture-identification prompt about departure as the first brave step, and the two tested Dropbox video QR codes. Native13pt text, final PDF/600dpi PNG QR decoding and full-page Poppler review passed. The existing teacher guide already covers these fixed answers.

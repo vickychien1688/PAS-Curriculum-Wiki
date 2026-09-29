@@ -1,5 +1,11 @@
 # Country Culture Project — current entry point
 
+## Current delivery — 2026-09-30
+
+2026-09-30 completed: the user approved the Level3 narration (「因檔ok」, audio OK). Eight sentence clips plus the36.833-second Whole Story are published at [sp/215](https://e-reading.now/sp/215), with original remote hashes verified, native-rate browser technical playback ending for all9 tracks, and a1920×1080 representative image. Level3 layoutv2 now has all three QR codes; six PDF/PNG decodes, 13pt text, unchanged pixels outside the article QR and full-page Poppler review passed. The Level4/5 shared v7 layout and [sp/214](https://e-reading.now/sp/214) remain current. Three student PDFs are delivered to the existing Google Drive Level3/4/5 PE2 folders, with filename PE2-LevelN-不來梅樂手學習單.pdf accepted by the user and folder readback/byte sizes verified. Teacher guides stay on the original Drive links; videos stay on the tested direct-player Dropbox links. Full PDFs and production records remain private. Formal ws numbering and physical printed QR scans remain separate; no new franchise resource cards were published.
+
+The entries below preserve earlier decisions and production history; pending publication or L3 statements there are superseded by this delivery.
+
 2026-09-30: Bremen Level3 separate worksheet and8-sentence/Whole Story audio preview are now prepared; video QR codes verified, new article recording awaits listening confirmation before publication and article QR. Level4/5 sp/214 stays complete.
 
 2026-09-30: Bremen L4/L5 article audio is approved and published at [sp/214](https://e-reading.now/sp/214):9 sentence clips plus Whole Story, one shared entry with representative image. All10 original hashes/playbacks verified. Worksheetv7 now has the article QR at top right and the two existing video QR codes below; six PDF/PNG decodes passed. Level3, numbering and student distribution remain follow-up work.
