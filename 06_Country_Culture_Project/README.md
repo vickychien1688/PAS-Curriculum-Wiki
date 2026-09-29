@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-09-30: The user requests moving the two Bremen videos to Dropbox and replacing the video QR links. Sources verified; upload and QR replacement await the user handing back browser control. No Dropbox migration is claimed complete.
+2026-09-30: Bremen story v15 and interview v17 are uploaded to the user-selected Dropbox account/folder. Student/teacher video QR codes now use the new view links in sample v5; PDF/PNG decoding and authenticated player checks passed. The teacher guide stays on Google Drive and has been added to the original L3/L4/L5 PE2 folders. Phone/signed-out playback, article narration and sample approval remain pending.
 
 2026-09-30: [Additional PE2 Bremen story companion](germany-pe2-bremen-story-companion.md). Current content v6 / Level 4-5 layout v4 keeps the article-listening QR slot at the top right (new article URL pending) and places Story / After the Story video QR codes side by side below the activity. The separate teacher guide is retained. PDF/PNG QR decoding passed; previous playback checks were authenticated. The user-reported video-opening issue remains unconfirmed pending viewer/device/error details. Level 3 layout, final numbering and distribution remain pending.
 
