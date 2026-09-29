@@ -8,10 +8,14 @@ The teacher is unfamiliar with the Bremen story. The user requests an additional
 
 Treat this as an additional story page. Its final worksheet number and placement remain open. This does not approve replacing the existing ws-03 or moving the separate German Fairy Tale Route proposal into another project.
 
-## Prepared content proposal
+## Confirmed central theme (user correction, 2026-09-30)
 
-- Level 3: identify the four characters, understand their original goal and new home, and order four illustrated story events.
-- Levels 4/5 shared: follow their goal, collective action and outcome; complete a short story map; interpret the previously accepted rooster/cat “star” joke and practise asking for space.
+The user states that the central teaching point is the courage to take a different first step toward changing one’s life. The first draft foregrounded cooperation and finding a home, relegating courage to teacher extension; it missed the intended emphasis and is superseded. Both revised passages explicitly foreground the brave decision to set out, with cooperation and friendship as developments and outcomes. This matches the already approved interview v17 closing at 02:06–02:33. The film itself is unchanged.
+
+## Prepared content proposal (v2)
+
+- Level 3: follow the decision to begin a new life, order four story events, and identify departure as the first brave step.
+- Levels 4/5 shared: answer why the animals want a change, what first brave step they take and what they find. Relate this to one small new thing the student would like to try. The previously accepted rooster/cat joke remains a secondary language feature.
 - Both: a brief cultural note connecting the tale to Bremen's real statue and the local custom of touching the donkey's front legs for good luck. This describes a custom, not a promised effect.
 - Teacher notes contain the full causal sequence, suggested answers, relevant time ranges and optional interview discussion about courage, helping friends and finding a new life.
 
