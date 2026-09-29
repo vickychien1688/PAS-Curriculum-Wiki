@@ -55,6 +55,14 @@ The user found the preview links required too many taps. Following [Dropbox offi
 
 Layout v6 replaces all four student/teacher video QR targets and linked regions with the tested raw URLs. Text and layout remain unchanged; eight PDF/PNG QR decodes and full-page visual checks passed. The three Google Drive teacher PDFs were replaced as new versions under the same IDs and inherited sharing; each folder still contains one 75,918-byte guide. Student distribution, article narration and Level 3 layout remain pending separately.
 
+## Article narration preview (2026-09-30)
+
+The user accepted the current sample and corrected the next request to audio. The current Level 4/5 passage now has nine individual sentence clips and a continuous 50.051-second Whole Story preview, shared across the two levels. The 119-word passage is unchanged. Sparkles is retained; after two Turbo candidates showed marked upward final-word contours, one bounded native v3 calm/unhurried take was prepared using an existing culture-course precedent. Requested speed is 0.85; this is a lesson-specific audition, not a new global model setting.
+
+Only constant gain was applied. The sentence PCM concatenates exactly to the continuous source; no pitch/time processing or three-second practice gaps were inserted. Ten files decode successfully without digital clipping. Whole-story STT matches the passage, as do eight isolated sentences; sentence3 has a recorded isolated a/to recognition discrepancy while the identical segment is correct in the full-context transcript. Pitch diagnostics include uncertain tracking and do not certify listening quality. No agent auditory assessment is claimed.
+
+The playable preview, exact script, cached requests, timing, settings and verification are stored privately and copied to the desktop sample area. User audition is pending; the article audio has not been published and the top-right article QR remains pending. Level3 requires its separate passage recording. Existing videos and teacher-guide files are unchanged.
+
 ## Cultural sources rechecked 2026-09-30
 
 - [Bremen official statue introduction](https://www.bremen.eu/tourism/sights/bremen-town-musicians): location, statue and touching the donkey's front legs.

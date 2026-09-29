@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-09-30: Bremen Level4/5 article audio preview is ready: nine sentence clips plus a50.051-second Whole Story, preserving the119-word text and Sparkles voice. Awaiting user audition before audio publication and article QR; Level3 audio is separate. Full materials remain private.
+
 2026-09-30: Bremen sample v6 uses direct-player Dropbox QR links (raw=1); the user confirms both links directly show the player on their phone. All four QR codes and the existing L3/L4/L5 Google Drive teacher-guide PDFs were updated; IDs and sharing are unchanged. Article narration, Level 3 student layout and final student distribution remain pending.
 
 Earlier 2026-09-30 sample record (superseded by v6 above): [Additional PE2 Bremen story companion](germany-pe2-bremen-story-companion.md). Current content v6 / Level 4-5 layout v4 keeps the article-listening QR slot at the top right (new article URL pending) and places Story / After the Story video QR codes side by side below the activity. The separate teacher guide is retained. PDF/PNG QR decoding passed; previous playback checks were authenticated. The user-reported video-opening issue remains unconfirmed pending viewer/device/error details. Level 3 layout, final numbering and distribution remain pending.
