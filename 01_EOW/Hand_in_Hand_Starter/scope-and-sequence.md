@@ -4,45 +4,47 @@ Source: Hand in Hand Starter textbook (official Scope and Sequence pages 30–31
 
 ## Overview
 
+Unit detail pages (full conversation, sentences, chant, English Sounds story, e-reading.now IDs) are linked from each unit number below. Characters and art rules: [characters.md](characters.md).
+
 Hand in Hand Starter is the foundational textbook used for PAS Starter-level students (first-year learners, typically ages 5–7). It covers 12 units plus 6 School Link sections (story comics and integrated activities). The curriculum introduces basic English conversation, vocabulary, sentence patterns, and English sounds (phonics awareness) through thematic units.
 
 ## Units 1–6
 
 | Unit | Theme | Conversation | Words | Sentences | English Sounds |
 |---:|---|---|---|---|---|
-| 1 | My Things | Hello. I'm Mia. Hi. I'm Joey. Hello. I'm Matt. Hi. I'm Jade. | bag, book, crayon, pencil | What's this? It's a book. | Alphabet song |
-| 2 | My Classroom | What's your name? My name's Matt. What's your name? I'm Jade. | board, chair, globe, table | Is this a table? Yes, it is. No, it isn't. | /a/ ant, alligator; /b/ bat, bus |
-| 3 | Fun Colors | How are you? I'm fine. Thank you. How are you? I'm great. Thank you. | red, blue, yellow, green, brown, black | What color is this? It's red. | /k/ cat, cake; /d/ dog, duck |
-| 4 | Shapes | What color is this? It's green. Here you are. Thank you. | circle, square, star, triangle | What shape is this? It's a star. | /e/ egg, elephant; /f/ fish, fan |
-| 5 | Numbers | How old are you? I'm 6. Here you are. Thank you. | one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve | How many triangles? Two triangles. | /g/ girl, gorilla; /h/ hat, hippo |
-| 6 | My Body | How are you? I'm great. Thank you. I'm sorry. That's OK. | eye, ear, nose, mouth, arm, leg | I have one nose. I have two ears. | /i/ igloo, iguana; /j/ jacket, jet |
+| [1](unit-01-my-things.md) | My Things | Hello. I'm Mila. Hi. I'm Joey. Hello. I'm Matt. Hi. I'm Jade. | bag, book, crayon, pencil | What's this? It's a book. | Alphabet song |
+| [2](unit-02-my-classroom.md) | My Classroom | What's your name? My name's Matt. What's your name? I'm Jade. | board, chair, globe, table | Is this a table? Yes, it is. No, it isn't. | /a/ ant, alligator; /b/ bat, bus |
+| [3](unit-03-fun-colors.md) | Fun Colors | How are you? I'm fine. Thank you. How are you? I'm great. Thank you. | red, blue, yellow, green, brown, black | What color is this? It's red. | /k/ cat, cake; /d/ dog, duck |
+| [4](unit-04-shapes.md) | Shapes | What color is this? It's green. Here you are. Thank you. | circle, square, star, triangle | What shape is this? It's a star. | /e/ egg, elephant; /f/ fish, fan |
+| [5](unit-05-numbers.md) | Numbers | How old are you? I'm 6. Here you are. Thank you. | one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve | How many triangles? Two triangles. | /g/ girl, gorilla; /h/ hat, hippo |
+| [6](unit-06-my-body.md) | My Body | How are you? I'm great. Thank you. I'm sorry. That's OK. | eye, ear, nose, mouth, arm, leg | I have one nose. I have two ears. | /i/ igloo, iguana; /j/ jacket, jet |
 
 ## School Links 1–3
 
 | Link | Activity | Content |
 |---:|---|---|
-| 1 | Story: Comic 1 | Coloring: book, pencil, board, chair |
-| 2 | Story: Comic 2 | Weather: How's the weather? It's sunny. It's cloudy. It's rainy. It's snowy. |
-| 3 | Story: Comic 3 | Numbers: Color by number |
+| [1](unit-01-my-things.md) | Story: Comic 1 | Coloring: book, pencil, board, chair |
+| [2](unit-02-my-classroom.md) | Story: Comic 2 | Weather: How's the weather? It's sunny. It's cloudy. It's rainy. It's snowy. |
+| [3](unit-03-fun-colors.md) | Story: Comic 3 | Numbers: Color by number |
 
 ## Units 7–12
 
 | Unit | Theme | Conversation | Words | Sentences | English Sounds |
 |---:|---|---|---|---|---|
-| 7 | My Toys | Happy birthday, Jade! Thank you. Here you are. Thank you. | ball, car, robot, yo-yo | What is it? It's a car. | /k/ kangaroo, kite; /l/ lion, lamp |
-| 8 | My Pets | This is for you. Thank you. You're welcome. | bird, cat, dog, fish | I like my cat. I like my fish. | /m/ monkey, mouse; /n/ net, nest |
-| 9 | My Actions | Let's play! OK. I like your car. Thank you. | dancing, jumping, running, singing | What are you doing? I'm singing. | /o/ octopus, ox; /p/ panda, pot; /q/ queen, quilt |
-| 10 | More Actions | Hurry up! OK. I like your kite. Thank you. | fly a kite, jump rope, play soccer, ride a bike | What can you do? I can fly a kite. | /r/ rabbit, robot; /s/ sun, sea; /t/ tiger, tent |
-| 11 | My Snacks | Do you want a cookie? Yes, please. Do you want more? No, thank you. | apple, cookie, ice cream, juice | I want juice. I want a cookie. | /u/ umbrella, up; /v/ violin, vase; /w/ window, watch |
-| 12 | My Feelings | Hurry up. OK. Goodbye. See you tomorrow. | happy, hungry, sad, sleepy | How do you feel? I'm happy. | /ks/ box, fox; /y/ yo-yo, yarn; /z/ zipper, zebra |
+| [7](unit-07-my-toys.md) | My Toys | Happy birthday, Jade! Thank you. Here you are. Thank you. | ball, car, robot, yo-yo | What is it? It's a car. | /k/ kangaroo, kite; /l/ lion, lamp |
+| [8](unit-08-my-pets.md) | My Pets | This is for you. Thank you. You're welcome. | bird, cat, dog, fish | I like my cat. I like my fish. | /m/ monkey, mouse; /n/ net, nest |
+| [9](unit-09-my-actions.md) | My Actions | Let's play! OK. I like your car. Thank you. | dancing, jumping, running, singing | What are you doing? I'm singing. | /o/ octopus, ox; /p/ panda, pot; /q/ queen, quilt |
+| [10](unit-10-more-actions.md) | More Actions | Hurry up! OK. I like your kite. Thank you. | fly a kite, jump rope, play soccer, ride a bike | What can you do? I can fly a kite. | /r/ rabbit, robot; /s/ sun, sea; /t/ tiger, tent |
+| [11](unit-11-my-snacks.md) | My Snacks | Do you want a cookie? Yes, please. Do you want more? No, thank you. | apple, cookie, ice cream, juice | I want juice. I want a cookie. | /u/ umbrella, up; /v/ violin, vase; /w/ window, watch |
+| [12](unit-12-my-feelings.md) | My Feelings | Hurry up. OK. Goodbye. See you tomorrow. | happy, hungry, sad, sleepy | How do you feel? I'm happy. | /ks/ box, fox; /y/ yo-yo, yarn; /z/ zipper, zebra |
 
 ## School Links 4–6
 
 | Link | Activity | Content |
 |---:|---|---|
-| 4 | Story: Comic 4 | Addition: 3 + 2 = 5, 2 + 1 = 3 |
-| 5 | Story: Comic 5 | Telling Time: What time is it? It's 1 o'clock. It's 6 o'clock. It's 12 o'clock. |
-| 6 | Story: Comic 6 | Rules: Classroom rules |
+| [4](unit-04-shapes.md) | Story: Comic 4 | Addition: 3 + 2 = 5, 2 + 1 = 3 |
+| [5](unit-05-numbers.md) | Story: Comic 5 | Telling Time: What time is it? It's 1 o'clock. It's 6 o'clock. It's 12 o'clock. |
+| [6](unit-06-my-body.md) | Story: Comic 6 | Rules: Classroom rules |
 
 ## Summer Camp Alignment
 
