@@ -39,6 +39,10 @@ The one-page Traditional Chinese teacher guide includes the central theme, story
 
 Two one-page PDFs and 600 dpi PNGs were checked for page size, text bounds and legibility. All four QR regions were decoded from both final PDF renders and final PNGs, and PDF link destinations were verified. Phone scanning remains a separate physical check. Full files and reproducible sources are private in `claude-config/projects/our-reading-space-culture/output/pe2-bremen-story-worksheet/layout-level45-v4/`; the desktop sample area holds both outputs. Public Wiki contains specifications only. Final worksheet numbering, sample approval, article narration URL, user-side video access verification and distribution of the new PDFs remain pending.
 
+## Requested Dropbox migration (2026-09-30)
+
+The user asks to host the two approved videos on Dropbox and replace the existing video QR destinations. The exact captioned masters are verified and ready. The browser reported that the user took control while opening Dropbox; uploading awaits an explicit handback. No Dropbox files or links have been created, and existing worksheet QR codes are not yet replaced. Once access resumes, inspect the existing account/folder, upload the two original files, obtain view links, test access/playback, and update both the student worksheet and teacher guide. The article-listening slot and bottom two-video layout stay as specified. Greater playback reliability is a goal to test, not an established fact.
+
 ## Cultural sources rechecked 2026-09-30
 
 - [Bremen official statue introduction](https://www.bremen.eu/tourism/sights/bremen-town-musicians): location, statue and touching the donkey's front legs.
