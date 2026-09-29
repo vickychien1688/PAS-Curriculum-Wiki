@@ -1,12 +1,16 @@
 # PE2 Level 4 / Level 5 paragraph layout revision
 
-## Latest v4: 13 pt reading and activity text, unchanged content
+## Approved v4: 13 pt reading and activity text, unchanged content
 
-2026-09-29: The user said 12–13 pt is sufficient and found 15 pt too large. All six Level 4/5 review worksheets now use 13 pt reading passages, activity clues/captions and choices, with 12 pt activity instructions and answer-column headings. Reading retains three natural paragraphs with an 18.5 pt baseline step and 6 pt additional paragraph gap. Pictures and answer areas are rebalanced while both section gaps remain 8 pt.
+2026-09-29: The user said 12–13 pt is sufficient and found 15 pt too large. All six Level 4/5 worksheets now use 13 pt reading passages, activity clues/captions and choices, with 12 pt activity instructions and answer-column headings. Reading retains three natural paragraphs with an 18.5 pt baseline step and 6 pt additional paragraph gap. Pictures and answer areas are rebalanced while both section gaps remain 8 pt.
 
 No content was rewritten. All six passages were compared directly with the original PDFs after normalizing layout whitespace: wording, punctuation and sentence sequence are identical, with matching passage hashes. Full-page word counts, 13 pt text spans, unchanged header pixels and all PDF/PNG QR destinations also pass. Six final Poppler pages were visually inspected; 16 desktop sample files match their source hashes. Source files, reproducible scripts, vector PDFs, 600 dpi PNGs, the combined PDF and QA are private in `output/pe2-level45-13pt/`.
 
-This supersedes v3 for font size only, retaining its repaired section spacing. It remains a review sample; final/distributed files have not been replaced. The separate Bremen rewrite is unaffected.
+The user subsequently approved 13 pt as the standing standard for future culture worksheets and explicitly requested saving and uploading the final files. Desktop final folders now contain six PDF/PNG/JPG sets; the six existing Drive PDF IDs have new versions; the twelve franchise PDF/PNG resources retain their original cards and storage paths. Exact remote files and folder membership were checked. The full private delivery package is `output/pe2-level45-final-delivery/`. Original wording, audio and QR are unchanged.
+
+Future passage text, activity clues and choices use actual PDF 13 pt; activity instructions and column headings may use 12 pt. Preserve the title hierarchy and natural paragraphs. Do not confuse old layout-coordinate font parameters with actual PDF points or recreate large empty section bands. This standard does not authorize a retroactive rewrite of other lessons.
+
+This supersedes v3 while retaining its repaired spacing. The separate Bremen rewrite is unaffected.
 
 ## Earlier v3: superseded because 15 pt was too large
 
@@ -47,4 +51,4 @@ A combined six-page review PDF and six individual PDF/PNG pairs are saved privat
 This layout-only revision does not approve or complete the separate [Bremen / German Fairy Tale Route content revision](germany-pe2-ws03-bremen-revision.md). The existing article wording was retained as explicitly requested.
 
 ## Next step
-Review the revised paragraph layout. Once adopted, connect the paragraph rules to the main production pipeline and update existing final/distribution versions without changing file IDs or audio.
+This layout revision and distribution are complete. Future changes use the approved 13 pt source and its reproducible desktop production entry. The separate Bremen content revision remains pending.
