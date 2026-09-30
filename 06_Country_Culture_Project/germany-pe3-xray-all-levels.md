@@ -1,5 +1,12 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## Further content feedback: simplify Level 3 and enrich shared Level 4/5
+
+The user found the Level 3 narration difficult and the Level 4/5 page sparse. Two new private content candidates are ready for review. Level 3 is simplified from 60 to 44 words by removing laboratory apparatus and abstract testing details, retaining four concrete events; the discovery card caption is aligned to that text. Shared Level 4/5 expands from 61 to 83 words by retaining the approved text and adding a short paragraph about the wife-hand radiograph with direct observation of bones and a ring. The hand image is planned beside that explanation. The original three comprehension questions remain.
+
+This follows the user’s existing content-before-layout instruction. The candidates have not been accepted or applied to PDFs; original approved records and rendered version 3 samples are preserved. No new image generation, layout export, audio or publication occurred. Scientific/historical support for the wife-hand event remains [Science Museum Group A606881](https://collection.sciencemuseumgroup.org.uk/objects/co134691). Full candidate wording and layout notes are private.
+
+
 ## 1 October feedback revision: sequence clarity and compact choices
 
 Current sources are layout-level2-5-v2 for Level 2 and layout-level3-5-v3 for Levels 3–5. The user found the two early Level 3 experiment pictures ambiguous. Card D now shows a historical hand-radiograph reproduction and describes the wife-hand event already introduced by “Later” in the approved passage. This separates the observation and imaging milestones without changing the 60-word passage or the sequence answer. The former testing card and user feedback are archived privately. The replacement card wording and artwork remain a feedback revision for review, not a new verbatim approval.

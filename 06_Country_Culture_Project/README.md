@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-01 X-ray new content review: Level 3 simplified 44-word candidate; shared Level 4/5 83-word candidate adds wife-hand/ring photo observation. Text first, then layout. Existing PDFs and approved source records preserved; new candidates are not approved.
+
 2026-10-01 X-ray feedback revision: Level 3 card D now matches the explicit wife-hand event; shared Level 4/5 choices compacted by about 17% with 13 pt retained. Three v3 desktop samples checked; Level 2 keeps v2. Revised card/artwork review and audio/QR remain pending.
 
 2026-10-01 X-ray production update: all content approved, Level 4/5 explicitly shared. Three unique 13 pt sketch-layout samples (four per-level PDF/PNG/JPG copies) delivered to desktop. Historical figures were redrawn using the authentic portrait after user feedback; audio/QR and final external delivery remain pending. Full materials stay private.
