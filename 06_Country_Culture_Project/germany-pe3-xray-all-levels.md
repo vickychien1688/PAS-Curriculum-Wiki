@@ -1,5 +1,13 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## 1 October feedback revision: sequence clarity and compact choices
+
+Current sources are layout-level2-5-v2 for Level 2 and layout-level3-5-v3 for Levels 3–5. The user found the two early Level 3 experiment pictures ambiguous. Card D now shows a historical hand-radiograph reproduction and describes the wife-hand event already introduced by “Later” in the approved passage. This separates the observation and imaging milestones without changing the 60-word passage or the sequence answer. The former testing card and user feedback are archived privately. The replacement card wording and artwork remain a feedback revision for review, not a new verbatim approval.
+
+The shared Level 4/5 choice panel was reduced from 231.5 to 191.5 pt (about 17%) by tightening question spacing and bottom padding. Student text stays 13 pt, all words and answers are preserved, and the fact panel moves up with a larger authentic portrait. The two levels still have byte-identical PDF/PNG/JPG files. Actual PDF font checks, unchanged reading-region pixel checks and full/detail rendered review passed. Three revised per-level samples and production sources were delivered to the desktop; only their three asset-index rows changed. Audio, final QR and external publication remain pending. Starter/Level 1 and Level 2 outputs are unchanged.
+
+Historical cross-check: [Science Museum Group A606881](https://collection.sciencemuseumgroup.org.uk/objects/co134691). Image source and public-domain record: [Röntgen hand-radiograph reproduction on Commons](https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.gif). Full teaching text, pictures and answer keys remain private.
+
 Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 content is approved; Level 4/5 now share the same approved content and page. The new sketch layouts are visual-review samples with audio/QR pending. Starter now shares the same approved worksheet at teacher discretion.
 
 ## Current content-first review
@@ -22,7 +30,7 @@ The user authorized production on 1 October and requested identical Level 4/5 co
 
 During production the user found the coloured historical figure artificial and questioned the likeness. Version 2 replaces only the discovery/testing historical panels with graphite sketches based on the authentic 1901 portrait; modern medical/engineering scenes remain. The genuine portrait comes from the Nobel Foundation photograph hosted on Wikimedia Commons, marked public domain. The worksheet distinguishes historical scene illustrations from that photograph; laboratory details remain simplified reconstructions. The rejected colour panels and reasons are retained privately.
 
-Actual PDF font/text checks and Poppler full/detail visual review passed. Current private source: layout-level2-5-v2. Desktop samples and editable production sources are delivered, and the asset index is updated. This is a visual-review sample, not an audio-ready release: the top-right panel explicitly says audio QR pending. No new Level 2–5 audio, listening publication, final QR, Drive delivery or franchise delivery occurred. User visual approval of revision 2 is still pending.
+Actual PDF font/text checks and Poppler full/detail visual review passed. Initial sample source: layout-level2-5-v2; the later v3 revision above supersedes Levels 3–5 only. Desktop samples and editable production sources are delivered, and the asset index is updated. This is a visual-review sample, not an audio-ready release: the top-right panel explicitly says audio QR pending. No new Level 2–5 audio, listening publication, final QR, Drive delivery or franchise delivery occurred. User visual approval of revision 2 is still pending.
 
 ## Shared Starter / Level 1 use
 
