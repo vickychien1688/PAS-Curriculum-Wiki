@@ -1,5 +1,16 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## 1 October: visuals accepted; three concrete audio previews
+
+The latest “ok” accepts the delivered worksheet revisions and continues the established audio workflow. Current layouts stay Level 2 v2, Level 3 v4 and shared Level 4/5 v5. The approved 38-, 44- and 83-word passages are unchanged; title, activity instructions and fact panels are outside narration.
+
+Three private audio-v1 packages contain 5, 7 and 10 sentence clips plus continuous Whole Story tracks of 18.051, 28.629 and 42.328 seconds. Level 4/5 uses one shared recording. The established Sparkles/Turbo/native 0.85 voice is retained, with bounded native takes and constant gain. Complete endings and natural gaps are preserved; no pitch/time resynthesis or three-second practice gaps.
+
+All 25 final files passed decode, clipping and sentence-to-whole waveform checks. STT matches all final sentence clips; the Level 2 whole-track recognizer writes a connected-speech spelling for one phrase, while its identical individual clip matches the script. A conjunction ambiguity in the shared higher-level question was corrected and rechecked in both clip and whole narration. Actual approved references, full contours, terminal voicing uncertainty and candidate provenance are recorded privately. These technical checks are not an agent listening assessment or user audio approval.
+
+Desktop preview players and production packages are ready. New lesson listening review remains pending; no higher-level audio or QR destination has been published. Starter/Level 1 stays unchanged at sp/216. After confirmation, publish the exact reviewed files, add the real QR and finish normal distribution. Full scripts, recordings, illustrations and answer keys remain private.
+
+
 ## Version 5: retain the new hand image and restore the original three scenes
 
 The user explicitly requested putting the original three pictures back into Level 4/5. Version 5 retains the wife-hand radiograph beside the expanded reading and restores the original discovery, equipment-development and medical-care images with arrows below it. The approved 83-word passage, three questions and answers, native 13 pt student text and 191.5 pt compact choice panel are unchanged. Paragraph flow and picture heights were rebalanced within one page. No new image generation occurred.
@@ -31,7 +42,7 @@ Historical cross-check: [Science Museum Group A606881](https://collection.scienc
 
 Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 content is approved; Level 4/5 now share the same approved content and page. The new sketch layouts are visual-review samples with audio/QR pending. Starter now shares the same approved worksheet at teacher discretion.
 
-## Current content-first review
+## Earlier content-first review history
 
 On 1 October 2026 the user asked to settle the remaining content before drawing. Level 2–5 learning focus, English passage, activity and fact panel must be confirmed before new artwork/layout. Existing Starter/Level 1 deliverables remain approved. The user confirmed all four classes have finished Unit 1 and are preparing for Unit 2; Unit 2 is not already learned.
 
@@ -82,11 +93,11 @@ The factual sequence is the covered tube and glowing treated paper screen, subse
 | Starter | Shared sheet; teacher-led optional use | Same approved Level 1 page and audio; pointing/repeating first, writing optional |
 | Level 1 | Guided short sentences | Right head-film and left hospital scene; six oral body-part targets, four word-bank labels and discovery-location fact |
 | Level 2 | 38, approved | Want to see + internal bones/medical purpose; two word-bank blanks and discovery date/location fact |
-| Level 3 | 60, approved | Discovery story and later equipment/medical use; four-stage sequencing; X means unknown |
-| Level 4 | 61, revision 3 approved | Familiar hand/bones opening; explicit discovery-to-equipment causality; three closed choices; 1901 Nobel fact |
-| Level 5 | 61, shared approved content | Identical to Level 4 by explicit user request |
+| Level 3 | 44, latest simplified passage approved | Discovery, wife-hand image, later equipment and medical use; four-stage sequencing; X means unknown |
+| Level 4 | 83, latest expanded passage approved | Hand/bones opening, historical hand/ring image and three original process pictures; discovery-to-equipment causality; three choices |
+| Level 5 | 83, shared approved content | Identical to Level 4 by explicit user request |
 
-All four levels have approved content and layout-version-2 review samples; Level 4 and Level 5 are identical. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
+All four levels have accepted current visuals and concrete audio previews awaiting listening review; Level 4 and Level 5 share the same page and recording. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
 
 ## Audio, QR and delivery status
 
