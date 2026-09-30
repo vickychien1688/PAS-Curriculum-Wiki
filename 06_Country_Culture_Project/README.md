@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-10-01: [PE3 X-ray Level 1](germany-pe3-xray-all-levels.md): audio v3 replaces only the picture sentence after rising-tail feedback; the other nine clips are preserved. Sentence 2 and a 20.783-second full preview are ready. Listening review and QR remain pending; v7 visuals are approved. No audio published.
+2026-10-01: [PE3 X-ray Level 1](germany-pe3-xray-all-levels.md): audio v3 approved with “ok”; ten clips plus Whole Story published unchanged at sp/216 with a representative image. Layout v8 QR and desktop PDF/PNG/JPG verified. Level 2–5 content, numbering and new-page cloud/franchise distribution remain pending.
 
 Earlier full-body and picture-blank Level 1 samples are superseded; see the current specification above.
 

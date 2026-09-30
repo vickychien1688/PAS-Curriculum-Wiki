@@ -1,6 +1,6 @@
 # Germany PE3 — X-ray: Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-10-01. Stage: Level 1 content-v9 / layout-level1-v7 visual approved; lesson audio preview awaiting listening review. Level 2–5 wording remains under review. Starter is excluded.
+Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 wording remains under review. Starter is excluded.
 
 ## Current Level 1 direction
 
@@ -12,7 +12,7 @@ The user approved the short discovery-location fact: X-rays were discovered in G
 
 The v3 single picture-blank approach and v4 non-series layout were superseded. The v5 sample restored the original hierarchy but the user found it sparse. The latest explicit direction is text on the left, X-ray film on the right and a hospital or worried-child illustration at lower left. Version 7 preserves this composition, groups the six questions at a compact 23 pt baseline spacing and adds a new story illustration of a radiographer reassuring a mildly anxious child before an examination. There is no visible radiation or depiction of an exposure with staff beside the child. The PE3 numbered activity panels, curved title, authentic branding and star fact panel remain.
 
-The sample is one 581.04 × 804.96 pt page, with native 13 pt student text and 12 pt instructions, plus a 4842 × 6708 print PNG. Final Poppler full-page and enlarged detail checks are complete. The user accepted the visual with “完美” on 1 October 2026 and requested narration ending with the Germany discovery sentence. Audio is now a concrete preview; QR and platform release remain pending. Full text, answer keys, artwork, editable production files and rejected versions are stored only in the private project package.
+The sample is one 581.04 × 804.96 pt page, with native 13 pt student text and 12 pt instructions, plus a 4842 × 6708 print PNG. Final Poppler full-page and enlarged detail checks are complete. The user accepted the visual with “完美” on 1 October 2026 and requested narration ending with the Germany discovery sentence. The user then accepted audio v3 with “ok”. The exact approved files are published at [the Level 1 listening page](https://e-reading.now/sp/216), and version 8 fills the real QR without changing the approved artwork or text. Full text, answer keys, artwork, editable production files and rejected versions are stored only in the private project package.
 
 ## Research and factual boundaries
 
@@ -32,11 +32,15 @@ The factual sequence is the covered tube and glowing treated paper screen, subse
 
 Level 2–5 content is unchanged by the Level 1 revision and has not yet been laid out. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
 
-## Production next step
+## Audio, QR and delivery status
 
-Continue from the visually approved private Level 1 v7 worksheet and current audio v3. The user rejected the earlier opening voice, then identified a rising picture ending. The opening revision is retained; v3 replaces only sentence 2 with a native Sparkles/Turbo take at requested speed 0.85 and stability 0.70. All other nine sentence files remain byte-identical to v2. The full preview is 20.783 seconds and retains the requested Germany discovery closing.
+The user approved the concrete audio v3 sentence and whole-lesson preview with “ok” on 1 October 2026. The earlier opening and rising picture ending remain historical. The selected Sparkles/Turbo takes retain native timing and complete final words, without pitch or time resynthesis or tail cuts. The final lesson is 20.783 seconds; the ten sentence MP3s and Whole Story were uploaded unchanged.
 
-The complete final word is retained without pitch or time resynthesis or tail cuts. All eleven transcripts match, decoding/clipping and preserved-file checks passed, and full-track PCM equals the ten sentence clips concatenated. Technical measurements are not listening approval. Provide the sentence and full preview for lesson-specific listening review before publication or real QR integration. Earlier rejected clips and full tracks are historical and must not be published. Keep PE3 identity and actual 13 pt text; do not reuse Cars URLs. Other levels and existing Cars/Bremen deliverables remain unchanged.
+The new listening entry is [sp/216](https://e-reading.now/sp/216), under Other → Germany Journey → Project 3 → X-rays → Level 1. All eleven remote SHA256 checks match the approved files. Eleven browser-native playback checks reached ended at rate 1; the actual public Whole Story button entered its playing state and returned to its idle state. A 1536 × 1024 representative hospital illustration loaded above the audio list without horizontal overflow. These technical checks do not claim an agent listening judgment.
+
+Layout v8 inserts the native vector QR into the approved v7 sheet. Final PDF and 600 dpi PNG both decode to sp/216; the PDF link agrees. Pixels outside the QR frame are identical to v7, and Poppler full-page and QR-detail visual checks passed. Physical phone scanning has not been performed.
+
+PDF, PNG and JPG copies are in the desktop Germany-PE3 final Level 1 folder and current sample entry; v7 is retained as history and editable sources are in the production folder. The asset index is updated. The new X-ray page has not yet been distributed to Google Drive or the franchise resource cards; worksheet numbering remains pending. Existing Cars and Bremen deliverables are unchanged. Continue with Level 2–5 content review and subsequent requested distribution. Full materials and release evidence remain in the private project package.
 
 ## Sources
 
