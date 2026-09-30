@@ -1,8 +1,8 @@
 # Country Culture Project — current entry point
 
-2026-09-30: [PE3 X-ray Level 1 latest revision](germany-pe3-xray-all-levels.md): current Unit 1 is now confirmed. The new private sample uses one head illustration, current-unit word-bank choices and one sentence blank; no body-part labels. Prior full-body samples are superseded; audio/QR remain pending.
+2026-09-30: [PE3 X-ray latest Level 1 sample](germany-pe3-xray-all-levels.md): v5 restores the original numbered activity panels and star fact box after the v4 layout rejection. Head-film finding uses four explicitly requested cultural-extension words, a reassuring opening and invitation, and the accepted German discovery-location fact. Unit 1 progress remains confirmed; audio/QR and visual approval are pending. Starter excluded; Level 2–5 content unchanged.
 
-2026-09-30: [PE3 X-ray — Level 1 picture activity and Level 2–5 readings](germany-pe3-xray-all-levels.md). The user restored Level 1 only for hand/foot/head identification on a full-body image. Starter remains excluded; Level 2–5 plans continue. Content-v5 is now implemented as a private Level 1 Golden Sample (PDF and 600 dpi PNG), with 13 pt labels and an explicitly identified skeletal illustration. Visual review is pending; audio/QR and the remaining levels are not yet produced.
+Earlier full-body and picture-blank Level 1 samples are superseded; see the current specification above.
 
 ## Current delivery — 2026-09-30
 
