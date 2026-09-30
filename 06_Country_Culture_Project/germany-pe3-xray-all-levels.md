@@ -1,10 +1,10 @@
 # Germany PE3 — X-ray: Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-09-30. Stage: medical-contribution theme approved; revised wording under review, before worksheet layout.
+Updated 2026-09-30. Stage: Level 1 Golden Sample produced and awaiting visual review; Level 2–5 wording remains under review.
 
 ## Confirmed scope and latest correction
 
-The latest user direction restores Level 1 only as a simple full-body X-ray picture activity: listen and point to hand, foot and head. There is no reading passage, written answer or required full-sentence response. Starter remains excluded; its current Unit 1 progress is confirmed. Level 2–5 retain their differentiated reading plans. Research-first factual standards remain in force, and no image, worksheet PDF, audio or QR has yet been produced.
+The latest user direction restores Level 1 only as a simple full-body X-ray picture activity: listen and point to hand, foot and head. There is no reading passage, written answer or required full-sentence response. Starter remains excluded; its current Unit 1 progress is confirmed. Level 2–5 retain their differentiated reading plans. Research-first factual standards remain in force. The Level 1 picture sample now exists; no lesson audio or real QR has been produced.
 
 The user subsequently approved the discovery → equipment development → medical contribution theme. Röntgen is a German man (he/his); the famous hand image belongs to his wife Anna Bertha. The wording distinguishes discovery of the radiation from later development of medical equipment by multiple contributors. Imaging provides diagnostic clues, not the cause of every disease.
 
@@ -30,7 +30,7 @@ Content-v5 includes the new Level 1 task while leaving Level 2–5 passages unch
 
 ## Production next step
 
-Review the concrete content, then make one Golden Sample before extending the remaining levels. Preserve the PE3 forest-green identity, authentic logo, curved title, standard listening module and actual 13 pt passage/activity text. Select and verify licensed imagery. New X-ray narration requires its own approved recordings and real listening URL; do not reuse Cars sp/97–101. Existing Cars and Bremen deliverables remain unchanged.
+A one-page Level 1 Golden Sample is now available privately: a clearly labelled full-body X-ray-style skeletal illustration with three pointing callouts. It uses 13 pt task labels and a 12 pt instruction, keeps the hands, feet and head fully visible, and adds no passage, written task or quiz. The page is 581.04 × 804.96 pt, with a 4842 × 6708 print PNG. Native PDF text, full-page Poppler rendering and enlarged detail checks are complete. The standard listening area explicitly says Audio QR pending. This is a review sample, not an approved print or platform release. Review this sample before extending the remaining levels. Preserve the PE3 forest-green identity, authentic logo, curved title, standard listening module and actual 13 pt passage/activity text. Keep visual provenance; this sample uses a newly generated illustration, explicitly identified as such, rather than a patient radiograph. New X-ray narration requires its own approved recordings and real listening URL; do not reuse Cars sp/97–101. Existing Cars and Bremen deliverables remain unchanged.
 
 ## Sources
 
