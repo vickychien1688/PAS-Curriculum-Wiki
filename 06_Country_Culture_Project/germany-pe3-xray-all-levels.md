@@ -2,6 +2,16 @@
 
 Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 wording remains under review. Starter now shares the same approved worksheet at teacher discretion.
 
+## Current content-first review
+
+On 1 October 2026 the user asked to settle the remaining content before drawing. Level 2–5 learning focus, English passage, activity and fact panel must be confirmed before new artwork/layout. Existing Starter/Level 1 deliverables remain approved. The user confirmed all four classes have finished Unit 1 and are preparing for Unit 2; Unit 2 is not already learned.
+
+The current Level 2 discussion proposal uses the completed Unit 1 want-plus-infinitive pattern and see vocabulary to introduce internal bones and medical use, with two closed word-bank blanks. The private LEVEL2_CONTENT_PROPOSAL.json is the active proposal; older Level 2 text/matching plans remain historical drafts, not authorization to draw. The exact English and answers remain private.
+
+Level 3 can connect doctor/scientist occupations; Level 4 can use the completed body/bone vocabulary. Official Level 5 Unit 1 covers sea protection, while upcoming Unit 2 is Good Idea! (inventions). The lesson may warm up that future theme but must not claim its vocabulary or used-to pattern is already learned. No new artwork, layout, audio or publication was made in this content discussion.
+
+Curriculum references: [Level 2 official scope](https://ngl.cengage.com/assets/downloads/eow_pro0000000537/eow_l2_scope_and_sequence.pdf), [Level 3 Unit 1](../01_EOW/EOW3/unit-01-the-world-of-work.md), [Level 4 Unit 1](../01_EOW/EOW4/unit-01-feeling-fit.md), [Level 5 official scope](https://ngl.cengage.com/assets/downloads/eow_pro0000000537/eow_l5_scope_and_sequence.pdf). Official Level 2/5 PDFs were checked on 1 October; the class completion statement comes from the user, not inferred from scope tables.
+
 ## Shared Starter / Level 1 use
 
 On 1 October 2026 the user explicitly included this existing worksheet in Starter for teachers to use freely. The Starter PDF, PNG and JPG are byte-identical copies of the Level 1 v8 files, with the same sp/216 QR and approved audio v3. Teachers choose listening, looking, pointing and repeating according to the class; word-bank writing is optional and independent reading/spelling is not required. This supersedes the earlier Starter exclusion. Starter is still known to be at Unit 1; inclusion does not imply the body vocabulary has already been taught.
@@ -30,7 +40,7 @@ The factual sequence is the covered tube and glowing treated paper screen, subse
 |---|---|---|
 | Starter | Shared sheet; teacher-led optional use | Same approved Level 1 page and audio; pointing/repeating first, writing optional |
 | Level 1 | Guided short sentences | Right head-film and left hospital scene; six oral body-part targets, four word-bank labels and discovery-location fact |
-| Level 2 | 40–50 | Outside/inside comparison; picture matching plus one purpose choice |
+| Level 2 | 40–50 | Current proposal: want to see + internal bones/medical purpose; two word-bank blanks. Content confirmation pending |
 | Level 3 | 60–80 | Discovery story and later equipment/medical use; four-stage sequencing |
 | Level 4 | 90–110 | Observation and material tests; closed evidence/cause choices |
 | Level 5 | 110–130 | Discovery, later engineering and medical contribution; closed contribution/main-idea choices |
