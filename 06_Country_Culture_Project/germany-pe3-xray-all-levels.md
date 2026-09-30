@@ -1,8 +1,18 @@
 # Germany PE3 — X-ray: Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-09-30. Stage: Level 1 Golden Sample produced and awaiting visual review; Level 2–5 wording remains under review.
+Updated 2026-09-30. Stage: Level 1 Unit 1 picture-blank sample awaiting review; current class unit is confirmed. Level 2–5 wording remains under review.
 
-## Confirmed scope and latest correction
+## Latest Level 1 revision — confirmed Unit 1, one picture blank
+
+The user has now confirmed that Level 1 is currently in Unit 1. The verified My Classroom vocabulary includes book, picture and pencil, and the grammar includes What is it? and It's a/an.... Body and facial vocabulary belongs to Unit 7 and must not be treated as already taught in this class. Unit-level alignment does not establish that every individual word has already been covered; the teacher previews the bank before the activity.
+
+The current private content-v6 / layout-level1-v3 sample uses one clearly identified head-only X-ray-style illustration, three current-unit word-bank choices, and a single guided sentence blank. X-ray is explicitly introduced as the new culture word. There is no body-part labelling task or paragraph. A German flag and discoverer/country caption support the teacher's brief Chinese explanation: Röntgen was German and discovered X-rays. Do not say he invented the radiation.
+
+The sample PDF and 600 dpi PNG have actual 13 pt words and sentence text, a 106 pt writing line, and completed Poppler full-page/detail checks. It remains a review sample with Audio QR pending; there has been no external platform release. The prior full-body sample and interrupted unverified six-word draft are historical. Starter remains excluded and Level 2–5 content is unchanged.
+
+The sections below document the previous full-body sample, not the current production direction.
+
+## Previous scope and sample
 
 The latest user direction restores Level 1 only as a simple full-body X-ray picture activity: listen and point to hand, foot and head. There is no reading passage, written answer or required full-sentence response. Starter remains excluded; its current Unit 1 progress is confirmed. Level 2–5 retain their differentiated reading plans. Research-first factual standards remain in force. The Level 1 picture sample now exists; no lesson audio or real QR has been produced.
 
