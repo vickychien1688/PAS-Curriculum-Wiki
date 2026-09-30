@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-09-30: [PE3 X-ray latest Level 1 sample](germany-pe3-xray-all-levels.md): v5 restores the original numbered activity panels and star fact box after the v4 layout rejection. Head-film finding uses four explicitly requested cultural-extension words, a reassuring opening and invitation, and the accepted German discovery-location fact. Unit 1 progress remains confirmed; audio/QR and visual approval are pending. Starter excluded; Level 2–5 content unchanged.
+2026-10-01: [PE3 X-ray latest Level 1 sample](germany-pe3-xray-all-levels.md): v6 follows the requested left text, right head-film and lower-left hospital scene. Six vocabulary targets include prior Starter body words; the earlier sparse v5 is superseded. Original series identity and accepted classroom/discovery wording remain. Visual review and audio/QR are pending; Level 2–5 content unchanged, Starter excluded.
 
 Earlier full-body and picture-blank Level 1 samples are superseded; see the current specification above.
 
