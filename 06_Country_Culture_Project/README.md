@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-10-01: [PE3 X-ray](germany-pe3-xray-all-levels.md): current higher-level visuals accepted. Three audio previews (Level 2, Level 3, shared Level 4/5) are ready with sentence clips and natural Whole Story. New audio listening review and QR remain pending; no higher-level publication. Starter/Level 1 unchanged.
+2026-10-01: [PE3 X-ray](germany-pe3-xray-all-levels.md): shared Level 4/5 audio v2 replaces two wife/ring sentences after intonation feedback. Focus and full previews ready; listening/QR pending. Other levels unchanged.
 
 2026-10-01 X-ray v4: user accepted L3 44-word and shared L4/5 83-word revisions. Three new desktop samples use the large historical hand photo beside the upper-level reading; native 13 pt and exact content checked. Artwork review and audio/QR remain pending; full materials private.
 

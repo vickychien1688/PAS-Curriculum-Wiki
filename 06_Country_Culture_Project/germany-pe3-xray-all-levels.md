@@ -1,5 +1,12 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## 1 October: targeted wife/ring audio revision
+
+The user rejected the unusually high intonation around the wife and ring words in shared Level 4/5 audio v1. Revision v2 replaces just the two affected sentences using native Sparkles/Turbo takes at speed 0.85; eight other MP3/WAV clips remain byte-identical. No synthetic pitch compression or word-tail trimming is used. Printed content and pictures are unchanged.
+
+A 9.542-second focus preview and 41.664-second Whole Story are delivered. Decode, clipping, preserved-file hashes and sentence/whole/focus waveform checks passed. Full word and sentence contours were compared with exact rejected files and approved references. Isolated-sentence STT has a conjunction ambiguity while the same audio in focus and whole context matches; this remains recorded for listening review, not an all-exact claim. The agent does not claim an auditory assessment. V1 is rejected history; v2 awaits listening feedback and is not published. Level 2/3 previews and approved Starter/Level 1 are unchanged.
+
+
 ## 1 October: visuals accepted; three concrete audio previews
 
 The latest “ok” accepts the delivered worksheet revisions and continues the established audio workflow. Current layouts stay Level 2 v2, Level 3 v4 and shared Level 4/5 v5. The approved 38-, 44- and 83-word passages are unchanged; title, activity instructions and fact panels are outside narration.
