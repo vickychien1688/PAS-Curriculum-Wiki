@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-10-01 X-ray next phase: Level 2–5 have completed Unit 1 and are entering Unit 2. Confirm content before drawing; Level 2 and Level 3 content are approved with “ok”; the Level 4 observation/material-testing proposal is under discussion. Starter/Level 1 remain approved and shared.
+2026-10-01 X-ray next phase: Level 2–5 have completed Unit 1 and are entering Unit 2. Confirm content before drawing; Level 2 and Level 3 content are approved with “ok”; Level 4 revision 2 simplifies the opening and explicitly links the discovery to later equipment; it remains under discussion. Starter/Level 1 remain approved and shared.
 
 2026-10-01: [PE3 X-ray Starter / Level 1](germany-pe3-xray-all-levels.md): the user added the approved worksheet to Starter for teacher discretion. Both desktop folders have the same PDF/PNG/JPG; the audio and QR remain sp/216. Writing is optional for Starter. Level 2–5 content, numbering and new-page cloud/franchise distribution remain pending.
 
