@@ -1,5 +1,12 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## Version 4: revised content accepted and hand-photo layout completed
+
+The user accepted the displayed revisions with “ok” on 1 October 2026; the empty manual-edit snapshot contained no text changes. Level 3 now uses the approved 44-word concrete-event passage and aligned discovery-card caption. Shared Level 4/5 uses the approved 83-word passage, including the wife-hand/ring observation paragraph, with the authentic historical hand image enlarged to the right of the reading. The earlier three-scene strip is replaced by this focused photo composition. The original three choices, compact 191.5 pt activity panel and native 13 pt student text remain.
+
+Three per-level PDF/PNG/JPG sets are delivered to the desktop and editable production archive; only those asset-index rows changed. Actual font size, exact 44/83-word passages, answer mappings, full/detail rendered pages and identical Level 4/5 file bytes were checked. Current private source is layout-level3-5-v4; original text records and version 3 are preserved as history. Level 2 stays on version 2, while Starter/Level 1 are unchanged. Content is approved; new version 4 artwork remains a review sample. No new audio, QR destination, Drive or franchise publication occurred.
+
+
 ## Further content feedback: simplify Level 3 and enrich shared Level 4/5
 
 The user found the Level 3 narration difficult and the Level 4/5 page sparse. Two new private content candidates are ready for review. Level 3 is simplified from 60 to 44 words by removing laboratory apparatus and abstract testing details, retaining four concrete events; the discovery card caption is aligned to that text. Shared Level 4/5 expands from 61 to 83 words by retaining the approved text and adding a short paragraph about the wife-hand radiograph with direct observation of bones and a ring. The hand image is planned beside that explanation. The original three comprehension questions remain.
