@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-01 X-ray Level 4/5 v5 restores all three original process pictures alongside the wife-hand image; approved 83 words and 13 pt preserved on one page. Desktop files checked; Level 3 remains 44-word v4. Audio/QR pending.
+
 2026-10-01 X-ray v4: user accepted L3 44-word and shared L4/5 83-word revisions. Three new desktop samples use the large historical hand photo beside the upper-level reading; native 13 pt and exact content checked. Artwork review and audio/QR remain pending; full materials private.
 
 2026-10-01 X-ray new content review: Level 3 simplified 44-word candidate; shared Level 4/5 83-word candidate adds wife-hand/ring photo observation. Text first, then layout. Existing PDFs and approved source records preserved; new candidates are not approved.

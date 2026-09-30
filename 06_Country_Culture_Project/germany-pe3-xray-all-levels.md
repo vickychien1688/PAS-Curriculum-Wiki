@@ -1,5 +1,12 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## Version 5: retain the new hand image and restore the original three scenes
+
+The user explicitly requested putting the original three pictures back into Level 4/5. Version 5 retains the wife-hand radiograph beside the expanded reading and restores the original discovery, equipment-development and medical-care images with arrows below it. The approved 83-word passage, three questions and answers, native 13 pt student text and 191.5 pt compact choice panel are unchanged. Paragraph flow and picture heights were rebalanced within one page. No new image generation occurred.
+
+The two per-level PDF/PNG/JPG sets are byte-identical and have passed actual font, text, four-image and full/detail rendered checks. Desktop samples/production sources and only their two index rows were updated. Current sources: Level 3 layout-level3-5-v4; Level 4/5 layout-level45-v5; Level 2 remains on v2. The former v4 Level 4/5 page without the three scenes is historical. Version 5 visual review and audio/QR remain pending. Full materials are private.
+
+
 ## Version 4: revised content accepted and hand-photo layout completed
 
 The user accepted the displayed revisions with “ok” on 1 October 2026; the empty manual-edit snapshot contained no text changes. Level 3 now uses the approved 44-word concrete-event passage and aligned discovery-card caption. Shared Level 4/5 uses the approved 83-word passage, including the wife-hand/ring observation paragraph, with the authentic historical hand image enlarged to the right of the reading. The earlier three-scene strip is replaced by this focused photo composition. The original three choices, compact 191.5 pt activity panel and native 13 pt student text remain.
