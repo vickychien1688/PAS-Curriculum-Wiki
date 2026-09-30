@@ -1,5 +1,9 @@
 # PE2 additional Bremen story worksheet
 
+## Video QR recheck — 2026-09-30 16:36 Taiwan
+
+The four video QR crops in the current Level3 and shared Level4/5 PDFs decode to the expected permanent Dropbox raw URLs. Both links return anonymous HTTP206 video/mp4 with valid MP4 headers and range support. Desktop browser playback advanced to53.58/184s for Story and35.80/159.54s for After the Story, with readyState4 and no media error. The reported previous phone failure was not reproduced; no physical phone scan was performed. Links, QR codes, files and sharing settings are unchanged. Full test receipts remain in the private project backup.
+
 ## Current delivery — 2026-09-30
 
 2026-09-30 completed: the user approved the Level3 narration (「因檔ok」, audio OK). Eight sentence clips plus the36.833-second Whole Story are published at [sp/215](https://e-reading.now/sp/215), with original remote hashes verified, native-rate browser technical playback ending for all9 tracks, and a1920×1080 representative image. Level3 layoutv2 now has all three QR codes; six PDF/PNG decodes, 13pt text, unchanged pixels outside the article QR and full-page Poppler review passed. The Level4/5 shared v7 layout and [sp/214](https://e-reading.now/sp/214) remain current. Three student PDFs are delivered to the existing Google Drive Level3/4/5 PE2 folders, with filename PE2-LevelN-不來梅樂手學習單.pdf accepted by the user and folder readback/byte sizes verified. Teacher guides stay on the original Drive links; videos stay on the tested direct-player Dropbox links. Full PDFs and production records remain private. Formal ws numbering and physical printed QR scans remain separate; no new franchise resource cards were published.
