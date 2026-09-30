@@ -1,12 +1,14 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 wording remains under review. Starter now shares the same approved worksheet at teacher discretion.
+Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2 content is approved; Level 3–5 wording remains under review. Starter now shares the same approved worksheet at teacher discretion.
 
 ## Current content-first review
 
 On 1 October 2026 the user asked to settle the remaining content before drawing. Level 2–5 learning focus, English passage, activity and fact panel must be confirmed before new artwork/layout. Existing Starter/Level 1 deliverables remain approved. The user confirmed all four classes have finished Unit 1 and are preparing for Unit 2; Unit 2 is not already learned.
 
-The current Level 2 discussion proposal uses the completed Unit 1 want-plus-infinitive pattern and see vocabulary to introduce internal bones and medical use, with two closed word-bank blanks. The private LEVEL2_CONTENT_PROPOSAL.json is the active proposal; older Level 2 text/matching plans remain historical drafts, not authorization to draw. The exact English and answers remain private.
+The user accepted the exact Level 2 proposal with “ok”: a 38-word passage, two closed word-bank blanks and a discovery-date/location fact. The private LEVEL2_CONTENT_PROPOSAL.json records the approved content and checksum; the earlier three-pair matching activity is superseded. Level 2 text is preserved without rewording.
+
+The current Level 3 discussion draft in LEVEL3_CONTENT_PROPOSAL.json connects completed Unit 1 occupations to observation, testing, later equipment development and medical use. Four-stage sequencing is proposed; the fact panel explains the unknown meaning of X. Paper screen is explicit to avoid a modern display interpretation. Past-tense forms and historical terms are teacher-supported extensions, not claimed mastered in Unit 1. This draft is not approved; no new art or audio was produced.
 
 Level 3 can connect doctor/scientist occupations; Level 4 can use the completed body/bone vocabulary. Official Level 5 Unit 1 covers sea protection, while upcoming Unit 2 is Good Idea! (inventions). The lesson may warm up that future theme but must not claim its vocabulary or used-to pattern is already learned. No new artwork, layout, audio or publication was made in this content discussion.
 
@@ -40,12 +42,12 @@ The factual sequence is the covered tube and glowing treated paper screen, subse
 |---|---|---|
 | Starter | Shared sheet; teacher-led optional use | Same approved Level 1 page and audio; pointing/repeating first, writing optional |
 | Level 1 | Guided short sentences | Right head-film and left hospital scene; six oral body-part targets, four word-bank labels and discovery-location fact |
-| Level 2 | 40–50 | Current proposal: want to see + internal bones/medical purpose; two word-bank blanks. Content confirmation pending |
-| Level 3 | 60–80 | Discovery story and later equipment/medical use; four-stage sequencing |
+| Level 2 | 38, approved | Want to see + internal bones/medical purpose; two word-bank blanks and discovery date/location fact |
+| Level 3 | 60, discussion draft | Discovery story and later equipment/medical use; four-stage sequencing; X means unknown |
 | Level 4 | 90–110 | Observation and material tests; closed evidence/cause choices |
 | Level 5 | 110–130 | Discovery, later engineering and medical contribution; closed contribution/main-idea choices |
 
-Level 2–5 content is unchanged by the Level 1 revision and has not yet been laid out. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
+Level 2 content is approved and Level 3 has a concrete new draft; Level 4–5 older text remains under review. None of these four levels has been laid out. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
 
 ## Audio, QR and delivery status
 
