@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-09-30: [PE3 X-ray — Level 2–5 only](germany-pe3-xray-all-levels.md). The user explicitly excluded Starter and Level 1; Starter is currently at Unit 1. Content-v4 and the current plan cover four levels. The medical-contribution theme remains; concrete content is under review, before artwork/audio/QR.
+2026-09-30: [PE3 X-ray — Level 1 picture activity and Level 2–5 readings](germany-pe3-xray-all-levels.md). The user restored Level 1 only for hand/foot/head identification on a full-body image. Starter remains excluded; Level 2–5 plans continue. Content-v5 reflects this scope before image/layout/audio production.
 
 ## Current delivery — 2026-09-30
 

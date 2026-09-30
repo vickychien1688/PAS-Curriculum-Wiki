@@ -1,10 +1,10 @@
-# Germany PE3 — X-ray worksheets for Level 2–5
+# Germany PE3 — X-ray: Level 1 picture activity and Level 2–5 readings
 
 Updated 2026-09-30. Stage: medical-contribution theme approved; revised wording under review, before worksheet layout.
 
 ## Confirmed scope and latest correction
 
-The user initially selected Starter through Level 5, then explicitly excluded Starter and Level 1 after clarifying that Starter is currently at Unit 1. The active worksheet scope is now Level 2–5 only. They then required detailed research before writing and rejected unsupported or invented articles. A premature first draft is retained privately as not adopted. No artwork, audio, QR code or student-platform publication has been made for this topic.
+The latest user direction restores Level 1 only as a simple full-body X-ray picture activity: listen and point to hand, foot and head. There is no reading passage, written answer or required full-sentence response. Starter remains excluded; its current Unit 1 progress is confirmed. Level 2–5 retain their differentiated reading plans. Research-first factual standards remain in force, and no image, worksheet PDF, audio or QR has yet been produced.
 
 The user subsequently approved the discovery → equipment development → medical contribution theme. Röntgen is a German man (he/his); the famous hand image belongs to his wife Anna Bertha. The wording distinguishes discovery of the radiation from later development of medical equipment by multiple contributors. Imaging provides diagnostic clues, not the cause of every disease.
 
@@ -14,18 +14,19 @@ The research reads Röntgen’s 1895 preliminary report (selected German scan pa
 
 The factual sequence is the covered tube and glowing treated paper screen, subsequent material tests, the later hand radiograph, and medical applications. The screen is not a modern electronic display. Rays are invisible; transmission depends on materials and thickness. The discovery is dated 8 November 1895; the famous wife’s left-hand image is dated 22 December 1895 by the museum record. The catalogue introduction’s 1896 date contradicts its own main text and the museum record and is not adopted. The research does not invent a quotation from his wife, give an unsupported precise exposure duration, or make an unqualified first-image claim. Photographic copies and different historic hands must be identified accurately.
 
-## Current Level 2–5 planning
+## Current Level 1–5 planning
 
-The user has confirmed the four-level scope and medical-contribution theme. The concrete wording and activities remain for review.
+The user has specified the Level 1 picture task and three target words. The broader medical-contribution theme remains for Level 2–5, whose wording and activities are still under review.
 
 | Level | Approximate words | Content and task focus |
 |---|---|---|
+| Level 1 | No passage | One full-body image; listen and point to hand, foot and head; teacher models first |
 | Level 2 | 40–50 | Outside/inside comparison; picture matching plus one purpose choice |
 | Level 3 | 60–80 | Discovery story and later equipment/medical use; four-stage sequencing |
 | Level 4 | 90–110 | Observation and material tests; three closed evidence/cause choices |
 | Level 5 | 110–130 | Discovery, later engineering and medical contribution; three closed contribution/main-idea choices |
 
-Content-v4 filters the current review to Level 2–5 without rewriting those four passages. Earlier six-level and body-identification proposals are historical. Starter Unit 1 is confirmed by the user; there is no pending progress question and no Starter/Level 1 X-ray production. Full passages, evidence and plans stay private.
+Content-v5 includes the new Level 1 task while leaving Level 2–5 passages unchanged. Earlier Level 1 reading/yes-no proposals and Starter body activities remain historical. Select an accurately identified, appropriately licensed radiograph or clearly labelled skeletal illustration with the hands, feet and head fully visible. No extra activity types are required for Level 1. Full content and plans stay private.
 
 ## Production next step
 
