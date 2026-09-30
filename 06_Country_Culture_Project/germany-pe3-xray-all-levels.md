@@ -1,5 +1,14 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## 1 October: Level 4/5 audio accepted and QR release complete
+
+The user accepted the revised wife/ring focus and full audio v2 with “ok”. The exact ten sentence files and 41.664-second Whole Story are published unchanged at [the shared Level 4/5 listening page](https://e-reading.now/sp/217), with a representative sketch above the audio. All eleven remote hashes match the approved files. Sentence playback and the actual public Whole Story button produced ended events at native rate. The first whole-file wall-clock wait expired; later public-button evidence includes completed playback. No agent auditory judgment is claimed.
+
+Layout v6 replaces only the pending QR in approved four-picture v5. The 83-word passage, historic hand image, original three process illustrations, 13-point student text and three closed questions remain unchanged. Level 4/5 PDF, PNG and JPG are byte-identical. Both PDFs and both PNGs decode to the shared page, PDF links agree, and pixels outside the QR frame are unchanged. Full-page and QR-detail visual checks passed. Desktop final copies, editable production files and the asset index are updated.
+
+Starter/Level 1 continue to share sp/216. Level 2/3 audio v1 still awaits listening approval and is not published. Physical phone scanning, worksheet numbering and new-page Drive/franchise distribution remain pending. Full worksheets, audio, editable sources and verification evidence are stored only in the private project archive. Earlier pending-v2 notes below are historical.
+
+
 ## 1 October: targeted wife/ring audio revision
 
 The user rejected the unusually high intonation around the wife and ring words in shared Level 4/5 audio v1. Revision v2 replaces just the two affected sentences using native Sparkles/Turbo takes at speed 0.85; eight other MP3/WAV clips remain byte-identical. No synthetic pitch compression or word-tail trimming is used. Printed content and pictures are unchanged.
