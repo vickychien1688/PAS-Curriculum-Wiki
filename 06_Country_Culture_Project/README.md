@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-10-01: [PE3 X-ray latest Level 1](germany-pe3-xray-all-levels.md): v7 visuals accepted. Ten sentence clips and a 20.480-second continuous audio preview are ready, ending with the requested Germany discovery fact. Established Sparkles voice and speed preserved. Lesson listening review and real QR remain pending; no audio published. Level 2–5 content unchanged, Starter excluded.
+2026-10-01: [PE3 X-ray Level 1](germany-pe3-xray-all-levels.md): audio v2 replaces the first sentence after voice feedback; the remaining nine original clips and closing fact are preserved. First-line and 20.998-second full previews are ready. Listening acceptance and QR remain pending; v7 visuals remain approved. No audio published.
 
 Earlier full-body and picture-blank Level 1 samples are superseded; see the current specification above.
 
