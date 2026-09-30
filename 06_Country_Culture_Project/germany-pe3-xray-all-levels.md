@@ -1,6 +1,6 @@
 # Germany PE3 — X-ray: Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-10-01. Stage: Level 1 content-v9 / layout-level1-v7 sample awaiting visual review. Level 2–5 wording remains under review. Starter is excluded.
+Updated 2026-10-01. Stage: Level 1 content-v9 / layout-level1-v7 visual approved; lesson audio preview awaiting listening review. Level 2–5 wording remains under review. Starter is excluded.
 
 ## Current Level 1 direction
 
@@ -12,7 +12,7 @@ The user approved the short discovery-location fact: X-rays were discovered in G
 
 The v3 single picture-blank approach and v4 non-series layout were superseded. The v5 sample restored the original hierarchy but the user found it sparse. The latest explicit direction is text on the left, X-ray film on the right and a hospital or worried-child illustration at lower left. Version 7 preserves this composition, groups the six questions at a compact 23 pt baseline spacing and adds a new story illustration of a radiographer reassuring a mildly anxious child before an examination. There is no visible radiation or depiction of an exposure with staff beside the child. The PE3 numbered activity panels, curved title, authentic branding and star fact panel remain.
 
-The sample is one 581.04 × 804.96 pt page, with native 13 pt student text and 12 pt instructions, plus a 4842 × 6708 print PNG. Final Poppler full-page and enlarged detail checks are complete. It is a review sample with audio/QR pending, not an approved print or platform release. Full text, answer keys, artwork, editable production files and rejected versions are stored only in the private project package.
+The sample is one 581.04 × 804.96 pt page, with native 13 pt student text and 12 pt instructions, plus a 4842 × 6708 print PNG. Final Poppler full-page and enlarged detail checks are complete. The user accepted the visual with “完美” on 1 October 2026 and requested narration ending with the Germany discovery sentence. Audio is now a concrete preview; QR and platform release remain pending. Full text, answer keys, artwork, editable production files and rejected versions are stored only in the private project package.
 
 ## Research and factual boundaries
 
@@ -34,7 +34,7 @@ Level 2–5 content is unchanged by the Level 1 revision and has not yet been la
 
 ## Production next step
 
-Continue from the private Level 1 v7 review sample. The latest requested wording and discovery fact do not need to be re-confirmed. The requested left/right composition is implemented; visual feedback is pending; X-ray audio and real QR codes have not been produced or released. Keep the PE3 forest-green identity, original activity hierarchy and actual 13 pt text. Use the established audio process after the sample review, then extend the other levels. Do not reuse existing Cars listening URLs. Existing Cars and Bremen deliverables are unchanged.
+Continue from the visually approved private Level 1 v7 sample. The latest requested wording and discovery fact do not need to be re-confirmed. The requested composition is approved. Ten sentence clips and a 20.480-second natural continuous track have been generated using the established Sparkles voice, Turbo model and native speed 0.85. The closing sentence is the requested Germany discovery fact. All eleven transcripts match; decode, clipping and shared PCM checks passed. Technical diagnostics are not listening approval. The user must hear this concrete lesson preview before audio publication and QR integration. Keep the PE3 forest-green identity, original activity hierarchy and actual 13 pt text. Use the exact files after lesson listening acceptance, then extend the other levels. Do not reuse existing Cars listening URLs. Existing Cars and Bremen deliverables are unchanged.
 
 ## Sources
 
