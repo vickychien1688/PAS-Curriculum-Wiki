@@ -1,6 +1,6 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2 and Level 3 content are approved; Level 4–5 wording remains under review. Starter now shares the same approved worksheet at teacher discretion.
+Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–4 content is approved; Level 5 wording remains under review. Starter now shares the same approved worksheet at teacher discretion.
 
 ## Current content-first review
 
@@ -10,7 +10,7 @@ The user accepted the exact Level 2 proposal with “ok”: a 38-word passage, t
 
 The user accepted the exact Level 3 writing block with “ok”: the 60-word passage, four-stage sequencing and the unknown meaning of X. The private LEVEL3_CONTENT_PROPOSAL.json records approval and the exact displayed activity heading. Paragraphs, captions and the fact sentence are preserved. Past-tense historical narration remains teacher-supported, not claimed mastered in Unit 1.
 
-The current Level 4 proposal is revision 2 of the private LEVEL4_CONTENT_PROPOSAL.json (60 words). The user rejected the difficult opening and requested a clear causal link from the discovery to later machines. The revision begins with a familiar hand/bones question, removes the tube, screen and material-testing detail, introduces the discoverer, and explicitly connects his discovery to equipment developed by other scientists and engineers. Three closed choices now check the discovery, later developers and medical purpose; the first uses completed Unit 1 did/short-answer grammar. The 1901 Nobel fact remains. Historical verbs and science terms are teacher-supported, not claimed mastered. The previous 91-word version and rejection record are preserved privately and are not production sources. Revision 2 remains under discussion; no new artwork, layout or audio was made.
+Level 4 revision 3 is now content-approved in the private LEVEL4_CONTENT_PROPOSAL.json (61 words). The user manually made the final reference to the images more explicit and approved the edited block conditional on correctness. Language review passed: the added modifier is grammatical and preserves the existing factual claim. The familiar hand/bones opening and explicit discovery-to-equipment causality remain; all three questions/options and the 1901 Nobel fact are unchanged. The private record stores the edit, conditional approval and content checksum. Historical verbs and science terms remain teacher-supported. Level 5 still needs content review before artwork. No new artwork, layout or audio was made.
 
 Level 3 can connect doctor/scientist occupations; Level 4 can use the completed body/bone vocabulary. Official Level 5 Unit 1 covers sea protection, while upcoming Unit 2 is Good Idea! (inventions). The lesson may warm up that future theme but must not claim its vocabulary or used-to pattern is already learned. No new artwork, layout, audio or publication was made in this content discussion.
 
@@ -46,10 +46,10 @@ The factual sequence is the covered tube and glowing treated paper screen, subse
 | Level 1 | Guided short sentences | Right head-film and left hospital scene; six oral body-part targets, four word-bank labels and discovery-location fact |
 | Level 2 | 38, approved | Want to see + internal bones/medical purpose; two word-bank blanks and discovery date/location fact |
 | Level 3 | 60, approved | Discovery story and later equipment/medical use; four-stage sequencing; X means unknown |
-| Level 4 | 60, revision 2 discussion draft | Familiar hand/bones opening; explicit discovery-to-equipment causality; three closed choices; 1901 Nobel fact |
+| Level 4 | 61, revision 3 approved | Familiar hand/bones opening; explicit discovery-to-equipment causality; three closed choices; 1901 Nobel fact |
 | Level 5 | 110–130 | Discovery, later engineering and medical contribution; closed contribution/main-idea choices |
 
-Level 2 and Level 3 content are approved; Level 4 has a concrete new draft and Level 5 older text remains under review. None of these four levels has been laid out. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
+Level 2–4 content is approved; Level 5 older text remains under review. None of these four levels has been laid out. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
 
 ## Audio, QR and delivery status
 
