@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-10-01: [PE3 X-ray latest Level 1 sample](germany-pe3-xray-all-levels.md): v6 follows the requested left text, right head-film and lower-left hospital scene. Six vocabulary targets include prior Starter body words; the earlier sparse v5 is superseded. Original series identity and accepted classroom/discovery wording remain. Visual review and audio/QR are pending; Level 2–5 content unchanged, Starter excluded.
+2026-10-01: [PE3 X-ray latest Level 1 sample](germany-pe3-xray-all-levels.md): v7 removes all labels and pointer marks from the child in the lower-left hospital scene after user feedback. Six oral questions remain; four written labels refer to the right film. Original series layout and accepted wording remain. Visual review and audio/QR are pending; Level 2–5 content unchanged, Starter excluded.
 
 Earlier full-body and picture-blank Level 1 samples are superseded; see the current specification above.
 

@@ -1,16 +1,16 @@
 # Germany PE3 — X-ray: Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-10-01. Stage: Level 1 content-v8 / layout-level1-v6 sample awaiting visual review. Level 2–5 wording remains under review. Starter is excluded.
+Updated 2026-10-01. Stage: Level 1 content-v9 / layout-level1-v7 sample awaiting visual review. Level 2–5 wording remains under review. Starter is excluded.
 
 ## Current Level 1 direction
 
 The class is currently in Level 1 Unit 1, but the user clarified that the children should have prior body-part knowledge. The earlier Starter Unit 6 was re-read: it includes eye, ear, nose and mouth, with plural eyes/ears in model sentences. The current unit must not be treated as the learner's entire prior vocabulary. Curriculum inclusion is not a per-student completion record.
 
-The new sample expands to six body-part targets by adding eyes and mouth. Four targets remain on the right-hand head-film illustration; the two new targets point to the child's visible face in a hospital scene, avoiding identification of an eye socket as a visible eye. A six-word bank supports single-word labelling. Full text and answers remain private.
+The sample retains six oral body-part questions. Four written targets remain on the right-hand head-film illustration with a four-word bank. Eyes and mouth are oral pointing activities only. The user found labels on the child's face frightening, so version 7 removes all letters, leader lines and dots from the hospital scene. The child illustration is solely a reassuring context; teachers can invite learners to point to their own eyes and mouth. Full text and answers remain private.
 
 The user approved the short discovery-location fact: X-rays were discovered in Germany. The University of Würzburg archive confirms Röntgen's discovery there on 8 November 1895. This refers to where the discovery was made, not where the radiation or illustrative image originates. The teacher introduces the discovery verb without requiring independent mastery of the passive construction. The user also requested a reassuring opening and a short invitation to help find the parts; these are classroom language, not invented historical dialogue.
 
-The v3 single picture-blank approach and v4 non-series layout were superseded. The v5 sample restored the original hierarchy but the user found it sparse. The latest explicit direction is text on the left, X-ray film on the right and a hospital or worried-child illustration at lower left. Version 6 follows this composition, groups the six questions at a compact 23 pt baseline spacing and adds a new story illustration of a radiographer reassuring a mildly anxious child before an examination. There is no visible radiation or depiction of an exposure with staff beside the child. The PE3 numbered activity panels, curved title, authentic branding and star fact panel remain.
+The v3 single picture-blank approach and v4 non-series layout were superseded. The v5 sample restored the original hierarchy but the user found it sparse. The latest explicit direction is text on the left, X-ray film on the right and a hospital or worried-child illustration at lower left. Version 7 preserves this composition, groups the six questions at a compact 23 pt baseline spacing and adds a new story illustration of a radiographer reassuring a mildly anxious child before an examination. There is no visible radiation or depiction of an exposure with staff beside the child. The PE3 numbered activity panels, curved title, authentic branding and star fact panel remain.
 
 The sample is one 581.04 × 804.96 pt page, with native 13 pt student text and 12 pt instructions, plus a 4842 × 6708 print PNG. Final Poppler full-page and enlarged detail checks are complete. It is a review sample with audio/QR pending, not an approved print or platform release. Full text, answer keys, artwork, editable production files and rejected versions are stored only in the private project package.
 
@@ -24,7 +24,7 @@ The factual sequence is the covered tube and glowing treated paper screen, subse
 
 | Level | Approximate words | Content and task focus |
 |---|---|---|
-| Level 1 | Guided short sentences | Right head-film and left hospital scene; six body-part targets, word-bank labels and discovery-location fact |
+| Level 1 | Guided short sentences | Right head-film and left hospital scene; six oral body-part targets, four word-bank labels and discovery-location fact |
 | Level 2 | 40–50 | Outside/inside comparison; picture matching plus one purpose choice |
 | Level 3 | 60–80 | Discovery story and later equipment/medical use; four-stage sequencing |
 | Level 4 | 90–110 | Observation and material tests; closed evidence/cause choices |
@@ -34,7 +34,7 @@ Level 2–5 content is unchanged by the Level 1 revision and has not yet been la
 
 ## Production next step
 
-Continue from the private Level 1 v6 review sample. The latest requested wording and discovery fact do not need to be re-confirmed. The requested left/right composition is implemented; visual feedback is pending; X-ray audio and real QR codes have not been produced or released. Keep the PE3 forest-green identity, original activity hierarchy and actual 13 pt text. Use the established audio process after the sample review, then extend the other levels. Do not reuse existing Cars listening URLs. Existing Cars and Bremen deliverables are unchanged.
+Continue from the private Level 1 v7 review sample. The latest requested wording and discovery fact do not need to be re-confirmed. The requested left/right composition is implemented; visual feedback is pending; X-ray audio and real QR codes have not been produced or released. Keep the PE3 forest-green identity, original activity hierarchy and actual 13 pt text. Use the established audio process after the sample review, then extend the other levels. Do not reuse existing Cars listening URLs. Existing Cars and Bremen deliverables are unchanged.
 
 ## Sources
 
