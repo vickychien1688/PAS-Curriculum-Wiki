@@ -1,6 +1,6 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–4 content is approved; Level 5 wording remains under review. Starter now shares the same approved worksheet at teacher discretion.
+Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 content is approved; Level 4/5 now share the same approved content and page. The new sketch layouts are visual-review samples with audio/QR pending. Starter now shares the same approved worksheet at teacher discretion.
 
 ## Current content-first review
 
@@ -10,11 +10,19 @@ The user accepted the exact Level 2 proposal with “ok”: a 38-word passage, t
 
 The user accepted the exact Level 3 writing block with “ok”: the 60-word passage, four-stage sequencing and the unknown meaning of X. The private LEVEL3_CONTENT_PROPOSAL.json records approval and the exact displayed activity heading. Paragraphs, captions and the fact sentence are preserved. Past-tense historical narration remains teacher-supported, not claimed mastered in Unit 1.
 
-Level 4 revision 3 is now content-approved in the private LEVEL4_CONTENT_PROPOSAL.json (61 words). The user manually made the final reference to the images more explicit and approved the edited block conditional on correctness. Language review passed: the added modifier is grammatical and preserves the existing factual claim. The familiar hand/bones opening and explicit discovery-to-equipment causality remain; all three questions/options and the 1901 Nobel fact are unchanged. The private record stores the edit, conditional approval and content checksum. Historical verbs and science terms remain teacher-supported. Level 5 still needs content review before artwork. No new artwork, layout or audio was made.
+Level 4 revision 3 is now content-approved in the private LEVEL4_CONTENT_PROPOSAL.json (61 words). The user manually made the final reference to the images more explicit and approved the edited block conditional on correctness. Language review passed: the added modifier is grammatical and preserves the existing factual claim. The familiar hand/bones opening and explicit discovery-to-equipment causality remain; all three questions/options and the 1901 Nobel fact are unchanged. The private record stores the edit, conditional approval and content checksum. Historical verbs and science terms remain teacher-supported. The user subsequently requested worksheet production and explicitly assigned the same content to Level 5. The Level 5 old draft is superseded and privately archived.
 
-Level 3 can connect doctor/scientist occupations; Level 4 can use the completed body/bone vocabulary. Official Level 5 Unit 1 covers sea protection, while upcoming Unit 2 is Good Idea! (inventions). The lesson may warm up that future theme but must not claim its vocabulary or used-to pattern is already learned. No new artwork, layout, audio or publication was made in this content discussion.
+Level 3 can connect doctor/scientist occupations; Level 4 can use the completed body/bone vocabulary. Official Level 5 Unit 1 covers sea protection, while upcoming Unit 2 is Good Idea! (inventions). The lesson may warm up that future theme but must not claim its vocabulary or used-to pattern is already learned. This curriculum discussion preceded the subsequently authorized artwork/layout production described below.
 
 Curriculum references: [Level 2 official scope](https://ngl.cengage.com/assets/downloads/eow_pro0000000537/eow_l2_scope_and_sequence.pdf), [Level 3 Unit 1](../01_EOW/EOW3/unit-01-the-world-of-work.md), [Level 4 Unit 1](../01_EOW/EOW4/unit-01-feeling-fit.md), [Level 5 official scope](https://ngl.cengage.com/assets/downloads/eow_pro0000000537/eow_l5_scope_and_sequence.pdf). Official Level 2/5 PDFs were checked on 1 October; the class completion statement comes from the user, not inferred from scope tables.
+
+## Level 2–5 worksheet samples and portrait correction
+
+The user authorized production on 1 October and requested identical Level 4/5 content. Three unique one-page designs are produced: a hand/exterior-to-X-ray comparison with two blanks (Level 2), four illustrated ordering cards (Level 3), and shared reading/closed choices (Level 4/5). The four per-level PDF/PNG/JPG files use the established PE3 forest-green identity, curved title and actual 13 pt student text. PDF pages are 581.04 × 804.96 pt; print PNGs are 4842 × 6708. Level 4/5 copies are byte-identical.
+
+During production the user found the coloured historical figure artificial and questioned the likeness. Version 2 replaces only the discovery/testing historical panels with graphite sketches based on the authentic 1901 portrait; modern medical/engineering scenes remain. The genuine portrait comes from the Nobel Foundation photograph hosted on Wikimedia Commons, marked public domain. The worksheet distinguishes historical scene illustrations from that photograph; laboratory details remain simplified reconstructions. The rejected colour panels and reasons are retained privately.
+
+Actual PDF font/text checks and Poppler full/detail visual review passed. Current private source: layout-level2-5-v2. Desktop samples and editable production sources are delivered, and the asset index is updated. This is a visual-review sample, not an audio-ready release: the top-right panel explicitly says audio QR pending. No new Level 2–5 audio, listening publication, final QR, Drive delivery or franchise delivery occurred. User visual approval of revision 2 is still pending.
 
 ## Shared Starter / Level 1 use
 
@@ -47,9 +55,9 @@ The factual sequence is the covered tube and glowing treated paper screen, subse
 | Level 2 | 38, approved | Want to see + internal bones/medical purpose; two word-bank blanks and discovery date/location fact |
 | Level 3 | 60, approved | Discovery story and later equipment/medical use; four-stage sequencing; X means unknown |
 | Level 4 | 61, revision 3 approved | Familiar hand/bones opening; explicit discovery-to-equipment causality; three closed choices; 1901 Nobel fact |
-| Level 5 | 110–130 | Discovery, later engineering and medical contribution; closed contribution/main-idea choices |
+| Level 5 | 61, shared approved content | Identical to Level 4 by explicit user request |
 
-Level 2–4 content is approved; Level 5 older text remains under review. None of these four levels has been laid out. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
+All four levels have approved content and layout-version-2 review samples; Level 4 and Level 5 are identical. Earlier Starter/full-body Level 1 and single picture-blank proposals remain historical, not current requirements.
 
 ## Audio, QR and delivery status
 
@@ -59,7 +67,7 @@ The new listening entry is [sp/216](https://e-reading.now/sp/216), under Other �
 
 Layout v8 inserts the native vector QR into the approved v7 sheet. Final PDF and 600 dpi PNG both decode to sp/216; the PDF link agrees. Pixels outside the QR frame are identical to v7, and Poppler full-page and QR-detail visual checks passed. Physical phone scanning has not been performed.
 
-PDF, PNG and JPG copies are in both desktop Germany-PE3 final Starter and Level 1 folders and the current sample entry; v7 is retained as history and editable sources are in the production folder. The asset index is updated. The new X-ray page has not yet been distributed to Google Drive or the franchise resource cards; worksheet numbering remains pending. Existing Cars and Bremen deliverables are unchanged. Continue with Level 2–5 content review and subsequent requested distribution. Full materials and release evidence remain in the private project package.
+PDF, PNG and JPG copies are in both desktop Germany-PE3 final Starter and Level 1 folders and the current sample entry; v7 is retained as history and editable sources are in the production folder. The asset index is updated. The new X-ray page has not yet been distributed to Google Drive or the franchise resource cards; worksheet numbering remains pending. Existing Cars and Bremen deliverables are unchanged. Continue with sketch-layout feedback, new Level 2–5 audio previews and approved publication/QR, then final distribution. Full materials and release evidence remain in the private project package.
 
 ## Sources
 
@@ -78,3 +86,5 @@ PDF, PNG and JPG copies are in both desktop Germany-PE3 final Starter and Level 
 ## Prerequisite curriculum reference
 
 - [Hand in Hand Starter Unit 6: My Body](../01_EOW/Hand_in_Hand_Starter/unit-06-my-body.md). This informs vocabulary selection; it does not assert individual lesson completion.
+
+Portrait reference: [Nobel Foundation portrait, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WilhelmR%C3%B6ntgen.JPG), documented as public domain; 1901 photograph, published 1904.

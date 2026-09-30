@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-01 X-ray production update: all content approved, Level 4/5 explicitly shared. Three unique 13 pt sketch-layout samples (four per-level PDF/PNG/JPG copies) delivered to desktop. Historical figures were redrawn using the authentic portrait after user feedback; audio/QR and final external delivery remain pending. Full materials stay private.
+
 2026-10-01 X-ray next phase: Level 2–5 have completed Unit 1 and are entering Unit 2. Confirm content before drawing; Level 2–4 content is approved; Level 4 includes the user’s wording clarification after a successful language review. Level 5 remains under discussion. Starter/Level 1 remain approved and shared.
 
 2026-10-01: [PE3 X-ray Starter / Level 1](germany-pe3-xray-all-levels.md): the user added the approved worksheet to Starter for teacher discretion. Both desktop folders have the same PDF/PNG/JPG; the audio and QR remain sp/216. Writing is optional for Starter. Level 2–5 content, numbering and new-page cloud/franchise distribution remain pending.
