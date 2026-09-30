@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-10-01: [PE3 X-ray Level 1](germany-pe3-xray-all-levels.md): audio v3 approved with “ok”; ten clips plus Whole Story published unchanged at sp/216 with a representative image. Layout v8 QR and desktop PDF/PNG/JPG verified. Level 2–5 content, numbering and new-page cloud/franchise distribution remain pending.
+2026-10-01: [PE3 X-ray Starter / Level 1](germany-pe3-xray-all-levels.md): the user added the approved worksheet to Starter for teacher discretion. Both desktop folders have the same PDF/PNG/JPG; the audio and QR remain sp/216. Writing is optional for Starter. Level 2–5 content, numbering and new-page cloud/franchise distribution remain pending.
 
 Earlier full-body and picture-blank Level 1 samples are superseded; see the current specification above.
 

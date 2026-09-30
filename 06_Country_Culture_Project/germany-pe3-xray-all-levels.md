@@ -1,6 +1,10 @@
-# Germany PE3 — X-ray: Level 1 picture activity and Level 2–5 readings
+# Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
-Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 wording remains under review. Starter is excluded.
+Updated 2026-10-01. Stage: Level 1 visuals and audio v3 approved; listening page sp/216 and layout-level1-v8 QR completed. Level 2–5 wording remains under review. Starter now shares the same approved worksheet at teacher discretion.
+
+## Shared Starter / Level 1 use
+
+On 1 October 2026 the user explicitly included this existing worksheet in Starter for teachers to use freely. The Starter PDF, PNG and JPG are byte-identical copies of the Level 1 v8 files, with the same sp/216 QR and approved audio v3. Teachers choose listening, looking, pointing and repeating according to the class; word-bank writing is optional and independent reading/spelling is not required. This supersedes the earlier Starter exclusion. Starter is still known to be at Unit 1; inclusion does not imply the body vocabulary has already been taught.
 
 ## Current Level 1 direction
 
@@ -20,10 +24,11 @@ The research reads Röntgen’s 1895 preliminary report (selected German scan pa
 
 The factual sequence is the covered tube and glowing treated paper screen, subsequent material tests, the later hand radiograph, and medical applications. The screen is not a modern electronic display. Rays are invisible; transmission depends on materials and thickness. The discovery is dated 8 November 1895; the famous wife’s left-hand image is dated 22 December 1895 by the museum record. The catalogue introduction’s 1896 date contradicts its own main text and the museum record and is not adopted. The research does not invent a quotation from his wife, give an unsupported precise exposure duration, or make an unqualified first-image claim. Photographic copies and different historic hands must be identified accurately.
 
-## Current Level 1–5 planning
+## Current Starter–Level 5 planning
 
 | Level | Approximate words | Content and task focus |
 |---|---|---|
+| Starter | Shared sheet; teacher-led optional use | Same approved Level 1 page and audio; pointing/repeating first, writing optional |
 | Level 1 | Guided short sentences | Right head-film and left hospital scene; six oral body-part targets, four word-bank labels and discovery-location fact |
 | Level 2 | 40–50 | Outside/inside comparison; picture matching plus one purpose choice |
 | Level 3 | 60–80 | Discovery story and later equipment/medical use; four-stage sequencing |
@@ -40,7 +45,7 @@ The new listening entry is [sp/216](https://e-reading.now/sp/216), under Other �
 
 Layout v8 inserts the native vector QR into the approved v7 sheet. Final PDF and 600 dpi PNG both decode to sp/216; the PDF link agrees. Pixels outside the QR frame are identical to v7, and Poppler full-page and QR-detail visual checks passed. Physical phone scanning has not been performed.
 
-PDF, PNG and JPG copies are in the desktop Germany-PE3 final Level 1 folder and current sample entry; v7 is retained as history and editable sources are in the production folder. The asset index is updated. The new X-ray page has not yet been distributed to Google Drive or the franchise resource cards; worksheet numbering remains pending. Existing Cars and Bremen deliverables are unchanged. Continue with Level 2–5 content review and subsequent requested distribution. Full materials and release evidence remain in the private project package.
+PDF, PNG and JPG copies are in both desktop Germany-PE3 final Starter and Level 1 folders and the current sample entry; v7 is retained as history and editable sources are in the production folder. The asset index is updated. The new X-ray page has not yet been distributed to Google Drive or the franchise resource cards; worksheet numbering remains pending. Existing Cars and Bremen deliverables are unchanged. Continue with Level 2–5 content review and subsequent requested distribution. Full materials and release evidence remain in the private project package.
 
 ## Sources
 
