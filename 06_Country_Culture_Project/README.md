@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-09-30: [PE3 X-ray, Starter–Level 5](germany-pe3-xray-all-levels.md). Latest steering connects Starter/Level 1 to My Body with full-body picture identification. Starter Unit 6 and EOW1 Unit 7 vocabulary have been checked; actual class progress remains unconfirmed. Full plans and wording stay private, before artwork/audio/QR.
+2026-09-30: [PE3 X-ray — Level 2–5 only](germany-pe3-xray-all-levels.md). The user explicitly excluded Starter and Level 1; Starter is currently at Unit 1. Content-v4 and the current plan cover four levels. The medical-contribution theme remains; concrete content is under review, before artwork/audio/QR.
 
 ## Current delivery — 2026-09-30
 
