@@ -14,7 +14,15 @@ The research reads Röntgen’s 1895 preliminary report (selected German scan pa
 
 The factual sequence is the covered tube and glowing treated paper screen, subsequent material tests, the later hand radiograph, and medical applications. The screen is not a modern electronic display. Rays are invisible; transmission depends on materials and thickness. The discovery is dated 8 November 1895; the famous wife’s left-hand image is dated 22 December 1895 by the museum record. The catalogue introduction’s 1896 date contradicts its own main text and the museum record and is not adopted. The research does not invent a quotation from his wife, give an unsupported precise exposure duration, or make an unqualified first-image claim. Photographic copies and different historic hands must be identified accurately.
 
-## Current Level 1–5 planning proposal
+## Latest Starter / Level 1 body-theme steering
+
+The user asks to include Starter explicitly and connect X-rays to the body topic through full-body picture identification. The textbook scope and original Starter scope image have been checked: Hand in Hand Starter Unit 6 lists eye, ear, nose, mouth, arm and leg, with I have statements; its chant includes body. Hand, head and foot occur in EOW1 Unit 7. A textbook listing does not establish actual class progress; whether this Starter group is studying Unit 6 has been asked and remains unconfirmed.
+
+The revised proposal uses the same whole-body pose in an exterior picture and a clearly identified skeletal illustration. Starter listens, points and circles arms/legs; complete sentences are optional only if already learned. Level 1 can extend to head/hand/leg/foot with simple oral identification. Facial features are located on the exterior picture. A schematic must not be presented as a real patient radiograph; any actual full-body image still requires source and rights checks. This supersedes the earlier Starter hand/foot priority and Level 1 passage-first plan. No new artwork or recording has been created.
+
+Curriculum references: [Starter Unit 6](../01_EOW/Hand_in_Hand_Starter/unit-06-my-body.md), [official Starter scope](../01_EOW/Hand_in_Hand_Starter/scope-and-sequence.md), [EOW1 Unit 7](../01_EOW/EOW1/unit-07-my-body.md).
+
+## Earlier Level 1–5 planning proposal (low-level details superseded)
 
 The user now asks to plan Level 1–5 content. The following is a proposal, not approved final wording. Earlier Starter scope remains available; this turn does not cancel it.
 

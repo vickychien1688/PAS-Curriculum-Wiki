@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-09-30: [PE3 X-ray, Starter–Level 5](germany-pe3-xray-all-levels.md). The user approved discovery → medical equipment development → diagnostic benefit as the theme. The latest Level 1–5 plan progresses from picture identification to sequencing, evidence and medical-contribution synthesis. It is proposed for discussion; content-v3 remains a wording draft. No new worksheet, audio or QR published. Complete content and research stay private.
+2026-09-30: [PE3 X-ray, Starter–Level 5](germany-pe3-xray-all-levels.md). Latest steering connects Starter/Level 1 to My Body with full-body picture identification. Starter Unit 6 and EOW1 Unit 7 vocabulary have been checked; actual class progress remains unconfirmed. Full plans and wording stay private, before artwork/audio/QR.
 
 ## Current delivery — 2026-09-30
 
