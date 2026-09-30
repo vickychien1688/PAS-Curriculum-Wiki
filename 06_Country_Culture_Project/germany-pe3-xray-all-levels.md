@@ -1,5 +1,12 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## 1 October: Level 4/5 Google Drive delivery complete
+
+Following the user's upload instruction, the approved v6 X-ray PDFs were added to the existing Level 4 and Level 5 PE 3 folders. Each destination contains exactly one new X-ray PDF, with the existing Cars file unchanged. Both uploaded files are 8,682,984 bytes; the byte sizes match the approved originals. Cloud preview and the retained sp/217 link were checked. Existing folder permissions were inherited without changes. Full files and private delivery receipts remain in the private project archive.
+
+Level 2/3 audio approval, franchise distribution, worksheet numbering and physical phone scanning remain pending. Earlier references below to pending Level 4/5 Drive delivery are superseded.
+
+
 ## 1 October: Level 4/5 audio accepted and QR release complete
 
 The user accepted the revised wife/ring focus and full audio v2 with “ok”. The exact ten sentence files and 41.664-second Whole Story are published unchanged at [the shared Level 4/5 listening page](https://e-reading.now/sp/217), with a representative sketch above the audio. All eleven remote hashes match the approved files. Sentence playback and the actual public Whole Story button produced ended events at native rate. The first whole-file wall-clock wait expired; later public-button evidence includes completed playback. No agent auditory judgment is claimed.
