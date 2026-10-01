@@ -1,6 +1,6 @@
 # Germany PE3 — Gummy bears
 
-Updated 2026-10-02. Current stage: v2 adds explicit color choices after user feedback. The shared Starter / Level 1 visual sample and matching teacher-guide draft prepared after the user said “continue” (繼續). The four-version plan was already accepted with “ok”. This production request is not recorded as final artwork or audio approval. Full worksheets, exact passages, answer keys, official images and editable files remain in the private project package.
+Updated 2026-10-02. The user accepted the shared Starter / Level 1 v2 color-choice worksheet with “ok”. The current content and visual layout are approved. A shared introduction recording is prepared for separate listening review; worksheet approval is not audio approval. Full teaching materials and production/audio files remain private.
 
 ## Topic and verified cultural background
 
@@ -24,7 +24,11 @@ A shared one-page sample now uses the current short introduction, three color/co
 
 The sample preserves PE3 forest green, the authentic school logo, the curved ribbon, fixed listening module and native 13 pt body/task type. The original HARIBO candy and founder images were reused without AI redrawing. The map uses Natural Earth boundary data and an OpenStreetMap location. Source URLs, attribution and original file hashes are recorded privately.
 
-Vector PDF, 600 dpi PNG/JPG and a matching one-page Chinese teacher-guide draft are in desktop samples and the private reproducible package. PDF text/font checks, quantities, teacher answers, source hashes, Poppler full-page/detail review and desktop-copy hashes passed. The asset index has two new topic rows with the previous 42 rows unchanged. This is a review sample, not the final approved print edition. Audio has not been recorded; the listening area clearly says it is pending and contains no QR. No new teaching-material distribution or audio publication occurred.
+Vector PDF, 600 dpi PNG/JPG and a matching one-page Chinese teacher-guide draft are in desktop samples and the private reproducible package. PDF text/font checks, quantities, teacher answers, source hashes, Poppler full-page/detail review and desktop-copy hashes passed. The asset index has two new topic rows with the previous 42 rows unchanged. The v2 artwork is now accepted. The listening area still clearly indicates pending audio/QR, so the page has not yet become the complete QR print edition. No new teaching-material distribution or audio publication occurred.
+
+## Shared introduction audio v1
+
+Three individual playback units and a continuous 7.185-second Whole Story use the approved short introduction only. The picture/color/count activities and cultural fact remain teacher-led. The established Sparkles/Turbo voice and native 0.85 speed are retained. Four final files passed decoding, word transcription, clipping and source/assembled-waveform checks; complete contours and word tails were compared with actual approved recordings. Technical diagnostics are not auditory approval. Desktop preview and private production sources are saved. Audio is awaiting user listening review and has not been published or linked to a QR.
 
 ## Required teacher guide
 
@@ -32,4 +36,4 @@ The user explicitly requested an independent guide delivered with this lesson. T
 
 ## Next
 
-Review the shared sample and guide, then confirm the remaining graded content. Continue audio, QR and final distribution using the established approval workflow. Formal worksheet numbering remains pending. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+Listen to the existing shared audio v1; after approval, upload its exact files and attach the real QR. Confirm the remaining graded content separately. Continue audio, QR and final distribution using the established approval workflow. Formal worksheet numbering remains pending. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.

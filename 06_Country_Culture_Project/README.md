@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-02 latest: [Gummy bears](germany-pe3-gummy-bears-research.md#shared-introduction-audio-v1) v2 worksheet accepted with “ok”. Shared Starter / Level 1 introduction audio has three units plus a 7.185-second Whole Story ready for listening review. Technical checks and desktop/private backup completed; no audio publication or QR yet.
+
 2026-10-02 latest: [Gummy bears v2](germany-pe3-gummy-bears-research.md#starter--level-1-sample-v2) corrects the missing color-answer choices in the shared Starter / Level 1 sample. Explicit color/number circling instructions and matching teacher guide are updated. Native 13 pt, answers, unchanged surrounding artwork and desktop copies checked; audio/QR remain pending. Complete materials stay private.
 
 2026-10-01 latest: [Gummy bears](germany-pe3-gummy-bears-research.md#starter--level-1-sample-v2) shared Starter / Level 1 sample v1 and matching Chinese teacher-guide draft are complete for review after the user said “continue”. Native 13 pt, official source images, quantities/answers, Poppler review and desktop hashes checked. Audio/QR and final artwork approval remain pending; full files private. Earlier “not yet laid out / guide requirements only” entries below are historical.
