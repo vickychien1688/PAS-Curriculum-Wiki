@@ -1,6 +1,6 @@
 # Germany PE3 — Gummy bears
 
-Updated 2026-10-01. Current stage: shared Starter / Level 1 visual sample and matching teacher-guide draft prepared after the user said “continue” (繼續). The four-version plan was already accepted with “ok”. This production request is not recorded as final artwork or audio approval. Full worksheets, exact passages, answer keys, official images and editable files remain in the private project package.
+Updated 2026-10-02. Current stage: v2 adds explicit color choices after user feedback. The shared Starter / Level 1 visual sample and matching teacher-guide draft prepared after the user said “continue” (繼續). The four-version plan was already accepted with “ok”. This production request is not recorded as final artwork or audio approval. Full worksheets, exact passages, answer keys, official images and editable files remain in the private project package.
 
 ## Topic and verified cultural background
 
@@ -14,9 +14,11 @@ Sources: [HARIBO official history](https://www.haribo.com/en/about-us/history), 
 
 Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading and information matching; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. The latter three versions still need their exact content confirmed before artwork.
 
-Starter is teacher-led: look, listen and point; counting is optional, without independent reading or spelling requirements. Level 1 practices saying colors and circling a number. The singular color question targets one bear, while counting uses all bears within one activity frame. The introductory picture is outside those counting frames. Level 1 Unit 1 contains relevant color/number language. New cultural terms require teacher support. Levels 2–5 have finished Unit 1 and have not yet studied Unit 2.
+Starter is teacher-led: look, listen and point; counting is optional, without independent reading or spelling requirements. Level 1 says and circles a color choice, then counts and circles a number. The singular color question targets one bear, while counting uses all bears within one activity frame. The introductory picture is outside those counting frames. Level 1 Unit 1 contains relevant color/number language. New cultural terms require teacher support. Levels 2–5 have finished Unit 1 and have not yet studied Unit 2.
 
-## Starter / Level 1 sample v1
+## Starter / Level 1 sample v2
+
+The user pointed out that the color question had no options. V2 adds three color choices per activity row, with separate image, color and number columns. The instruction and teacher guide now both specify circling a color and a number. All color choices remain native 13 pt. The original reading, quantities, pictures and cultural fact are retained, with pixels outside the activity verified unchanged. V1 is kept as superseded history.
 
 A shared one-page sample now uses the current short introduction, three color/count groups and a separate name-origin Did You Know. The founder’s given and family names accompany one authentic portrait; Bonn accompanies a Germany outline and city marker.
 
