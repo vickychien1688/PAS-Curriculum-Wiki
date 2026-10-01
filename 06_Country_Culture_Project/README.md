@@ -1,8 +1,10 @@
 # Country Culture Project — current entry point
 
-2026-10-02 latest: [Gummy bears audio v2](germany-pe3-gummy-bears-research.md#shared-introduction-audio-v2) replaces the opening after upward-ending feedback. The last two units are byte-identical; the revised Whole Story is 6.945 seconds. New voice review remains pending; approved worksheet unchanged, no publication or QR.
+2026-10-02 latest: [Gummy bears audio v3](germany-pe3-gummy-bears-research.md#shared-introduction-audio-v3) re-records the complete second unit after user feedback. First and third files are unchanged; full preview 7.011 seconds. Listening review remains pending; worksheet unchanged, no publication or QR.
 
-2026-10-02 latest: [Gummy bears](germany-pe3-gummy-bears-research.md#shared-introduction-audio-v2) v2 worksheet accepted with “ok”. Shared Starter / Level 1 introduction audio has three units plus a 7.185-second Whole Story ready for listening review. Technical checks and desktop/private backup completed; no audio publication or QR yet.
+2026-10-02 previous revision: [Gummy bears audio v2](germany-pe3-gummy-bears-research.md#shared-introduction-audio-v3) replaces the opening after upward-ending feedback. The last two units are byte-identical; the revised Whole Story is 6.945 seconds. New voice review remains pending; approved worksheet unchanged, no publication or QR.
+
+2026-10-02 original audio preview: [Gummy bears](germany-pe3-gummy-bears-research.md#shared-introduction-audio-v3) v2 worksheet accepted with “ok”. Shared Starter / Level 1 introduction audio has three units plus a 7.185-second Whole Story ready for listening review. Technical checks and desktop/private backup completed; no audio publication or QR yet.
 
 2026-10-02 latest: [Gummy bears v2](germany-pe3-gummy-bears-research.md#starter--level-1-sample-v2) corrects the missing color-answer choices in the shared Starter / Level 1 sample. Explicit color/number circling instructions and matching teacher guide are updated. Native 13 pt, answers, unchanged surrounding artwork and desktop copies checked; audio/QR remain pending. Complete materials stay private.
 

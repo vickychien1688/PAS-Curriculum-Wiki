@@ -26,11 +26,13 @@ The sample preserves PE3 forest green, the authentic school logo, the curved rib
 
 Vector PDF, 600 dpi PNG/JPG and a matching one-page Chinese teacher-guide draft are in desktop samples and the private reproducible package. PDF text/font checks, quantities, teacher answers, source hashes, Poppler full-page/detail review and desktop-copy hashes passed. The asset index has two new topic rows with the previous 42 rows unchanged. The v2 artwork is now accepted. The listening area still clearly indicates pending audio/QR, so the page has not yet become the complete QR print edition. No new teaching-material distribution or audio publication occurred.
 
-## Shared introduction audio v2
+## Shared introduction audio v3
+
+Latest: the user found the second unit strange. V3 replaces that complete unit with a fresh native recording; the first and third MP3/WAV files are byte-identical to v2. The revised second unit is 2.273 seconds and Whole Story is 7.011 seconds. Exact wording and approved artwork are unchanged. Four-file transcription/decoding, source/assembled waveform, clipping and preserved-file hash checks passed. New audio still requires listening review. The paragraph below records the preceding first-unit revision.
 
 The user rejected the v1 opening for an upward “gummy bear” ending. V2 replaces only that complete unit with a native Sparkles retake; the last two MP3/WAV units are byte-identical to v1. The new first unit preserves the complete final word and tail, without pitch processing, speed edits or ending cuts. Full phrase/word/tail diagnostics and exact source/assembled waveforms were checked; the new version still requires listening review. V1 first unit and full preview remain superseded history.
 
-Three individual playback units and a continuous 6.945-second Whole Story use the approved short introduction only. The picture/color/count activities and cultural fact remain teacher-led. The established Sparkles/Turbo voice and native 0.85 speed are retained. Four final files passed decoding, word transcription, clipping and source/assembled-waveform checks; complete contours and word tails were compared with actual approved recordings. Technical diagnostics are not auditory approval. Desktop preview and private production sources are saved. Audio is awaiting user listening review and has not been published or linked to a QR.
+Three individual playback units and a continuous 7.011-second Whole Story use the approved short introduction only. The picture/color/count activities and cultural fact remain teacher-led. The established Sparkles/Turbo voice and native 0.85 speed are retained. Four final files passed decoding, word transcription, clipping and source/assembled-waveform checks; complete contours and word tails were compared with actual approved recordings. Technical diagnostics are not auditory approval. Desktop preview and private production sources are saved. Audio is awaiting user listening review and has not been published or linked to a QR.
 
 ## Required teacher guide
 
@@ -38,4 +40,4 @@ The user explicitly requested an independent guide delivered with this lesson. T
 
 ## Next
 
-Listen to the existing shared audio v2; after approval, upload its exact files and attach the real QR. Confirm the remaining graded content separately. Continue audio, QR and final distribution using the established approval workflow. Formal worksheet numbering remains pending. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+Listen to the existing shared audio v3; after approval, upload its exact files and attach the real QR. Confirm the remaining graded content separately. Continue audio, QR and final distribution using the established approval workflow. Formal worksheet numbering remains pending. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
