@@ -1,5 +1,7 @@
 # Germany PE3 — Gummy bears topic research
 
+2026-10-01 latest: user accepted the four-version plan with "ok", including shared Starter/Level 1 and Level 4/5 directions. The specific Starter/Level 1 text and tasks are now proposed for review; artwork and audio have not begun. Earlier pending-plan statements below are historical.
+
 Updated 2026-10-01. Stage: topic identification and historical research; no new worksheet text or artwork approved.
 
 The user clarified that the teachers only said gummy bears originated in Germany, and requested fact-checking. Their earlier selection of the green animated Gummibär is superseded by this uncertainty, not a confirmed character direction.
@@ -17,3 +19,9 @@ Sources: [HARIBO official history](https://www.haribo.com/en/about-us/history), 
 The user requested a concrete plan. Proposed four content versions: shared Starter/Level 1 picture activities with optional counting for Level 1; Level 2 brief reading and two information matches; Level 3 a three-picture chronological sequence; shared Level 4/5 reading and observation of early versus current candy shapes. Shared versions are recommendations, not approved reuse decisions. The brand-name acronym is reserved for a separate Did You Know to add information beyond the reading.
 
 Level 1 Unit 1 includes color/number questions; Starter requires teacher-led picture recognition. Levels 2–5 have completed Unit 1 and have not yet studied Unit 2. New culture terms and historical grammar require teacher support. Confirm passages and tasks before producing one visual sample, then extend the series and follow existing audio/QR/delivery workflow. No worksheet copy, visuals or shared-level arrangement has been approved in this planning turn; complete proposal remains private.
+
+## Starter / Level 1 content review
+
+A teacher-led 14-word introduction leads into three color/count picture groups using Level 1 Unit 1 questions. Starter may point and optionally count; Level 1 says colors and circles numerals. The singular color question targets one bear, while counting applies to all bears in the selected frame. The introductory hero is excluded from counting.
+
+The separate brand-name fact groups the founder's given and family names under one person and identifies Bonn as the city. New culture terms require teacher support. Exact text, picture counts and teacher answers are in the private proposal. No new art, PDF, recording or QR was produced. Review content before a visual sample; other levels' wording is pending.
