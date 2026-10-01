@@ -1,5 +1,10 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## Session closeout — 1 October
+
+Level 4/5 are complete through desktop and Google Drive delivery: approved four-picture layout v6, audio v2 and shared sp/217. Resume with the existing Level 2/3 audio-v1 previews; their audio is not yet approved or published. Starter/Level 1 retain the approved shared sp/216 materials. Remaining items are worksheet numbering, physical phone scanning and outstanding distribution channels. Superseded pending-review/upload notes below are historical; no new production is authorized by this closeout.
+
+
 ## 1 October: Level 4/5 Google Drive delivery complete
 
 Following the user's upload instruction, the approved v6 X-ray PDFs were added to the existing Level 4 and Level 5 PE 3 folders. Each destination contains exactly one new X-ray PDF, with the existing Cars file unchanged. Both uploaded files are 8,682,984 bytes; the byte sizes match the approved originals. Cloud preview and the retained sp/217 link were checked. Existing folder permissions were inherited without changes. Full files and private delivery receipts remain in the private project archive.
