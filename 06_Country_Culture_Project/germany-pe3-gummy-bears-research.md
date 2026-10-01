@@ -46,6 +46,12 @@ Worksheet v3 adds only the real vector QR to approved v2. PDF/PNG QR decoding, t
 
 Formal worksheet numbering, physical phone scanning and new-page Drive/franchise distribution remain pending. Full teaching materials stay in the private archive.
 
+## Level 2 content proposal, pending feedback
+
+Following the user's request to continue, Level 2 now has a concrete 29-word reading proposal and two person/country matching prompts with explicit, shuffled pictured answer options. The reading moves from a familiar food-preference question to the German origin, maker and 1922 creation. The separate name-origin fact remains outside the passage. Earlier-level like/be/where/who language is reviewed; historical past forms, cultural names and candy-maker vocabulary require teacher support and are not represented as already taught in Level 2 Unit 1. The established class progress remains Unit 1 finished, Unit 2 not yet taught.
+
+The content and guide notes are awaiting feedback before artwork. No Level 2 PDF, new art, recording or publication was created. The approved Starter/Level 1 audio/QR print files and existing X-ray materials are unchanged. The full proposed student text and answer key are held in the private project archive.
+
 ## Next
 
-Keep the approved shared audio v3 and QR print edition v3 unchanged. Confirm Level 2, Level 3 and shared Level 4/5 content before new artwork, then complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+Keep the approved shared audio v3 and QR print edition v3 unchanged. Review the concrete Level 2 proposal first, then confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.

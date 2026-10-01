@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-02 latest: [Gummy bears Level 2 proposal](germany-pe3-gummy-bears-research.md#level-2-content-proposal-pending-feedback): concrete short reading, two pictured matching answers and separate name-origin fact prepared for content feedback; no new artwork/audio. Starter/Level 1 sp/218 release is unchanged.
+
 2026-10-02 latest: [Gummy bears QR release](germany-pe3-gummy-bears-research.md#2-october-approved-audio-and-qr-print-release): audio v3 accepted, exact originals at sp/218, worksheet QR edition v3 and Starter/Level 1 guide delivered on desktop. Remaining graded content and worksheet distribution are pending.
 
 2026-10-02 previous audio review: [Gummy bears audio v3](germany-pe3-gummy-bears-research.md#shared-introduction-audio-v3) re-records the complete second unit after user feedback. First and third files are unchanged; full preview 7.011 seconds. Listening review remains pending; worksheet unchanged, no publication or QR.
