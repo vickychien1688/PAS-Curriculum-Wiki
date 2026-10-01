@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-01: [Gummy bears teacher guide](germany-pe3-gummy-bears-research.md#required-teacher-guide--2026-10-01) is now explicitly required alongside the lesson worksheets. Requirements recorded; complete the guide after graded content is finalized.
+
 2026-10-01 current: [Gummy bears](germany-pe3-gummy-bears-research.md) four-version plan and shared-level directions accepted with "ok". Starter/Level 1 specific content proposal is ready for review; art and audio not started.
 
 2026-10-01 planning proposal: [Gummy bears](germany-pe3-gummy-bears-research.md#proposed-worksheet-structure--2026-10-01) has four suggested content versions and differentiated picture, matching, sequence and comparison tasks. Text and shared-level arrangements are not yet approved; content discussion precedes artwork.

@@ -25,3 +25,9 @@ Level 1 Unit 1 includes color/number questions; Starter requires teacher-led pic
 A teacher-led 14-word introduction leads into three color/count picture groups using Level 1 Unit 1 questions. Starter may point and optionally count; Level 1 says colors and circles numerals. The singular color question targets one bear, while counting applies to all bears in the selected frame. The introductory hero is excluded from counting.
 
 The separate brand-name fact groups the founder's given and family names under one person and identifies Bonn as the city. New culture terms require teacher support. Exact text, picture counts and teacher answers are in the private proposal. No new art, PDF, recording or QR was produced. Review content before a visual sample; other levels' wording is pending.
+
+## Required teacher guide — 2026-10-01
+
+The user explicitly requested a separate teacher guide for this lesson. It is now a required deliverable to complete alongside the worksheets after graded content is finalized. Cover cultural background, an accessible Chinese explanation of the founder-name/city acronym, classroom prompts and steps, differentiated use for shared levels, final answer keys and sources. Hans and Riegel belong to one founder; Bonn is the founding city.
+
+Requirements and an outline have been recorded privately; the finished guide has not been produced. This request does not approve the pending Starter/Level 1 wording, counts, artwork or audio.
