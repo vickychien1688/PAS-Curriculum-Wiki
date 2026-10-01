@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-01 planning proposal: [Gummy bears](germany-pe3-gummy-bears-research.md#proposed-worksheet-structure--2026-10-01) has four suggested content versions and differentiated picture, matching, sequence and comparison tasks. Text and shared-level arrangements are not yet approved; content discussion precedes artwork.
+
 2026-10-01 current topic: [Gummy bears research](germany-pe3-gummy-bears-research.md). Official candy history and the existing curriculum draft support HARIBO candy as the proposed subject; green-character identity is unconfirmed. Content discussion comes next. X-ray pending work below is retained.
 
 2026-10-01: [PE3 X-ray](germany-pe3-xray-all-levels.md) session closed. Level 4/5 approved audio, QR, desktop and Google Drive delivery complete; next resume with Level 2/3 audio listening review.
