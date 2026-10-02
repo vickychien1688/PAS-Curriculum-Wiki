@@ -46,9 +46,11 @@ Worksheet v3 adds only the real vector QR to approved v2. PDF/PNG QR decoding, t
 
 Formal worksheet numbering, physical phone scanning and new-page Drive/franchise distribution remain pending. Full teaching materials stay in the private archive.
 
-## Level 2 name-discovery sample v1, pending feedback
+## Level 2 name-discovery sample v2, pending feedback
 
 The user rejected person/country matching and open-ended animal-candy design, then authorized trying the bounded cultural name-discovery task. A one-page worksheet sample and matching Chinese teacher guide are now complete. The original short reading is retained as draft context, with authentic product packaging and candy photographs. The integrated Did You Know activity uses a single founder portrait, a map marking the German founding city, and three fixed letter-pair responses. It does not add creative design, grammar production or a duplicate fact section. Teacher support connects the person's name and the founding city to the brand; capitalization is not the assessment focus.
+
+The user praised the Did You Know design and requested an explanation below the completed circling/filling activity. V2 replaces only the closing prompt below the answer boxes with one 13 pt factual sentence connecting the founder’s name and German city to the brand. Image, map, box and reading positions remain unchanged, with pixel comparison confirming no changes outside that sentence region. The matching guide now reads the explanation after the task; the revised wording remains open for feedback.
 
 The native PDF keeps the series identity, curved title, 13 pt reading/source labels and 12 pt instructions. PDF and 600 dpi PNG/JPG samples, reproduction sources, official image provenance and visual QA are archived privately and available in the desktop sample/production folders. One new Level 2 asset-index row was added with all earlier rows preserved. This is a review sample, not final content/artwork approval. Audio has not been produced, the listening QR is explicitly pending, and no new worksheet has been distributed to Drive or the franchise portal. Approved Starter/Level 1 materials and other levels remain unchanged.
 
