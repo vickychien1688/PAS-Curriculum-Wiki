@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-03 latest: [Gummy bears Level 3 closing revision v2](germany-pe3-gummy-bears-research.md#level-3-closing-explanation-revision-v2). Explicit letter-pair/name/city mapping replaces the unclear city-name ending; matching teacher guide and desktop files updated. Other worksheet pixels and approved reading/activity remain unchanged. New wording awaits feedback; audio/QR pending.
+
 2026-10-03 latest: [Gummy bears Level 3 approved text and sample](germany-pe3-gummy-bears-research.md#level-3-approved-text-and-three-picture-sample-v1). Complete visible text accepted with “ok”; three-picture worksheet and matching teacher guide produced as a visual-review sample, with verified 13pt text and desktop copies. Audio/QR pending. Full materials remain private.
 
 2026-10-03 latest: [Gummy bears Level 3 three-picture layout](germany-pe3-gummy-bears-research.md#level-3-content-proposal--3-october-2026). V4 follows the user’s preferred historical narrative and clarifies one passage, exactly three main pictures shared with the ordering activity, and a compact name-origin explanation. Limited teacher-supported past forms remain a proposal for review; no new artwork or audio.
