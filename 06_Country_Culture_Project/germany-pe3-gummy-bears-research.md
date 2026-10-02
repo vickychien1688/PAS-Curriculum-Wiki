@@ -12,7 +12,7 @@ Sources: [HARIBO official history](https://www.haribo.com/en/about-us/history), 
 
 ## Accepted structure and classroom use
 
-Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading with its activity under revision after matching was rejected; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. The latter three versions still need their exact content confirmed before artwork.
+Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading with its activity under revision after matching was rejected; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. Level 2 now has a user-authorized review sample; Level 3 and shared Level 4/5 still need their exact content confirmed before artwork.
 
 Starter is teacher-led: look, listen and point; counting is optional, without independent reading or spelling requirements. Level 1 says and circles a color choice, then counts and circles a number. The singular color question targets one bear, while counting uses all bears within one activity frame. The introductory picture is outside those counting frames. Level 1 Unit 1 contains relevant color/number language. New cultural terms require teacher support. Levels 2–5 have finished Unit 1 and have not yet studied Unit 2.
 
@@ -46,12 +46,12 @@ Worksheet v3 adds only the real vector QR to approved v2. PDF/PNG QR decoding, t
 
 Formal worksheet numbering, physical phone scanning and new-page Drive/franchise distribution remain pending. Full teaching materials stay in the private archive.
 
-## Level 2 activity revision, pending feedback
+## Level 2 name-discovery sample v1, pending feedback
 
-The user rejected both the low-value person/country matching and the subsequent open-ended animal-candy design proposal. The latest correction is to keep this a focused cultural lesson, rather than expanding it into creative design or grammar practice. The revised proposal integrates a bounded company-name discovery into the existing Did You Know section: children connect parts of the single founder's given/family names and the German founding city to the familiar brand name. Teacher support explains the cultural relationship; the written output is limited to fixed letter pairs. No separate duplicate activity section is planned.
+The user rejected person/country matching and open-ended animal-candy design, then authorized trying the bounded cultural name-discovery task. A one-page worksheet sample and matching Chinese teacher guide are now complete. The original short reading is retained as draft context, with authentic product packaging and candy photographs. The integrated Did You Know activity uses a single founder portrait, a map marking the German founding city, and three fixed letter-pair responses. It does not add creative design, grammar production or a duplicate fact section. Teacher support connects the person's name and the founding city to the brand; capitalization is not the assessment focus.
 
-The original 29-word reading remains unchanged and pending, and the replacement name-discovery task is also awaiting feedback. Neither rejected activity should be used as the production plan. No new Level 2 art, PDF, audio or publication was produced; approved Starter/Level 1 files and all other levels remain unchanged. Full student wording, guide notes and rejection records stay private.
+The native PDF keeps the series identity, curved title, 13 pt reading/source labels and 12 pt instructions. PDF and 600 dpi PNG/JPG samples, reproduction sources, official image provenance and visual QA are archived privately and available in the desktop sample/production folders. One new Level 2 asset-index row was added with all earlier rows preserved. This is a review sample, not final content/artwork approval. Audio has not been produced, the listening QR is explicitly pending, and no new worksheet has been distributed to Drive or the franchise portal. Approved Starter/Level 1 materials and other levels remain unchanged.
 
 ## Next
 
-Keep the approved shared audio v3 and QR print edition v3 unchanged. Review the bounded Level 2 name-origin/DYK proposal first, then confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+Keep the approved shared audio v3 and QR print edition v3 unchanged. Review the Level 2 name-discovery worksheet and teacher-guide sample first, then confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
