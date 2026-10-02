@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-03 latest: [Gummy bears Level 3 content proposal](germany-pe3-gummy-bears-research.md#level-3-content-proposal--3-october-2026): 41-word cultural reading and three-picture sequence prepared after curriculum and source checks. Content feedback comes before layout/audio. Existing sp/218 and sp/219 releases remain unchanged.
+
 2026-10-02 latest: [Gummy bears Level 2 release](germany-pe3-gummy-bears-research.md#level-2-approved-audio-and-qr-print-release). Audio v1 accepted and exact files published at sp/219; QR print edition v4 and matching teacher guide are delivered on desktop. Seven playback/hash checks and final PDF/PNG QR checks passed. Level 3 and shared Level 4/5 content, numbering and remaining distribution are pending.
 
 2026-10-02 historical preview: [Gummy bears Level 2 audio preview](germany-pe3-gummy-bears-research.md#level-2-approved-layout-and-audio-preview-v1). Layout v3 is accepted; six clips plus a 21.424-second Whole Story are ready for listening review. Existing worksheet/teacher-guide files are unchanged; audio publication and QR remain pending.

@@ -77,3 +77,11 @@ On 2026-10-02, the user accepted the concrete full preview and closing sentence 
 Worksheet edition v4 adds the real QR and removes the review-only footer suffix. All other text, fonts, positions, photographs, map and task elements remain identical to approved v3. PDF/PNG QR decoding, the PDF link, text/font/coordinate comparison and pixels outside the two modified regions passed. The matching one-page guide now specifies the first five reading sentences before the activity, the sixth explanation afterward, and Whole Story for final review. Poppler full-page and QR-detail visual checks passed.
 
 Desktop Level 2 contains final PDF/PNG/JPG worksheets and teacher guides; production sources, sample copies and the single Level 2 index row are updated, with 44 other rows preserved. Formal numbering, physical phone scanning and new-page Drive/franchise distribution remain pending. Starter/Level 1 sp/218 and other lessons are unchanged. Full materials and production evidence are private. Earlier pending-audio statements record history, not current status.
+
+## Level 3 content proposal — 3 October 2026
+
+The user requested continuation to Level 3. The proposed 41-word, six-sentence reading follows the 1920 small-kitchen candy-making start, the first gummy bears in 1922 and present-day enjoyment. HARIBO’s official history was rechecked. No changing country-count statistic is used.
+
+A compact task shuffles three distinct pictured stages and asks pupils to number them in chronological order. It focuses on the German origin story, without sentence writing or memorized dates. A historical kitchen picture must be labelled as an illustrative reconstruction; the early bear should use the authentic official 1922 depiction rather than a modern rounded Goldbear. The name-origin Did You Know remains an explanatory visual with a concluding sentence and no second written task.
+
+Language is checked against EOW3 Unit 1 occupations/workplaces and earlier-level spiral material. The occupation term, cultural proper nouns and past-time forms require teacher support; they are not labelled already taught in Unit 1. Exact passage, card captions, answer key and teacher notes remain private. This is a content proposal awaiting feedback; no new artwork, PDF, audio or publication has been made. Starter/Level 1 sp/218 and Level 2 sp/219 releases are unchanged.
