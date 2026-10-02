@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-03 latest: [Gummy bears Level 3 release](germany-pe3-gummy-bears-research.md#level-3-approved-audio-and-qr-print-release). Audio v3 is accepted and the eight exact files are published at sp/220. QR print edition v3 and its teacher guide are delivered on desktop; playback/hash/QR checks passed. Shared Level4/5 content and remaining distribution are pending.
+
 2026-10-03 latest: [Gummy bears Level 3 audio v3](germany-pe3-gummy-bears-research.md#level-3-audio-v3-whole-year-continuity-revision). Sentence 5 was re-recorded after the user identified a low-to-high jump within the year. The 31.915-second story awaits audition; six other clips and layout v2 are preserved. Publication/QR remain pending.
 
 2026-10-03 latest: [Gummy bears Level 3 audio v2](germany-pe3-gummy-bears-research.md#level-3-audio-v2-year-intonation-revision). The user flagged a rising year; only sentence 5 was re-recorded. Six other clips are preserved, and the 31.236-second Whole Story awaits audition. Layout v2 stays approved; audio publication/QR pending.
