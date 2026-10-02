@@ -1,6 +1,8 @@
 # Country Culture Project — current entry point
 
-2026-10-03 latest: [Gummy bears Level 3 release](germany-pe3-gummy-bears-research.md#level-3-approved-audio-and-qr-print-release). Audio v3 is accepted and the eight exact files are published at sp/220. QR print edition v3 and its teacher guide are delivered on desktop; playback/hash/QR checks passed. Shared Level4/5 content and remaining distribution are pending.
+2026-10-03 latest: [Gummy bears Level 4/5 shared content proposal](germany-pe3-gummy-bears-level45-proposal.md). The next shared reading advances from the 1922 origin story to the Dancing Bear’s shape changes; bounded picture comparison and German name note are proposed. Exact student copy stays private and awaits review.
+
+2026-10-03 latest: [Gummy bears Level 3 release](germany-pe3-gummy-bears-research.md#level-3-approved-audio-and-qr-print-release). Audio v3 is accepted and the eight exact files are published at sp/220. QR print edition v3 and its teacher guide are delivered on desktop; playback/hash/QR checks passed. The shared Level4/5 content proposal awaits review; remaining distribution is pending.
 
 2026-10-03 latest: [Gummy bears Level 3 audio v3](germany-pe3-gummy-bears-research.md#level-3-audio-v3-whole-year-continuity-revision). Sentence 5 was re-recorded after the user identified a low-to-high jump within the year. The 31.915-second story awaits audition; six other clips and layout v2 are preserved. Publication/QR remain pending.
 

@@ -141,3 +141,12 @@ On 2026-10-03, the user accepted the v3 sentence-5 year revision and the updated
 Worksheet edition v3 inserts the real QR and removes the review-only footer. The 48-word reading, 12-word name explanation, three-picture ordering, captions, empty answer boxes, fonts, coordinates and remaining pixels match accepted v2. PDF/PNG QR decoding and the PDF link passed. The matching guide now specifies six reading sentences before the activity, the name explanation afterward, and Whole Story for review. Poppler full-page and QR-detail inspection passed.
 
 Desktop Level 3 has final PDF/PNG/JPG worksheets and matching guides; sample/production files and the single Level 3 asset-index row are updated, preserving 45 other rows. Formal numbering, physical phone scanning and new-page Drive/franchise distribution remain pending. Shared Level 4/5 content is the next content discussion. Existing published lessons are unchanged. Full materials, sources and evidence stay private.
+
+
+## Level 4/5 shared content proposal — 3 October 2026
+
+The next shared content proposal advances from Level 3’s founding and 1922 origin story to the historical Dancing Bear’s development into today’s Goldbear. It uses a closed, text-supported comparison of the authentic early bear and a current Goldbear image, plus the German name Tanzbär. This is a content proposal only; the exact passage and answer choices remain in the private work package for user review. No worksheet layout, guide, audio, QR or publication is approved.
+
+HARIBO’s official history supports the 1922 Dancing Bear, its larger and slimmer shape, the 1960 Goldbear market launch, and the 1978 shape change that shortened the feet and made the bear more compact. The official German history uses the name Tanzbär. The prior handoff records Unit 1 complete and Unit 2 not yet taught for Levels 4–5. Available EOW4 Unit 1 scope lists did questions and short answers; a current EOW5 scope file was not available in this checkout. Historical narration, comparison forms and compact/shape remain teacher-supported.
+
+Sources: [HARIBO official English history](https://www.haribo.com/en/about-us/history), [HARIBO official German history](https://www.haribo.com/de-de/ueber-uns/geschichte).
