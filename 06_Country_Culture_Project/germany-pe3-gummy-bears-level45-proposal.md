@@ -4,9 +4,9 @@
 
 ## Current direction
 
-Following feedback that the vocabulary was too difficult, the shared reading has been revised to 91 words in 10 short sentences. It keeps the history from 19th-century fairground inspiration to HARIBO’s 1920 Bonn kitchen, Gertrud’s bicycle deliveries, the first car in 1923, 400 employees by 1933, and Goldbears in the 1960s. The language uses simpler phrases such as “gave Hans an idea,” “took the candy by bike,” and “more people wanted the candy.”
+Following feedback that the vocabulary was too difficult, the shared reading now uses short sentences and common words. It keeps the history from 19th-century fairground inspiration to HARIBO’s 1920 Bonn kitchen, Gertrud’s bicycle deliveries, the first car in 1923, 400 employees by 1933, and Goldbears in the 1960s. The proposed 103-word passage ends with two simple reflection sentences about working toward one’s dreams and the possibility of doing more than expected.
 
-The single circle-one activity still checks the origin of the bear candy and adds one explanatory sentence after the choice. The Did You Know section keeps the user-preferred HARIBO package-name origin, HA + RI + BO. The matching Chinese teacher-guide draft follows the same timeline and simplifies its vocabulary support.
+The single circle-one activity still checks the origin of the bear candy and adds one explanatory sentence after the choice. The Did You Know section keeps the user-preferred HARIBO package-name origin, HA + RI + BO. The matching Chinese teacher-guide draft follows the same timeline and clarifies that the closing is a student reflection, not a historical quote from Hans Riegel.
 
 The prior shape-comparison direction is withdrawn. Its `layout-level45-v1` sample is superseded and is not the current worksheet.
 
