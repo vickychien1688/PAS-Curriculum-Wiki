@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-02 latest: [Gummy bears Level 2 audio preview](germany-pe3-gummy-bears-research.md#level-2-approved-layout-and-audio-preview-v1). Layout v3 is accepted; six clips plus a 21.424-second Whole Story are ready for listening review. Existing worksheet/teacher-guide files are unchanged; audio publication and QR remain pending.
+
 2026-10-02 latest: [Gummy bears Level 2 review sample](germany-pe3-gummy-bears-research.md#level-2-name-discovery-sample-v3-pending-feedback): matching and open-ended design rejected; bounded brand-name cultural discovery integrated with DYK now has an authorized worksheet and teacher-guide review sample (v3). The praised design is preserved; the explanation below the activity now uses explicit founder-name/city-name wording. The short reading is unchanged; revised wording feedback and audio/QR remain pending. Starter/Level 1 sp/218 release is unchanged.
 
 2026-10-02 latest: [Gummy bears QR release](germany-pe3-gummy-bears-research.md#2-october-approved-audio-and-qr-print-release): audio v3 accepted, exact originals at sp/218, worksheet QR edition v3 and Starter/Level 1 guide delivered on desktop. Remaining graded content and worksheet distribution are pending.

@@ -12,7 +12,7 @@ Sources: [HARIBO official history](https://www.haribo.com/en/about-us/history), 
 
 ## Accepted structure and classroom use
 
-Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading with its activity under revision after matching was rejected; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. Level 2 now has a user-authorized review sample; Level 3 and shared Level 4/5 still need their exact content confirmed before artwork.
+Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading with a bounded name-origin discovery; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. Level 2 content and layout v3 are now accepted; its audio preview awaits listening review; Level 3 and shared Level 4/5 still need their exact content confirmed before artwork.
 
 Starter is teacher-led: look, listen and point; counting is optional, without independent reading or spelling requirements. Level 1 says and circles a color choice, then counts and circles a number. The singular color question targets one bear, while counting uses all bears within one activity frame. The introductory picture is outside those counting frames. Level 1 Unit 1 contains relevant color/number language. New cultural terms require teacher support. Levels 2–5 have finished Unit 1 and have not yet studied Unit 2.
 
@@ -58,4 +58,14 @@ The native PDF keeps the series identity, curved title, 13 pt reading/source lab
 
 ## Next
 
-Keep the approved shared audio v3 and QR print edition v3 unchanged. Review the Level 2 name-discovery worksheet and teacher-guide sample first, then confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+Keep the approved shared audio v3 and QR print edition v3 unchanged. Audition the Level 2 audio v1 preview, then publish the exact approved audio and connect its QR after listening confirmation. Confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+
+## Level 2 approved layout and audio preview v1
+
+On 2026-10-02, the user accepted layout v3 and requested audio. The 29-word reading, bounded brand-name discovery and 12-word explanation below the answer boxes are approved. Six rendered worksheet/teacher-guide PDF and image files remain byte-identical. Earlier pending-layout wording above is historical.
+
+Six sentence clips plus a continuous 21.424-second Whole Story are complete locally. Teachers can play the five reading sentences first, then the explanation after pupils finish circling and filling letters. Instructions and source labels remain teacher-led. The final playlist item displays only Whole Story.
+
+The voice remains Sparkles, Turbo v2.5, native speed 0.85 and similarity 0.85. Three bounded native candidates were compared. The identical-word Germany-origin sentence reuses the previously approved recording byte-for-byte. New clips use constant gain only, retaining complete words and native tails without pitch/time editing or inserted three-second gaps. All seven final files passed decoding, word-transcription, clipping and source/assembled-waveform checks; full phrase/tail diagnostics and actual approved reference were compared. These checks do not establish listening approval.
+
+Audio v1 awaits user audition; it has not been published and no QR destination has been assigned. The desktop preview/production bundle and one Level 2 asset-index row are updated; the other 44 rows are unchanged. Full script, audio, candidates, settings, checksums and approval evidence remain in the private project package. Other levels and published lessons are unchanged.
