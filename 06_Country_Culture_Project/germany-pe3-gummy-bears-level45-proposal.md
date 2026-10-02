@@ -2,7 +2,7 @@
 
 **Status: content proposal for review.** No passage, activity, guide, worksheet layout, audio, or publication is approved. Exact student-facing copy and choices remain in the private work package.
 
-After user feedback, the active proposal shifts from shape comparison to the German origin and early history of gummy bears. It follows the inspiration from a popular 19th-century fairground show featuring dancing bears to Hans Riegel’s work in Bonn, the 1922 Dancing Bear, and the Goldbears that replaced it in the 1960s. A focused circle-one question checks what inspired the first bear-shaped candy; its explanation and a Did You Know note about the HARIBO name origin are planned. Exact student-facing copy remains in the private work package.
+After user feedback, the active proposal shifts from shape comparison to the German origin and early history of gummy bears. It follows the inspiration from a popular 19th-century fairground show featuring dancing bears to Hans Riegel’s work in Bonn, the 1922 Dancing Bear, and the Goldbears that replaced it in the 1960s. A focused circle-one question checks what inspired the first bear-shaped candy; its explanation and a Did You Know note about the HARIBO name origin are planned. Student copy and an unlaid-out Chinese teacher-guide text draft remain in the private work package for review.
 
 The draft assumes Level 4 and Level 5 share the content and task. The prior handoff records Unit 1 complete and Unit 2 not yet taught for both levels. Available EOW4 Unit 1 scope lists did questions and short answers; a current EOW5 scope file was not available in this checkout. Historical narration and comparative vocabulary therefore remain teacher-supported.
 

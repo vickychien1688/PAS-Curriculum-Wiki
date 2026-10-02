@@ -1,6 +1,6 @@
 # Country Culture Project — current entry point
 
-2026-10-03 latest: [Gummy bears Level 4/5 shared content proposal](germany-pe3-gummy-bears-level45-proposal.md). Following user feedback, the shared reading now focuses on Germany, Hans Riegel’s Bonn history, the fairground inspiration for the 1922 Dancing Bear, and the 1960s Goldbears. Shape comparison is withdrawn; the proposed Did You Know returns to the HARIBO name origin. Exact student copy stays private and awaits review.
+2026-10-03 latest: [Gummy bears Level 4/5 shared content proposal](germany-pe3-gummy-bears-level45-proposal.md). Following user feedback, the shared reading now focuses on Germany, Hans Riegel’s Bonn history, the fairground inspiration for the 1922 Dancing Bear, and the 1960s Goldbears. Shape comparison is withdrawn; the proposed Did You Know returns to the HARIBO name origin. A private Chinese teacher-guide text draft is prepared; student copy and guide await review.
 
 2026-10-03 latest: [Gummy bears Level 3 release](germany-pe3-gummy-bears-research.md#level-3-approved-audio-and-qr-print-release). Audio v3 is accepted and the eight exact files are published at sp/220. QR print edition v3 and its teacher guide are delivered on desktop; playback/hash/QR checks passed. The shared Level4/5 content proposal awaits review; remaining distribution is pending.
 
