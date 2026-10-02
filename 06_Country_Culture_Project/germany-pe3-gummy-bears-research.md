@@ -12,7 +12,7 @@ Sources: [HARIBO official history](https://www.haribo.com/en/about-us/history), 
 
 ## Accepted structure and classroom use
 
-Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading and information matching; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. The latter three versions still need their exact content confirmed before artwork.
+Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading with its activity under revision after matching was rejected; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. The latter three versions still need their exact content confirmed before artwork.
 
 Starter is teacher-led: look, listen and point; counting is optional, without independent reading or spelling requirements. Level 1 says and circles a color choice, then counts and circles a number. The singular color question targets one bear, while counting uses all bears within one activity frame. The introductory picture is outside those counting frames. Level 1 Unit 1 contains relevant color/number language. New cultural terms require teacher support. Levels 2–5 have finished Unit 1 and have not yet studied Unit 2.
 
@@ -46,12 +46,12 @@ Worksheet v3 adds only the real vector QR to approved v2. PDF/PNG QR decoding, t
 
 Formal worksheet numbering, physical phone scanning and new-page Drive/franchise distribution remain pending. Full teaching materials stay in the private archive.
 
-## Level 2 content proposal, pending feedback
+## Level 2 activity revision, pending feedback
 
-Following the user's request to continue, Level 2 now has a concrete 29-word reading proposal and two person/country matching prompts with explicit, shuffled pictured answer options. The reading moves from a familiar food-preference question to the German origin, maker and 1922 creation. The separate name-origin fact remains outside the passage. Earlier-level like/be/where/who language is reviewed; historical past forms, cultural names and candy-maker vocabulary require teacher support and are not represented as already taught in Level 2 Unit 1. The established class progress remains Unit 1 finished, Unit 2 not yet taught.
+The user found the two person/country matching items unmeaningful. That activity has been withdrawn and archived with the rejection. The replacement proposal connects the bear-shaped candy story to a child's own animal-shaped candy design: select from explicit pictured animal options, draw a recognizable shape, and use a supported want-to sentence to share the choice. The animal nouns and want-plus-infinitive structure align with Level 2 Unit 1; the making verb is teacher-supported new language. Success means the chosen animal, visible feature and spoken choice agree, rather than artistic skill or memorized names/dates.
 
-The content and guide notes are awaiting feedback before artwork. No Level 2 PDF, new art, recording or publication was created. The approved Starter/Level 1 audio/QR print files and existing X-ray materials are unchanged. The full proposed student text and answer key are held in the private project archive.
+The original 29-word passage and separate company-name fact are unchanged and still await content confirmation. The new activity also remains a proposal. No new Level 2 art, PDF, audio or publication was produced; the approved Starter/Level 1 release and all other levels remain unchanged. Full student wording, guide notes and the rejected version stay in the private archive.
 
 ## Next
 
-Keep the approved shared audio v3 and QR print edition v3 unchanged. Review the concrete Level 2 proposal first, then confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+Keep the approved shared audio v3 and QR print edition v3 unchanged. Review the replacement Level 2 design-and-speaking proposal first, then confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
