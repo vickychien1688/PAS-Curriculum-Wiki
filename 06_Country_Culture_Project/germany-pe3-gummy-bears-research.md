@@ -12,7 +12,7 @@ Sources: [HARIBO official history](https://www.haribo.com/en/about-us/history), 
 
 ## Accepted structure and classroom use
 
-Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading with a bounded name-origin discovery; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. Level 2 content and layout v3 are now accepted; its audio preview awaits listening review; Level 3 and shared Level 4/5 still need their exact content confirmed before artwork.
+Four content versions: shared Starter / Level 1 picture recognition and colors/counting; Level 2 brief reading with a bounded name-origin discovery; Level 3 three-picture chronological sequence; shared Level 4/5 reading and comparison of early and current candy shapes. Level 2 content and layout v3 are now accepted; its approved audio is published at sp/219; Level 3 and shared Level 4/5 still need their exact content confirmed before artwork.
 
 Starter is teacher-led: look, listen and point; counting is optional, without independent reading or spelling requirements. Level 1 says and circles a color choice, then counts and circles a number. The singular color question targets one bear, while counting uses all bears within one activity frame. The introductory picture is outside those counting frames. Level 1 Unit 1 contains relevant color/number language. New cultural terms require teacher support. Levels 2–5 have finished Unit 1 and have not yet studied Unit 2.
 
@@ -58,7 +58,7 @@ The native PDF keeps the series identity, curved title, 13 pt reading/source lab
 
 ## Next
 
-Keep the approved shared audio v3 and QR print edition v3 unchanged. Audition the Level 2 audio v1 preview, then publish the exact approved audio and connect its QR after listening confirmation. Confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
+Keep the approved shared audio v3 and QR print edition v3 unchanged. Keep Level 2 audio v1 at sp/219 and QR print edition v4 unchanged. Confirm Level 3 and shared Level 4/5 content before new artwork and complete their matching guides. Arrange worksheet numbering, physical phone scanning and remaining distribution. Existing X-ray approvals and pending Level 2/3 listening reviews remain unchanged.
 
 ## Level 2 approved layout and audio preview v1
 
@@ -69,3 +69,11 @@ Six sentence clips plus a continuous 21.424-second Whole Story are complete loca
 The voice remains Sparkles, Turbo v2.5, native speed 0.85 and similarity 0.85. Three bounded native candidates were compared. The identical-word Germany-origin sentence reuses the previously approved recording byte-for-byte. New clips use constant gain only, retaining complete words and native tails without pitch/time editing or inserted three-second gaps. All seven final files passed decoding, word-transcription, clipping and source/assembled-waveform checks; full phrase/tail diagnostics and actual approved reference were compared. These checks do not establish listening approval.
 
 Audio v1 awaits user audition; it has not been published and no QR destination has been assigned. The desktop preview/production bundle and one Level 2 asset-index row are updated; the other 44 rows are unchanged. Full script, audio, candidates, settings, checksums and approval evidence remain in the private project package. Other levels and published lessons are unchanged.
+
+## Level 2 approved audio and QR print release
+
+On 2026-10-02, the user accepted the concrete full preview and closing sentence with “ok”. The exact six sentence files and 21.424-second Whole Story are now on [the Level 2 listening page](https://e-reading.now/sp/219). All seven remote SHA256 values match the approved originals. The 492 × 492 original gummy-bear image loads above the list without horizontal overflow; every public sentence-list button completed playback at native rate with an ended event. The last list label is Whole Story. This verifies playback, not an agent auditory judgment.
+
+Worksheet edition v4 adds the real QR and removes the review-only footer suffix. All other text, fonts, positions, photographs, map and task elements remain identical to approved v3. PDF/PNG QR decoding, the PDF link, text/font/coordinate comparison and pixels outside the two modified regions passed. The matching one-page guide now specifies the first five reading sentences before the activity, the sixth explanation afterward, and Whole Story for final review. Poppler full-page and QR-detail visual checks passed.
+
+Desktop Level 2 contains final PDF/PNG/JPG worksheets and teacher guides; production sources, sample copies and the single Level 2 index row are updated, with 44 other rows preserved. Formal numbering, physical phone scanning and new-page Drive/franchise distribution remain pending. Starter/Level 1 sp/218 and other lessons are unchanged. Full materials and production evidence are private. Earlier pending-audio statements record history, not current status.
