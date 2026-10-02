@@ -80,6 +80,8 @@ Desktop Level 2 contains final PDF/PNG/JPG worksheets and teacher guides; produc
 
 ## Level 3 content proposal — 3 October 2026
 
+Latest revision v2: after the user questioned whether the reading was too short, the proposed passage expands from 41 to 54 words. It adds the sugar bag, stove and pot from the official 1920 account as concrete kitchen details, without claiming they were the only equipment. The short-clause style, three-event activity and explanatory name-origin panel stay unchanged. Stove connects to EOW2 Unit 5; the new past-time form and other kitchen terms require teacher support. The revision still awaits content feedback. The following paragraph records v1.
+
 The user requested continuation to Level 3. The proposed 41-word, six-sentence reading follows the 1920 small-kitchen candy-making start, the first gummy bears in 1922 and present-day enjoyment. HARIBO’s official history was rechecked. No changing country-count statistic is used.
 
 A compact task shuffles three distinct pictured stages and asks pupils to number them in chronological order. It focuses on the German origin story, without sentence writing or memorized dates. A historical kitchen picture must be labelled as an illustrative reconstruction; the early bear should use the authentic official 1922 depiction rather than a modern rounded Goldbear. The name-origin Did You Know remains an explanatory visual with a concluding sentence and no second written task.
