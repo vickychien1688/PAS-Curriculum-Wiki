@@ -125,3 +125,11 @@ On 2026-10-03, the user rejected the rising year intonation in sentence 5. That 
 The replacement sentence is 3.527 seconds and Whole Story is 31.236 seconds. Constant gain is the only signal treatment: complete native speech and tails are retained, with no pitch/time edits or inserted practice pauses. All eight files passed decoding, clipping, source/assembled PCM and transcript checks; the whole-track transcript spells out the same year and is explicitly normalized. Full-year, following-phrase and final-word diagnostics were compared with the rejected clip and an actual approved Level 2 recording. These checks are not listening approval.
 
 Audio v2 awaits audition and remains unpublished; the accepted worksheet and guide renders are unchanged. Desktop preview/production and one Level 3 index row are updated, preserving 45 others. Full recordings, candidate sources, script, rejection evidence and checksums remain private. Existing published lessons are unchanged.
+
+## Level 3 audio v3 whole-year continuity revision
+
+On 2026-10-03, the user rejected v2 because the year falls on its first part and jumps high on its second part. V2 sentence 5 and its assembled story are superseded. Earlier endpoint-oriented selection did not resolve the reported internal discontinuity.
+
+Only sentence 5 was re-recorded, spelling out the year in synthesis input and restoring the normal comma. The established Sparkles/Turbo native speed 0.85 remains. Three native candidates were compared over the entire year and its components; the selected take has closer first/second-part pitch ranges, followed by a phrase-final fall with sparse-voicing uncertainty. It is an intact native recording, not separately joined year fragments. No pitch/time editing, clipping of words or added practice gaps was applied; new audio uses constant gain only. These diagnostics are not listening approval.
+
+The new sentence is 4.206 seconds and Whole Story31.915 seconds. Six other MP3/WAV pairs and the accepted worksheet/guide renders are unchanged. All eight tracks passed word-transcription, decoding, clipping and source/assembled-waveform checks. Desktop v3 preview/production and one index row were updated, preserving 45 other rows. Audio v3 awaits audition and remains unpublished; QR is pending. Full files and rejection/production records remain private.
