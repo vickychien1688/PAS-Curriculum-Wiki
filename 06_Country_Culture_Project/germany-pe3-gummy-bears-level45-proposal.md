@@ -1,18 +1,18 @@
 # Gummy Bears Level 4/5 Shared Content Proposal
 
-**Status: revised content proposal for user review.** The exact student passage and choices remain in the private work package. The current wording, activity, and Did You Know are not approved; no replacement worksheet layout, audio, QR, or publication has been made.
+**Status: simplified content proposal for user review.** Exact student-facing copy remains in the private work package. The wording, activity, and Did You Know are not approved; no replacement worksheet layout, audio, QR, or publication has been made.
 
 ## Current direction
 
-After the user asked for more of HARIBO’s development history, the shared reading expands beyond the fairground inspiration and the first gummy bear. It now traces the story from dancing-bear shows at 19th-century fairs to HARIBO’s 1920 start in Bonn and its small-kitchen candy production; Gertrud’s bicycle deliveries; the first company car in 1923 as demand grew; 400 employees by 1933; and the smaller, rounder Goldbears introduced in the 1960s. The proposed English passage is 89 words in nine sentences, compared with Level 3’s 48-word reading.
+Following feedback that the vocabulary was too difficult, the shared reading has been revised to 91 words in 10 short sentences. It keeps the history from 19th-century fairground inspiration to HARIBO’s 1920 Bonn kitchen, Gertrud’s bicycle deliveries, the first car in 1923, 400 employees by 1933, and Goldbears in the 1960s. The language uses simpler phrases such as “gave Hans an idea,” “took the candy by bike,” and “more people wanted the candy.”
 
-The single circle-one activity still checks the origin of the bear-shaped candy and adds one explanatory sentence after the choice. The Did You Know section keeps the user-preferred HARIBO package-name origin, HA + RI + BO. The matching Chinese teacher-guide text explains the growth timeline and supports the historical language.
+The single circle-one activity still checks the origin of the bear candy and adds one explanatory sentence after the choice. The Did You Know section keeps the user-preferred HARIBO package-name origin, HA + RI + BO. The matching Chinese teacher-guide draft follows the same timeline and simplifies its vocabulary support.
 
 The prior shape-comparison direction is withdrawn. Its `layout-level45-v1` sample is superseded and is not the current worksheet.
 
 ## Language boundary
 
-The existing handoff confirms Levels 4 and 5 have finished Unit 1 and have not started Unit 2. EOW4 Unit 1 lists did questions and short answers; that does not establish mastery of all past-tense narration, vocabulary, or comparative forms in this reading. Teachers support those forms for cultural comprehension; students are not assessed on verb changes or independent sentence production.
+The existing handoff confirms Levels 4 and 5 have finished Unit 1 and have not started Unit 2. EOW4 Unit 1 lists did questions and short answers; that does not establish mastery of all past-tense narration or comparative forms in this reading. Teachers support those forms for cultural comprehension; students are not assessed on verb changes or independent sentence production.
 
 ## Source checks
 
