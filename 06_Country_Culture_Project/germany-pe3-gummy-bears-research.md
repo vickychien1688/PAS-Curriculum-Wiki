@@ -80,6 +80,8 @@ Desktop Level 2 contains final PDF/PNG/JPG worksheets and teacher guides; produc
 
 ## Level 3 content proposal — 3 October 2026
 
+Latest proposal v3 addresses the user's cohesion and tense concerns. Unit 1 covers present-tense occupation/workplace language; was/were appears in Unit 6, and made/had is outside the current Unit 1 scope. The new 54-word alternative uses present-tense picture narration, with explicit 1920/1922/Today scene labels and a teacher's Chinese historical framing. It is not an ordinary historical recount with mechanically changed verbs. The kitchen directly connects to the candy-making action. The official initial equipment list includes more than the three previously selected items, so adding an exclusive only would misrepresent that shortened list. This form and wording remain proposed; no artwork or audio has been produced. The earlier drafts below are historical.
+
 Latest revision v2: after the user questioned whether the reading was too short, the proposed passage expands from 41 to 54 words. It adds the sugar bag, stove and pot from the official 1920 account as concrete kitchen details, without claiming they were the only equipment. The short-clause style, three-event activity and explanatory name-origin panel stay unchanged. Stove connects to EOW2 Unit 5; the new past-time form and other kitchen terms require teacher support. The revision still awaits content feedback. The following paragraph records v1.
 
 The user requested continuation to Level 3. The proposed 41-word, six-sentence reading follows the 1920 small-kitchen candy-making start, the first gummy bears in 1922 and present-day enjoyment. HARIBO’s official history was rechecked. No changing country-count statistic is used.

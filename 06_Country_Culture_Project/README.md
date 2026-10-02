@@ -1,5 +1,7 @@
 # Country Culture Project — current entry point
 
+2026-10-03 latest: [Gummy bears Level 3 tense review](germany-pe3-gummy-bears-research.md#level-3-content-proposal--3-october-2026). Unit 1 tense scope rechecked; v3 proposes clearly framed historical-picture narration with present-tense jobs/workplaces. Avoid an exclusive only with a shortened equipment list. Wording and form await feedback; prior releases unchanged.
+
 2026-10-03 latest: [Gummy bears Level 3 revision v2](germany-pe3-gummy-bears-research.md#level-3-content-proposal--3-october-2026) expands the reading to 54 words with concrete, sourced kitchen details after length feedback. The three-picture task and Did You Know remain unchanged; wording is still proposed, with no layout/audio work.
 
 2026-10-03 latest: [Gummy bears Level 3 content proposal](germany-pe3-gummy-bears-research.md#level-3-content-proposal--3-october-2026): 41-word cultural reading and three-picture sequence prepared after curriculum and source checks. Content feedback comes before layout/audio. Existing sp/218 and sp/219 releases remain unchanged.
