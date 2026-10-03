@@ -1,22 +1,22 @@
 # Gummy Bears Level 4/5 Shared Content Proposal
 
-**Status: simplified content proposal for user review.** Exact student-facing copy remains in the private work package. The closing wording is approved; the remaining passage, activity, and Did You Know are still under review. No replacement worksheet layout, audio, QR, or publication has been made.
+**Status: Golden Sample v2 created for review.** The closing wording is approved. The remaining passage, six-panel activity, Did You Know copy, and visual design are not yet approved. No audio, QR, print release, or external worksheet delivery has been made. Full student-facing copy and production files remain in the private work package.
 
 ## Current direction
 
-Following feedback that the vocabulary was too difficult, the shared reading now uses short sentences and common words. It keeps the history from 19th-century fairground inspiration to HARIBO’s 1920 Bonn kitchen, Gertrud’s bicycle deliveries, the first car in 1923, 400 employees by 1933, and Goldbears in the 1960s. The 103-word passage ends with two reflection sentences about working hard for a dream and a result that may surprise the student; the user approved only this closing wording.
+The shared historical reading uses short sentences and common words. It follows HARIBO's German origin from 19th-century fairground inspiration to a 1920 Bonn kitchen, early production and delivery, company growth, and Goldbears. It uses 103 words and ends with two student-reflection sentences about working hard for a dream and a surprising result; the user approved only those final two sentences.
 
-The single circle-one activity still checks the origin of the bear candy and adds one explanatory sentence after the choice. The Did You Know section keeps the user-preferred HARIBO package-name origin, HA + RI + BO. The matching Chinese teacher-guide draft follows the same timeline and clarifies that the closing is a student reflection, not a historical quote from Hans Riegel.
+The user requested a six-panel comic sequencing activity. The three Level 3 image captions remain unchanged; three additional illustrative scenes support the intermediate events. One short sentence follows the activity to connect the fairground inspiration to the 1922 Dancing Bear. The Did You Know section keeps the HARIBO name origin, HA + RI + BO.
 
-The prior shape-comparison direction is withdrawn. Its `layout-level45-v1` sample is superseded and is not the current worksheet.
+The Golden Sample uses the PE3 forest-green series layout and keeps the standard listening module marked “Audio QR pending.” It is a review sample, not a print-ready or externally delivered worksheet. Its activity mapping and complete student copy remain private.
 
 ## Language boundary
 
-The existing handoff confirms Levels 4 and 5 have finished Unit 1 and have not started Unit 2. EOW4 Unit 1 lists did questions and short answers; that does not establish mastery of all past-tense narration or comparative forms in this reading. Teachers support those forms for cultural comprehension; students are not assessed on verb changes or independent sentence production.
+Levels 4 and 5 have completed Unit 1 and have not started Unit 2. EOW4 Unit 1 includes did questions and short answers; that does not establish mastery of all past-tense narration or comparative forms in this reading. Teachers support these forms for cultural comprehension. Students are not assessed on verb changes, year memorization, or independent sentence production.
 
 ## Source checks
 
-- HARIBO’s [official English history](https://www.haribo.com/en-us/about-us/history) states that Hans Riegel began sweets production in a Bonn home kitchen in 1920; Gertrud delivered the daily production by bicycle until the 1923 company car, prompted by increased demand; and by 1933 the company had 400 associates. It also identifies the 1922 Dancing Bear and expands the name HARIBO as HAns RIegel BOnn.
-- HARIBO’s [official 2022 press release](https://www.haribo.com/de-de/presse/pressemitteilungen/happy-baersday-die-haribo-goldbaeren-werden-100) traces the 1922 bear-shaped fruit gummy to a popular 19th-century fairground attraction and says smaller, rounder Goldbears replaced the Tanzbären in the 1960s.
+- HARIBO's [official English history](https://www.haribo.com/en/about-us/history) supports the 1920 Bonn kitchen, 1922 Dancing Bear, Gertrud's bicycle deliveries, 1923 first company car, 400 associates by 1933, and the HARIBO name origin.
+- HARIBO's [official 2022 press release](https://www.haribo.com/de-de/presse/pressemitteilungen/happy-baersday-die-haribo-goldbaeren-werden-100) supports the 19th-century fairground inspiration and the 1960s transition to smaller, rounder Goldbears.
 
-No source says Hans personally witnessed a particular fairground show. The student-facing copy stays in the private work package; this public Wiki records the topic specification and review status only.
+The fair, bicycle, and generic car scenes in the sample are illustrative vectors, not historical photographs or exact reconstructions. No source says Hans personally witnessed a particular fairground show. The public Wiki records the topic and status; it does not contain the complete worksheet or answer key.
