@@ -1,5 +1,11 @@
 # Germany PE3 — X-ray: shared Starter / Level 1 picture activity and Level 2–5 readings
 
+## 5 October: franchise-site delivery and five-level catalog audit
+
+The approved Level 4/5 X-ray student PDF and JPG are listed in Germany Journey Project 3 as ws-02, after German Cars ws-01 and before Gummy Bears ws-03. All four remote files were downloaded and their SHA256 values match the approved local sources. Existing Cars entries remain unchanged; the teacher guide was not uploaded to the franchise site. Physical phone scanning is still pending.
+
+The Level 1–5 site catalog lists a German Cars worksheet in Project 3 for every level. It has no X-ray card in Levels 1–3; those pages have not been added to the franchise catalog. This website check read the resource listings; it did not download and re-hash all pre-existing Project 1/2 and Cars files. Level 2/3 audio still awaits listening approval, so their release remains pending. Full lesson files and verification details remain in the private package.
+
 ## Session closeout — 1 October
 
 Level 4/5 are complete through desktop and Google Drive delivery: approved four-picture layout v6, audio v2 and shared sp/217. Resume with the existing Level 2/3 audio-v1 previews; their audio is not yet approved or published. Starter/Level 1 retain the approved shared sp/216 materials. Remaining items are worksheet numbering, physical phone scanning and outstanding distribution channels. Superseded pending-review/upload notes below are historical; no new production is authorized by this closeout.
