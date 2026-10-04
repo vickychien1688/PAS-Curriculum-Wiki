@@ -1,12 +1,12 @@
 # Gummy Bears Level 4/5 Shared Content Proposal
 
-**Status: Golden Sample v5 and a teacher-guide review draft are ready for review.** The activity uses six shuffled, text-only event cards with no dates printed on the cards. Pupils match each event to the dated reading and number the events in order. The reading remains 103 words; the closing wording is approved. At the user's request, one official HARIBO Goldbears product image has been added to the Did You Know panel, separate from the six event cards. The remaining passage, activity, Did You Know copy, and page layout still need review. No audio, QR, print release, or external worksheet delivery has been made. Full student-facing copy and production files remain private.
+**Status: Golden Sample v5 and a teacher-guide review draft are ready for review.** The activity uses six shuffled, text-only event cards with no dates printed on the cards. Pupils match each event to the dated reading and number the events in order. The reading remains 103 words; the closing wording is approved. At the user's request, one official HARIBO Goldbears product image has been added to the right side of the Did You Know panel; the title and small star stay on the left, separate from the six event cards. The user has since flagged that the reading may feel like separate event sentences, so its flow remains under review. The remaining passage, activity, Did You Know copy, and page layout still need review. No audio, QR, print release, or external worksheet delivery has been made. Full student-facing copy and production files remain private.
 
 ## Current direction
 
 The historical reading connects the 19th-century dancing-bear inspiration to HARIBO’s Bonn kitchen, Gertrud joining the company and delivering candy by bicycle, the first Dancing Bear, the first company car, and later Goldbears. The sequence cards omit dates so pupils must return to the reading and connect each event to its date.
 
-The activity contains no event illustrations. It uses six text cards in two columns and three rows, with the existing A–F labels retained. The Did You Know section keeps the HARIBO name origin, HA + RI + BO, and includes one official Goldbears package image as a visual cue. The one-page Chinese teacher-guide review draft matches the page.
+The activity contains no event illustrations. It uses six text cards in two columns and three rows, with the existing A–F labels retained. The Did You Know section keeps the HARIBO name origin, HA + RI + BO, and places one official Goldbears package image on the right as a visual cue. The one-page Chinese teacher-guide review draft matches the page.
 
 ## Production status
 
