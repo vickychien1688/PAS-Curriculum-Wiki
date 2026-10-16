@@ -20,7 +20,7 @@ These divisions continue the previous draft; individual titles, readings and tas
 | Project | Topic 1 | Topic 2 | Topic 3 |
 |---|---|---|---|
 | PE1 | Meet Japan: flag and location | Islands and Mount Fuji: four main islands, volcanoes; optional teacher-led simulation | Earthquake Safety: earthquakes and protective actions |
-| PE2 | Japanese anime | Nintendo and games | Capsule-toy culture |
+| PE2 | Stories from Japan: manga, anime and cultural reach | New Ways to Play: Nintendo and broader participation | Small Toys, Big Culture: miniatures, collecting and souvenirs |
 | PE3 | Traditional houses | Japan–Taiwan connections | Festivals |
 | PE4 | Representative foods | Ingredients and umami | Making Japanese food |
 
@@ -67,6 +67,6 @@ The proposed titles are **Meet Japan**, **Islands and Mount Fuji**, and **Earthq
 
 All nine passages were checked against the PDF text; all four rendered pages were inspected. The planning PDF and editable source are in the private culture project, with a byte-identical desktop planning copy. This is a content discussion deliverable, not approval of finished student worksheets. No Japan audio, QR or student-platform release was produced. Full passages and the PDF are not stored in this public Wiki.
 
-## PE2 planning proposal — 16 October 2026
+## PE2 planning revision v2 — 16 October 2026
 
-At the user’s request, PE2 follows the PE1 planning format: three topics, three shared groups and nine original reading paragraphs, combined into a private four-page review PDF. Topics are Anime Friends, Nintendo and Games, and Capsule Toy Surprise. The tables include exact PAS unit links, supported new cultural language and differentiated activities. See [PE2 language planning](japan-pe2-language-planning.md). English paragraphs are 13pt and all four pages have been rendered and inspected. This is a discussion proposal, not approved student artwork or audio. Full materials and reproducible source remain private.
+The user rejected the first PE2 paragraph set for unclear cultural meaning and open-ended questions unsuitable for the children. The current private four-page review PDF rewrites all nine paragraphs around cultural development and impact: manga/animation and international understanding, Nintendo's changing ways to play and broader participation, and capsule miniatures as adult collections and travel souvenirs. Bounded activities include answer keys. See [current PE2 language planning](japan-pe2-language-planning.md). PAS links follow the cultural meaning; they do not determine an unrelated character-color lesson. v1 is retained as rejected history. v2 is pending user content feedback, not approved student artwork or audio.
