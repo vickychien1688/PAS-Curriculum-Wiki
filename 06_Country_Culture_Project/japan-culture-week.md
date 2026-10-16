@@ -8,7 +8,7 @@ The user requires **four Projects, three worksheet topics per Project: 12 topics
 
 | Project | Cultural scope | Experience direction |
 |---|---|---|
-| PE1 — Discover Japan | Flag, location, four main islands, volcanic landforms including Mount Fuji, and earthquakes | Optional teacher-led volcano simulation |
+| PE1 — Discover Japan | Flag, location, four main islands, volcanic landforms including Mount Fuji, earthquakes and protective actions | Optional teacher-led volcano simulation |
 | PE2 — Japanese Pop Culture | Studio Ghibli, Doraemon, Detective Conan, Pokémon, Nintendo and capsule toys | Capsule-toy experience |
 | PE3 — Traditional Japan | Architecture, related buildings in Taiwan, Japanese loanwords and festivals | Festival games |
 | PE4 — Japanese Food Culture | Representative foods, ingredients and Taiwan–Japan food connections | Onigiri and dorayaki making |
@@ -19,14 +19,14 @@ These divisions continue the previous draft; individual titles, readings and tas
 
 | Project | Topic 1 | Topic 2 | Topic 3 |
 |---|---|---|---|
-| PE1 | Flag and location | Four main islands and Mount Fuji | Volcanoes and earthquakes; optional volcano simulation |
+| PE1 | Meet Japan: flag and location | Islands and Mount Fuji: four main islands, volcanoes; optional teacher-led simulation | Earthquake Safety: earthquakes and protective actions |
 | PE2 | Japanese anime | Nintendo and games | Capsule-toy culture |
 | PE3 | Traditional houses | Japan–Taiwan connections | Festivals |
 | PE4 | Representative foods | Ingredients and umami | Making Japanese food |
 
 ## Next step and open items
 
-Continue one topic at a time with PE1 using the [culture framework](country-culture-project-framework.md) and verified PAS sources. The user’s four-Project / three-topic structure takes precedence over the old pilot’s five-theme format. The Mount Fuji placement in Topic 2 is a working arrangement, not approved final page content.
+Continue one topic at a time with PE1 using the [culture framework](country-culture-project-framework.md) and verified PAS sources. The user’s four-Project / three-topic structure takes precedence over the old pilot’s five-theme format. The three topics now have shared-group reading proposals and a review PDF; final student page text and artwork remain under discussion.
 
 - The user explicitly wants Starter / Level 1 to share each worksheet. Plan Level 2 / Level 3 and Level 4 / Level 5 as the other shared groups; the Level 2 / Level 3 pairing remains tentative. Three shared versions are the working direction, not six independent level editions. Use teacher prompts to vary depth while keeping the shared page accessible to the lower level.
 - The user identifies Units 3–4 as the Japan-week teaching range. Use current-unit language and Units 1–2 review candidates, without assuming all Unit 4 content has already been taught. The first shared flag/location page can connect Starter U3 `red`, U4 `circle`, U2 `globe` with EOW1 U1 `map` and U2 `sun`. `white`, `flag`, and place names require separate cultural-language support rather than being labelled verified Starter U3 vocabulary.
@@ -48,3 +48,21 @@ The base below follows the lower level of each group; prior-book words are revie
 | Level 4 / Level 5 | EOW4 U4 bigger, smaller, different; U3 interesting | Publisher EOW5 U4 push, pull, force, direction (edition match pending) | Island comparisons and optional model discussion |
 
 Starter U3/U4 color/shape questions, EOW2 U2/U3 activity/weather questions and EOW4 U4 comparative structures can support the shared pages. Treat Japan/flag/white and volcano/earthquake vocabulary separately from verified current-unit words. EOW3 island occurs in U7, so it is not current-book review for Level 3 at U3–4. The detailed table and source links are preserved privately; the user's earlier table example has not yet been received.
+
+## Earthquake protective actions added to PE1
+
+The user requests teaching children what to do during an earthquake. Integrate **Drop, Cover, Hold on** into Topic 3 (Earthquake Safety), retaining the three-topic structure. The optional teacher-led volcano activity now accompanies Topic 2 (Islands and Mount Fuji). The content goal is accepted; student wording and graphics remain discussion drafts.
+
+All shared groups learn the same correct protective actions. In the classroom scenario with nearby sturdy tables, demonstrate getting down on hands and knees, sheltering under the nearby table while protecting head and neck, and holding on until shaking stops. Use the applicable protective posture for each child's mobility and the school's safety plan. Do not frame this as a race to tables or to exit the classroom.
+
+Starter/Level 1: listen and act using three pictures; `table` links to Starter U2. Level 2/3: sequence the pictures and practise commands, connecting EOW2 U3 imperatives and optional EOW3 U3 `protect`. Level 4/5: explain the same sequence and its protective purpose. Treat Drop/Cover/Hold on and necessary supporting body words as explicitly taught safety language, not automatically verified current-unit vocabulary.
+
+Official references: [Taiwan CWA](https://scweb.cwa.gov.tw/zh-tw/page/intro/11), [CDC](https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html), and [NZ Civil Defence](https://getready.govt.nz/emergency/earthquakes/drop-cover-hold). Detailed proposals remain private; no new worksheet, audio or classroom drill has been produced or verified.
+
+## Three-topic reading proposal and review PDF
+
+At the user's request, a four-page planning PDF has been created privately: one table page per worksheet topic, each with one original paragraph for Starter/Level 1, Level 2/Level 3, and Level 4/Level 5; a fourth page records teaching guidance and sources. There are nine paragraphs in total. Each row includes curriculum links, explicitly supported cultural language and an activity proposal. English paragraphs use 13pt Nunito.
+
+The proposed titles are **Meet Japan**, **Islands and Mount Fuji**, and **Earthquake Safety**. Lower-level passages are for teacher-supported listening and identification, not independent reading or spelling tests. The three-group plan remains the basis; Level 2/3 sharing is still tentative, and the actual Level 5 textbook edition remains unconfirmed.
+
+All nine passages were checked against the PDF text; all four rendered pages were inspected. The planning PDF and editable source are in the private culture project, with a byte-identical desktop planning copy. This is a content discussion deliverable, not approval of finished student worksheets. No Japan audio, QR or student-platform release was produced. Full passages and the PDF are not stored in this public Wiki.
