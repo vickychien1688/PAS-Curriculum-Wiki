@@ -1,5 +1,6 @@
 # Japan Culture Week — current planning scope
 
+**Latest, 2026-10-16:** The user requires discussion of basic cultural meaning and examples before any further worksheet/PDF/image production. Starter must be separated from the Level 1 shared-passage assumption; independent level planning is being discussed. Prior shared-group tables below are historical proposals, not current requirements for PE2. Use the German cars precedent: level-specific understanding goals, with separately controlled English demands. See [latest PE2 discussion status](japan-pe2-language-planning.md). No new student content or layout is approved.
 Updated: 2026-10-16. Stage: planning and curriculum alignment.
 
 The current scope follows the user’s existing discussion and four-Project reference table. The country program retains the established 20-lesson target, with approximately 10 minutes of culture embedded in each regular English lesson. Detailed Japan scheduling remains to be developed.

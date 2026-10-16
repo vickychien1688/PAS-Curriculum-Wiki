@@ -1,5 +1,14 @@
 # Japan PE2 — Japanese Pop Culture language planning
 
+## Latest user correction — discussion before production
+
+Updated 2026-10-16. The user says the low-level v2 readings contain too many unfamiliar words despite being short. Starter must not be forced to share a Level 1 passage. Independent level versions are a discussion direction, not approved final grouping. Follow the German cars precedent: recognition at entry level, then progressively deeper understanding of creative work, development and social effects. Language difficulty must be checked separately.
+
+The user explicitly objects to generating documents/images before discussing basic content. **Stop production; first discuss each topic’s meaning and examples in chat, then level objectives and PAS language, then produce only after agreement.** The v3 research PDF/previews were premature internal work, not a deliverable or accepted curriculum. The next step is the first anime topic discussion; do not batch-generate eighteen passages.
+
+Research covers creator museums, Ghibli venues, overseas exhibitions/cosplay, Famicom history, Pokémon games/cards/anime and community, dated capsule-store machine counts, and vending-machine product examples. Vending remains a proposed topic-3 extension. Selected facts and grade objectives remain unapproved. Existing PE1 files are unchanged.
+
+## Historical v2 proposal (superseded assumptions; not current instructions)
 Updated: 2026-10-16. Current version: **v2 cultural narrative revision, pending user content feedback**.
 
 ## User correction and current rule
