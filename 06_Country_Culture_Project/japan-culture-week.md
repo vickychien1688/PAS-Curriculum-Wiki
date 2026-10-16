@@ -36,3 +36,15 @@ Continue one topic at a time with PE1 using the [culture framework](country-cult
 - Discuss and settle the first shared page before expanding the remaining pages. Detailed lesson allocation, experiment procedure, final text and artwork remain under development. No Japan student worksheets, recordings or QR codes have been produced in this session.
 
 The previous planning workbook, production files, reference screenshot and conversation provenance are preserved privately in `claude-config/projects/our-reading-space-culture/references/japan-week-handoff-20261016/`. Complete materials remain private.
+
+## Shared-group language pool (discussion draft)
+
+The base below follows the lower level of each group; prior-book words are review candidates, not evidence of individual mastery. Upper-level extensions are optional teacher prompts, not prerequisites for the lower level. Select a small subset per worksheet.
+
+| Shared group | Base curriculum links | Optional upper-level extension | PE1 connection |
+|---|---|---|---|
+| Starter / Level 1 | Starter U3 red; U4 circle; U2 globe | EOW1 U1 map; U2 sun, rock | Flag, location and landscape observation |
+| Level 2 / Level 3 (tentative) | EOW2 U3 cold, hot, sunny, cloudy, rainy; U2 coloring, counting, drawing, cutting, gluing | EOW3 U3 help, protect; U1 scientist | Located/seasonal weather pictures, island-map activities and observation/helping |
+| Level 4 / Level 5 | EOW4 U4 bigger, smaller, different; U3 interesting | Publisher EOW5 U4 push, pull, force, direction (edition match pending) | Island comparisons and optional model discussion |
+
+Starter U3/U4 color/shape questions, EOW2 U2/U3 activity/weather questions and EOW4 U4 comparative structures can support the shared pages. Treat Japan/flag/white and volcano/earthquake vocabulary separately from verified current-unit words. EOW3 island occurs in U7, so it is not current-book review for Level 3 at U3–4. The detailed table and source links are preserved privately; the user's earlier table example has not yet been received.
