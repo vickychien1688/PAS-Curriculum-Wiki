@@ -8,7 +8,7 @@ The user requires **four Projects, three worksheet topics per Project: 12 topics
 
 | Project | Cultural scope | Experience direction |
 |---|---|---|
-| PE1 — Discover Japan | Flag, location, four main islands, volcanoes and earthquakes | Volcano simulation |
+| PE1 — Discover Japan | Flag, location, four main islands, volcanic landforms including Mount Fuji, and earthquakes | Optional teacher-led volcano simulation |
 | PE2 — Japanese Pop Culture | Studio Ghibli, Doraemon, Detective Conan, Pokémon, Nintendo and capsule toys | Capsule-toy experience |
 | PE3 — Traditional Japan | Architecture, related buildings in Taiwan, Japanese loanwords and festivals | Festival games |
 | PE4 — Japanese Food Culture | Representative foods, ingredients and Taiwan–Japan food connections | Onigiri and dorayaki making |
@@ -19,18 +19,20 @@ These divisions continue the previous draft; individual titles, readings and tas
 
 | Project | Topic 1 | Topic 2 | Topic 3 |
 |---|---|---|---|
-| PE1 | Flag and location | Four main islands | Volcanoes and earthquakes |
+| PE1 | Flag and location | Four main islands and Mount Fuji | Volcanoes and earthquakes; optional volcano simulation |
 | PE2 | Japanese anime | Nintendo and games | Capsule-toy culture |
 | PE3 | Traditional houses | Japan–Taiwan connections | Festivals |
 | PE4 | Representative foods | Ingredients and umami | Making Japanese food |
 
 ## Next step and open items
 
-Continue with PE1 content and level differentiation using the [culture framework](country-culture-project-framework.md) and verified PAS sources. The user’s four-Project / three-topic structure takes precedence over the old pilot’s five-theme format.
+Continue one topic at a time with PE1 using the [culture framework](country-culture-project-framework.md) and verified PAS sources. The user’s four-Project / three-topic structure takes precedence over the old pilot’s five-theme format. The Mount Fuji placement in Topic 2 is a working arrangement, not approved final page content.
 
-- Plan across Starter–Level 5, allowing shared-level editions. Twelve topics do not establish approval for 72 distinct originals.
-- Verify actual class progress and completed prior learning before assigning required English output. Existing alignment suggestions do not establish mastery; Level 5 alignment remains unresolved.
+- The user explicitly wants Starter / Level 1 to share each worksheet. Plan Level 2 / Level 3 and Level 4 / Level 5 as the other shared groups; the Level 2 / Level 3 pairing remains tentative. Three shared versions are the working direction, not six independent level editions. Use teacher prompts to vary depth while keeping the shared page accessible to the lower level.
+- The user identifies Units 3–4 as the Japan-week teaching range. Use current-unit language and Units 1–2 review candidates, without assuming all Unit 4 content has already been taught. The first shared flag/location page can connect Starter U3 `red`, U4 `circle`, U2 `globe` with EOW1 U1 `map` and U2 `sun`. `white`, `flag`, and place names require separate cultural-language support rather than being labelled verified Starter U3 vocabulary.
+- PAS Wiki contains Starter and EOW1–4 unit records. EOW5 is not yet in the Wiki; the publisher's [EOW5 scope and sequence](https://ngl.cengage.com/assets/downloads/eow_pro0000000537/eow_l5_scope_and_sequence.pdf) provides a provisional supplemental reference. Matching the actual Level 5 textbook edition remains open; no new EOW5 Wiki curriculum has been created.
+- Include Mount Fuji as a Japanese volcano and connect the volcano topic to an optional small eruption simulation. Each teacher may choose the format or omit the experiment according to available time and materials. It is not a required student worksheet experiment report. Keep volcanic eruptions and earthquakes conceptually distinct; a foam demonstration represents appearance, not the full geological mechanism.
 - Follow the established culture worksheet design process. A prior assistant’s fixed four-question format or Reading Base styling suggestion is not an approved requirement.
-- Detailed lesson allocation, activity delivery, final text and artwork remain under development. No Japan student worksheets, recordings or QR codes have been produced in this session.
+- Discuss and settle the first shared page before expanding the remaining pages. Detailed lesson allocation, experiment procedure, final text and artwork remain under development. No Japan student worksheets, recordings or QR codes have been produced in this session.
 
 The previous planning workbook, production files, reference screenshot and conversation provenance are preserved privately in `claude-config/projects/our-reading-space-culture/references/japan-week-handoff-20261016/`. Complete materials remain private.
