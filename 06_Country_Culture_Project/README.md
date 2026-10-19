@@ -1,3 +1,5 @@
+2026-10-20: [Welcome to Japan! Grade 2 original-art local revision v4](japan-welcome-grade2-review.md). V3 was also rejected. The user explicitly chose preservation of the original artwork and layout with easier Grade 2 tasks. V4 keeps the actual teacher illustrations and four panels, simplifies writing and distractors, and uses the authentic logo. Review pending; full materials are private.
+
 2026-10-20: [Welcome to Japan! Grade 2 original-style review v3](japan-welcome-grade2-review.md). The user rejected v1/v2 as insufficiently lively. V3 uses the teacher original’s vivid rainbow headline, sakura and four colorful sections. Visual approval and listening audio remain pending; full materials are private.
 
 2026-10-20: [Welcome to Japan! Grade 2 lively review v2](japan-welcome-grade2-review.md). User requested a livelier layout after v1; v2 adds tilted cards and a note-paper reading panel. Custom 2421×3496 / 300dpi, authentic branding and 13pt text retained. Visual feedback and audio/QR pending; full materials remain private.

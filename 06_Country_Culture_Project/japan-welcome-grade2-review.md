@@ -1,21 +1,21 @@
-# Welcome to Japan! — Grade 2 original-style review v3
+# Welcome to Japan! — Grade 2 original-art local revision v4
 
-Updated: 2026-10-20. Scope: one teacher-supplied worksheet redesigned for elementary Grade 2, without assigning a PAS English level.
+Updated: 2026-10-20. Scope: a single teacher-supplied worksheet for elementary Grade 2, without assigning a PAS English level.
 
-The user confirmed the authentic 愉閱空間 / 語感英文 identity, requested removal of “P1-01 | Discover Japan”, and specified 2421 × 3496 px at 300 dpi (approximately 20.5 × 29.6 cm). These dimensions govern this sheet.
+The user rejected v3 with “還是醜” and explicitly chose “沿原圖調整：保留插畫與排版風格，題目簡化成適合小二”. V1–v3 are rejected visual history, not approved templates. V4 is the current review sample.
 
-The user rejected v1 and v2 as insufficiently lively and explicitly identified the original teacher worksheet as the desired visual standard. V3 directly follows its saturated cyan sky, large rainbow bubble title, sakura, Japanese landmarks and pink/blue/green/orange section styling. Built-in imagegen supplies the illustrated background and main title. The genuine logo source is clipped and placed without regeneration; all body text, choices, maps and flags are composed separately in native PDF. The short reading uses one sentence per line for younger readers.
+V4 uses the actual original teacher JPG as its visual master: main title, sakura and landmarks, six vocabulary images, original illustrated map, four activity panels and four picture-choice cards are retained. Built-in imagegen removes only the unwanted top-left P1-01 / Discover Japan tag, and only that small edited corner is composited back. The authentic 愉閱空間 / 語感英文 source replaces the pseudo-brand within the existing upper-right badge. Other artwork is not regenerated.
 
-The lesson retains four labelled picture cards, a short reading, a sourced East Asia map with Tokyo marked, three bounded exploration tasks, a flag-symbol cultural fact and Name / Date. The complete proprietary lesson is only in the private production package.
+The Grade 2 adaptation changes independent vocabulary writing to labelled look-and-say cards, shortens reading, supplies a word bank for three fill-in items, reduces picture-choice items to two options, and keeps three easy circle-choice sentences. Direction testing and larger distractor sets are removed. Full proprietary text and answer keys remain in the private production package.
 
-Status: v3 is the current visual review sample; v1/v2 are rejected visual history and no version has final user approval. The single-page PDF is 581.04 × 839.04 pt; PNG is 2421 × 3496 px at 300 dpi. Native body and choice text is Nunito 13 pt. Exact content, blank answers, original logo hash, page bounds and Poppler full-page view were checked. The illustrated source is lower-resolution generated art placed in the requested final print composition; output pixel dimensions do not imply native source-art resolution.
+Output: 2421 × 3496 px at 300 dpi; one-page PDF 581.04 × 839.04 pt, approximately 20.5 × 29.6 cm. These explicit user dimensions override the Germany master for this sheet. Body, vocabulary and options are native Nunito 13 pt, with 12pt activity instructions. Reading is a natural paragraph. Original title, section-heading and map lettering remain part of the teacher raster artwork. Larger output dimensions do not imply increased original source-art detail.
 
-Audio remains unproduced and unpublished. The listening badge explicitly reads Audio QR pending; no fake QR is inserted. No full student worksheet is published here or on student platforms.
+QA: exact passage, native type size, empty answers, question/image/answer correspondence, page bounds, genuine source-logo hash and output dimensions were checked. Poppler full-page review and enlarged header/choice-card checks verified no old brand fragments and complete flag borders. Technical QA does not imply user approval.
 
-Private source: `claude-config/projects/our-reading-space-culture/output/japan-welcome-grade2-v3/`. It contains PDF, PNG, exact text, original assets, built-in imagegen prompt, editable production code, teacher notes and QA. Desktop Japan-PE1 sample and production copies are retained. Rejected v1/v2 packages are marked historical.
+No audio or QR has been produced or published. This revision follows the original upper-right brand layout and does not reuse v3’s added listening placeholder. No worksheet was uploaded to public student platforms.
 
-Next: receive v3 visual/content feedback, revise the affected details, then handle listening audio and real QR after the design is accepted. Do not expand this sample to other levels. The separate uncommitted 2026-10-17 broader Japan handoff was preserved locally and excluded from this sync.
+Private source package: `claude-config/projects/our-reading-space-culture/output/japan-welcome-grade2-v4/`. It includes PDF, PNG, original artwork, local image-edit source and prompt, exact content, editable PDF production code, teacher notes and QA. Desktop Japan-PE1 sample and production copies have matching hashes. V3 is explicitly marked rejected.
 
-Sources: [Natural Earth public-domain terms](https://www.naturalearthdata.com/about/terms-of-use/), [Kids Web Japan flag symbolism](https://web-japan.org/kidsweb/explore/basic/pdf/basics.pdf).
+Next: receive feedback on v4’s visual treatment and simplified tasks, then revise only the relevant parts. No final approval or propagation to other levels is implied. Separate local uncommitted curriculum work and another agent’s local Git operations are preserved.
 
-Backup note: earlier unintended deletion commits were fully restored with non-force commits and original tree-hash verification. Subsequent scoped syncing uses the current remote base tree, validates every changed path and rejects any deletion. Artifact bytes are verified by SHA256 readback before updating main.
+Remote verification: the required start-session script was run, but its local fetch stalled and only that process tree was terminated. Current main commits, shared handoff and this Wiki were instead read through the GitHub API before production. Scoped sync builds on the current remote base tree, verifies that every change is authorized and no file is deleted, and checks all artifact bytes by SHA256 readback before advancing main.
