@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "title": "My Handmade Toy — Day One: In the Toy Store",
+    "created": 1782402720.785,
+    "last_updated": 1782405930.61,
+    "total_slides": 17
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "deleted",
+      "pageNum": -1
+    },
+    {
+      "id": "phonics_ai",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "phonics_ay",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "phonics_ea",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "phonics_ee",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "phonics_review_1",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_11",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_12",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_13",
+      "state": "edited",
+      "pageNum": 17
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "My Handmade Toy — Day One: In the Toy Store",
+      "summary": "Title slide introducing the project and day 1 topic.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "phonics_ai",
+      "title": "Long A: -ai- Words",
+      "summary": "Phonics slide for -ai- words: mail, wait, train, rain. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_ay",
+      "title": "Long A: -ay- Words",
+      "summary": "Phonics slide for -ay- words: day, pay, gray, crayon. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_ea",
+      "title": "Long E: -ea- Words",
+      "summary": "Phonics slide for -ea- words: sea, meat, beach, seat. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_ee",
+      "title": "Long E: -ee- Words",
+      "summary": "Phonics slide for -ee- words: feet, teeth, tree, green. Each word has a large watercolor illustration in 2x2 grid."
+    },
+    {
+      "id": "phonics_review_1",
+      "title": "Can You Read These Words? Phonics Review!",
+      "summary": "Phonics review game slide with all 16 words from today's phonics lesson for students to practice reading."
+    },
+    {
+      "id": "slide_3",
+      "title": "Look at all the toys!",
+      "summary": "Vocabulary introduction for toys.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_4",
+      "title": "This is close. That is far.",
+      "summary": "Grammar focus on this and that.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_5",
+      "title": "These are close. Those are far.",
+      "summary": "Grammar focus on these and those.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_6",
+      "title": "Whose toy is it?",
+      "summary": "Grammar focus on possessives.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_7",
+      "title": "Corduroy lives in a big toy store.",
+      "summary": "Story time page 1.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_8",
+      "title": "\"There's the very bear I've always wanted.\"",
+      "summary": "Story time page 2.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_9",
+      "title": "\"He doesn't look new. He lost a button.\"",
+      "summary": "Story time page 3.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10",
+      "title": "\"I didn't know I lost a button.\"",
+      "summary": "Story time page 4.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11",
+      "title": "Your Turn! The Toy Shop Game",
+      "summary": "Activity time for the toy shop game.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12",
+      "title": "Let's Write!",
+      "summary": "Worksheet time.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13",
+      "title": "What will happen next?",
+      "summary": "Wrap-up and preview of day 2.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

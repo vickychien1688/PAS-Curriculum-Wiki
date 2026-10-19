@@ -1,0 +1,232 @@
+{
+  "project_info": {
+    "title": "Title",
+    "created": 1782469330.425,
+    "last_updated": 1782474081.307,
+    "total_slides": 20
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_13",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_14",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_15",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_16",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_17",
+      "state": "edited",
+      "pageNum": 17
+    },
+    {
+      "id": "slide_18",
+      "state": "edited",
+      "pageNum": 18
+    },
+    {
+      "id": "slide_19",
+      "state": "edited",
+      "pageNum": 19
+    },
+    {
+      "id": "slide_20",
+      "state": "edited",
+      "pageNum": 20
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "Title",
+      "summary": "Comic-book cover layout. The animal heroes holding microphones or shouting into megaphones.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_2",
+      "title": "Warm Up Time!",
+      "summary": "The child superhero doing the Head, Shoulders, Knees and Toes dance.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_3",
+      "title": "Phonics Power!",
+      "summary": "The superhero character looking at floating letters (K, N, W, R, M, B).",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_4",
+      "title": "kn-",
+      "summary": "2x2 grid. (1) knee, (2) knife, (3) knit, (4) knight. Highlight \"kn\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_5",
+      "title": "wr-",
+      "summary": "2x2 grid. (1) wrap, (2) write, (3) wrinkle, (4) wrist. Highlight \"wr\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_6",
+      "title": "-mb",
+      "summary": "2x2 grid. (1) lamb, (2) comb, (3) climb, (4) thumb. Highlight \"mb\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_7",
+      "title": "rh- / -st-",
+      "summary": "2x2 grid. (1) rhino, (2) rhythm, (3) listen, (4) castle. Highlight \"rh/st\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_8",
+      "title": "Game Time: Sound Stomp!",
+      "summary": "A large comic-style boot stomping the ground with \"STOMP!\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_9",
+      "title": "Hero Check!",
+      "summary": "A split screen showing body parts on the left and healthy foods on the right.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10",
+      "title": "Our Story So Far...",
+      "summary": "Three small comic panels summarizing Day 1 and 2.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11",
+      "title": "My Turn! 1",
+      "summary": "A large speech bubble with fill-in-the-blanks: \"I am a _____. I eat ___ every day.\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12",
+      "title": "My Turn! 2",
+      "summary": "A large speech bubble with fill-in-the-blanks: \"I wash my ____. I brush my ____.\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13",
+      "title": "My Turn! 3",
+      "summary": "A large speech bubble with fill-in-the-blanks: \"I have strong ____. I can ____!\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_14",
+      "title": "The Secret Formula!",
+      "summary": "A comic-style blueprint showing a blender, a banana, and milk.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_15",
+      "title": "1, 2, 3... Action!",
+      "summary": "Three comic panels showing \"First\", \"Then\", \"Finally\" with simple actions.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_16",
+      "title": "I am...",
+      "summary": "A hero posing proudly. \"I am strong! I am clean! I am healthy!\"",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_17",
+      "title": "Game Time: Hero Voices!",
+      "summary": "A microphone icon. Instructions for students to practice their presentation lines loudly.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_18",
+      "title": "Hero Mission: Worksheet Time!",
+      "summary": "Clipboard with \"SUPERHERO TASKS\". Task A: Circle, Task B: Sentence Builder, Task C: Sentence Completion.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_19",
+      "title": "Get Ready for Tomorrow!",
+      "summary": "A teaser image of a delicious milkshake glowing like a magic potion.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_20",
+      "title": "Great Job Today!",
+      "summary": "The glowing emblem. Coach Lion says: \"Tomorrow, we make the Secret Formula!\"",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

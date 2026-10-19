@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>學習單生成器 · 繽紛版</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#3a4a86;--ink:#3a3d45;--grey:#8b909c;--bg:#fffdf7;--pink:#d989aa;--blue:#6ba0cf;--green:#7fb985;--orange:#e3a86a;--purple:#9e85c6;--pinkt:#fbf2f6;--bluet:#f1f6fb;--greent:#f2f8f3;--purplet:#f6f2fb;--oranget:#fdf6ee;--gold:#e6c266;--red:#dd9290;--lblue:#a9c7e8;--frame:#d8e0ea;}
+*{box-sizing:border-box}body{margin:0;font-family:"Noto Sans TC",system-ui,sans-serif;background:#eef1f5;color:var(--ink)}
+.app{display:flex;min-height:100vh}
+.panel{width:360px;background:#fff;border-right:1px solid #e3e7ee;padding:18px 18px 40px;position:sticky;top:0;height:100vh;overflow:auto}
+.panel h1{font-size:18px;margin:0 0 2px}.panel .sub{font-size:12px;color:var(--grey);margin-bottom:14px}
+.fieldset{border:1px solid #e6e9f0;border-radius:12px;padding:12px;margin-bottom:11px}
+.fieldset h3{font-size:13px;margin:0 0 8px;color:var(--navy)}
+.seg{display:flex;gap:6px}.seg button{flex:1;padding:8px 4px;border:1px solid #d7dce6;border-radius:8px;background:#f7f9fc;font-size:12px;cursor:pointer}
+.seg button.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+select,input[type=text]{width:100%;padding:8px;border:1px solid #d7dce6;border-radius:8px;font-size:13px;background:#fff}
+label.lbl{font-size:11px;color:var(--grey);display:block;margin:0 0 3px}
+.chk{display:flex;gap:8px;align-items:center;font-size:13px;cursor:pointer;margin-top:8px}
+.addbtn{width:100%;margin-top:10px;padding:9px;border:1.5px dashed var(--blue);border-radius:10px;background:#f1f6fb;color:var(--navy);font-weight:600;font-size:13px;cursor:pointer}
+.seclist{display:flex;flex-direction:column;gap:7px;margin-top:2px}
+.secitem{display:flex;align-items:center;gap:8px;background:#f6f8fb;border:1px solid #e6e9f0;border-radius:9px;padding:8px 9px;font-size:12px;line-height:1.3}
+.secitem .num{background:var(--navy);color:#fff;border-radius:50%;width:20px;height:20px;display:grid;place-items:center;font-weight:700;font-size:11px;flex-shrink:0;font-family:Poppins}
+.secitem .x{margin-left:auto;border:0;background:#fff;color:var(--red);border-radius:6px;width:24px;height:24px;cursor:pointer;font-size:14px;flex-shrink:0}
+.secempty{font-size:12px;color:var(--grey);text-align:center;padding:8px}
+.gen{width:100%;margin-top:10px;padding:11px;border:0;border-radius:10px;background:var(--navy);color:#fff;font-size:15px;font-weight:600;cursor:pointer}
+.printbtn{width:100%;margin-top:8px;padding:9px;border:1px solid var(--navy);border-radius:10px;background:#fff;color:var(--navy);font-weight:600;cursor:pointer}
+.stage{flex:1;padding:24px;display:flex;flex-direction:column;align-items:center;gap:20px}
+.hint{color:var(--grey);font-size:13px;margin-top:40px;text-align:center}
+.page{width:794px;min-height:1123px;background:var(--bg);box-shadow:0 4px 18px rgba(0,0,0,.12);border-radius:4px;padding:26px;position:relative}
+.frame{position:absolute;inset:14px;border:2px solid #d9c9a8;border-radius:16px;pointer-events:none}
+.head{display:flex;align-items:center;justify-content:center;position:relative;margin:6px 0 16px;min-height:42px}
+.badge{position:absolute;left:14px;top:6px;background:var(--purple);color:#fff;font-weight:700;font-size:11px;padding:5px 12px 5px 26px;border-radius:12px;font-family:Poppins}.badge::before{content:"\2605";position:absolute;left:9px;color:var(--gold)}
+.title{font-family:Poppins;font-weight:700;font-size:26px}
+.card{border-radius:16px;padding:14px 18px 18px;margin:0 8px 14px;position:relative;border:1px solid}
+.card .tab{display:inline-flex;align-items:center;gap:8px;color:#fff;font-family:Poppins;font-weight:700;font-size:13.5px;padding:6px 16px;border-radius:14px;position:relative;top:-2px}
+.card .tab .num{background:#fff;border-radius:50%;width:22px;height:22px;display:grid;place-items:center;font-size:12px}
+.card .instr{color:var(--grey);font-size:11px;margin:6px 0 10px}
+.match .mrow{display:flex;align-items:center;gap:10px;padding:11px 0}.match img{width:82px;height:82px;object-fit:contain}
+.match .dotL{width:9px;height:9px;border-radius:50%;margin-left:auto}.match .gapline{flex:1}
+.match .chip{border:1.4px solid;background:#fff;border-radius:8px;padding:5px 12px;font-family:Poppins;font-weight:700;font-size:13px;color:var(--navy);white-space:nowrap}
+.match .dotR{width:9px;height:9px;border-radius:50%}.match .right{display:flex;align-items:center;gap:10px;min-width:230px;justify-content:flex-end}
+.circle .crow{display:flex;align-items:center;gap:14px;padding:10px 0}.circle .n{color:#fff;border-radius:50%;width:22px;height:22px;display:grid;place-items:center;font-family:Poppins;font-weight:700;font-size:12px}
+.circle img{width:80px;height:80px;object-fit:contain}.circle .opt{font-family:Poppins;font-weight:700;font-size:15px;color:var(--navy);margin-right:24px}
+.line .lrow{display:flex;align-items:center;gap:12px;padding:10px 0}.line .n{color:#fff;border-radius:50%;width:22px;height:22px;display:grid;place-items:center;font-family:Poppins;font-weight:700;font-size:12px}
+.line img{width:76px;height:76px;object-fit:contain}.line .tiles{display:flex;gap:7px;flex-wrap:wrap}
+.line .tile{border:1.4px solid var(--orange);color:var(--orange);background:#fff;border-radius:7px;padding:3px 9px;font-family:Poppins;font-weight:700;font-size:14px}
+.line .hunt{font-family:Poppins;font-weight:700;font-size:18px;letter-spacing:4px;color:var(--navy)}.line .wl{flex:1;border-bottom:1.6px solid var(--lblue);height:22px;min-width:160px}
+/* generic reusable bits used by injected renderers */
+.n{color:#fff;border-radius:50%;width:22px;height:22px;display:grid;place-items:center;font-family:Poppins;font-weight:700;font-size:12px;flex-shrink:0}
+.wl{border-bottom:1.6px solid var(--lblue);height:18px;min-width:140px;flex:1}
+.tile{border:1.4px solid var(--orange);color:var(--orange);background:#fff;border-radius:7px;padding:3px 9px;font-family:Poppins;font-weight:700;font-size:14px}
+.wordbox{border:1.4px solid;border-radius:12px;background:#fff;padding:9px 14px;margin-top:10px}.wordbox b{font-family:Poppins}.wordbox .ws{font-family:Poppins;font-weight:600;font-size:13.5px;text-align:center;display:block;margin-top:4px;color:var(--navy)}
+.soon{padding:40px;text-align:center;color:var(--grey);font-size:14px}
+.samplenote{text-align:center;color:var(--grey);font-size:11px;margin:0 0 10px}
+.sec{display:block}
+/* make white photo backgrounds vanish into the coloured card (no need to pre-cut PNGs) */
+.page img{mix-blend-mode:multiply}
+@media print{body{background:#fff}.panel{display:none}.stage{padding:0;gap:0}.page{box-shadow:none;border-radius:0;margin:0;page-break-after:always}.sec{break-inside:avoid}}
+</style></head>
+<body><div class="app">
+<aside class="panel">
+<h1>學習單生成器 <span style="font-size:12px;color:var(--grey)">繽紛版</span></h1>
+<div class="sub">每個區段各自選 教材/Level/課別/區塊/題型,合併成一份學習單</div>
+
+<div class="fieldset">
+<h3>新增區段</h3>
+<div class="seg" id="bMat" style="margin-bottom:9px">
+<button data-m="EOW" class="on">EOW 主教材</button>
+<button data-m="RB">Reading Base</button>
+<button data-m="GB">Grammar Box</button></div>
+<div class="row2" style="margin-bottom:9px">
+<div><label class="lbl">Level</label><select id="bLevel"><option value="EOW1">EOW 1</option><option value="EOW2" selected>EOW 2</option><option value="EOW3">EOW 3</option><option value="EOW4">EOW 4</option></select></div>
+<div><label class="lbl">Unit 課別</label><select id="bUnit"></select></div>
+</div>
+<div style="margin-bottom:9px"><label class="lbl">課程區塊</label>
+<select id="bBlock">
+<option value="vocab">Vocabulary 單字</option>
+<option value="grammar">Grammar 文法</option>
+<option value="reading">Reading 閱讀</option>
+<option value="value">Value 品格</option>
+</select></div>
+<div style="margin-bottom:9px"><label class="lbl">題型(依區塊自動篩選)</label>
+<select id="bMode"></select>
+<div id="bModehint" style="font-size:11px;color:var(--grey);margin-top:5px"></div></div>
+<div class="row2">
+<div><label class="lbl">題數</label><select id="bCount"><option value="4">4 題</option><option value="5">5 題</option><option value="6">6 題</option><option value="7">7 題</option><option value="8" selected>8 題</option><option value="9">9 題</option><option value="10">10 題</option><option value="12">12 題</option><option value="999">全部</option></select></div>
+<div><label class="lbl">範例</label><label class="chk" style="margin-top:8px"><input type="checkbox" id="bExample" checked> 第一題含範例</label></div>
+</div>
+<div id="bCountHint" style="font-size:11px;color:var(--green);margin-top:5px"></div>
+<button class="addbtn" onclick="addSection()">➕ 加入此區段</button>
+</div>
+
+<div class="fieldset">
+<h3>已加入區段 <span id="seccount" style="color:var(--grey);font-weight:400">(0/8)</span></h3>
+<div class="seclist" id="seclist"><div class="secempty">尚未加入任何區段<br>(直接按「產生」會用上方目前設定)</div></div>
+</div>
+
+<div class="fieldset">
+<h3>學習單標題(選填)</h3>
+<input type="text" id="wsTitle" placeholder="留空 → 自動用課名">
+</div>
+
+<button class="gen" onclick="generate()">產生學習單</button>
+<button class="printbtn" onclick="window.print()">列印 / 存 PDF</button>
+</aside>
+<main class="stage" id="stage"><div class="hint">← 設定區段 → 加入 → 產生學習單。可加入多個不同 Level/Unit/區塊的區段。</div></main>
+</div>
+<script src="render_vocab.js"></script>
+<script src="render_grammar.js"></script>
+<script src="render_reading.js"></script>
+<script src="content_eow2.js"></script>
+<script>
+const ALL={"EOW1": {"1": {"name": "My Classroom", "words": ["clock", "computer", "crayon", "map", "paper", "pen", "pencil", "book", "chair", "desk", "eraser", "picture"]}, "2": {"name": "My World", "words": ["bird", "butterfly", "river", "rock", "sky", "sun", "tree", "bush", "cloud", "flower", "moon", "star"]}, "3": {"name": "My Family", "words": ["brother", "father", "grandfather", "grandmother", "mother", "parents", "sister"]}, "4": {"name": "My House", "words": ["bathroom", "bedroom", "dining-room", "kitchen", "lamp", "living-room", "sofa", "cleaning", "cooking", "eating", "sleeping", "taking-a-bath", "watching-tv"]}, "5": {"name": "Cool Clothes", "words": ["dress", "gloves", "jacket", "pants", "shirt", "shoes", "skirt", "socks", "hat", "closet", "shelf", "brown", "pink"]}, "6": {"name": "My Toys", "words": ["ball", "bike", "car", "kite", "top", "train", "truck", "game", "doll", "puzzle", "robot", "teddy-bear"]}, "7": {"name": "My Body", "words": ["ear", "eye", "foot", "hair", "hand", "head", "leg", "mouth", "nose", "jump", "run", "walk", "long-hair", "strong-arms"]}, "8": {"name": "Good Food", "words": ["apple", "banana", "chicken", "cookie", "egg", "fish", "rice", "sandwich", "soup", "lemonade", "milk", "orange-juice", "tea", "water"]}}, "EOW2": {"1": {"name": "Animal Friends", "words": ["cat", "chicken", "cow", "dog", "duck", "goat", "horse", "sheep", "turtle", "climb", "crawl", "fly", "see", "swim"]}, "2": {"name": "Fun in Class", "words": ["coloring", "counting", "cutting", "drawing", "erasing", "gluing", "talking", "glue", "marker", "notebook", "paintbrush", "scissors"]}, "3": {"name": "Boots and Bathing Suits", "words": ["bathing-suit", "boots", "cloudy", "cold", "hot", "raincoat", "rainy", "sunny", "coat", "jeans", "shorts", "sneakers", "umbrella"]}, "4": {"name": "Fun in the Sun", "words": ["fly-a-kite", "jump-rope", "play-a-game", "play-baseball", "play-basketball", "play-soccer", "ride-a-bike", "bounce-a-ball", "catch-a-ball", "play-tag", "throw-a-ball", "watch-a-game"]}, "5": {"name": "Inside Our House", "words": ["bookcase", "rug", "shower", "stairs", "stove", "table", "tub", "door", "phone", "refrigerator", "sink", "window"]}, "6": {"name": "Day by Day", "words": ["brush-my-teeth", "eat-breakfast", "eat-dinner", "eat-lunch", "get-dressed", "get-up", "go-to-bed", "go-to-school", "play-with-friends", "at-night", "in-the-afternoon", "in-the-evening", "in-the-morning"]}, "7": {"name": "How Are You?", "words": ["angry", "bored", "hungry", "scared", "surprised", "thirsty", "tired", "crying", "frowning", "laughing", "smiling", "yawning"]}, "8": {"name": "Awesome Animals", "words": ["giraffe", "hippo", "hop", "kangaroo", "lion", "panda", "penguin", "swing", "tiger", "zebra", "big-teeth", "colorful-feathers", "long-trunk", "sharp-claws", "short-tail"]}}, "EOW3": {"1": {"name": "The World of Work", "words": ["bus-driver", "chef", "doctor", "farmer", "firefighter", "nurse", "police-officer", "scientist", "vet", "artist", "inventor", "movie-star", "rock-star", "soccer-player"]}, "2": {"name": "Let's Eat!", "words": ["beans", "bread", "corn", "ice-cream", "mango", "meat", "noodles", "potato", "tomato", "cheese", "chip", "grape", "nut", "snack", "yogurt"]}, "3": {"name": "A Helping Hand", "words": ["carry", "feed-my-pet", "goldfish", "hamster", "help", "hug", "protect", "take-care-of-my-pet", "teach", "come-home", "do-my-homework", "have-a-snack", "make-my-bed", "take-a-shower"]}, "4": {"name": "My Place in the World", "words": ["bakery", "hospital", "movie-theater", "museum", "park", "police-station", "restaurant", "supermarket", "toy-store", "train-station", "library", "mall", "stadium", "swimming-pool", "zoo"]}, "5": {"name": "On the Move!", "words": ["airplane", "boat", "bus", "helicopter", "motorcycle", "scooter", "ship", "subway", "taxi", "downhill", "get-off", "get-on", "park-car", "uphill"]}, "6": {"name": "Our Senses", "words": ["beautiful", "delicious", "hard", "loud", "quiet", "soft", "terrible", "ugly", "bitter", "salty", "sour", "spicy", "sweet"]}, "7": {"name": "Animal Habitats", "words": ["cave", "desert", "forest", "hive", "ice", "island", "mud", "nest", "rain-forest", "snow", "fur", "horns", "pouch", "tongue", "wings"]}, "8": {"name": "What's for Dinner?", "words": ["bottle-of-oil", "bowl-of-sugar", "box-of-cereal", "can-of-soda", "glass-of-juice", "jar-of-olives", "loaf-of-bread", "piece-of-cake", "buy", "compare", "money", "price", "put-away"]}}, "EOW4": {"1": {"name": "Feeling Fit", "words": ["back", "bone", "elbow", "fingers", "knee", "muscle", "shoulder", "stomach", "toes", "eat-fruit", "eat-junk-food", "eat-vegetables", "get-exercise", "get-rest"]}, "2": {"name": "Let's Celebrate!", "words": ["celebrate", "costume", "dance", "dress-up", "fireworks", "lantern", "mask", "parade", "party", "balloons", "birthday-cake", "candles", "invitation", "present"]}, "3": {"name": "My Weekend", "words": ["busy", "exciting", "go-on-a-picnic", "go-to-the-movies", "interesting", "lose", "stay-home", "text-my-friends", "win", "go-fishing", "go-hiking", "go-horseback-riding", "go-ice-skating", "go-swimming"]}, "4": {"name": "All in Our Family", "words": ["bigger", "cuter", "different", "friendlier", "older", "relatives", "shorter", "smaller", "smarter", "taller", "younger", "blond-hair", "curly-hair", "glasses", "straight-hair", "wavy-hair"]}, "5": {"name": "Fresh Food", "words": ["cabbage", "cucumber", "dig", "grow", "hot-peppers", "lettuce", "onion", "pick", "plant", "pumpkin", "every-day", "how-often", "on-friday", "once-a-month", "three-times-a-week", "twice-a-year"]}, "6": {"name": "Long Ago and Today", "words": ["begin", "cell-phone", "chores", "electric-lights", "fire", "learn", "make", "spend-time", "tell-stories", "wash", "difficult", "expensive", "important", "modern", "old-fashioned"]}, "7": {"name": "Get Well Soon!", "words": ["cough", "earache", "first-aid-kit", "have-a-cold", "have-a-fever", "headache", "medicine", "sneeze", "stomachache", "tissue", "broken-leg", "bruise", "burn", "cut", "scratch"]}, "8": {"name": "My Favorites", "words": ["actor", "amazing", "athlete", "cool", "famous", "funny", "great", "movie", "person", "popular", "hobby", "school-subject", "sport", "tv-show", "writer"]}}};
+/* Absolute file path so images load no matter where index.html is opened from.
+   If you move the project, update IMG_ABS to the new 09_Image_Library/words/ location. */
+const IMG_ABS="file:///Users/chienhsiuting/Documents/GitHub/PAS%20Curriculum%20Wiki/09_Image_Library/words/";
+const IMG_REL="../09_Image_Library/words/";
+const IMG=IMG_ABS;
+const COLORS=["pink","blue","green","orange","purple"];
+const disp=s=>s.replace(/-/g," ");
+const imgsrc=s=>IMG+s+"/"+s+"-v1-color.png";
+function shuffle(a,seed){a=a.slice();let r=seed||7;const rnd=()=>{r=(r*9301+49297)%233280;return r/233280};for(let i=a.length-1;i>0;i--){const j=Math.floor(rnd()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+
+/* inject the renderer CSS bundles loaded from the external files */
+document.head.insertAdjacentHTML("beforeend","<style id=\"rgen-css\">"+CSS_VOCAB+CSS_GRAMMAR+CSS_READING+"</style>");
+
+/* base vocab renderers (kept inline) */
+function cardOpen(color,num,label,instr,cls){const t=`var(--${color}t)`,c=`var(--${color})`;return `<div class="card ${cls}" style="background:${t};border-color:${c}"><div class="tab" style="background:${c}"><span class="num" style="color:${c}">${num}</span>${label}</div><div class="instr">${instr}</div>`;}
+function renderMatch(words,color){const c=`var(--${color})`;const right=shuffle(words,words.length*7+3);let h=cardOpen(color,"A","Match","Draw a line from each picture to the words.","match");words.forEach((w,i)=>{h+=`<div class="mrow"><img src="${imgsrc(w)}"><span class="dotL" style="background:${c}"></span><span class="gapline"></span><div class="right"><span class="dotR" style="background:${c}"></span><span class="chip" style="border-color:${c}">${disp(right[i])}</span></div></div>`;});return h+"</div>";}
+function renderCircle(words,color){const c=`var(--${color})`;let h=cardOpen(color,"B","Circle","Look at the picture. Circle the correct word.","circle");words.forEach((w,i)=>{const opts=shuffle([w].concat(shuffle(words.filter(x=>x!==w),i+3).slice(0,2)),i+1);h+=`<div class="crow"><span class="n" style="background:${c}">${i+1}</span><img src="${imgsrc(w)}">`+opts.map(o=>`<span class="opt">${disp(o)}</span>`).join("")+`</div>`;});return h+"</div>";}
+function renderScramble(words,color){const c=`var(--${color})`;let h=cardOpen(color,"A","Word Scramble","Look at the picture. Write the word. Use the Word Box.","line");words.forEach((w,i)=>{const letters=shuffle(disp(w).replace(/ /g,"").split(""),i+5);h+=`<div class="lrow"><span class="n" style="background:${c}">${i+1}</span><img src="${imgsrc(w)}"><div class="tiles">`+letters.map(L=>`<span class="tile">${L.toLowerCase()}</span>`).join("")+`</div><span class="wl"></span></div>`;});h+=`<div class="wordbox" style="border-color:${c}"><b style="color:${c}">Word Box</b><span class="ws">`+words.map(disp).join("　")+`</span></div>`;return h+"</div>";}
+function renderHunt(words,color){const c=`var(--${color})`;const pad="abcdefghijklmnoprstuvw";let h=cardOpen(color,"B","Word Hunt","Each line hides one word. Circle the word you see.","line");words.forEach((w,i)=>{const core=disp(w).replace(/ /g,"");const a=pad[(i*3)%pad.length],b=pad[(i*5+2)%pad.length];h+=`<div class="lrow"><span class="n" style="background:${c}">${i+1}</span><img src="${imgsrc(w)}"><span class="hunt">${(a+core+b).toLowerCase()}</span></div>`;});return h+"</div>";}
+
+/* passage block used by reading/value sections */
+function passageHTML(data,color){const c=`var(--${color})`;let h=`<div class="r-title-area"><h2 style="color:${c}">${data.title}</h2><span class="r-title-accent" style="color:${c}"></span></div>`;h+=`<div class="r-passage"><div class="r-pass-text">${data.passage}</div>`;if(data.image){h+=`<figure class="r-pass-img" style="margin:0"><img src="${imgsrc(data.image)}" alt="${data.title}"></figure>`;}h+=`</div>`;return h;}
+
+/* Pattern registry — id -> {label, kind, fn, sample}; kind: words|items|data */
+const PATTERNS={
+  match:        {label:"Matching",                 kind:"words", fn:(d,c,o)=>renderMatch(d,c)},
+  scramble:     {label:"Word Scramble",            kind:"words", fn:(d,c,o)=>renderScramble(d,c)},
+  hunt:         {label:"Word Hunt",                 kind:"words", fn:(d,c,o)=>renderHunt(d,c)},
+  write:        {label:"Write the Word",           kind:"words", fn:(d,c,o)=>renderWrite(d,c)},
+  sound:        {label:"Sound Chunks",             kind:"words", fn:(d,c,o)=>renderSound(d,c)},
+  label:        {label:"Label the Picture",        kind:"words", fn:(d,c,o)=>renderLabel(d,c)},
+  community:    {label:"Community Helpers Style",   kind:"words", fn:(d,c,o)=>renderLabel(d,c)},
+  categorize:   {label:"Categorize / Sort",        kind:"words", fn:(d,c,o)=>renderCategorize(d,c)},
+  hidden:       {label:"Hidden Word",              kind:"words", fn:(d,c,o)=>renderHidden(d,c)},
+  circlecorrect:{label:"Circle the Correct Answer",kind:"items", fn:(d,c,o)=>renderCircleCorrect(d,c,o), sample:()=>SAMPLE_GRAMMAR.circleCorrect},
+  fillblank:    {label:"Fill in the Blank",        kind:"items", fn:(d,c,o)=>renderFillBlank(d,c,Object.assign({wordBank:SAMPLE_GRAMMAR.fillBlankWordBank},o)), sample:()=>SAMPLE_GRAMMAR.fillBlank},
+  truefalse:    {label:"True or False",            kind:"items", fn:(d,c,o)=>renderTrueFalse(d,c,o), sample:()=>SAMPLE_GRAMMAR.trueFalse},
+  mc:           {label:"Multiple Choice",          kind:"items", fn:(d,c,o)=>renderMC(d,c,o), sample:()=>SAMPLE_GRAMMAR.mc},
+  sentencebuilder:{label:"Sentence Builder",       kind:"items", fn:(d,c,o)=>renderSentenceBuilder(d,c,o), sample:()=>SAMPLE_GRAMMAR.sentenceBuilder},
+  scrambledsentences:{label:"Scrambled Sentences", kind:"items", fn:(d,c,o)=>renderScrambledSentences(d,c,o), sample:()=>SAMPLE_GRAMMAR.scrambledSentences},
+  sentencecompletion:{label:"Sentence Completion", kind:"items", fn:(d,c,o)=>renderSentenceCompletion(d,c,o), sample:()=>SAMPLE_GRAMMAR.sentenceCompletion},
+  dialoguecompletion:{label:"Dialogue Completion", kind:"items", fn:(d,c,o)=>renderDialogueCompletion(d,c,o), sample:()=>SAMPLE_GRAMMAR.dialogueCompletion},
+  readingcomp:  {label:"Reading Comprehension",    kind:"data",  fn:(d,c,o)=>renderReadingComp(d,c), sample:()=>SAMPLE_READING.readingComp},
+  writinglab:   {label:"Writing Lab",              kind:"data",  fn:(d,c,o)=>renderWritingLab(d,c), sample:()=>SAMPLE_READING.writingLab},
+  lookanswer:   {label:"Look and Answer",          kind:"data",  fn:(d,c,o)=>renderLookAnswer(d,c), sample:()=>SAMPLE_READING.lookAnswer},
+  lookwrite:    {label:"Look and Write (Prepositions)",kind:"data",fn:(d,c,o)=>renderLookAnswer(d,c), sample:()=>SAMPLE_READING.lookAnswer},
+  listencircle: {label:"Listen and Circle",        kind:"data",  fn:(d,c,o)=>renderListenCircle(d,c), sample:()=>SAMPLE_READING.listenCircle}
+};
+const BLOCK_PATTERNS={
+  vocab:  ["match","fillblank","mc","scramble","hunt","write","sentencecompletion","community","sound","hidden","label","categorize","listencircle"],
+  grammar:["circlecorrect","fillblank","truefalse","mc","sentencebuilder","scrambledsentences","sentencecompletion","lookwrite","lookanswer","dialoguecompletion"],
+  reading:["truefalse","mc","readingcomp","writinglab","lookanswer","dialoguecompletion","listencircle"],
+  value:  ["truefalse","mc","readingcomp","writinglab","lookanswer","dialoguecompletion","listencircle"]
+};
+const BLOCK_LABEL={vocab:"Vocabulary",grammar:"Grammar",reading:"Reading",value:"Value"};
+
+/* ── builder controls ── */
+let BMAT="EOW";
+const bMatEl=document.getElementById("bMat");
+bMatEl.querySelectorAll("button").forEach(b=>b.onclick=()=>{bMatEl.querySelectorAll("button").forEach(x=>x.classList.remove("on"));b.classList.add("on");BMAT=b.dataset.m;buildBuilderUnits();});
+function buildBuilderUnits(){
+  const u=document.getElementById("bUnit");u.innerHTML="";
+  if(BMAT!=="EOW"){const o=document.createElement("option");o.value="";o.textContent="(內容建置中)";u.appendChild(o);return;}
+  const lv=ALL[document.getElementById("bLevel").value];
+  Object.keys(lv).forEach(k=>{const o=document.createElement("option");o.value=k;o.textContent=`U${k} ${lv[k].name}`;u.appendChild(o);});
+}
+/* Recommended question count per pattern = the number that fills one A4 page nicely. */
+const REC_COUNT={
+  match:9,circle:8,scramble:8,hunt:10,write:7,sound:7,label:8,community:8,categorize:10,hidden:8,
+  circlecorrect:9,fillblank:9,truefalse:10,mc:6,sentencebuilder:7,scrambledsentences:8,
+  sentencecompletion:8,dialoguecompletion:3,readingcomp:5,writinglab:5,lookanswer:5,lookwrite:5,listencircle:6
+};
+const REC_FIXED={readingcomp:true,writinglab:true}; /* count not really adjustable */
+function applyRecommendedCount(){
+  const pid=document.getElementById("bMode").value;
+  const rec=REC_COUNT[pid];const hint=document.getElementById("bCountHint");
+  if(!rec){hint.textContent="";return;}
+  const sel=document.getElementById("bCount");
+  if([...sel.options].some(o=>o.value===String(rec)))sel.value=String(rec);
+  if(REC_FIXED[pid]){hint.textContent="此題型題數固定,自動帶入。";}
+  else{hint.textContent=`✦ 建議 ${rec} 題(這頁會排得最滿、最漂亮)`;}
+}
+function buildBuilderModes(){
+  const sel=document.getElementById("bMode");sel.innerHTML="";
+  const ids=BLOCK_PATTERNS[document.getElementById("bBlock").value]||[];
+  ids.forEach(id=>{const o=document.createElement("option");o.value=id;o.textContent=PATTERNS[id].label;sel.appendChild(o);});
+  document.getElementById("bModehint").textContent=`已依區塊篩選適合的題型(共 ${ids.length} 種)`;
+  applyRecommendedCount();
+}
+document.getElementById("bLevel").onchange=buildBuilderUnits;
+document.getElementById("bBlock").onchange=buildBuilderModes;
+document.getElementById("bMode").onchange=applyRecommendedCount;
+buildBuilderUnits();buildBuilderModes();
+
+/* ── sections ── */
+let SECTIONS=[];
+function readBuilder(){
+  return {mat:BMAT,level:document.getElementById("bLevel").value,unit:document.getElementById("bUnit").value,
+          block:document.getElementById("bBlock").value,pattern:document.getElementById("bMode").value,
+          count:parseInt(document.getElementById("bCount").value),example:document.getElementById("bExample").checked};
+}
+function secLabel(s){
+  const uname=(s.mat==="EOW"&&ALL[s.level]&&ALL[s.level][s.unit])?ALL[s.level][s.unit].name:"";
+  return `${s.level} U${s.unit} · ${BLOCK_LABEL[s.block]} · ${PATTERNS[s.pattern].label} · ${s.count===999?"全部":s.count+"題"}`;
+}
+function renderSectionList(){
+  const w=document.getElementById("seclist");
+  document.getElementById("seccount").textContent=`(${SECTIONS.length}/8)`;
+  if(!SECTIONS.length){w.innerHTML='<div class="secempty">尚未加入任何區段<br>(直接按「產生」會用上方目前設定)</div>';return;}
+  w.innerHTML="";
+  SECTIONS.forEach((s,i)=>{
+    const d=document.createElement("div");d.className="secitem";
+    d.innerHTML=`<span class="num">${String.fromCharCode(65+i)}</span><span>${secLabel(s)}</span><button class="x" title="移除">✕</button>`;
+    d.querySelector(".x").onclick=()=>{SECTIONS.splice(i,1);renderSectionList();};
+    w.appendChild(d);
+  });
+}
+function addSection(){
+  if(SECTIONS.length>=8){alert("最多 8 個區段");return;}
+  const s=readBuilder();
+  if(s.mat!=="EOW"||!s.unit){alert("此教材內容建置中,請先選 EOW 並選一個 Unit");return;}
+  SECTIONS.push(s);renderSectionList();
+}
+
+/* Return the real CONTENT_EOW2 item array for a section, or null if none. */
+function realContentItems(sec){
+  if(typeof CONTENT_EOW2==="undefined")return null;
+  if(sec.level!=="EOW2")return null;
+  const P=PATTERNS[sec.pattern];
+  if(!P||P.kind!=="items")return null;
+  const u=CONTENT_EOW2[sec.unit];
+  // only grammar items are authored for now; key by block ("grammar")
+  const bucket=u&&u[sec.block];
+  if(!bucket)return null;
+  const arr=bucket[sec.pattern];
+  if(Array.isArray(arr)&&arr.length)return arr;
+  return null;
+}
+
+/* ── render one section to HTML ── */
+function renderSectionHTML(sec,color){
+  const o={example:sec.example};
+  const isReading=(sec.block==="reading"||sec.block==="value");
+  if(isReading&&sec.pattern==="truefalse"){return passageHTML(SAMPLE_READING.readingComp,color)+renderTrueFalse(SAMPLE_READING.readingComp.tf.slice(0,sec.count),color,o);}
+  if(isReading&&sec.pattern==="mc"){return passageHTML(SAMPLE_READING.readingComp,color)+renderMC(SAMPLE_READING.readingComp.mc.slice(0,sec.count),color,o);}
+  const P=PATTERNS[sec.pattern];
+  if(P.kind==="words"){
+    const unit=ALL[sec.level][sec.unit];
+    const words=shuffle(unit.words,parseInt(sec.unit)*13+7).slice(0,Math.min(sec.count,unit.words.length));
+    return P.fn(words,color,o);
+  }
+  // Prefer real, unit-specific content where we have it.
+  const real=realContentItems(sec);
+  if(real){
+    const data=real.slice(0,Math.min(sec.count,real.length));
+    return P.fn(data,color,o);
+  }
+  let data=P.sample();
+  if(P.kind==="items"){data=data.slice(0,Math.min(sec.count,data.length));}
+  return P.fn(data,color,o);
+}
+/* A section uses sample data unless it is word-driven vocab OR has real CONTENT_EOW2. */
+function sectionIsSample(sec){
+  if(sec.block==="vocab"&&PATTERNS[sec.pattern].kind==="words")return false;
+  if(realContentItems(sec))return false;
+  return true;
+}
+
+/* ── pagination ── */
+function mkPage(stage,headerHtml,withHeader){
+  const p=document.createElement("div");p.className="page";p.innerHTML='<div class="frame"></div>'+(withHeader?headerHtml:"");
+  stage.appendChild(p);return p;
+}
+function generate(){
+  const stage=document.getElementById("stage");
+  let secs=SECTIONS.length?SECTIONS.slice():[readBuilder()];
+  if(secs.some(s=>s.mat!=="EOW"||!s.unit)){stage.innerHTML='<div class="hint">請先加入至少一個 EOW 區段(選 Level + Unit)。</div>';return;}
+  const title=document.getElementById("wsTitle").value.trim();
+  const levels=[...new Set(secs.map(s=>s.level))];
+  const badge=levels.length===1?levels[0]:"Mixed";
+  const headTitle=title||(secs.length===1?ALL[secs[0].level][secs[0].unit].name:"My Worksheet");
+  const headerHtml=`<div class="head"><span class="badge">${badge}</span><span class="title"><span style="color:var(--navy)">${headTitle}</span></span></div>`;
+  // build one atomic block per section (so a section never splits across pages)
+  const blocks=[];
+  secs.forEach((sec,si)=>{
+    const color=COLORS[si%COLORS.length];
+    const secEl=document.createElement("div");secEl.className="sec";
+    if(sectionIsSample(sec)){
+      secEl.innerHTML='<div class="samplenote">Sample content — unit-specific questions coming soon.</div>'+renderSectionHTML(sec,color);
+    }else{
+      secEl.innerHTML=renderSectionHTML(sec,color);
+    }
+    // label every card in this section with its part letter (A, B, C…)
+    const letter=String.fromCharCode(65+si);
+    secEl.querySelectorAll(".card .num").forEach(el=>{el.textContent=letter;});
+    blocks.push(secEl);
+  });
+  stage.innerHTML="";
+  let page=mkPage(stage,headerHtml,true),placed=0;
+  blocks.forEach(secEl=>{
+    page.appendChild(secEl);
+    if(page.offsetHeight>1123&&placed>0){
+      page.removeChild(secEl);
+      page=mkPage(stage,headerHtml,false);placed=0;
+      page.appendChild(secEl);
+    }
+    placed++;
+  });
+}
+/* show a worksheet immediately on open, so the right side is never blank */
+try{ generate(); }catch(e){ console.log(e); }
+</script></body></html>

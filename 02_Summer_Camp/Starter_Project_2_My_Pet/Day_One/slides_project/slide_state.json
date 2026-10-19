@@ -1,0 +1,232 @@
+{
+  "project_info": {
+    "title": "Welcome",
+    "created": 1782623887.666,
+    "last_updated": 1782649904.114,
+    "total_slides": 20
+  },
+  "slides": [
+    {
+      "id": "slide_01_welcome",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_02_song",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_03_secret_sound",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_04_word_family_1",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_05_word_family_2",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_06_blend",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_07_crack_code",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_08_swat_it",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_09_story_cover",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10_gorilla",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11_penguin",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12_cat",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_13_word_power",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_14_tpr",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_15_mystery_box",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_16_sentence",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_17_group_practice",
+      "state": "edited",
+      "pageNum": 17
+    },
+    {
+      "id": "slide_18_i_can_do_it",
+      "state": "edited",
+      "pageNum": 18
+    },
+    {
+      "id": "slide_19_worksheet",
+      "state": "edited",
+      "pageNum": 19
+    },
+    {
+      "id": "slide_20_goodbye",
+      "state": "edited",
+      "pageNum": 20
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_01_welcome",
+      "title": "Welcome",
+      "summary": "Welcome slide with Eric Carle collage animals and 'I Can Do It!' banner",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_02_song",
+      "title": "Song Time!",
+      "summary": "Song slide for 'Walking Walking' with collage children and musical notes",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_03_secret_sound",
+      "title": "Today's Secret Sound",
+      "summary": "Introduction to short 'u' sound with collage objects like cup, bug, sun",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_04_word_family_1",
+      "title": "Word Family: -ub, -ug, -up",
+      "summary": "Three columns showing -ub, -ug, -up words with collage illustrations",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_05_word_family_2",
+      "title": "Word Family: -ud, -un, -ut",
+      "summary": "Three columns showing -ud, -un, -ut words with collage illustrations",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_06_blend",
+      "title": "Let's Blend!",
+      "summary": "Demonstration of blending C-U-P and other short 'u' words",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_07_crack_code",
+      "title": "Crack the Code!",
+      "summary": "Game show style phonics review with dashed letters to reveal words",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_08_swat_it",
+      "title": "Swat It!",
+      "summary": "Phonics game with 8 short 'u' words and a fly swatter illustration",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_09_story_cover",
+      "title": "Story Time!",
+      "summary": "Storybook cover for 'From Head to Toe' by Eric Carle with gorilla",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10_gorilla",
+      "title": "I am a gorilla.",
+      "summary": "Story scene of gorilla thumping chest with 'I can do it!' text",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11_penguin",
+      "title": "I am a penguin.",
+      "summary": "Story scene of penguin turning head with 'I can do it!' text",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12_cat",
+      "title": "I am a cat.",
+      "summary": "Story scene of cat arching back with 'I can do it!' text",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13_word_power",
+      "title": "Word Power: Actions!",
+      "summary": "2x2 grid showing jumping, dancing, running, singing actions",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_14_tpr",
+      "title": "Show Me!",
+      "summary": "Four panels showing TPR actions: Jump, Dance, Run, Sing",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_15_mystery_box",
+      "title": "Mystery Box!",
+      "summary": "Exciting mystery box game slide for acting out action verbs",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_16_sentence",
+      "title": "What can you do?",
+      "summary": "Dialogue scene teaching the sentence pattern 'I can ___.'",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_17_group_practice",
+      "title": "Ask and Answer!",
+      "summary": "Group practice slide showing Group A asking and Group B answering",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_18_i_can_do_it",
+      "title": "I Can Do It!",
+      "summary": "Celebratory game slide with four action scenes and 'I CAN DO IT!' text",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_19_worksheet",
+      "title": "Worksheet Time!",
+      "summary": "Instructions to open workbook to SP2-01 with a happy collage cat",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_20_goodbye",
+      "title": "Great Job Today!",
+      "summary": "Goodbye slide with story animals waving and 'Day 1 Complete!' text",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "project_info": {
+    "title": "Title",
+    "created": 1782465397.705,
+    "last_updated": 1782468465.631,
+    "total_slides": 20
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_13",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_14",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_15",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_16",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_17",
+      "state": "edited",
+      "pageNum": 17
+    },
+    {
+      "id": "slide_18",
+      "state": "edited",
+      "pageNum": 18
+    },
+    {
+      "id": "slide_19",
+      "state": "edited",
+      "pageNum": 19
+    },
+    {
+      "id": "slide_20",
+      "state": "edited",
+      "pageNum": 20
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "Title",
+      "summary": "A bold comic-book cover layout with a large superhero emblem and \"HEALTHY HERO\" text.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_2",
+      "title": "Warm Up Time!",
+      "summary": "Four comic panels showing a child superhero character doing the \"Head, Shoulders, Knees and Toes\" actions.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_3",
+      "title": "Phonics Power!",
+      "summary": "A superhero character holding a glowing magnifying glass, looking at floating letters.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_4",
+      "title": "-au- says /ɔː/",
+      "summary": "A 2x2 grid of comic panels showing sauce, August, Paul, author.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_5",
+      "title": "-aw- says /ɔː/",
+      "summary": "A 2x2 grid of comic panels showing paw, draw, yawn, claw.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_6",
+      "title": "-all says /ɔːl/",
+      "summary": "A 2x2 grid of comic panels showing tall, ball, mall, small.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_7",
+      "title": "-oar- / -oor- / -our- say /ɔːr/",
+      "summary": "Three comic panels side by side showing roar, door, four.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_8",
+      "title": "Game Time: Sound Stomp!",
+      "summary": "A large comic-style boot stomping the ground with \"STOMP!\" in explosive comic lettering.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_9",
+      "title": "Super Body Parts!",
+      "summary": "A full-body cartoon superhero character with labeled arrows pointing to body parts.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10",
+      "title": "I Can Do It! / I Can't Do It!",
+      "summary": "Split comic panel showing a superhero jumping (Can) and falling (Can't).",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11",
+      "title": "Story Time!",
+      "summary": "A grand comic panel showing the gates of \"SUPER HERO SCHOOL\" with five animals in capes.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12",
+      "title": "The Gorilla's Power!",
+      "summary": "A dramatic comic panel of a muscular gorilla in a red cape pounding its chest.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13",
+      "title": "The Giraffe's Power!",
+      "summary": "A tall comic panel of a giraffe in a purple mask bending its long neck.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_14",
+      "title": "The Monkey's Power!",
+      "summary": "A dynamic comic panel of a monkey in a green cape waving its arms.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_15",
+      "title": "The Elephant's Power!",
+      "summary": "A powerful comic panel of an elephant in a blue cape stomping one foot.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_16",
+      "title": "Oh No! We Are Tired!",
+      "summary": "A wide comic panel showing all five animals sitting on the ground, looking exhausted.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_17",
+      "title": "Game Time: Animal Hero Freeze Dance!",
+      "summary": "A vibrant slide with instructions in comic panels for the Freeze Dance game.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_18",
+      "title": "His, Her, My!",
+      "summary": "Three comic panels showing HIS chest, HER neck, and MY head.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_19",
+      "title": "Hero Mission: Worksheet Time!",
+      "summary": "A comic-style mission briefing layout on a clipboard with \"TOP SECRET MISSION\".",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_20",
+      "title": "Great Job Today!",
+      "summary": "The superhero emblem glowing, animals waving goodbye, and a teaser for tomorrow.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

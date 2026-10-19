@@ -1,0 +1,25 @@
+# Planning YAML — EOW2 Unit 1
+selected_unit: EOW2 Unit 1 — Animal Friends
+worksheet_types: [vocabulary, grammar]
+agreed_大題:
+  vocab: Matching picture<->word (WS-001)
+  grammar: ["They're ___ing fill-in (WS-022/003)", "Scrambled sentences (WS-017)"]
+
+target_vocabulary:
+  animals: [a cat, a chicken, a cow, a dog, a duck, a goat, a horse, a sheep, a turtle]
+  verbs:   [climb, crawl, fly, see, swim]
+
+target_grammar:
+  grammar_1: "Present progressive, 3rd person plural — What are the X doing? They're Ving. / Are the X Ving? Yes/No."
+  grammar_2: "Want + infinitive (NOT used this sheet — Vicky picked progressive + scramble)."
+
+in_scope_note: "Present progressive uses in-scope verbs only (climbing, crawling, flying, swimming). Textbook example verbs running/sleeping are NOT in the Vocab-2 list, so excluded."
+
+value: Be good to animals.
+image_library_coverage: "9 animals + 5 base verbs all have v1-color art. -ing images don't exist; cue with base-verb action image."
+selected_patterns: [WS-001, WS-022, WS-017]
+missing_data:
+  - Reading Base 'Animal Babies' text (Canva not extracted) — no reading page.
+source_wiki_pages:
+  - 01_EOW/EOW2/unit-01-animal-friends.md
+  - 04_Worksheet_Pattern_Bank/pattern-bank.md
