@@ -1,21 +1,21 @@
-# Welcome to Japan! — Grade 2 visual review sample
+# Welcome to Japan! — Grade 2 original-style review v3
 
-Updated: 2026-10-20. Scope: a single teacher-supplied worksheet redesigned for elementary Grade 2. Grade is not an assigned PAS English level.
+Updated: 2026-10-20. Scope: one teacher-supplied worksheet redesigned for elementary Grade 2, without assigning a PAS English level.
 
-The user confirmed the authentic 愉閱空間 / 語感英文 brand identity and requested the main title “Welcome to Japan!”. Remove the teacher sample's “P1-01 | Discover Japan” tag. The custom output is 2421 × 3496 px at 300 dpi, approximately 20.5 × 29.6 cm; these explicit dimensions override the old Germany master for this sheet.
+The user confirmed the authentic 愉閱空間 / 語感英文 identity, requested removal of “P1-01 | Discover Japan”, and specified 2421 × 3496 px at 300 dpi (approximately 20.5 × 29.6 cm). These dimensions govern this sheet.
 
-The current visual sample uses four labelled image cards, a short teacher-supported reading, a geographically sourced East Asia map with Tokyo marked, one three-part bounded activity, a flag-symbol cultural fact, and Name / Date. Body text and activity choices are native Nunito 13 pt. The original combined brand asset is embedded unchanged. Built-in imagegen provides illustrations; Natural Earth public-domain data supplies the map and native vector construction supplies the flags.
+The user rejected v1 and v2 as insufficiently lively and explicitly identified the original teacher worksheet as the desired visual standard. V3 directly follows its saturated cyan sky, large rainbow bubble title, sakura, Japanese landmarks and pink/blue/green/orange section styling. Built-in imagegen supplies the illustrated background and main title. The genuine logo source is clipped and placed without regeneration; all body text, choices, maps and flags are composed separately in native PDF. The short reading uses one sentence per line for younger readers.
 
-Status: review sample v2, not user-approved final artwork. The PNG dimensions/dpi, single-page PDF, 13pt body and choices, unchanged logo hash, removed tag, answer consistency and Poppler full-page view were checked. The listening panel explicitly says audio QR pending; no audio was generated or published and no QR was fabricated. No public student worksheet upload was made.
+The lesson retains four labelled picture cards, a short reading, a sourced East Asia map with Tokyo marked, three bounded exploration tasks, a flag-symbol cultural fact and Name / Date. The complete proprietary lesson is only in the private production package.
 
-Complete source assets, teacher reference, PDF, PNG, editable production code, prompt and QA are stored privately in `claude-config/projects/our-reading-space-culture/output/japan-welcome-grade2-v2/`, with desktop Japan-PE1 review and production copies. Full proprietary teaching content is not stored here.
+Status: v3 is the current visual review sample; v1/v2 are rejected visual history and no version has final user approval. The single-page PDF is 581.04 × 839.04 pt; PNG is 2421 × 3496 px at 300 dpi. Native body and choice text is Nunito 13 pt. Exact content, blank answers, original logo hash, page bounds and Poppler full-page view were checked. The illustrated source is lower-resolution generated art placed in the requested final print composition; output pixel dimensions do not imply native source-art resolution.
 
-Next: collect feedback on this sample and revise only the affected content/art; then prepare approved listening audio and a real QR. Do not propagate this sample to other levels. A separate uncommitted 2026-10-17 broader Japan handoff was read and preserved, not included in this task's commit; this sheet follows the user's explicit instructions in the current conversation.
+Audio remains unproduced and unpublished. The listening badge explicitly reads Audio QR pending; no fake QR is inserted. No full student worksheet is published here or on student platforms.
 
-Sources: [Natural Earth usage terms](https://www.naturalearthdata.com/about/terms-of-use/), [Kids Web Japan flag symbolism](https://web-japan.org/kidsweb/explore/basic/pdf/basics.pdf).
+Private source: `claude-config/projects/our-reading-space-culture/output/japan-welcome-grade2-v3/`. It contains PDF, PNG, exact text, original assets, built-in imagegen prompt, editable production code, teacher notes and QA. Desktop Japan-PE1 sample and production copies are retained. Rejected v1/v2 packages are marked historical.
 
-## Visual revision v2
+Next: receive v3 visual/content feedback, revise the affected details, then handle listening audio and real QR after the design is accepted. Do not expand this sample to other levels. The separate uncommitted 2026-10-17 broader Japan handoff was preserved locally and excluded from this sync.
 
-The user requested a slightly livelier layout after seeing v1. V2 removes most large outline containers, adds gently tilted vocabulary cards with colored labels and shadows, a warm note-paper reading panel, a pink activity title and a yellow cultural-fact panel. The passage, three tasks, answers, original logo, custom dimensions and 13pt type are preserved. V1 remains historical and neither version is approved for release.
+Sources: [Natural Earth public-domain terms](https://www.naturalearthdata.com/about/terms-of-use/), [Kids Web Japan flag symbolism](https://web-japan.org/kidsweb/explore/basic/pdf/basics.pdf).
 
-During backup an incomplete local index caused unintended deletion commits in both repositories. Both full trees were restored by new non-force commits, verified against their original tree hashes. The scoped resync uses the current remote base tree and checks the complete commit diff contains only authorized additions/modifications, with zero deletions.
+Backup note: earlier unintended deletion commits were fully restored with non-force commits and original tree-hash verification. Subsequent scoped syncing uses the current remote base tree, validates every changed path and rejects any deletion. Artifact bytes are verified by SHA256 readback before updating main.
