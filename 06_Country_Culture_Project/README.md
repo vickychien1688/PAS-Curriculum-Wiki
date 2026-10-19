@@ -1,3 +1,5 @@
+2026-10-20: [Welcome to Japan! Grade 2 lively review v2](japan-welcome-grade2-review.md). User requested a livelier layout after v1; v2 adds tilted cards and a note-paper reading panel. Custom 2421×3496 / 300dpi, authentic branding and 13pt text retained. Visual feedback and audio/QR pending; full materials remain private.
+
 2026-10-16 Japan PE2: [discussion before production](japan-pe2-language-planning.md). User rejected premature PDF/image production; agree on cultural meaning and examples first, then level goals/PAS language. Starter must not be forced into a shared Level 1 passage; prior group assumptions are historical.
 
 2026-10-16 Japan PE2 revision v2: [current language plan](japan-pe2-language-planning.md) replaces rejected character-description/open-question v1. Nine private paragraphs now explain cultural development and effects, with bounded tasks and answer keys; four-page review PDF is pending content feedback.
