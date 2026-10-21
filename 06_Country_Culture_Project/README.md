@@ -1,3 +1,5 @@
+2026-10-22: [PE1 worksheet 01 grouping and simple-language limits](japan-culture-week.md). Confirmed groups: Starter / L1 / L2–3 / L4–5; historical focus and formal student text remain under discussion.
+
 2026-10-21: [Culture activity form and source-based example](japan-teacher-submission-workflow.md). Revision 4 fills the existing form from an actual teacher submission and labels inferred teaching intent for confirmation. The independent example is superseded; full content remains private.
 
 2026-10-20: [Welcome to Japan! Grade 2 original-art local revision v4](japan-welcome-grade2-review.md). V3 was also rejected. The user explicitly chose preservation of the original artwork and layout with easier Grade 2 tasks. V4 keeps the actual teacher illustrations and four panels, simplifies writing and distractors, and uses the authentic logo. Review pending; full materials are private.

@@ -1,5 +1,23 @@
 # Japan Culture Week — current planning scope
 
+## 2026-10-22 — PE1 worksheet 01 grouping and language limits
+
+The user explicitly confirms **Starter / Level 1 / Levels 2–3 / Levels 4–5** for the flag-and-location page. This supersedes the older Starter/Level 1 pairing for this page only. All versions retain Japan's flag and the locations of Taiwan and Japan.
+
+| Group | User's content direction | Language constraints |
+|---|---|---|
+| Starter | Recognize the flag; red circle represents the sun; locate Taiwan and Japan with support | Listening, pointing and supported words; no independent paragraph required |
+| Level 1 | Add the visual connection to a hinomaru bento | Approximately 1–2 simple English sentences with visual support |
+| Levels 2–3 | Compare flags and shared geographical features | Approximately five short sentences; technical geological terminology can remain in teacher explanation |
+| Levels 4–5 | Add a focused historical perspective | Keep vocabulary and grammar accessible; a higher level does not require dense language |
+
+The historical focus is not selected. Bento life history is an assistant suggestion, not an approved choice. Formal passages, tasks, word limits and artwork are unapproved. Check actual Unit 3–4 progress and the Level 5 textbook edition before writing; prior-book words are review candidates, not proof of mastery. Preserve teacher meeting submissions as a separate source for confirmation.
+
+The [Web Japan fact sheet](https://web-japan.org/factsheet/en/pdf/11NFlagAnthem.pdf) describes white rice with a central red pickled plum. [Fukuoka City Museum](https://museum.city.fukuoka.jp/archives/leaflet/364/index02.html) documents schoolchildren being required to bring such meals on designated days from 1939; this does not establish that all Japanese lunches were identical or that the food originated in wartime. For geographical comparison use the Circum-Pacific seismic belt, supported by [Taiwan CWA](https://www.cwa.gov.tw/V8/C/K/Encyclopedia/CWB_Earthquake_Q%26A100.pdf), rather than equating earthquakes with volcanic eruptions. Detailed mechanisms remain for later PE1 topics.
+
+The material below is historical planning and must be read subject to this update. No new student files, audio, QR or teacher messages were produced for this discussion.
+
+
 **Latest, 2026-10-16:** The user requires discussion of basic cultural meaning and examples before any further worksheet/PDF/image production. Starter must be separated from the Level 1 shared-passage assumption; independent level planning is being discussed. Prior shared-group tables below are historical proposals, not current requirements for PE2. Use the German cars precedent: level-specific understanding goals, with separately controlled English demands. See [latest PE2 discussion status](japan-pe2-language-planning.md). No new student content or layout is approved.
 Updated: 2026-10-16. Stage: planning and curriculum alignment.
 
