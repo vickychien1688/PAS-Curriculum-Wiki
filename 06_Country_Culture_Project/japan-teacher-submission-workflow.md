@@ -45,3 +45,9 @@ The user selected a separate Japan culture-week Drive destination. The blank edi
 Following the Germany level-to-PE hierarchy while retaining the existing Japan shared-level names and all source files, 17 missing subfolders were added. Each of the six existing level folders now contains PE 1 through PE 4. This folder setup does not approve curriculum allocation or shared-level requirements. Existing permissions were retained; no messages were sent to teachers.
 
 Connector readback verified locations and native document types. All 14 table-cell texts in each Google Doc match its local source after whitespace normalization, and original-source links remain intact. Exported PDFs each contain one readable page and passed visual inspection. Google substituted unavailable local fonts. Full files, source snapshots, links, metadata and QA are private in `projects/our-reading-space-culture/output/japan-teacher-drive-20261022/`.
+
+## Worksheet field correction on 22 October 2026
+
+The blank Word form now includes all three header fields: Project, Worksheet and Level. Its instruction explains that Worksheet is the worksheet number, such as 01, and may be left blank until confirmed. The six content fields and page geometry remain unchanged. Both completed examples were checked and already contained their Worksheet labels; no provisional worksheet number was invented.
+
+The existing cloud Word file was replaced in place, preserving its ID and link. Rendering passed as one page; the downloaded cloud file exactly matches the corrected local file by SHA256. The blank-form builder was updated to retain the field in future runs. Full before/after files and verification remain private.
