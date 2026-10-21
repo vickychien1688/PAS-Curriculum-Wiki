@@ -10,6 +10,12 @@ The example is a one-page editable Word form with a clickable original-source li
 
 Complete forms, source image, source-to-field mapping, historical examples, builders and QA remain private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. Further consolidation follows teacher confirmation of intent and level suitability. The public Wiki contains only this workflow and status.
 
+## Original outline supplied on 22 October 2026
+
+The user supplied the original four-Project, twelve-worksheet outline as the reference for this intake discussion. Worksheet 01 covers the Japanese flag and the geographic relationship between Taiwan and Japan. Worksheet 02 covers the four main islands and terrain; worksheet 03 covers volcanoes, Mount Fuji, earthquakes and plate movement. The earlier generic introductory scope must be aligned to these boundaries before production.
+
+Proposed intake adjustment: the team prepopulates each worksheet's assigned title and core content; teachers contribute explanations, intended discoveries, activity ideas and sources within that scope. Level adaptations remain under discussion. The source transcription and image remain private. This update does not modify the current DOCX, approve new activities or rename Drive folders; worksheet numbers in the source outline run 01–12 across the four Projects.
+
 ## Proposed handoff depth and series consistency
 
 Discussion on 2026-10-21, pending user agreement: teacher intake should describe the intended topic, discovery, examples, activity idea and sources. The central team would then decide scope, adapt language to each level, specify task instructions and expected answers or outcomes, and identify the purpose of each required image before layout.
