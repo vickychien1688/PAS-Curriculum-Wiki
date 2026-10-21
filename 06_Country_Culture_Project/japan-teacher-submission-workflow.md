@@ -61,3 +61,9 @@ A read-only audit checked the current teacher-intake folder hierarchy and the fi
 After discussing the inconvenience of downloading and uploading Word files, the user approved an additional native Google Docs blank template. It sits at the top level and preserves the complete Project, Worksheet and Level header and the six content fields. Teachers make their own copy, name it for the relevant worksheet and level, select the editable level/PE folder, and fill it online. The master remains link-viewable, and the source Word remains available.
 
 All text and fourteen table cells match the current Word source after whitespace normalization. A one-page PDF export passed visual review; Google font substitution is recorded privately. The actual copy dialog and folder picker were inspected without creating a test copy. Existing sharing permissions were not modified and no teacher messages were sent. Full source evidence and verification remain private.
+
+## Original teacher submissions centralized on 22 October 2026
+
+The user requested that original submissions from the earlier account also be available in the current intake folders. Two images and three PDFs were copied into the relevant level and PE folders. Shared-level sources are available in each applicable level, giving ten copies across eight folders. Copy titles identify them as original teacher drafts. All original source files and existing destination files were retained.
+
+Destination, title, format, byte count and link-editor access were verified for all ten copies. One copy of each of the five unique files was downloaded and matched the earlier original-source snapshot by SHA256. Full originals, provenance and verification are backed up privately. No file content or sharing settings were changed. The empty upper-level source folder was recorded without inventing missing submissions; source labels remain provisional rather than approved curriculum allocation.
