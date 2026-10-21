@@ -27,3 +27,7 @@ Proposed intake adjustment: the team prepopulates each worksheet's assigned titl
 Discussion on 2026-10-21, pending user agreement: teacher intake should describe the intended topic, discovery, examples, activity idea and sources. The central team would then decide scope, adapt language to each level, specify task instructions and expected answers or outcomes, and identify the purpose of each required image before layout.
 
 A proposed common sequence is a topic image, a focused explanation, a meaningful activity and a check of what children discovered. Shared visual rules should support this sequence while allowing different activity types and level demands. The existing example illustrates why transcribing a submission alone does not resolve content selection or repeated exercises. No new template, worksheet or curriculum decision was approved in this discussion.
+
+## Submission comparison on 22 October 2026
+
+The currently submitted P2 pages make activity sequences and materials more explicit than the P1 introduction, so they may be easier starting points for reconstructing a teacher confirmation form. This assessment concerns the visibility of classroom tasks, not approved cultural objectives, level suitability or overall teaching quality. Cultural learning goals and formal topic allocation still need teacher confirmation. No new P2 form was produced or sent during this comparison.
