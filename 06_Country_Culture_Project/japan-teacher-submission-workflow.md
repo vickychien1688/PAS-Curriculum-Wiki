@@ -1,13 +1,11 @@
-# Culture activity form and P1 Starter completed example
+# Culture activity intake and source-based completed example
 
-Updated: 2026-10-21. Revision 3 implements the user's header and field changes and adds a completed example for teachers.
+Updated: 2026-10-21. The user clarified that the completed example must be reconstructed from a teacher's actual submitted worksheet. The earlier independently designed flag example is superseded.
 
-The title is now simply 文化活動 (Culture Activity), with Project and Level entered on the right. The basic-information section and teacher-name field are removed, as is the previously removed estimated time. The form is not labelled an idea form. Its first content field explicitly asks what this worksheet will introduce; the learning-discovery field accepts typed text.
+The form retains the title 文化活動 and its six fields: intended worksheet content, children's discoveries, activities, materials, existing references and additional thoughts. Basic information, teacher name and estimated time remain removed. Existing text and pictures can be attached for the team to consolidate later.
 
-The six content fields cover intended worksheet content, what children should discover, activity ideas linked to that content, needed materials or images, useful existing references, and optional extra ideas or questions. Existing English or questions may be attached; final language and tasks remain part of the team's later consolidation work.
+The revised private example fills these fields from an actual P1-01 submission. Its header records Project, Worksheet and the level label from the source folder. Directly observed content and activities are preserved; inferred teaching intent is explicitly labelled for teacher confirmation, and follow-up questions are kept separate. The earlier proposed activities are not attributed to the teacher. This record does not approve shared-level teaching or a new student worksheet.
 
-Two private editable one-page Word files are available: a blank form with Project/Level spaces and a completed P1/Starter example on recognizing the Japanese flag. The example fills every content field to demonstrate how much teachers should write. It is not a new student worksheet or an approved curriculum unit. Its flag description and sun symbolism were checked against [Web Japan](https://web-japan.org/kidsweb/explore/national/), and that source is linked inside the example. Proposed English still requires checking against actual class progress.
+The example is a one-page editable Word form with a clickable original-source link. It has been rendered and visually checked; source attribution, inference labels, unchanged page geometry and all preserve-only document package parts have been verified. The blank form remains byte-for-byte unchanged. No teacher messages were sent and no Drive source was modified.
 
-Both files were rendered and visually checked as single pages. Labels, removed fields, editable table structure and the sample's source URI were verified. No teacher messages were sent, no Drive files were changed, and no audio or student-material release was approved.
-
-Complete forms, builder, superseded v1/v2 and QA remain private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. The blank form retains its existing DOCX path. The public Wiki contains this workflow and status only.
+Complete forms, source image, source-to-field mapping, historical examples, builders and QA remain private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. Further consolidation follows teacher confirmation of intent and level suitability. The public Wiki contains only this workflow and status.

@@ -1,4 +1,4 @@
-2026-10-21: [Culture activity form and P1 Starter example](japan-teacher-submission-workflow.md). Revision 3 uses the Culture Activity title with Project/Level on the right, removes basic information, and supplies a completed one-page example. Full editable forms and QA remain private; no student worksheet was produced.
+2026-10-21: [Culture activity form and source-based example](japan-teacher-submission-workflow.md). Revision 4 fills the existing form from an actual teacher submission and labels inferred teaching intent for confirmation. The independent example is superseded; full content remains private.
 
 2026-10-20: [Welcome to Japan! Grade 2 original-art local revision v4](japan-welcome-grade2-review.md). V3 was also rejected. The user explicitly chose preservation of the original artwork and layout with easier Grade 2 tasks. V4 keeps the actual teacher illustrations and four panels, simplifies writing and distractors, and uses the authentic logo. Review pending; full materials are private.
 
