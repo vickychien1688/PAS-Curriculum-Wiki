@@ -51,3 +51,13 @@ Connector readback verified locations and native document types. All 14 table-ce
 The blank Word form now includes all three header fields: Project, Worksheet and Level. Its instruction explains that Worksheet is the worksheet number, such as 01, and may be left blank until confirmed. The six content fields and page geometry remain unchanged. Both completed examples were checked and already contained their Worksheet labels; no provisional worksheet number was invented.
 
 The existing cloud Word file was replaced in place, preserving its ID and link. Rendering passed as one page; the downloaded cloud file exactly matches the corrected local file by SHA256. The blank-form builder was updated to retain the field in future runs. Full before/after files and verification remain private.
+
+## Sharing audit on 22 October 2026
+
+A read-only audit checked the current teacher-intake folder hierarchy and the five forms. Shared visibility was not treated as proof of edit access: folder settings were inspected directly, and native document permission metadata was checked. Some items have link-viewer access while the teaching submission folders have link-editor access. The actual exceptions and per-item evidence remain private. No permissions or curriculum content were changed. Teachers can continue using the established download, save a completed copy, and upload workflow.
+
+## Online blank template approved on 22 October 2026
+
+After discussing the inconvenience of downloading and uploading Word files, the user approved an additional native Google Docs blank template. It sits at the top level and preserves the complete Project, Worksheet and Level header and the six content fields. Teachers make their own copy, name it for the relevant worksheet and level, select the editable level/PE folder, and fill it online. The master remains link-viewable, and the source Word remains available.
+
+All text and fourteen table cells match the current Word source after whitespace normalization. A one-page PDF export passed visual review; Google font substitution is recorded privately. The actual copy dialog and folder picker were inspected without creating a test copy. Existing sharing permissions were not modified and no teacher messages were sent. Full source evidence and verification remain private.
