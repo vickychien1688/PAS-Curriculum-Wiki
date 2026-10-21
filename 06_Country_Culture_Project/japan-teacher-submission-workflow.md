@@ -10,9 +10,15 @@ The example is a one-page editable Word form with a clickable original-source li
 
 Complete forms, source image, source-to-field mapping, historical examples, builders and QA remain private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. Further consolidation follows teacher confirmation of intent and level suitability. The public Wiki contains only this workflow and status.
 
+## Current clarification on 22 October 2026
+
+The immediate task is to reconstruct likely teaching intentions from submitted worksheets and obtain teacher confirmation. Meeting decisions are not available to the coordinator. Observed worksheet content, inferred goals and the team's later recommendations must remain distinct. The prior outline is a comparison reference; discrepancies may reflect meeting changes and must be clarified before enforcing scope or removing content.
+
+The team should prefill an interpretable confirmation draft, ask teachers to correct it and add arrangements not visible on the worksheet, and only then consolidate topic allocation, level expectations, content and the common production format. Earlier suggestions to prepopulate fixed scope are conditional on this confirmation step. No teacher messages have been sent and no new document or student worksheet was produced by this clarification.
+
 ## Original outline supplied on 22 October 2026
 
-The user supplied the original four-Project, twelve-worksheet outline as the reference for this intake discussion. Worksheet 01 covers the Japanese flag and the geographic relationship between Taiwan and Japan. Worksheet 02 covers the four main islands and terrain; worksheet 03 covers volcanoes, Mount Fuji, earthquakes and plate movement. The earlier generic introductory scope must be aligned to these boundaries before production.
+The user supplied the original four-Project, twelve-worksheet outline as the reference for this intake discussion. Worksheet 01 covers the Japanese flag and the geographic relationship between Taiwan and Japan. Worksheet 02 covers the four main islands and terrain; worksheet 03 covers volcanoes, Mount Fuji, earthquakes and plate movement. This outline helps identify differences to clarify with teachers before deciding the production scope.
 
 Proposed intake adjustment: the team prepopulates each worksheet's assigned title and core content; teachers contribute explanations, intended discoveries, activity ideas and sources within that scope. Level adaptations remain under discussion. The source transcription and image remain private. This update does not modify the current DOCX, approve new activities or rename Drive folders; worksheet numbers in the source outline run 01–12 across the four Projects.
 
