@@ -31,3 +31,9 @@ A proposed common sequence is a topic image, a focused explanation, a meaningful
 ## Submission comparison on 22 October 2026
 
 The currently submitted P2 pages make activity sequences and materials more explicit than the P1 introduction, so they may be easier starting points for reconstructing a teacher confirmation form. This assessment concerns the visibility of classroom tasks, not approved cultural objectives, level suitability or overall teaching quality. Cultural learning goals and formal topic allocation still need teacher confirmation. No new P2 form was produced or sent during this comparison.
+
+## P2 food confirmation example completed on 22 October 2026
+
+At the user's request, one source-based teacher confirmation form has now been completed from a submitted food worksheet. It preserves the existing six-field editable template, records observed content and activities, labels inferred learning intentions, and asks for confirmation of cultural emphasis, differences between levels and formal worksheet allocation. Project placement remains provisional and the worksheet number is pending; source-folder naming was not treated as an approved curriculum decision.
+
+The new form is one page with a verified source link. Rendering and full-page visual inspection passed, and untouched template package parts were verified byte-for-byte. The existing blank and P1 forms remain unchanged. Full content, original source, builder and QA remain private in `projects/our-reading-space-culture/output/japan-p2-teacher-confirmation/`. The form is ready for user review; no teacher message, Drive edit or student worksheet production has occurred.
