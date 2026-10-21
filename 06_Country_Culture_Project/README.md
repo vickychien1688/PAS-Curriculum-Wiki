@@ -1,4 +1,4 @@
-2026-10-21: [Japan teacher content submission form](japan-teacher-submission-workflow.md). An editable teacher form is prepared for user review; content is discussed before Vicky creates the series layout. Full form and QA remain private.
+2026-10-21: [Japan teacher idea intake form](japan-teacher-submission-workflow.md). Updated after the user clarified that teachers supply ideas for team consolidation and production. Timing is removed; final English, questions and answers are optional existing material. Revised form awaits user review; full form and QA remain private.
 
 2026-10-20: [Welcome to Japan! Grade 2 original-art local revision v4](japan-welcome-grade2-review.md). V3 was also rejected. The user explicitly chose preservation of the original artwork and layout with easier Grade 2 tasks. V4 keeps the actual teacher illustrations and four panels, simplifies writing and distractors, and uses the authentic logo. Review pending; full materials are private.
 

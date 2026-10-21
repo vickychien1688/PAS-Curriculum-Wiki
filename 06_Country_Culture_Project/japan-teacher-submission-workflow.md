@@ -1,11 +1,13 @@
-# Japan teacher content submission form
+# Japan teacher idea intake and production workflow
 
-Updated: 2026-10-21. Stage: planning and teacher workflow; form prepared for user review.
+Updated: 2026-10-21. Stage: idea collection; revised form prepared for user review.
 
-The user requests an editable table so teachers can supply content before Vicky creates consistent layouts. One form covers one proposed worksheet. The teacher supplies the topic and intended level, cultural learning point, vocabulary and sentence patterns, optional reading or introduction, activity instructions and questions with timing, answers or completion examples, materials and image needs, and sources or open questions. Existing content may be pasted into the form; unresolved points remain for discussion.
+The user clarified that teachers contribute ideas and Vicky's team consolidates and produces the materials. The earlier complete-content submission form is superseded. Teachers are not required to prepare final English passages, worksheet questions or answer keys. Estimated activity time is removed. The author field now explicitly asks for the filling teacher's name; suggested level may be left blank.
 
-The one-page Word form uses plain, conversational prompts and expandable cells. Content is to be reviewed together before layout. The user has not yet approved the exact fields or distribution process. No teacher messages were sent, no Drive files were changed, and no new student worksheet, grouping or audio was approved by this task.
+One form records one idea, not necessarily one finished worksheet. The editable one-page form collects the topic and teacher, concrete cultural content or examples, what children may already know and what they should newly discover, an activity idea linked to that learning purpose, visual or physical materials, references with useful sections identified, and optional existing English or questions or open issues. Chinese notes and bullet points are welcome.
 
-The complete editable form, builder and visual QA are private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. One-page rendering, Chinese text and table structure were checked. The public Wiki stores this workflow specification only.
+After intake, retain contributor and source provenance, group related ideas, agree the cultural focus, verify facts and examples, check actual language progress and levels, then write student text and activities with answer keys, select or create appropriate images, and prepare one sample before series production. Internal tracking of adoption, source verification and production status belongs to the coordinating team rather than the teacher form.
 
-The 2026-10-21 shared curriculum handoff contains a newer Why, Japan? direction. This submission form does not reinstate older four-Project or shared-level assumptions; detailed curriculum decisions remain with that discussion.
+The exact revised fields remain for user review. No teacher messages were sent, no Drive files were changed, and no student content, grouping or audio was approved by this task. The current curriculum discussion continues separately.
+
+The editable form, builder, superseded v1 and visual QA are private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. The existing DOCX path is retained with the revised document title. One-page rendering, Chinese text, the removal of timing and editable table structure were checked. This public Wiki stores the workflow specification only.
