@@ -1,13 +1,13 @@
-# Japan teacher idea intake and production workflow
+# Culture activity form and P1 Starter completed example
 
-Updated: 2026-10-21. Stage: idea collection; revised form prepared for user review.
+Updated: 2026-10-21. Revision 3 implements the user's header and field changes and adds a completed example for teachers.
 
-The user clarified that teachers contribute ideas and Vicky's team consolidates and produces the materials. The earlier complete-content submission form is superseded. Teachers are not required to prepare final English passages, worksheet questions or answer keys. Estimated activity time is removed. The author field now explicitly asks for the filling teacher's name; suggested level may be left blank.
+The title is now simply 文化活動 (Culture Activity), with Project and Level entered on the right. The basic-information section and teacher-name field are removed, as is the previously removed estimated time. The form is not labelled an idea form. Its first content field explicitly asks what this worksheet will introduce; the learning-discovery field accepts typed text.
 
-One form records one idea, not necessarily one finished worksheet. The editable one-page form collects the topic and teacher, concrete cultural content or examples, what children may already know and what they should newly discover, an activity idea linked to that learning purpose, visual or physical materials, references with useful sections identified, and optional existing English or questions or open issues. Chinese notes and bullet points are welcome.
+The six content fields cover intended worksheet content, what children should discover, activity ideas linked to that content, needed materials or images, useful existing references, and optional extra ideas or questions. Existing English or questions may be attached; final language and tasks remain part of the team's later consolidation work.
 
-After intake, retain contributor and source provenance, group related ideas, agree the cultural focus, verify facts and examples, check actual language progress and levels, then write student text and activities with answer keys, select or create appropriate images, and prepare one sample before series production. Internal tracking of adoption, source verification and production status belongs to the coordinating team rather than the teacher form.
+Two private editable one-page Word files are available: a blank form with Project/Level spaces and a completed P1/Starter example on recognizing the Japanese flag. The example fills every content field to demonstrate how much teachers should write. It is not a new student worksheet or an approved curriculum unit. Its flag description and sun symbolism were checked against [Web Japan](https://web-japan.org/kidsweb/explore/national/), and that source is linked inside the example. Proposed English still requires checking against actual class progress.
 
-The exact revised fields remain for user review. No teacher messages were sent, no Drive files were changed, and no student content, grouping or audio was approved by this task. The current curriculum discussion continues separately.
+Both files were rendered and visually checked as single pages. Labels, removed fields, editable table structure and the sample's source URI were verified. No teacher messages were sent, no Drive files were changed, and no audio or student-material release was approved.
 
-The editable form, builder, superseded v1 and visual QA are private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. The existing DOCX path is retained with the revised document title. One-page rendering, Chinese text, the removal of timing and editable table structure were checked. This public Wiki stores the workflow specification only.
+Complete forms, builder, superseded v1/v2 and QA remain private at `claude-config/projects/our-reading-space-culture/output/japan-teacher-content-form/`. The blank form retains its existing DOCX path. The public Wiki contains this workflow and status only.
