@@ -1,5 +1,14 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Fresh planning from the two user-supplied references
+
+The user supplied the invention collage and Japan exploration poster again and requested planning first. The response proposes six themes across geography/nature and inventions, with recognition and actions at the entry band, comparisons and development at the middle band, and causes, design improvements and everyday impact at the upper band. These are discussion proposals, not approval of final wording, shared editions, activities or art. Starter and Level 1 language demands remain separate even where a shared picture base is considered.
+
+The latest explicit entry-level correction still overrides the poster's Tokyo label: worksheet 01 uses **Welcome to Japan!**, map recognition with **This is Japan.**, and the flag's sun symbolism. Do not restore Tokyo/capital as entry-level requirements. The three proposed geography guides remain unapproved; retain the user's invention guides. All three rejected visual versions remain rejected.
+
+Continue content discussion from worksheet 01 before final English and a single visual sample. This turn creates no student pages, images, PDFs, audio or QR codes, and sends no teacher messages. The old October 17 schedule is not the basis of this six-theme proposal. Original references and detailed planning remain private. JMA, CWA, DENSO WAVE and Unicode source pages were rechecked; the existing accuracy constraints below continue to apply.
+
+
 ## 2026-10-28 — All three visual attempts rejected
 
 The user rejected v3 and asked the assistant to review its own failures. v1, v2 and v3 are rejected records, not approved templates; there is currently no accepted Japan Starter worksheet. Stop producing further visual variants in this review turn. Preserve the already-clear content, title and reference directions. Technical rendering checks must not be represented as design acceptance. No audio, QR or student-material publication has occurred.
