@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Starter visual sample v2, not approved
+
+The user rejected the first visual attempt and generic child guide. Match the established Germany worksheet's finished art quality, with Japanese anime characters inspired by the supplied invention collage. The main title is **Welcome to Japan!**; do not reuse the large Germany **Did You Know?** page heading. A small lower-page fact label is separate.
+
+A private single-page v2 review sample uses Doraemon as a proposed guide and retains only the agreed map/flag-sun learning goals. Candidate guides for the first three themes are Doraemon, Totoro and Chibi Maruko-chan; these choices have not been individually approved. The invention guides remain the user's supplied characters. Technical PDF/image checks passed; aesthetic approval is pending. No audio, real QR, public student materials or teacher messages were released. Rejected v1 records are retained privately.
+
 ## 2026-10-28 — Latest Starter correction: map and sun symbolism
 
 The user explicitly rejects Tokyo and capital teaching for this entry-level page. Its two content goals are recognizing Japan on a map and understanding that the flag’s central red circle represents the sun. Earlier low-level Tokyo/capital proposals below are superseded, including versions that move the same content into teacher explanation.
