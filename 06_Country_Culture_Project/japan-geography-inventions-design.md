@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Required meaning for WS01
+
+The user explicitly requires the first page to connect Japan's flag, the sun, Japan and Tokyo. Teach that the central red circle represents the sun and Tokyo is Japan's capital. Coloring and location finding alone do not establish these meanings. Private content and activity proposals have been revised accordingly. English wording and visual layout remain proposals, with additional cultural vocabulary clearly supported; no student files or audio were released.
+
 ## 2026-10-28 — Start with the first worksheet
 
 The user now explicitly requests beginning discussion and production with the first worksheet. Work therefore starts with Welcome to Japan! (recognition/location theme), replacing the assistant's suggested starting point of worksheet 04. The private discussion starter proposes Japan/flag/Tokyo for the lower band, two islands for the middle band, and four islands for the upper band. A brief lower-band text and visual task have been drafted for discussion, not approved for student production. No new student layout, audio or QR was produced.
