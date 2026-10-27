@@ -1,5 +1,15 @@
 # Japan Culture Week — current planning scope
 
+## 2026-10-28 — All three visual attempts rejected
+
+The user rejected v3 and asked the assistant to review its own failures. v1, v2 and v3 are rejected records, not approved templates; there is currently no accepted Japan Starter worksheet. Stop producing further visual variants in this review turn. Preserve the already-clear content, title and reference directions. Technical rendering checks must not be represented as design acceptance. No audio, QR or student-material publication has occurred.
+
+## 2026-10-28 — v2 rejected; v3 rebuilt as an illustrated page
+
+The user rejected v2. Preserve it as rejected, not as an approved template. A private v3 review sample now derives its overall illustration composition from the actual approved Germany Starter page: Doraemon and the door, an illustrated world map, flag tasks, a visual sun explanation and a picture response. The artwork was generated without text; the logo, student words, labels and geometrically correct flags are separate native PDF elements. The main title remains **Welcome to Japan!** and the two agreed learning goals are unchanged.
+
+A complete PDF and print-resolution PNG were visually checked after rendering; this is technical review, not user aesthetic approval. No audio, QR, public student content or teacher messages were released. v3 is awaiting user review; v1 and v2 must not be reused as visual masters.
+
 ## 2026-10-28 — Starter visual sample v2, not approved
 
 The user rejected the first visual attempt and generic child guide. Match the established Germany worksheet's finished art quality, with Japanese anime characters inspired by the supplied invention collage. The main title is **Welcome to Japan!**; do not reuse the large Germany **Did You Know?** page heading. A small lower-page fact label is separate.
