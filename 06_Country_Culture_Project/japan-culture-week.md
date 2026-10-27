@@ -1,5 +1,9 @@
 # Japan Culture Week — current planning scope
 
+## 2026-10-28 — Start with the first worksheet
+
+The user now explicitly requests beginning discussion and production with the first worksheet. Work therefore starts with Welcome to Japan! (recognition/location theme), replacing the assistant's suggested starting point of worksheet 04. The private discussion starter proposes Japan/flag/Tokyo for the lower band, two islands for the middle band, and four islands for the upper band. A brief lower-band text and visual task have been drafted for discussion, not approved for student production. No new student layout, audio or QR was produced.
+
 2026-10-27: [Geography/nature and inventions — six-theme design discussion](japan-geography-inventions-design.md). Use the new user-supplied overview and 04–06 mother texts; the earlier flag/bento proposal is superseded. Three-band design is provisional; student English, tasks and artwork await review.
 
 2026-10-22: [P1-01 four-group PAS alignment and complete content discussion](japan-pe1-flag-location-planning.md). Explicit new-language support; formal text, tasks and history focus pending review. Full original content remains private.

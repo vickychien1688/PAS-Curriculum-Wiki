@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Start with the first worksheet
+
+The user now explicitly requests beginning discussion and production with the first worksheet. Work therefore starts with Welcome to Japan! (recognition/location theme), replacing the assistant's suggested starting point of worksheet 04. The private discussion starter proposes Japan/flag/Tokyo for the lower band, two islands for the middle band, and four islands for the upper band. A brief lower-band text and visual task have been drafted for discussion, not approved for student production. No new student layout, audio or QR was produced.
+
 Updated: 2026-10-27. Stage: planning/content design; no student layout or final English approved.
 
 The user explicitly selected the first two parts, geography/nature and inventions, for current design. The later festival, Taiwan–Japan connections and food screenshot is background for a future phase, not current production scope.
