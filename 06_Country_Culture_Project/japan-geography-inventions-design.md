@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Latest Starter correction: map and sun symbolism
+
+The user explicitly rejects Tokyo and capital teaching for this entry-level page. Its two content goals are recognizing Japan on a map and understanding that the flag’s central red circle represents the sun. Earlier low-level Tokyo/capital proposals below are superseded, including versions that move the same content into teacher explanation.
+
+The actual approved Germany PE1 Starter worksheet 01 PNG and its production source were inspected. It uses map pointing, flag identification/coloring, a greeting and visual flag-color facts; it does not teach Berlin or capital. Apply its concrete visual/activity approach to Japan’s two requested goals. Do not assume every German content block must be copied. Activity details and layout remain proposals; no new student artwork or audio was produced.
+
 ## 2026-10-28 — Required meaning for WS01
 
 The user explicitly requires the first page to connect Japan's flag, the sun, Japan and Tokyo. Teach that the central red circle represents the sun and Tokyo is Japan's capital. Coloring and location finding alone do not establish these meanings. Private content and activity proposals have been revised accordingly. English wording and visual layout remain proposals, with additional cultural vocabulary clearly supported; no student files or audio were released.
@@ -20,7 +26,7 @@ The working bands follow the new overview: Starter/Level 1, Levels 2–3, Levels
 
 | Part | Theme | Curriculum intention |
 |---|---|---|
-| Geography/nature | A: Japan, Tokyo and islands | Recognize location, then compare two and four main islands. |
+| Geography/nature | A: Japan, flag symbolism and islands | Starter recognizes Japan and the flag’s sun symbolism; later bands extend to island geography. |
 | Geography/nature | B: Seasons and everyday culture | Connect visible seasonal changes with activities and choices. |
 | Geography/nature | C: Mount Fuji, volcanoes and earthquakes | Distinguish natural phenomena and understand appropriate protective actions. |
 | Inventions | 04 The Magic Noodles! | Explore preservation, preparation, packaging and multiple contributors. |
@@ -42,6 +48,6 @@ The private discussion package contains six theme plans, three-band understandin
 
 Read 23 PAS unit sources from remote main at `d025efa5629ed883fdb0c1e6fb84bd8bf2445d9c`; their SHA-256 values match the October 22 reference set. Candidate cultural words remain explicitly additional language. Actual Level 5 edition alignment is still open.
 
-Discuss the proposed learning focus and tasks, then coordinate final graded English with the existing content work. A low-level 04 noodle content sample is the suggested next review unit, not a newly approved layout. No new student PDF/PNG, generated artwork, audio, listening QR, Drive/HQ release or teacher message was made.
+Discuss the proposed learning focus and tasks, then coordinate final graded English with the existing content work. Continue with worksheet 01 under the latest user correction above. No new student PDF/PNG, generated artwork, audio, listening QR, Drive/HQ release or teacher message was made.
 
 Full original text, artwork and task details remain private. Text package: `~/Developer/our-reading-space-culture/output/japan-two-parts-design-20261027/`. Media references: iCloud `Our Reading Space 文化課/references/japan-two-parts-design-20261027/`. A small text-only handoff snapshot is also retained in the authorized private configuration repository; historical media were not restored there.

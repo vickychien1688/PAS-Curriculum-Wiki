@@ -1,5 +1,11 @@
 # Japan Culture Week — current planning scope
 
+## 2026-10-28 — Latest Starter correction: map and sun symbolism
+
+The user explicitly rejects Tokyo and capital teaching for this entry-level page. Its two content goals are recognizing Japan on a map and understanding that the flag’s central red circle represents the sun. Earlier low-level Tokyo/capital proposals below are superseded, including versions that move the same content into teacher explanation.
+
+The actual approved Germany PE1 Starter worksheet 01 PNG and its production source were inspected. It uses map pointing, flag identification/coloring, a greeting and visual flag-color facts; it does not teach Berlin or capital. Apply its concrete visual/activity approach to Japan’s two requested goals. Do not assume every German content block must be copied. Activity details and layout remain proposals; no new student artwork or audio was produced.
+
 ## 2026-10-28 — Start with the first worksheet
 
 The user now explicitly requests beginning discussion and production with the first worksheet. Work therefore starts with Welcome to Japan! (recognition/location theme), replacing the assistant's suggested starting point of worksheet 04. The private discussion starter proposes Japan/flag/Tokyo for the lower band, two islands for the middle band, and four islands for the upper band. A brief lower-band text and visual task have been drafted for discussion, not approved for student production. No new student layout, audio or QR was produced.
