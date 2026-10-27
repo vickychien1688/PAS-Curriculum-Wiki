@@ -1,4 +1,6 @@
 
+
+2026-10-27: [Geography/nature and inventions — six-theme design discussion](japan-geography-inventions-design.md). Use the new user-supplied overview and 04–06 mother texts; the earlier flag/bento proposal is superseded. Three-band design is provisional; student English, tasks and artwork await review.
 2026-10-22: [P1-01 four-group PAS alignment and complete content discussion](japan-pe1-flag-location-planning.md). Explicit new-language support; formal text, tasks and history focus pending review. Full original content remains private.
 
 2026-10-22: [PE1 worksheet 01 grouping and simple-language limits](japan-culture-week.md). Confirmed groups: Starter / L1 / L2–3 / L4–5; historical focus and formal student text remain under discussion.

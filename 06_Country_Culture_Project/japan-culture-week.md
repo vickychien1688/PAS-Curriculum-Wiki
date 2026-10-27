@@ -1,5 +1,7 @@
 # Japan Culture Week — current planning scope
 
+2026-10-27: [Geography/nature and inventions — six-theme design discussion](japan-geography-inventions-design.md). Use the new user-supplied overview and 04–06 mother texts; the earlier flag/bento proposal is superseded. Three-band design is provisional; student English, tasks and artwork await review.
+
 2026-10-22: [P1-01 four-group PAS alignment and complete content discussion](japan-pe1-flag-location-planning.md). Explicit new-language support; formal text, tasks and history focus pending review. Full original content remains private.
 
 
