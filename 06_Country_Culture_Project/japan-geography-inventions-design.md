@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Remove the series subtitle
+
+The user explicitly removed “Japan Journey”. Retain only “Welcome to Japan!” as the page heading. The private placement draft, source and desktop copies were updated; all other positions and the pending audio/QR status remain unchanged. Do not restore the subtitle in later art/layout work.
+
 ## 2026-10-28 — Layout first; confirmed scenery and right listening placement
 
 The user explicitly chose to retain the Japanese scenery and remove only the cloud sign. This supersedes the earlier full-white-header assumption. Keep the English logo at upper left, title centered and a complete listening/QR module at upper right. The user rejected the small listening text embedded inside section 1. Add torii/Fuji accents later, after the main layout is settled.
