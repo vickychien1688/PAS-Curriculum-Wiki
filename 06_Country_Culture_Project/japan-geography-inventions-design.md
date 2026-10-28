@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — User prefers the illustrated Japanese reference posters
+
+After viewing v4, the user stated that the supplied Japan exploration poster and Japan Meets Taiwan cultural encyclopedia look better. Treat these as the current visual direction: thematic illustrated surroundings, a cloud title sign, rounded bold type and integrated colorful sections. v4 is not approved; do not retain its formal blue-box/ribbon composition as the visual standard.
+
+A single private v5 Starter sample now follows this direction with new illustration and native editable text, accurate island outlines and flags. It retains map recognition and flag sun symbolism with selection/coloring tasks; the confirmed nine-theme structure is unchanged. PDF/image rendering and typography/geometry checks were completed, but user aesthetic approval remains pending. The guide character is still a proposal. Audio is marked pending; no QR, other levels, public student materials or teacher messages were released. Complete source and media remain private; only this status is public.
+
 ## 2026-10-28 — One new Starter visual sample after “試試”
 
 The user authorized trying the first Starter worksheet. A new private v4 sample now presents regional Japan/Taiwan map recognition, flag sun symbolism, flag selection and coloring, with newly generated anime guide art and native editable typography/geography/flags. It is separate from the earlier v4-candidate; v1–v3 remain rejected. The confirmed nine-theme plan and three content bands are unchanged. Guide character, specific layout and activity wording remain subject to user review.
