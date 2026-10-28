@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — One new Starter visual sample after “試試”
+
+The user authorized trying the first Starter worksheet. A new private v4 sample now presents regional Japan/Taiwan map recognition, flag sun symbolism, flag selection and coloring, with newly generated anime guide art and native editable typography/geography/flags. It is separate from the earlier v4-candidate; v1–v3 remain rejected. The confirmed nine-theme plan and three content bands are unchanged. Guide character, specific layout and activity wording remain subject to user review.
+
+One-page PDF and 600dpi PNG were rendered and visually checked, with actual 13pt body text and precise Japanese flag geometry. These checks do not imply aesthetic approval. Source text/code and prompt remain in the canonical private workspace; media and desktop review copies remain in private local/iCloud storage. Only this status is public. Audio is marked pending, no QR was created, no other levels were produced, and no student-material publication or teacher message occurred.
+
 ## 2026-10-28 — Overall plan accepted
 
 The user replied “好” to the consolidated plan and accepted the three-part, nine-theme architecture and graded content direction. The confirmed bands are Starter/Level 1, Levels 2–3 and Levels 4–5, with separate Starter and Level 1 language demands. The three parts cover geography/nature, inventions, and living culture/Taiwan–Japan connections. Continue from Starter worksheet 01 with map recognition and flag sun symbolism. Final English, specific artwork/layout, formal identifiers and the three proposed geography guide characters are not yet finalized. The rejected v1–v3 artwork remains rejected; this plan acceptance is not approval of student materials or audio.
