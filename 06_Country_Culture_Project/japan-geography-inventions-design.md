@@ -4,7 +4,7 @@
 
 The user requests the next level's wording first, followed by discussion and approval. A private Level 1 WS01 proposal retains the accepted entry-band cultural focus and four-part structure, while adding complete location and color question/answer practice. EOW1 Units 1–4 were read from the current remote; Units 1–2 support the review structures, while country/continent and flag vocabulary receive explicit visual teaching support. Earlier capital, bento and island extensions are not restored.
 
-The user specifically confirmed a color question naming the flag, answered with both red and white; use it in the flag section. The remaining English and activity wording remain unapproved. No Level 1 student page, image, audio or QR has been produced. After text approval, reuse the accepted Japan visual master and deliver both PNG and PDF.
+The user now confirms the first three sections: use only the location question/answer, removing the redundant declarative introduction; retain the flag-color and sun-symbolism wording and the greeting. The user considers simple coloring too weak for Level 1. A proposed replacement asks learners to read three familiar short statements, match them to location/flag/red-circle images, then point and say a complete sentence to a partner. This fourth-section activity remains unapproved. No Level 1 student page, image, audio or QR has been produced. After the activity is settled, reuse the accepted Japan visual master and deliver both PNG and PDF.
 
 ## 2026-10-29 — Visual/layout master finalized; PNG and PDF required
 
