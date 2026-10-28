@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Artistic welcome title, airplane, and landscape/fireworks footer
+
+The latest private review draft follows the user's new proposal: a larger playful display typeface and one airplane above the welcome title, with name/date fields moved beneath the title. The header no longer repeats the footer landscape or includes a flag, lantern, fan or fireworks. Pale fireworks now sit behind a continuous full-width Japanese landscape at the bottom. The complete left cherry tree overlaps the greeting card's lower border, with the nearby instruction raised to keep it clear. This supersedes the earlier header-decor combination and provisional-choice notes.
+
+The consolidated content revisions remain: Japan and Taiwan use colored country polygons and thin leaders instead of dot overlays; the Asia label is lower; the flag explanation uses two short Starter-friendly sentences above/below the arrow, avoiding the rejected advanced word. The sun label is heavier and centered. The greeting display is larger and higher, with Nobita and Doraemon bowing to greet each other. Normal body text retains the established size.
+
+The one-page review PDF/PNG, desktop copies, editable sources, font-license records and visual QA were updated. The work package follows the established private local-source/iCloud-media split; only the shared handoff and specification summary are synchronized to GitHub. Final visual approval, lesson audio and a real QR destination remain pending. No other levels or public student materials were released.
+
 ## 2026-10-29 — Fuller header and larger greeting display
 
 The user found the header too empty and the greeting text too small, requested a waving Doraemon beside the greeting activity, and asked to move the Taiwan label away from the decorative foliage. The private sample now raises the title, uses a taller torii/Fuji landscape accent, enlarges the greeting display while retaining the normal body-text size, and places a waving character along the greeting card’s right edge. Taiwan and its leader were moved upward and left into clear space. The logo, listening module, world-map context and lesson sentences remain in place.
