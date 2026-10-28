@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Overall plan accepted
+
+The user replied “好” to the consolidated plan and accepted the three-part, nine-theme architecture and graded content direction. The confirmed bands are Starter/Level 1, Levels 2–3 and Levels 4–5, with separate Starter and Level 1 language demands. The three parts cover geography/nature, inventions, and living culture/Taiwan–Japan connections. Continue from Starter worksheet 01 with map recognition and flag sun symbolism. Final English, specific artwork/layout, formal identifiers and the three proposed geography guide characters are not yet finalized. The rejected v1–v3 artwork remains rejected; this plan acceptance is not approval of student materials or audio.
+
 ## 2026-10-28 — Additional living-culture references and confirmed band mapping
 
 The user supplied an 18-page completed content form and the **Japan Meets Taiwan!** poster while continuing the planning discussion. The nine forms are three themes at three depths: traditional architecture, Taiwan–Japan cultural connections (including hot springs and Beitou), and festivals. They can form a third planning part alongside geography/nature and inventions, for nine theme directions in total; final worksheet numbering and production quantities are not approved.
