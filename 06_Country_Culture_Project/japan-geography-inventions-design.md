@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — World-map context, a second spoken sentence, and Japanese greeting
+
+The user requested another short sentence alongside the Japan introduction and a Japanese greeting activity analogous to Germany’s Hallo. The private review draft now follows the Germany model with a simple continent sentence and a teacher-led Japanese greeting. These explicit requests supersede the previous single-sentence/no-greeting constraint. Asia is new teacher-supported cultural language, not claimed as already taught in PAS.
+
+The user then pointed out that the earlier Japan/Taiwan regional map could not show Asia. It has been replaced by a Natural Earth world map with an explicit Asia label, a red Japan marker and a gold Taiwan reference marker. Section 1’s heading is left aligned; only its specified upper-left blossom cluster was removed. The two lower frames now match the full-width panels’ outer edges, superseding the earlier inset arrangement. The pencil is omitted. The authentic upper-left English logo, upper-right listening module, removed series subtitle and raised name/date fields remain.
+
+One private PDF/PNG sample and desktop copies were updated and rendered for review. Content/layout/art approval remains open. The user subsequently requested title decoration; a transparent torii, Fuji, hills and blossom accent was added beneath the native title, with no cloud sign and the authentic logo/listening module preserved. This arrangement remains a review draft. Audio and a real QR destination remain pending. Full materials remain private; no other levels or public student materials were released.
+
 ## 2026-10-28 — Remove the series subtitle
 
 The user explicitly removed “Japan Journey”. Retain only “Welcome to Japan!” as the page heading. The private placement draft, source and desktop copies were updated; all other positions and the pending audio/QR status remain unchanged. Do not restore the subtitle in later art/layout work.
