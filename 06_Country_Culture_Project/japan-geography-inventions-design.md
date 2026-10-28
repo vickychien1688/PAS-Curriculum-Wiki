@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — English logo upper left; white-header layout trial
+
+The user positively assessed the v5 illustrations and explicitly placed the English logo at the upper left. They proposed removing lower-corner blossoms and removing the title background. A private local layout trial uses a white header with the authentic previously user-selected palm/English wordmark at upper left, title to its right, and a clean name/date footer. The original learning content remains in place. Do not treat this as approval of the entire series or audio.
+
+The precise scope of removing the header background was offered as a choice and has not been explicitly answered; the full-white header is a trial assumption, not a confirmed requirement. The logo is a native crop of the real supplied original, not generated or retyped. PDF/image review is complete, but final layout proportions remain open. Audio/QR and publication remain pending; full materials stay private.
+
 ## 2026-10-28 — User prefers the illustrated Japanese reference posters
 
 After viewing v4, the user stated that the supplied Japan exploration poster and Japan Meets Taiwan cultural encyclopedia look better. Treat these as the current visual direction: thematic illustrated surroundings, a cloud title sign, rounded bold type and integrated colorful sections. v4 is not approved; do not retain its formal blue-box/ribbon composition as the visual standard.
