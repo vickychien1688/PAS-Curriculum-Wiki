@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Japan visual direction accepted; small header refinements
+
+The user explicitly accepted the current page as the Japan visual version. Preserve its display title, airplane, authentic logo, top name/date fields and pale-fireworks landscape footer as the visual reference for later Japan work. The approved baseline and checksums are retained privately.
+
+Two subsequent local refinements change the flight trail to flow through the title words beneath the native lettering, and coordinate the listening label, scan instruction and QR border with Doraemon-inspired blue. The content area remains unchanged. The user rejected the first repeated-wave trail; it has been replaced with a quieter asymmetric sweep beneath the words toward the airplane. These local refinements are for review; the overall visual direction is accepted. Audio, a real QR destination and complete publication readiness remain pending.
+
 ## 2026-10-29 — Artistic welcome title, airplane, and landscape/fireworks footer
 
 The latest private review draft follows the user's new proposal: a larger playful display typeface and one airplane above the welcome title, with name/date fields moved beneath the title. The header no longer repeats the footer landscape or includes a flag, lantern, fan or fireworks. Pale fireworks now sit behind a continuous full-width Japanese landscape at the bottom. The complete left cherry tree overlaps the greeting card's lower border, with the nearby instruction raised to keep it clear. This supersedes the earlier header-decor combination and provisional-choice notes.
