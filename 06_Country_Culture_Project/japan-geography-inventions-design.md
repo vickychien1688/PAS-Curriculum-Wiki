@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Level 2 three-section layout produced for review
+
+The user explicitly authorized proceeding to layout. This supersedes the previous text-only production limit, while full-page visual approval remains pending. A private one-page Level 2 review sample now preserves the accepted Japan header and footer, presents reading with a proportional regional Asia map, retains the accepted flag explanation component, and combines the two lower areas into one wide colored-island section. A compact greeting remains beside the guide character.
+
+The combined section labels Hokkaido, Honshu and Tokyo and uses the already-confirmed surprise heading and island-count caption. Natural Earth geographic paths provide a representative map-scale depiction, not a symbol for every counted island. The GSI 2023 count and counting-method context remain in the private teacher notes.
+
+Both PDF and 600dpi PNG were delivered to private media storage and the established desktop sample directory. Body text is 13pt; the numeric fact is a larger display element. Native text/size checks, two renderers, full-page and detail inspection, unchanged-master checks and matching desktop copies were verified. Starter and Level 1 deliverables remain unchanged. Audio and the real QR destination are still pending. Only status/specification text is synchronized to GitHub; the complete student files remain private under the established local/iCloud split.
+
 ## 2026-10-29 — Level 2 fun-fact revision and combined lower section
 
 The user subsequently rejects the Did You Know heading and proposes Can you believe it?, then asks whether Can you believe that? is preferable. Both are grammatical; the current wording proposal recommends the former as a stand-alone teaser above the fact. The user then replied "ok", confirming the proposed heading and displayed island-count caption. This confirms the third-section wording only; the draft remains text-only.
