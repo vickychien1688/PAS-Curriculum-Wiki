@@ -1,5 +1,15 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Additional living-culture references and confirmed band mapping
+
+The user supplied an 18-page completed content form and the **Japan Meets Taiwan!** poster while continuing the planning discussion. The nine forms are three themes at three depths: traditional architecture, Taiwan–Japan cultural connections (including hot springs and Beitou), and festivals. They can form a third planning part alongside geography/nature and inventions, for nine theme directions in total; final worksheet numbering and production quantities are not approved.
+
+The user explicitly confirms that the supplied Level 1/2/3 labels mean **Starter/Level 1, Levels 2–3, Levels 4–5**, respectively. Do not interpret the source labels as literal school classes. Starter and Level 1 language demands remain separate.
+
+Treat 1895–1945 as contextual background, not a stage after 1913. A proposed Beitou sequence is the 1913 bathhouse, its 1998 museum reopening, and present preservation/education. Facility-specific bathing rules must not be generalized by country. See [museum history](https://hotspringmuseum.taipei/content.aspx?id=134&pid=49) and [Taipei culture department](https://culture.gov.taipei/cp.aspx?n=680DE22A4F00B25F).
+
+Source files are preserved byte-identically in private iCloud media storage; source metadata and detailed planning remain in the canonical private text workspace. This is intake and planning only. No new student pages, illustrations, audio, QR codes, teacher messages or external student-material releases occurred. The previous rejected art remains rejected; continue worksheet discussion from 01 after the overall plan.
+
 ## 2026-10-28 — Fresh planning from the two user-supplied references
 
 The user supplied the invention collage and Japan exploration poster again and requested planning first. The response proposes six themes across geography/nature and inventions, with recognition and actions at the entry band, comparisons and development at the middle band, and causes, design improvements and everyday impact at the upper band. These are discussion proposals, not approval of final wording, shared editions, activities or art. Starter and Level 1 language demands remain separate even where a shared picture base is considered.
