@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Level 1 text review before layout
+
+The user requests the next level's wording first, followed by discussion and approval. A private Level 1 WS01 proposal retains the accepted entry-band cultural focus and four-part structure, while adding complete location and color question/answer practice. EOW1 Units 1–4 were read from the current remote; Units 1–2 support the review structures, while country/continent and flag vocabulary receive explicit visual teaching support. Earlier capital, bento and island extensions are not restored.
+
+The user specifically confirmed a color question naming the flag, answered with both red and white; use it in the flag section. The remaining English and activity wording remain unapproved. No Level 1 student page, image, audio or QR has been produced. After text approval, reuse the accepted Japan visual master and deliver both PNG and PDF.
+
 ## 2026-10-29 — Visual/layout master finalized; PNG and PDF required
 
 The user explicitly finalized the restored original-route version and reiterated that both a high-resolution image and a PDF are required. Freeze this Japan Starter visual/layout master, retaining the original flight arc above the title and the Doraemon-inspired blue listening module. The same approved bytes are delivered privately as a 600dpi PNG and a PDF, with matching checksums and saved source/approval records. Preserve this dual-format requirement for subsequent Japan deliverables.
