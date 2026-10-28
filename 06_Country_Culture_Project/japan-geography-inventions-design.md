@@ -2,6 +2,8 @@
 
 ## 2026-10-29 — Level 2 fun-fact revision and combined lower section
 
+The user subsequently rejects the Did You Know heading and proposes Can you believe it?, then asks whether Can you believe that? is preferable. Both are grammatical; the current wording proposal recommends the former as a stand-alone teaser above the fact. This recommendation is not recorded as final user approval. The draft is text-only.
+
 The user replaces the proposed fourth-section task with a surprising Did You Know fact and suggests combining the two lower sections if space is tight. A supplied reference shows Japan's islands, Hokkaido and Honshu labels, Tokyo and a bottom island-count caption. The proposed combined third section follows this structure with color planned for a later stage.
 
 The private wording draft uses the island count published by Japan's Geospatial Information Authority on 28 February 2023: 14,125 under its stated counting criteria. The teacher notes retain the date and method, with no requirement for students to memorize or independently read the large number. [Official GSI announcement](https://www.gsi.go.jp/kihonjohochousa/pressrelease20230228.html).
