@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Fuller header and larger greeting display
+
+The user found the header too empty and the greeting text too small, requested a waving Doraemon beside the greeting activity, and asked to move the Taiwan label away from the decorative foliage. The private sample now raises the title, uses a taller torii/Fuji landscape accent, enlarges the greeting display while retaining the normal body-text size, and places a waving character along the greeting card’s right edge. Taiwan and its leader were moved upward and left into clear space. The logo, listening module, world-map context and lesson sentences remain in place.
+
+The single PDF/PNG sample, desktop copies, source prompts and previous-version backup were updated. This is still a review draft; audio and a real QR destination remain pending. No additional levels or public student materials were released.
+
 ## 2026-10-28 — World-map context, a second spoken sentence, and Japanese greeting
 
 The user requested another short sentence alongside the Japan introduction and a Japanese greeting activity analogous to Germany’s Hallo. The private review draft now follows the Germany model with a simple continent sentence and a teacher-led Japanese greeting. These explicit requests supersede the previous single-sentence/no-greeting constraint. Asia is new teacher-supported cultural language, not claimed as already taught in PAS.
