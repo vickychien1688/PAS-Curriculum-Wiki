@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Visual/layout master finalized; PNG and PDF required
+
+The user explicitly finalized the restored original-route version and reiterated that both a high-resolution image and a PDF are required. Freeze this Japan Starter visual/layout master, retaining the original flight arc above the title and the Doraemon-inspired blue listening module. The same approved bytes are delivered privately as a 600dpi PNG and a PDF, with matching checksums and saved source/approval records. Preserve this dual-format requirement for subsequent Japan deliverables.
+
+Lesson audio and the real QR destination remain pending. This confirms the visual/layout master, not a completed public release; no additional levels were produced in this step.
+
 ## 2026-10-29 — Japan visual direction accepted; small header refinements
 
 The user explicitly accepted the current page as the Japan visual version. Preserve its display title, airplane, authentic logo, top name/date fields and pale-fireworks landscape footer as the visual reference for later Japan work. The approved baseline and checksums are retained privately.
