@@ -1,10 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
-## 2026-10-29 — Level 1 text review before layout
+## 2026-10-29 — Level 1 layout trial with compact listening activity
 
-The user requests the next level's wording first, followed by discussion and approval. A private Level 1 WS01 proposal retains the accepted entry-band cultural focus and four-part structure, while adding complete location and color question/answer practice. EOW1 Units 1–4 were read from the current remote; Units 1–2 support the review structures, while country/continent and flag vocabulary receive explicit visual teaching support. Earlier capital, bento and island extensions are not restored.
+The user authorized a single Level 1 WS01 layout trial and flagged the small activity area. The page reuses the approved Japan visual master, retaining location question/answer practice and the Japanese greeting. The flag section now contains three short sentences: a color question, its answer, and a direct explanation of the red disc. The connector line and separate look-at instruction are removed at the user's request.
 
-The first three sections are confirmed: retain only the location question/answer, the flag-color and sun-symbolism wording, and the greeting. Simple coloring was considered too weak, but the user subsequently flagged independent sentence-to-picture matching as potentially too difficult. A revised fourth-section proposal uses teacher/audio-led listening and numbering of three pictures, followed by a supported spoken response. It adds no independent sentence-reading requirement. This revised activity remains unapproved; no Level 1 student page, image, audio or QR has been produced. Final outputs will be PNG and PDF after content approval.
+The fourth section uses three pictures with approximately 10.8 mm square response boxes for teacher-led listening and numbering. It adds no independent sentence-reading task; any spoken follow-up is teacher-supported. The private one-page PDF and 600dpi PNG were produced, rendered and visually checked, with identical desktop copies. The approved Starter master remains unchanged.
+
+The user subsequently responded positively to the completed trial, accepting the current layout and listening activity configuration. Preserve this version. Audio and the real QR destination remain pending, so this is not yet a complete publication package. Only this specification summary and the shared handoff are synchronized to GitHub; student materials remain private.
 
 ## 2026-10-29 — Visual/layout master finalized; PNG and PDF required
 
