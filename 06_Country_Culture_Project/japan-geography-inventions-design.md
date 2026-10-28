@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Level 2 wording review before artwork
+
+The user explicitly chose to continue the same topic with Level 2 wording and reiterated that text must be handled before images. A private six-sentence proposal introduces the island geography of Hokkaido and Honshu, with Tokyo located on Honshu. It retains the accepted flag and greeting content and proposes a letter-label map task that avoids spelling long place names.
+
+EOW2 Units 1–4 were read from the current remote. The draft uses an earlier plural-existence structure and the current weather vocabulary where relevant; additional geography words and the size superlative require explicit teaching support, not assumed mastery. Geographic claims were checked against Japan's foreign ministry, embassy and national tourism sources.
+
+The English text, new-word load and activity remain proposals for discussion. No Level 2 image, student PDF, audio or QR has been produced. Preserve the accepted Starter and Level 1 materials. Only specifications and handoff status are synchronized publicly; the complete text proposal remains private.
+
 ## 2026-10-29 — Level 1 layout trial with compact listening activity
 
 The user authorized a single Level 1 WS01 layout trial and flagged the small activity area. The page reuses the approved Japan visual master, retaining location question/answer practice and the Japanese greeting. The flag section now contains three short sentences: a color question, its answer, and a direct explanation of the red disc. The connector line and separate look-at instruction are removed at the user's request.
