@@ -4,7 +4,7 @@
 
 The user explicitly accepted the current page as the Japan visual version. Preserve its display title, airplane, authentic logo, top name/date fields and pale-fireworks landscape footer as the visual reference for later Japan work. The approved baseline and checksums are retained privately.
 
-Two subsequent local refinements change the flight trail to flow through the title words beneath the native lettering, and coordinate the listening label, scan instruction and QR border with Doraemon-inspired blue. The content area remains unchanged. The user rejected the first repeated-wave trail; it has been replaced with a quieter asymmetric sweep beneath the words toward the airplane. These local refinements are for review; the overall visual direction is accepted. Audio, a real QR destination and complete publication readiness remain pending.
+The user rejected both later trails through/below the title and explicitly requested the original dashed route. The single arc above the title has been restored exactly from the accepted baseline. Retain the Doraemon-inspired blue listening label, matching scan instruction and coordinated QR border. The title, airplane, writing fields, content and footer stay as accepted. Verification against the baseline confines pixel changes to listening-module colors. Audio and a real QR destination remain pending; this is not yet the complete publication package.
 
 ## 2026-10-29 — Artistic welcome title, airplane, and landscape/fireworks footer
 
