@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-28 — Layout first; confirmed scenery and right listening placement
+
+The user explicitly chose to retain the Japanese scenery and remove only the cloud sign. This supersedes the earlier full-white-header assumption. Keep the English logo at upper left, title centered and a complete listening/QR module at upper right. The user rejected the small listening text embedded inside section 1. Add torii/Fuji accents later, after the main layout is settled.
+
+A private placement draft now removes the section-1 listening text, reserves a proper square QR area in the right header, gives sections 3 and 4 equal widths and matching outer insets, and raises Name/Date toward the activities. Main content is unchanged; no new art was generated. Temporary white header space is a layout stage, not the final visual direction. Geometry, text placement and PDF rendering were checked; layout/art approval remains open. The QR is an explicitly labelled placeholder, with lesson audio and its real destination still pending. No public student materials or teacher messages were released.
+
 ## 2026-10-28 — English logo upper left; white-header layout trial
 
 The user positively assessed the v5 illustrations and explicitly placed the English logo at the upper left. They proposed removing lower-corner blossoms and removing the title background. A private local layout trial uses a white header with the authentic previously user-selected palm/English wordmark at upper left, title to its right, and a clean name/date footer. The original learning content remains in place. Do not treat this as approval of the entire series or audio.
