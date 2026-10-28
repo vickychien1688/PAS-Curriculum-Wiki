@@ -1,12 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
-## 2026-10-29 — Level 2 wording review before artwork
+## 2026-10-29 — Level 2 fun-fact revision and combined lower section
 
-The user explicitly chose to continue the same topic with Level 2 wording and reiterated that text must be handled before images. A private six-sentence proposal introduces the island geography of Hokkaido and Honshu, with Tokyo located on Honshu. It retains the accepted flag and greeting content and proposes a letter-label map task that avoids spelling long place names.
+The user replaces the proposed fourth-section task with a surprising Did You Know fact and suggests combining the two lower sections if space is tight. A supplied reference shows Japan's islands, Hokkaido and Honshu labels, Tokyo and a bottom island-count caption. The proposed combined third section follows this structure with color planned for a later stage.
 
-EOW2 Units 1–4 were read from the current remote. The draft uses an earlier plural-existence structure and the current weather vocabulary where relevant; additional geography words and the size superlative require explicit teaching support, not assumed mastery. Geographic claims were checked against Japan's foreign ministry, embassy and national tourism sources.
+The private wording draft uses the island count published by Japan's Geospatial Information Authority on 28 February 2023: 14,125 under its stated counting criteria. The teacher notes retain the date and method, with no requirement for students to memorize or independently read the large number. [Official GSI announcement](https://www.gsi.go.jp/kihonjohochousa/pressrelease20230228.html).
 
-The English text, new-word load and activity remain proposals for discussion. No Level 2 image, student PDF, audio or QR has been produced. Preserve the accepted Starter and Level 1 materials. Only specifications and handoff status are synchronized publicly; the complete text proposal remains private.
+The previous letter-label task is withdrawn. The first two text sections remain; greeting material is retained separately while its place in the proposed combined area is unresolved. Exact wording and composition remain under review. The user's text-before-images instruction remains active; no new student artwork, PDF, audio or QR is produced.
 
 ## 2026-10-29 — Level 1 layout trial with compact listening activity
 
