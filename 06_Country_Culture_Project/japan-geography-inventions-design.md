@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Greeting group shifted right
+
+At the user's request, the character and greeting bubble in Level 2 WS01 move right together by approximately 13.5 mm, retaining their size, height and internal spacing. The group remains clear of the island map. All wording and pixels outside this group are unchanged; the earlier title and Taiwan-label corrections remain in place.
+
+The updated PDF and 600dpi PNG are saved in the established private media and delivery folders. The original accepted snapshot is preserved, and existing layout/activity approval remains valid. Audio and real QR remain pending.
+
 ## 2026-10-29 — Consistent section titles and a closer Taiwan label
 
 After accepting the Level 2 layout, the user requests consistent numbered titles using Starter as the reference and asks to move Taiwan upward with a shorter leader. The three main section titles now share Nunito Bold at 14pt and one left inset while retaining their section colors. Taiwan is positioned next to the island with a shorter line. The existing layout/activity approval is retained; this is a scoped correction.
