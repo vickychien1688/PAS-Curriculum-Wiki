@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Level 3 visual layout confirmed
+
+The user replied "可以" after viewing the Level 3 sample, accepting the displayed layout and three picture-supported choices. The existing text approval remains valid. The current PDF and PNG were preserved byte-identically in private approved snapshots and the established desktop layout-approved directory; no artwork or layout was rebuilt. All accepted lower-level files remain unchanged.
+
+Use this accepted Level 3 page for subsequent work. Its text and visual design no longer await approval. Audio and real QR remain pending; no audio, complete student materials or further levels were published or produced in this confirmation step.
+
+
 ## 2026-10-30 — Level 3 text accepted; layout sample delivered
 
 The user replied "ok" to the displayed Level 3 text and activity proposal, including the capital concept supported by a map star and Chinese label. The text-first workflow now proceeds to one review layout. This confirms the wording and choices, not unseen artwork or audio.
