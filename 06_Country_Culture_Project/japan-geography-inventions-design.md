@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Delivery consolidated and resume point saved
+
+The accepted Starter, Level 1 and Level 2 layouts are available in both PNG and PDF in the user's designated private Japan-PE1 delivery folder. All six files were checked; consolidation does not change the artwork or approval scope. The private project memory records the delivery location and text-first workflow. Work remains stopped at Level 3 text review; audio and real QR are still pending. Complete teaching materials remain private.
+
 ## 2026-10-29 — Session closed at the user's request
 
 The user says "先收工". Stop at the Level 3 text-review stage; this does not accept the proposed wording or authorize further production. The current lower-level deliverables and Level 3 text proposal are saved. Resume with review of the Level 3 capital wording and three response questions, then layout after content confirmation. Audio and real QR remain pending.
