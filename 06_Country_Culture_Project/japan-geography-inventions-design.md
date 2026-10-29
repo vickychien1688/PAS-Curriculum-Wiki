@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Traditional Chinese label corrected; activity alternative proposed
+
+The user requires the Traditional Chinese support label for Shikoku. The existing private PDF and PNG were corrected in place. Pixel comparison at 200dpi confines the change to the corrected character; all other extracted text, artwork and current questions are unchanged. The earlier sample is retained as superseded history.
+
+The user also asks for a better activity. A proposed island-detective task uses a single unlabeled four-island map, three numbered reading clues and a partner read-and-point round. This is a content proposal only: the replacement activity and its wording have not been accepted or applied. Continue from discussion of this proposal; the approved reading remains fixed, and audio/real QR remain pending.
+
 ## 2026-10-30 — Level 4 layout sample delivered
 
 After accepting the wording, the user explicitly requests production. A private Level 4 review sample now combines the unchanged 49-word reading, a labeled four-island map and three illustrated two-option questions. Each question uses a shared scale for its two island shapes, preserving the intended relative-size comparison. The accepted Level 3 header, flag panel and scenery footer are preserved.
