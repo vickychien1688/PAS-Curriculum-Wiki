@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Refined Level 2 layout confirmed
+
+The user responded "可以" to the latest revised Level 2 WS01, confirming the displayed layout including the raised reading text and the Japan label moved down/right. Preserve this version for subsequent work. The current PDF and PNG were frozen byte-identically in private approved snapshots; no artwork or layout was rebuilt. The local visual refinements are accepted. Audio and real QR remain pending, and this confirmation does not authorize public release or another level.
+
 ## 2026-10-29 — Japan label moved down and right
 
 Following the user's additional annotation, the Japan label on the regional map moves about 5.8 mm right and 4.9 mm down, clear of the map edge. Its leader is repositioned and still points to Japan. The 13pt label and raised reading text are retained. All wording and pixels outside the label/leader are unchanged; the PDF and PNG delivery copies are updated. Existing layout/activity approval remains valid; audio and real QR remain pending.
