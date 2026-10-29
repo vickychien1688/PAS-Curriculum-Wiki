@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Original multiple-choice activity preferred and restored
+
+After viewing the Island Detective trial, the user prefers the original questions. Restore the preceding three two-option activity as the active Level 4 version, retaining the corrected Traditional Chinese label. Its existing PNG and PDF are reused byte-identically and checked against the saved delivery hashes; no artwork is rebuilt.
+
+The detective version remains private history and must not be used as the active production base. Continue from the restored original activity and present PNG only, without reopening the unstable PDF preview. This preference does not imply blanket publication approval; audio, real QR and Level 5 sharing remain pending.
+
 ## 2026-10-30 — Island Detective accepted and revised sample delivered
 
 The user accepts the proposed Island Detective activity and requests PNG-first review because the PDF preview is shaking. The revised private sample replaces the binary choices with one unlabeled map of the four islands, four external writing circles and three numbered clues. A partner read-and-point round and an oral follow-up are recorded in teacher notes. The approved reading and Traditional Chinese support labels remain unchanged.
