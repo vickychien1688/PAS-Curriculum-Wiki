@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Reading text raised slightly
+
+The three reading lines in Level 2 WS01 move upward together by approximately 2.7 mm at the user's request. Their 13pt type and existing line spacing remain unchanged. Wording and pixels outside the reading text are unchanged; the current maps, greeting group and footer are preserved. Full-page and detail checks passed, and the private PDF/PNG delivery copies are updated. Existing layout/activity approval remains valid; audio and real QR remain pending.
+
 ## 2026-10-29 — Larger regional map and raised footer caption
 
 The user requests a larger, higher regional context map and a slightly higher footer caption. The map is scaled uniformly by 18.75% and raised about 6.7 mm; its place labels retain 13pt type and follow the map. The footer caption moves up about 3 mm, leaving more space above the scenery. Surrounding content remains clear.
