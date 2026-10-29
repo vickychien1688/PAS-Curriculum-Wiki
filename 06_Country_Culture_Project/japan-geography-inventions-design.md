@@ -1,5 +1,14 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Level 3 text accepted; layout sample delivered
+
+The user replied "ok" to the displayed Level 3 text and activity proposal, including the capital concept supported by a map star and Chinese label. The text-first workflow now proceeds to one review layout. This confirms the wording and choices, not unseen artwork or audio.
+
+A private one-page sample preserves the accepted Level 2 header, flag panel, maps, greeting and scenery footer. The 40-word reading and three two-option questions use 13pt text; the complete location responses fit on single lines in wider cards. Proportional island silhouettes and simple native city-landmark diagrams support the choices. All six response circles remain blank.
+
+PDF and 600dpi PNG were delivered to the established private desktop sample folder. Full-page and detail visual checks in two renderers, wording/type-size checks and matching delivery hashes passed. Header, flag and footer rendering match the accepted Level 2 page; all six accepted lower-level files remain unchanged. The new Level 3 visual layout awaits review; audio and real QR are pending. No complete student materials were published. Sources and media remain in the established private local/iCloud locations.
+
+
 ## 2026-10-29 — Delivery consolidated and resume point saved
 
 The accepted Starter, Level 1 and Level 2 layouts are available in both PNG and PDF in the user's designated private Japan-PE1 delivery folder. All six files were checked; consolidation does not change the artwork or approval scope. The private project memory records the delivery location and text-first workflow. Work remains stopped at Level 3 text review; audio and real QR are still pending. Complete teaching materials remain private.
