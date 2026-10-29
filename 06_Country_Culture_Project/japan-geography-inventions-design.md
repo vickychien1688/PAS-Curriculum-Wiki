@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Restore a response activity after the Level 2 introduction
+
+The user identifies a missing instructional component: the first Japan layout only presents reading and diagrams, leaving the page too empty without a follow-up activity. They supply Germany worksheets and explicitly identify the map/three-choice-question page as Level 2. Actual PE1 Level 2, 3 and 4 finals and a PE2 Level 2 final were inspected. Their shared pattern is an introduction with visual support followed by a meaningful response task and a supplementary fact panel; the number of questions is not universal.
+
+A private v2 review sample moves the colored Japanese-island map into the reading area, retains the flag explanation, and adds three picture-supported, two-option response columns covering continent location, winter weather and Tokyo's island. Students circle an option; independent writing is not required. The confirmed surprise heading and island-count fact now occupy a compact lower strip. Existing header/footer artwork and the approved original airplane route are preserved.
+
+A one-page PDF and 600dpi PNG were rendered, visually inspected and copied to the established private desktop sample directory. Body, prompts and options are 13pt. New activity wording and the revised layout remain under user review. Audio and real QR remain pending. The earlier sample and approved lower-level files are preserved; only status/specification text is synchronized publicly.
+
 ## 2026-10-29 — Level 2 three-section layout produced for review
 
 The user explicitly authorized proceeding to layout. This supersedes the previous text-only production limit, while full-page visual approval remains pending. A private one-page Level 2 review sample now preserves the accepted Japan header and footer, presents reading with a proportional regional Asia map, retains the accepted flag explanation component, and combines the two lower areas into one wide colored-island section. A compact greeting remains beside the guide character.
