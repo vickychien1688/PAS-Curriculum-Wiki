@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Level 3 text proposal authorized
+
+The user agrees to continue with Level 3 text first and illustrations/layout after content review. A private 40-word, seven-sentence draft retains the two-island geography and adds Tokyo's capital role. Three picture-supported, two-option comprehension questions review the northern island, Tokyo's island and the capital. The accepted flag explanation, greeting and island-count fact are retained.
+
+EOW3 Units 1–4 and scope were read from current remote main, alongside the actual Germany Level 3 references and EOW2 weather language. Cultural geography words are explicitly supported rather than claimed already mastered; Unit 4 completion is not assumed. Official geography/capital and GSI counting sources were checked. The draft wording and activity choices await review; no new layout, image, PDF, audio or QR was produced. All accepted lower-level files remain unchanged, and complete proposed content stays private.
+
 ## 2026-10-29 — Refined Level 2 layout confirmed
 
 The user responded "可以" to the latest revised Level 2 WS01, confirming the displayed layout including the raised reading text and the Japan label moved down/right. Preserve this version for subsequent work. The current PDF and PNG were frozen byte-identically in private approved snapshots; no artwork or layout was rebuilt. The local visual refinements are accepted. Audio and real QR remain pending, and this confirmation does not authorize public release or another level.
