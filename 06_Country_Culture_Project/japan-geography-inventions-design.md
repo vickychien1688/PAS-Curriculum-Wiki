@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Island Detective accepted and revised sample delivered
+
+The user accepts the proposed Island Detective activity and requests PNG-first review because the PDF preview is shaking. The revised private sample replaces the binary choices with one unlabeled map of the four islands, four external writing circles and three numbered clues. A partner read-and-point round and an oral follow-up are recorded in teacher notes. The approved reading and Traditional Chinese support labels remain unchanged.
+
+Clues retain 13pt text, headings 14pt and the instruction 12pt. Two-renderer visual review, approved wording, blank response circles, answer mapping and delivery hashes were checked. Rendering outside the revised activity area matches the preceding corrected sample at 150dpi, and all accepted lower-level deliverables remain untouched. PDF and 600dpi PNG are saved in the established private sample locations; only PNG is presented, without opening PDF preview.
+
+Continue from visual feedback on this revised sample. The activity and its wording are now accepted; audio, real QR and Level 5 sharing remain pending. Full teaching materials remain private.
+
 ## 2026-10-30 — Traditional Chinese label corrected; activity alternative proposed
 
 The user requires the Traditional Chinese support label for Shikoku. The existing private PDF and PNG were corrected in place. Pixel comparison at 200dpi confines the change to the corrected character; all other extracted text, artwork and current questions are unchanged. The earlier sample is retained as superseded history.
