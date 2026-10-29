@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Level 4 wording confirmed
+
+The user explicitly accepts this Level 4 wording. The 49-word passage, three two-option questions and retained flag/greeting/fact wording are now confirmed. The exact text and a content fingerprint were preserved in a private approval snapshot; no passage or choice was rewritten.
+
+Keep the requested text-first sequence. Level 4 wording no longer awaits review; Level 5 sharing remains undecided. No Level 4 artwork, layout, PDF, audio or QR was created in this confirmation step, and no complete teaching materials were published.
+
+
 ## 2026-10-30 — Level 4 text discussion, before visual or audio work
 
 The user continues and explicitly reiterates that wording must be settled before matching supporting media. A private 49-word Level 4 proposal extends the accepted two-island geography to four islands with a supported size comparison. Three two-option response questions and the existing flag/greeting/fact components are included for discussion. The full new text and choices remain unapproved.
