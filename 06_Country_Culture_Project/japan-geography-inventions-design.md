@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Japan label moved down and right
+
+Following the user's additional annotation, the Japan label on the regional map moves about 5.8 mm right and 4.9 mm down, clear of the map edge. Its leader is repositioned and still points to Japan. The 13pt label and raised reading text are retained. All wording and pixels outside the label/leader are unchanged; the PDF and PNG delivery copies are updated. Existing layout/activity approval remains valid; audio and real QR remain pending.
+
 ## 2026-10-29 — Reading text raised slightly
 
 The three reading lines in Level 2 WS01 move upward together by approximately 2.7 mm at the user's request. Their 13pt type and existing line spacing remain unchanged. Wording and pixels outside the reading text are unchanged; the current maps, greeting group and footer are preserved. Full-page and detail checks passed, and the private PDF/PNG delivery copies are updated. Existing layout/activity approval remains valid; audio and real QR remain pending.
