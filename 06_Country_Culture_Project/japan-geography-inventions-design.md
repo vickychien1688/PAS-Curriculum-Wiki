@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Level 4 layout sample delivered
+
+After accepting the wording, the user explicitly requests production. A private Level 4 review sample now combines the unchanged 49-word reading, a labeled four-island map and three illustrated two-option questions. Each question uses a shared scale for its two island shapes, preserving the intended relative-size comparison. The accepted Level 3 header, flag panel and scenery footer are preserved.
+
+The one-page PDF and 600dpi PNG are delivered to the established private desktop sample directory. Body, questions and choices remain 13pt, section headings 14pt and the instruction 12pt. Two-renderer visual review, exact-content fingerprint, typography, blank response circles and delivery hash checks passed. The preserved regions match Level 3 at 150dpi, and all eight accepted lower-level deliverables remain unchanged.
+
+Continue from Level 4 visual feedback; its wording is confirmed. Audio and real QR remain pending, and Level 5 sharing is undecided. Complete worksheets and editable production files remain private in the established local/iCloud locations.
+
 ## 2026-10-30 — Level 4 wording confirmed
 
 The user explicitly accepts this Level 4 wording. The 49-word passage, three two-option questions and retained flag/greeting/fact wording are now confirmed. The exact text and a content fingerprint were preserved in a private approval snapshot; no passage or choice was rewritten.
