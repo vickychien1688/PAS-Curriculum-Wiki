@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Session closed at the user's request
+
+The user says "先收工". Stop at the Level 3 text-review stage; this does not accept the proposed wording or authorize further production. The current lower-level deliverables and Level 3 text proposal are saved. Resume with review of the Level 3 capital wording and three response questions, then layout after content confirmation. Audio and real QR remain pending.
+
 ## 2026-10-29 — Level 3 text proposal authorized
 
 The user agrees to continue with Level 3 text first and illustrations/layout after content review. A private 40-word, seven-sentence draft retains the two-island geography and adds Tokyo's capital role. Three picture-supported, two-option comprehension questions review the northern island, Tokyo's island and the capital. The accepted flag explanation, greeting and island-count fact are retained.
