@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Larger regional map and raised footer caption
+
+The user requests a larger, higher regional context map and a slightly higher footer caption. The map is scaled uniformly by 18.75% and raised about 6.7 mm; its place labels retain 13pt type and follow the map. The footer caption moves up about 3 mm, leaving more space above the scenery. Surrounding content remains clear.
+
+Both changes are implemented in the private PDF and 600dpi PNG, with the established sample and layout-approved copies updated. Wording and pixels outside these two regions are unchanged, and the original accepted snapshot is preserved. Existing layout/activity approval remains valid; audio and real QR remain pending.
+
 ## 2026-10-29 — Greeting group shifted right
 
 At the user's request, the character and greeting bubble in Level 2 WS01 move right together by approximately 13.5 mm, retaining their size, height and internal spacing. The group remains clear of the island map. All wording and pixels outside this group are unchanged; the earlier title and Taiwan-label corrections remain in place.
