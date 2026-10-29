@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Consistent section titles and a closer Taiwan label
+
+After accepting the Level 2 layout, the user requests consistent numbered titles using Starter as the reference and asks to move Taiwan upward with a shorter leader. The three main section titles now share Nunito Bold at 14pt and one left inset while retaining their section colors. Taiwan is positioned next to the island with a shorter line. The existing layout/activity approval is retained; this is a scoped correction.
+
+The PDF and 600dpi PNG were updated in the private media, sample and layout-approved folders. Font/size/alignment checks and image comparison confirm that only the headings and Taiwan annotation changed; all wording and other artwork remain the same. The original accepted snapshot is preserved. Audio and real QR remain pending; Starter and Level 1 files were not changed.
+
 ## 2026-10-29 — Level 2 layout and practice accepted
 
 The user responded "完美" after viewing the revised Level 2 page, accepting its full-page visual layout and three picture-supported response questions. Preserve this version for subsequent work. The approved PDF and PNG were frozen byte-identically in private storage and the established desktop layout-approved directory; approval records and source snapshots were saved. Do not describe the activity or overall layout as still awaiting approval.
