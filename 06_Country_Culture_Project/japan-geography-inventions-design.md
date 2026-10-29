@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-29 — Level 2 layout and practice accepted
+
+The user responded "完美" after viewing the revised Level 2 page, accepting its full-page visual layout and three picture-supported response questions. Preserve this version for subsequent work. The approved PDF and PNG were frozen byte-identically in private storage and the established desktop layout-approved directory; approval records and source snapshots were saved. Do not describe the activity or overall layout as still awaiting approval.
+
+Audio and the real QR remain pending. This approval does not imply audio approval or public release, and no additional level was produced. The general series principle is an introduction/visual explanation followed by a meaningful student response task; the number and form of questions depend on the lesson.
+
 ## 2026-10-29 — Restore a response activity after the Level 2 introduction
 
 The user identifies a missing instructional component: the first Japan layout only presents reading and diagrams, leaving the page too empty without a follow-up activity. They supply Germany worksheets and explicitly identify the map/three-choice-question page as Level 2. Actual PE1 Level 2, 3 and 4 finals and a PE2 Level 2 final were inspected. Their shared pattern is an introduction with visual support followed by a meaningful response task and a supplementary fact panel; the number of questions is not universal.
