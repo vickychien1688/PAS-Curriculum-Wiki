@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Level 4 text discussion, before visual or audio work
+
+The user continues and explicitly reiterates that wording must be settled before matching supporting media. A private 49-word Level 4 proposal extends the accepted two-island geography to four islands with a supported size comparison. Three two-option response questions and the existing flag/greeting/fact components are included for discussion. The full new text and choices remain unapproved.
+
+Current remote EOW4 Units 1–4, Unit 8 and scope, the actual Germany Level 4 final, and official Japanese geography sources were reviewed. The Unit 4 comparative is a scaffolded connection, not proof of completed instruction. The existing superlative chunk is supported separately; no Unit 8 mastery is assumed. Level 5 sharing is undecided. All accepted lower-level files remain unchanged. No new artwork, layout, PDF, audio or QR was created; complete proposals remain private.
+
+
 ## 2026-10-30 — Level 3 visual layout confirmed
 
 The user replied "可以" after viewing the Level 3 sample, accepting the displayed layout and three picture-supported choices. The existing text approval remains valid. The current PDF and PNG were preserved byte-identically in private approved snapshots and the established desktop layout-approved directory; no artwork or layout was rebuilt. All accepted lower-level files remain unchanged.
