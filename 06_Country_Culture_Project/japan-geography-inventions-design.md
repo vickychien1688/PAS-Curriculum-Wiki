@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Level 4 layout approved; Level 5 shares its content
+
+The user approves the restored original Level 4 multiple-choice worksheet with the Traditional Chinese label, then explicitly confirms that Level 5 can share the same content. Reuse the existing 49-word, nine-sentence reading, flag exchange, greeting, three two-option questions and island-count fact without adding a separate higher-level passage or new transport vocabulary.
+
+The approved Level 4 PNG and PDF are preserved byte-identically in the designated private desktop and iCloud locations. All ten accepted Starter–Level 4 deliverables match their saved hashes. The shared text package records exact equality with the approved Level 4 student content; its historical text-proposal directory name does not indicate that sharing is still undecided.
+
+Continue from this shared version, with PNG-first visual review. The detective trial remains unused history. Audio and production QR remain pending; this turn creates no separate Level 5 artwork or PDF and publishes no complete teaching materials. The classroom EOW5 edition is unconfirmed, but it is not a blocker for the user's explicit sharing choice.
+
 ## 2026-10-30 — Original multiple-choice activity preferred and restored
 
 After viewing the Island Detective trial, the user prefers the original questions. Restore the preceding three two-option activity as the active Level 4 version, retaining the corrected Traditional Chinese label. Its existing PNG and PDF are reused byte-identically and checked against the saved delivery hashes; no artwork is rebuilt.
