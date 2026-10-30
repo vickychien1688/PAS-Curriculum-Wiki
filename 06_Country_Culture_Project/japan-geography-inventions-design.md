@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — WS2 winter activity is skiing; character choice reopened
+
+The user specifies skiing for the winter picture and considers Totoro unsuitable for this role. The guide remains undecided. Shin-chan is now a proposed alternative because a child-shaped character can clearly show seasonal clothing and activities; Hello Kitty is another option. These are recommendations, not user-approved choices. Preserve the four simple season captions, select the character before artwork, and retain the rejection of matching and ordinary-family imagery. No replacement images have been generated.
+
+
 ## 2026-10-30 — WS2 revised to four seasonal pictures
 
 The user requests four pictures with only a repeated season-identification sentence for each. This supersedes the earlier spring/autumn fourteen-word reading and rejected matching task. The exact user wording and individual captions remain private. Do not add nature-object names as required English vocabulary.
