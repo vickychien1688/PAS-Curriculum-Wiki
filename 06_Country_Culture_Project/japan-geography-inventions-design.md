@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Starter WS2 approved; session closed
+
+The user approves the complete current Starter WS2 layout and asks to finish for the session. Approval covers the four-season Hello Kitty section, cherry-blossom attendance fact with its year/estimate qualification, all five subtly rounded illustration frames and verified heading typography. The exact reviewed PNG and PDF have been copied into the established private desktop approved-layout folder, with matching checksums. The superseded version is retained privately; twelve other existing WS1 and Level 1 files remain unchanged. No artwork was regenerated.
+
+Starter content and visual approval are settled. On the next work session, resume visual feedback on the existing Level 1 WS2 sample; this Starter approval neither changes nor approves Level 1. Audio and the real QR remain pending. No additional production or public release of full teaching materials is part of this closeout.
+
 ## 2026-10-31 — Rounded corners applied to all five Starter illustrations
 
 The user clarifies that Spring, Summer, Autumn and Winter also require the subtle rounded treatment. All five actual illustration frames now share the same approximately 5.46pt native PDF clipping radius. This revision changes only the seasonal-image corners and boundary antialiasing. Source-image hashes, text, fonts, sizes, positions and the supplementary panel remain unchanged; full-page and enlarged four-season reviews passed. Both existing desktop sample formats are updated, with the preceding revision retained. Continue with visual feedback; Level 1, audio and QR remain unchanged.
