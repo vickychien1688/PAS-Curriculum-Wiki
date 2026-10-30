@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Session closed; resume with PE1 WS2
+
+The user ends this work session and designates the second PE1 worksheet as the next session's task. PE1 WS1 remains closed, including the shared Level 4/5 version. Resume by checking the existing WS2 plan and reviewing text and questions before artwork or layout; retain PNG-first viewing. No WS2 production starts during this closeout, and no new text or visual approval is inferred.
+
 ## 2026-10-30 — PE1 WS1 content and layout closed
 
 The user explicitly closes PE1 WS1. Starter through Level 5 are settled, with Levels 4 and 5 sharing the approved original three-question version and corrected Traditional Chinese label. The five existing worksheet versions, ten PNG/PDF files in total, match their saved delivery hashes; no artwork or approved wording is changed.
