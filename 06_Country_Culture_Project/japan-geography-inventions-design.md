@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Hello Kitty accepted; seasonal fact proposed
+
+The user accepts Hello Kitty and the traditional-clothing direction. Retain the four season-identification captions and winter skiing; a summer yukata/fireworks scene is the implementation direction. The user then requests the supplementary surprise fact. A private short proposal describes some Japanese monkeys bathing in hot water, connecting the winter scene to the snow monkeys of Jigokudani; its wording remains unapproved. Official park information and Japanese tourism material were checked.
+
+Continue from the fact discussion before assembling the new illustrations and layout. The cartoon choice is settled and must not be reasked. No four-season artwork, new audio or QR has yet been generated. Shin-chan, matching and the ordinary-family trial remain excluded.
+
+
 ## 2026-10-30 — WS2 Shin-chan excluded
 
 Shin-chan is explicitly rejected as a teaching-material character and must not be recommended again unless the user changes this decision. The new guide is still undecided; Hello Kitty has not been accepted. Retain the four-season, four-picture direction and winter skiing, and settle character choice before artwork. No new images are generated.
