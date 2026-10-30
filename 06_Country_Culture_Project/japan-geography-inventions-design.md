@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — WS2 section-heading typography aligned with WS1
+
+A PDF audit confirms that the ordinary Listen and Learn heading already matches the approved WS1 main-section style at 14pt Nunito Bold. The supplementary fact heading had incorrectly been set to 14pt Bold; Starter and Level 1 WS2 now restore the approved WS1 treatment of 17pt Nunito Black, weight 900. Body text remains 13pt. The exact embedded reference font was matched; its legacy internal ExtraLight family name does not describe the instantiated weight.
+
+Updated PNG and PDF files are saved in the established private desktop locations, with previous versions retained. Full-page and detail review passed; pixel differences are confined to the fact-heading lettering, and all existing WS1 files remain unchanged. Keep ordinary and supplementary headings distinct in future production. Level 1 visual review, audio and the real QR remain pending; page-title typography is outside this local correction.
+
 ## 2026-10-31 — Level 1 WS2 text accepted; visual sample ready
 
 The user accepts the proposed Level 1 text. A private PNG and PDF sample now adds the single shared season question to the approved Starter layout, preserving all four Hello Kitty scenes and the supplementary monkey fact. The question and body remain 13pt. Full-page renders and detail inspection passed; pixel comparison confirms that only the added question differs from the approved Starter page, and twelve existing approved files remain unchanged.
