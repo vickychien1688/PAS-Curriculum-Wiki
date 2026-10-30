@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — PE1 WS1 content and layout closed
+
+The user explicitly closes PE1 WS1. Starter through Level 5 are settled, with Levels 4 and 5 sharing the approved original three-question version and corrected Traditional Chinese label. The five existing worksheet versions, ten PNG/PDF files in total, match their saved delivery hashes; no artwork or approved wording is changed.
+
+The private closeout index records the shared Level 5 access through the Level 4 files. There is no remaining WS1 content or visual review, and no automatic continuation into WS2. Preserve PNG-first viewing. Audio and production QR remain a separate later step; closing the worksheet design does not mark them as created or published. Full teaching materials remain private.
+
 ## 2026-10-30 — Level 4 layout approved; Level 5 shares its content
 
 The user approves the restored original Level 4 multiple-choice worksheet with the Traditional Chinese label, then explicitly confirms that Level 5 can share the same content. Reuse the existing 49-word, nine-sentence reading, flag exchange, greeting, three two-option questions and island-count fact without adding a separate higher-level passage or new transport vocabulary.
