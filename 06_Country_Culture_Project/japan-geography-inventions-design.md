@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Starter fact discussion moves to cherry-blossom attendance
+
+The user clarifies that the surprise fact should convey the large number of cherry-blossom viewers. Snowman and snow-angel ideas remain unapproved discussion, not the current production direction. Research located a 2024 forecast attributed to Kansai University professor emeritus Katsuhiro Miyamoto: about 61.39 million residents of Japan, as reported by [J-CAST](https://www.j-cast.com/2024/03/18479849.html) and corroborated by [Wedge](https://wedge.ismedia.jp/articles/-/33440?layout=b). This is a year-specific estimate, not a fixed annual observed total. Any student-facing statistic must retain the year and estimate qualification.
+
+Continue text discussion before artwork. No media has changed, and final wording remains unapproved. Preserve the four-season main section, approved typography, and Starter exclusion of monkey content; this does not change Level 1.
+
 ## 2026-10-31 — Starter supplementary fact requires replacement
 
 For classroom suitability, Starter WS2 must replace the monkey illustration and fact. The current monkey-containing Starter file is pending revision and should not be used for this class. Preserve the approved four-season Hello Kitty section, winter skiing, and WS1-aligned heading styles. This change does not automatically revise Level 1.
