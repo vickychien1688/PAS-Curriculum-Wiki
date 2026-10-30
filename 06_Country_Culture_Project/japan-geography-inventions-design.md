@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — WS2 Shin-chan excluded
+
+Shin-chan is explicitly rejected as a teaching-material character and must not be recommended again unless the user changes this decision. The new guide is still undecided; Hello Kitty has not been accepted. Retain the four-season, four-picture direction and winter skiing, and settle character choice before artwork. No new images are generated.
+
+
 ## 2026-10-30 — WS2 winter activity is skiing; character choice reopened
 
 The user specifies skiing for the winter picture and considers Totoro unsuitable for this role. The guide remains undecided. Shin-chan is now a proposed alternative because a child-shaped character can clearly show seasonal clothing and activities; Hello Kitty is another option. These are recommendations, not user-approved choices. Preserve the four simple season captions, select the character before artwork, and retain the rejection of matching and ordinary-family imagery. No replacement images have been generated.
