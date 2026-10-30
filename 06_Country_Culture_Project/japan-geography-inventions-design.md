@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — Four seasons in Listen and Learn; Hello Kitty sample ready
+
+The four seasonal pictures are the complete Listen and Learn section. The user rejects additional matching, listen-and-number, or separate pointing exercises. Keep the short repeated season-identification language. The accepted Hello Kitty guide appears in spring blossom viewing, summer yukata/fireworks, autumn foliage, and winter skiing. The winter monkey fact now uses the hot-springs wording discussed positively with the user; it remains teacher-led enrichment.
+
+A private Starter visual sample has been created with four seasonal illustrations and one supplementary monkey illustration. Native 13pt text, 14pt section headings, the approved page proportions, original brand/header/listening components and footer were verified. Existing WS1 approved files remain unchanged. The PNG and PDF are saved in the established desktop sample folder; artwork, full text, source files and prompts remain private under the canonical/iCloud split.
+
+Next: review the PNG sample. Visual approval is pending; the character and simple Listen and Learn structure are settled. Audio and the real QR are still pending. No other levels or public full-material release are implied.
+
 ## 2026-10-30 — Hello Kitty accepted; seasonal fact proposed
 
 The user accepts Hello Kitty and the traditional-clothing direction. Retain the four season-identification captions and winter skiing; a summer yukata/fireworks scene is the implementation direction. The user then requests the supplementary surprise fact. A private short proposal describes some Japanese monkeys bathing in hot water, connecting the winter scene to the snow monkeys of Jigokudani; its wording remains unapproved. Official park information and Japanese tourism material were checked.
