@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Level 1 WS2 text accepted; visual sample ready
+
+The user accepts the proposed Level 1 text. A private PNG and PDF sample now adds the single shared season question to the approved Starter layout, preserving all four Hello Kitty scenes and the supplementary monkey fact. The question and body remain 13pt. Full-page renders and detail inspection passed; pixel comparison confirms that only the added question differs from the approved Starter page, and twelve existing approved files remain unchanged.
+
+Continue with PNG visual feedback. The text is settled; Level 1 visual approval, audio and the real QR are still pending. Full materials, original artwork and editable sources remain private under the canonical/iCloud split.
+
 ## 2026-10-30 — Level 1 WS2 text proposal
 
 Following the user's request to continue, work moves to Level 1 text discussion. A minimal question-and-answer extension is proposed: one shared season question with the existing four short answers, reusing the approved Hello Kitty scenes and winter monkey fact. No separate exercise is added. EOW1 Units 1–4 were read from the current remote source; the question form connects to Unit 1, while season vocabulary is explicitly taught as new language.
