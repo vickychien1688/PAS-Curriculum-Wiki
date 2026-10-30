@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Rounded corners applied to all five Starter illustrations
+
+The user clarifies that Spring, Summer, Autumn and Winter also require the subtle rounded treatment. All five actual illustration frames now share the same approximately 5.46pt native PDF clipping radius. This revision changes only the seasonal-image corners and boundary antialiasing. Source-image hashes, text, fonts, sizes, positions and the supplementary panel remain unchanged; full-page and enlarged four-season reviews passed. Both existing desktop sample formats are updated, with the preceding revision retained. Continue with visual feedback; Level 1, audio and QR remain unchanged.
+
 ## 2026-10-31 — Soft corners on the Starter hanami illustration
 
 The user clarifies that the supplementary illustration should have slightly rounded rather than square corners. Starter v3 now uses a native PDF clipping radius of approximately 5.46pt. The source image is unchanged. Rendered differences are confined to the image corners and boundary antialiasing; text, typography and positions are identical. Both desktop sample formats have been updated and the previous revision preserved. Full-page and enlarged rendering checks passed. The complete new visual sample remains pending feedback; Level 1, audio and QR are unchanged.
