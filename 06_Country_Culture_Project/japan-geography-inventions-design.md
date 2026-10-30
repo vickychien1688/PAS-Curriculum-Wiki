@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — WS2 matching rejected; select a cartoon guide first
+
+After accepting the text proposal, the user rejects the matching activity and corrects the production sequence: this worksheet must first have a chosen cartoon guide, following the established approach. The ordinary-family illustrations and matching layout trial are withdrawn and kept as private rejected history, not a production master. The accepted title and fourteen-word reading remain valid.
+
+Return to character selection and activity discussion before generating replacement artwork. The earlier Totoro suggestion for worksheet 02 is a proposal, not an accepted choice. Design the cultural activity around the selected guide; do not independently replace matching with another test. The trial was not delivered as a desktop final or published. Existing WS1 deliverables remain unchanged, and audio/QR are still pending.
+
+
 ## 2026-10-30 — PE1 WS2 Starter text discussion resumed
 
 The user resumes the designated second PE1 worksheet. Following the existing seasons-and-everyday-culture plan, a private Starter proposal focuses on spring blossom viewing and autumn foliage viewing. It contains a 14-word, four-sentence teacher-supported reading and two picture-to-picture matches. Current Starter Units 1–4, the accepted Japan WS1 reference, and official Web Japan cultural descriptions were reviewed. New seasonal and nature vocabulary is explicitly supported rather than treated as previously mastered.
