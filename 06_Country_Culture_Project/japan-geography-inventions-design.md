@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Soft corners on the Starter hanami illustration
+
+The user clarifies that the supplementary illustration should have slightly rounded rather than square corners. Starter v3 now uses a native PDF clipping radius of approximately 5.46pt. The source image is unchanged. Rendered differences are confined to the image corners and boundary antialiasing; text, typography and positions are identical. Both desktop sample formats have been updated and the previous revision preserved. Full-page and enlarged rendering checks passed. The complete new visual sample remains pending feedback; Level 1, audio and QR are unchanged.
+
 ## 2026-10-31 — Starter hanami text accepted; revised visual sample ready
 
 The user accepts the cherry-blossom attendance fact, large-number treatment, Hello Kitty/crowd direction and year/estimate qualification. A private Starter v3 PNG and PDF now replace only the supplementary panel. The four approved seasonal images and captions are unchanged. One new illustration was generated; all text remains native PDF text. Preserve the 2024 estimate qualification rather than describing a fixed annual observed total.
