@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — WS2 revised to four seasonal pictures
+
+The user requests four pictures with only a repeated season-identification sentence for each. This supersedes the earlier spring/autumn fourteen-word reading and rejected matching task. The exact user wording and individual captions remain private. Do not add nature-object names as required English vocabulary.
+
+Select the cartoon guide before creating replacement artwork, then discuss the four scenes. Totoro remains an unconfirmed earlier proposal. Blossom viewing, a summer festival/fireworks, autumn foliage and a regional snowy winter setting are image suggestions, not approved artwork. No four-season artwork, audio or QR has been generated. WS1 remains unchanged.
+
+
 ## 2026-10-30 — WS2 matching rejected; select a cartoon guide first
 
 After accepting the text proposal, the user rejects the matching activity and corrects the production sequence: this worksheet must first have a chosen cartoon guide, following the established approach. The ordinary-family illustrations and matching layout trial are withdrawn and kept as private rejected history, not a production master. The accepted title and fourteen-word reading remain valid.
