@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-30 — PE1 WS2 Starter text discussion resumed
+
+The user resumes the designated second PE1 worksheet. Following the existing seasons-and-everyday-culture plan, a private Starter proposal focuses on spring blossom viewing and autumn foliage viewing. It contains a 14-word, four-sentence teacher-supported reading and two picture-to-picture matches. Current Starter Units 1–4, the accepted Japan WS1 reference, and official Web Japan cultural descriptions were reviewed. New seasonal and nature vocabulary is explicitly supported rather than treated as previously mastered.
+
+The title, wording and matching activity remain proposals. Continue with this content discussion before artwork or layout, retaining PNG-first viewing. No shared Level 1 version is assumed. WS1 stays closed; no new artwork, PDF, audio or QR is created or published in this step. Full teaching content remains in the established private local working package.
+
+
 ## 2026-10-30 — Session closed; resume with PE1 WS2
 
 The user ends this work session and designates the second PE1 worksheet as the next session's task. PE1 WS1 remains closed, including the shared Level 4/5 version. Resume by checking the existing WS2 plan and reviewing text and questions before artwork or layout; retain PNG-first viewing. No WS2 production starts during this closeout, and no new text or visual approval is inferred.
