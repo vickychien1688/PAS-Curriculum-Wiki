@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Starter hanami text accepted; revised visual sample ready
+
+The user accepts the cherry-blossom attendance fact, large-number treatment, Hello Kitty/crowd direction and year/estimate qualification. A private Starter v3 PNG and PDF now replace only the supplementary panel. The four approved seasonal images and captions are unchanged. One new illustration was generated; all text remains native PDF text. Preserve the 2024 estimate qualification rather than describing a fixed annual observed total.
+
+Actual-PDF verification again confirms WS1-aligned main headings at 14pt Nunito Bold and the supplementary heading at 17pt Nunito Black, weight 900; body text remains 13pt. Full-page MuPDF and Poppler renders and an enlarged panel review passed. Pixel changes are confined to the supplementary panel, while the four seasonal image hashes and fourteen existing desktop files remain intact.
+
+Continue with PNG feedback on the new supplementary artwork. Text and direction are accepted; the new visual sample is not yet user-approved. The historical monkey-containing Starter file is not the current classroom revision. Level 1, audio and real QR remain as previously recorded. Full artwork and editable sources stay private.
+
 ## 2026-10-31 — Starter fact discussion moves to cherry-blossom attendance
 
 The user clarifies that the surprise fact should convey the large number of cherry-blossom viewers. Snowman and snow-angel ideas remain unapproved discussion, not the current production direction. Research located a 2024 forecast attributed to Kansai University professor emeritus Katsuhiro Miyamoto: about 61.39 million residents of Japan, as reported by [J-CAST](https://www.j-cast.com/2024/03/18479849.html) and corroborated by [Wedge](https://wedge.ismedia.jp/articles/-/33440?layout=b). This is a year-specific estimate, not a fixed annual observed total. Any student-facing statistic must retain the year and estimate qualification.
