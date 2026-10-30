@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Starter supplementary fact requires replacement
+
+For classroom suitability, Starter WS2 must replace the monkey illustration and fact. The current monkey-containing Starter file is pending revision and should not be used for this class. Preserve the approved four-season Hello Kitty section, winter skiing, and WS1-aligned heading styles. This change does not automatically revise Level 1.
+
+A teacher-led fact about the common Japanese two-ball snowman is proposed, supported by the [official Sapporo tourism guide](https://www.sapporo.travel/en/spot/feature/play_in_the_snow/). Replacement wording and artwork remain unapproved: discuss text before producing images. No new artwork, PNG, PDF, audio or QR has been produced in this update. Historical approval snapshots remain preserved; full wording and materials stay private.
+
 ## 2026-10-31 — WS2 section-heading typography aligned with WS1
 
 A PDF audit confirms that the ordinary Listen and Learn heading already matches the approved WS1 main-section style at 14pt Nunito Bold. The supplementary fact heading had incorrectly been set to 14pt Bold; Starter and Level 1 WS2 now restore the approved WS1 treatment of 17pt Nunito Black, weight 900. Body text remains 13pt. The exact embedded reference font was matched; its legacy internal ExtraLight family name does not describe the instantiated weight.
