@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Level 2 WS2 sample produced; opening sentence restored to the reading body
+
+The user authorizes production of the revised seasonal-activity and preference text. A private one-page PDF and 600dpi PNG sample now reuse the five existing illustrations, with native 13pt body text, 14pt ordinary heading and 17pt supplementary heading. The reading leads into season and activity response prompts; the supplementary monkey fact remains. Audio and the real QR are explicitly pending.
+
+During review, the user rejects positioning the opening statement beside the section heading because it is core reading content. The current revision places that sentence left-aligned below the heading and above the four pictures. All wording is retained; the earlier side-positioned draft and feedback screenshot remain private history. The five source-image hashes and fourteen existing approved media files are unchanged. Full-page rendering in two engines, enlarged details, text sizes and source/delivery hashes were checked. Complete visual approval is pending; continue from the revised PNG without reopening text approval. Full teaching materials stay private.
+
 ## 2026-10-31 — Level 2 revision: seasonal activities and preferences
 
 The user asks to connect each season with things children can do and to end the reading by asking which season they like best, reusing language learned across earlier units. The previous five-sentence weather summary is superseded by a private revised proposal combining seasonal scenery, weather, activities and a personal-preference response. EOW1 nature, ability and preference content and EOW2 Units 1–4 were checked; the oral extension connects to the activity-preference pattern. Culture vocabulary and the season-preference question require picture support or teacher modeling and are not all claimed as previously mastered language.
