@@ -1,3 +1,5 @@
+2026-10-31: [Oktoberfest eight-part cultural video proposal](germany-oktoberfest-video-planning.md). Nine Canva pages reviewed; simple-English visitor-led narration proposed, with food before cooking. Script/character approach pending feedback; no audiovisual generation.
+
 
 
 2026-10-27: [Geography/nature and inventions — six-theme design discussion](japan-geography-inventions-design.md). Use the new user-supplied overview and 04–06 mother texts; the earlier flag/bento proposal is superseded. Three-band design is provisional; student English, tasks and artwork await review.
