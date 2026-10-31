@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Level 3 WS2 wording approved; visual sample ready
+
+The user confirms the Level 3 wording. A private one-page PDF and 600dpi PNG sample now apply the approved Level 2 layout, retaining the introductory sentence in the main reading area, the four existing seasonal illustrations, and personal-preference responses. Longer captions wrap naturally at 13pt; the supplementary fact now includes the warming purpose of hot-spring bathing in a two-line 13pt block. Section headings remain 14pt and the supplementary heading 17pt. No artwork is regenerated.
+
+The sample is saved in the established private desktop sample folder, with reproducible source and approval history held privately. Two rendering engines and enlarged details were reviewed; all five source-image hashes and sixteen previously approved media files remain unchanged. Level 3 whole-page visual approval remains pending. Continue from the PNG without reopening wording approval; audio and the real QR remain pending. Starter keeps its separately approved blossom fact, and other levels and culture-topic work are preserved. No full teaching materials are published here.
+
 ## 2026-11-01 — Level 2 WS2 approved; Level 3 wording proposed
 
 The user accepts the revised complete Level 2 WS2 and asks to continue. Its exact reviewed PNG and PDF are archived in the established private approved-layout folder and approval snapshot, with matching hashes. Fourteen other approved files remain unchanged; no layout or artwork is regenerated. Level 2 content and visual approval are settled. Audio and the real QR remain pending.
