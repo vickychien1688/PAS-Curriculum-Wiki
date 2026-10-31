@@ -1,4 +1,4 @@
-2026-10-31: [Oktoberfest eight-part cultural video proposal](germany-oktoberfest-video-planning.md). Nine Canva pages reviewed; simple-English visitor-led narration proposed, with food before cooking. Script/character approach pending feedback; no audiovisual generation.
+2026-10-31: [Oktoberfest cultural video plan and first visual trial](germany-oktoberfest-video-planning.md). The guide-led approach and first-segment trial are authorized. A private 33-second animated preview with simple English captions is ready for review; narration and music await the established service's November 1 reset. Seven further segments remain in planning; no public audiovisual release.
 
 
 
