@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Level 4 WS2 wording approved; sample ready
+
+The user accepts the Level 4 wording. A private one-page PDF and 600dpi PNG sample now reuse the approved Level 3 four-season layout and five existing images, retaining the main-body introductory statement, preference responses and supplementary warmth fact. Caption measure is slightly wider to fit the unchanged text naturally in two lines at 13pt; illustration sizes and layout geometry are preserved.
+
+The authoring source reads the shared typography specification and verifies actual exported sizes, embedded font hashes and weights: 34pt Chewy page title, 14pt Nunito Bold section heading and 17pt Nunito Black supplementary heading. Two rendering engines and enlarged details were reviewed; all eighteen previously approved media files and five source images remain unchanged. The sample is saved in the established private desktop folder. Whole-page visual approval remains pending; audio and the real QR are pending and Level 5 WS2 sharing is undecided. No full teaching materials are published here.
+
 ## 2026-11-01 — Level 3 WS2 approved; Level 4 wording proposed
 
 The user explicitly approves the complete Level 3 WS2 and asks to review Level 4 wording. Its exact reviewed PNG and PDF are archived in the established private approved-layout folder and approval snapshot, with matching checksums; sixteen other approved media files remain unchanged. No media is rebuilt. Level 3 content and visual approval are settled; audio and the real QR remain pending.
