@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Level 4 and Level 5 WS2 share the accepted layout
+
+After viewing the complete Level 4 sample, the user requests the same worksheet for Level 5. The accepted Level 4 PNG and PDF are archived unchanged, with byte-identical Level 5 access copies. Only the higher-level filenames carry the established shared-use note after the extension. No separate passage, artwork or layout is created. The fixed typography and all student content remain identical; eighteen earlier approved media files are preserved.
+
+WS2 content and layouts are now available for all intended levels. The private archive holds twenty base media files plus two Level 5 shared copies. Audio and the production QR remain pending; later updates to the shared master must update both level access points. No audio or complete paid teaching materials were published. Do not reopen the sharing or typography decision.
+
 ## 2026-11-01 — Level 4 WS2 wording approved; sample ready
 
 The user accepts the Level 4 wording. A private one-page PDF and 600dpi PNG sample now reuse the approved Level 3 four-season layout and five existing images, retaining the main-body introductory statement, preference responses and supplementary warmth fact. Caption measure is slightly wider to fit the unchanged text naturally in two lines at 13pt; illustration sizes and layout geometry are preserved.
