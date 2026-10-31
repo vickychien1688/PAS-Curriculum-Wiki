@@ -1,4 +1,4 @@
-2026-11-01: [Oktoberfest cultural video plan and image production](germany-oktoberfest-video-planning.md). Three new origin-story illustrations for segment two are complete privately, continuing the first segment's guide and visual style. Earlier slow-motion feedback is retained; narration and editing remain deferred. Segments three through eight remain in planning; no public audiovisual release.
+2026-11-01: [Oktoberfest eight-part animated review](germany-oktoberfest-video-planning.md). Eight private chapters with English captions and music are rendered, including the food-stall approach and cooking sequence. Narration and final approval remain pending; no public audiovisual release.
 
 
 

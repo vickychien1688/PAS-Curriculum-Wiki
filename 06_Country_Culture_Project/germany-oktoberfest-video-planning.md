@@ -1,42 +1,38 @@
-# Oktoberfest: eight-part cultural video proposal
+# Oktoberfest: eight-part cultural video review
 
-Updated 2026-11-01. Status: image production is continuing by segment. The first segment's three source illustrations are preserved, and three new origin-story illustrations for the second segment are complete privately. Narration and editing remain deferred. Nothing has been publicly published.
+Updated 2026-11-01. Eight private animated review chapters are now rendered with simple English captions and music. The user authorized continuing the full series after the first trial. Formal narration, final timing and audiovisual approval remain pending. No public audiovisual release has been made.
 
-The user requested animated cultural introductions in simple, child-understandable English, similar to previous culture-course films. The supplied Canva presentation has nine pages: a cover and eight topics. The cultural purpose is to introduce Oktoberfest; compulsory language drills or repeated end-of-segment quizzes are not required.
+## Structure and current private outputs
 
-## Proposed structure
+| Part | Focus | Review length |
+| --- | --- | --- |
+| 1 | Welcome to Oktoberfest and Munich | 26.5 seconds |
+| 2 | Royal wedding celebration and horse race | 28 seconds |
+| 3 | Why the festival begins in September | 26 seconds |
+| 4 | Parade and opening tradition | 22 seconds |
+| 5 | Traditional clothing | 22 seconds |
+| 6 | Rides, games and music | 22 seconds |
+| 7 | Food stalls and representative foods | 27 seconds |
+| 8 | Potato-pancake cooking extension | 49 seconds |
 
-1. Festival introduction and Munich location.
-2. Origins in the royal wedding celebration.
-3. Why the festival begins in September.
-4. Opening customs and parade.
-5. Traditional clothing.
-6. Rides, games and music.
-7. Representative foods.
-8. Potato-pancake cooking extension.
+The eight chapters total 222.5 seconds. Each is available privately as a separate 1920×1080, 24 fps MP4 with editable subtitle data; a combined review film and chapter-selection page are also prepared. Full scripts, prompts, reference images and video files remain private.
 
-The original deck puts cooking before general food. The user accepted the guide-led approach and explicitly requested a trial of the first segment. The final order and the remaining seven segments are still planning work. Each part should work independently while sharing a coherent visit narrative. Indicative lengths are 30–50 seconds per introductory part and 45–60 seconds for cooking, subject to script and performance.
+The supplied Canva deck contains a cover and eight topics. The accepted guide-led narrative uses short, concrete English tied to visible action, without compulsory repeated quizzes. Food is introduced before cooking so the child guide's visit leads naturally into the practical extension. The new food-stall establishing shot shows the approach and setting before closer introductions of pretzels, sausages, potato pancakes and apple sauce.
 
-## First-segment trial
+## Revisions and continuity
 
-The private 33-second trial uses five native animated shots in 16:9, 1920×1080 at 24 fps: greeting, Ferris-wheel observation, band, family snack and continuing the visit. Simple English captions are provisional. Three reference illustrations were created; the family shot alone was revised after an unwanted background object entered the foreground. Source and output frames were inspected and the actual MP4 passed specification and full-decode checks. Sampling is not recorded as full-speed human viewing or final approval.
+The first trial had been described as too slow. The shorter first chapter is now actually rendered with shorter holds and selective picture-speed changes. Subsequent clips use native character action through the established VideoExpress workflow.
 
-On November 1 the user described the movement as too slow, resembling slow motion. A shorter 26.5-second timing draft with selective picture-speed changes was prepared, but no revised video was rendered before the user switched the priority to images. The three original illustrations were preserved unchanged and packaged privately. The earlier video remains a trial with unresolved pacing feedback, not an approved final version.
+The mother's white blouse, blue floral bodice, blue waist apron and waist bow are the cooking continuity reference; the boy retains his light-blue kitchen apron. Disembodied-hand reference images and an unsettling applesauce image were rejected before use in the review edit. Revised cooking frames show connected arms and a visible torso. Frying includes actual spatula turns; minor pancake overlap and count ambiguity remain review limitations. A mistaken food-camera focus and changing book-page art were revised selectively. Calendar labels are added locally and tracked with the board rather than generated as image text.
 
-The user requested waiting for the established ElevenLabs narration service to reset on November 1. This trial intentionally has no audio; narration, music and final subtitle alignment remain pending. No substitute voice or automatic follow-up schedule was created. Full scripts, prompts, raw clips and review evidence remain private.
+## History and source scope
 
-## Second-segment illustrations
+The origin sequence explains the 1810 royal wedding and the horse race held to celebrate it. The wedding took place on October 12 and the race on October 17; the festivities were repeated the following year. Child-facing wording avoids falsely attributing sole organization to either the public or the royal family. Historical pictures are interpretive illustrations rather than exact portraits or architectural reconstructions.
 
-The user authorized continuing after the first-segment images. Three new 16:9 illustrations now connect the same child guide opening a picture book, the royal wedding celebration, and a horse race watched by families. The wedding image is reused inside the book to support continuity. The period scenes omit modern rides and large beer tents. These are child-friendly interpretive illustrations, not exact historical portraits or architectural reconstructions.
+Sources checked include the official [festival history](https://www.oktoberfest.de/en/magazine/tradition/the-history-of-oktoberfest), [Historical Lexicon of Bavaria](https://www.historisches-lexikon-bayerns.de/Lexikon/EN:Oktoberfest), [September explanation](https://www.oktoberfest.de/en/information/service-for-visitors/faqs-for-wiesn-visitors), [opening ceremony](https://www.oktoberfest.de/en/information/events/oktoberfest-tapping-and-opening-ceremony), and [family activities](https://www.oktoberfest.de/en/information/children-and-family/wiesn-tips-for-families).
 
-The official history was rechecked for the October 12, 1810 wedding, the October 17 horse race and repetition of festivities the next year. The full-resolution artwork, prompts, simple-English draft, source evidence and review package remain private. No new audio or animated clips were generated in this continuation. New artwork and exact wording have not been marked finally approved.
+## Sound, validation and next step
 
-## Production and language requirements
+Review music has been added with retained CC BY 4.0 attribution. The original ElevenLabs narration voice remains selected, but its account quota has not reset; no substitute voice or additional paid quota was used. Caption timing is provisional and must be aligned to the eventual narration.
 
-Use short, concrete English tied to visible actions. Explain necessary cultural names visually; do not claim compliance with a specific EOW level before checking that level. Preserve meaningful action, natural pacing and intelligible narration from the established film workflow. Full scripts, images and production files remain private. The Canva source is unchanged.
-
-## Evidence and next step
-
-The nine source pages were viewed in Canva. Official sources checked: [festival history](https://www.oktoberfest.de/en/magazine/tradition/the-history-of-oktoberfest), [September explanation](https://www.oktoberfest.de/en/information/service-for-visitors/faqs-for-wiesn-visitors), and [family activities](https://www.oktoberfest.de/en/information/children-and-family/wiesn-tips-for-families).
-
-Continue visual work from the second-segment illustrations or proceed to the planned September-timing topic. Resume narration and editing after the image work; retain the request for more natural movement and shorter holds. The guide-led continuation is authorized; final artwork, wording, pacing and audiovisual approval remain pending. Segments three through eight have not yet been illustrated. Existing Germany and Japan worksheet releases are unchanged.
+The actual chapter files and combined film have specification and full-decode evidence. Native clips, final frames and cutpoints have sampled visual review records. Sampling and decoding are not represented as full-speed human viewing, listening or final user approval. Continue with the existing private review files and revision history, then add narration and retime only what requires it. Other Germany and Japan worksheet releases and the original Canva design remain unchanged.
