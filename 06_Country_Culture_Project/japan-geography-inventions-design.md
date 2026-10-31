@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Level 2 revision: seasonal activities and preferences
+
+The user asks to connect each season with things children can do and to end the reading by asking which season they like best, reusing language learned across earlier units. The previous five-sentence weather summary is superseded by a private revised proposal combining seasonal scenery, weather, activities and a personal-preference response. EOW1 nature, ability and preference content and EOW2 Units 1–4 were checked; the oral extension connects to the activity-preference pattern. Culture vocabulary and the season-preference question require picture support or teacher modeling and are not all claimed as previously mastered language.
+
+The existing four Hello Kitty scenes remain the proposed illustration basis. Concrete wording and response presentation are pending review; no Level 2 artwork, PDF, audio or QR has been made. All fourteen approved Starter, Level 1 and WS1 files are unchanged. Starter retains the blossom-attendance fact, and the accepted Level 1 monkey fact remains distinct. Full drafts, sources and superseded text remain private.
+
 ## 2026-10-31 — Level 1 WS2 approved; Level 2 text review
 
 The user confirms the complete existing Level 1 WS2 content and layout and requests the Level 2 wording next. The exact reviewed PNG and PDF are archived in the established private approved-layout directory and approval snapshot, with identical SHA256 hashes; twelve other approved files remain unchanged. No artwork or layout is regenerated. Starter continues to use its approved blossom-attendance version, while Level 1 retains its separately accepted monkey fact. Both content and visual approval for Level 1 are settled; audio and the real QR remain pending.
