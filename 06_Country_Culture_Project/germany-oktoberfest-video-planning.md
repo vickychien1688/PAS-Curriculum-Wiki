@@ -1,6 +1,6 @@
 # Oktoberfest: eight-part cultural video proposal
 
-Updated 2026-11-01. Status: the user requested focusing on first-segment images before continuing narration and editing. Three existing source illustrations have been organized for review. Nothing has been publicly published.
+Updated 2026-11-01. Status: image production is continuing by segment. The first segment's three source illustrations are preserved, and three new origin-story illustrations for the second segment are complete privately. Narration and editing remain deferred. Nothing has been publicly published.
 
 The user requested animated cultural introductions in simple, child-understandable English, similar to previous culture-course films. The supplied Canva presentation has nine pages: a cover and eight topics. The cultural purpose is to introduce Oktoberfest; compulsory language drills or repeated end-of-segment quizzes are not required.
 
@@ -25,6 +25,12 @@ On November 1 the user described the movement as too slow, resembling slow motio
 
 The user requested waiting for the established ElevenLabs narration service to reset on November 1. This trial intentionally has no audio; narration, music and final subtitle alignment remain pending. No substitute voice or automatic follow-up schedule was created. Full scripts, prompts, raw clips and review evidence remain private.
 
+## Second-segment illustrations
+
+The user authorized continuing after the first-segment images. Three new 16:9 illustrations now connect the same child guide opening a picture book, the royal wedding celebration, and a horse race watched by families. The wedding image is reused inside the book to support continuity. The period scenes omit modern rides and large beer tents. These are child-friendly interpretive illustrations, not exact historical portraits or architectural reconstructions.
+
+The official history was rechecked for the October 12, 1810 wedding, the October 17 horse race and repetition of festivities the next year. The full-resolution artwork, prompts, simple-English draft, source evidence and review package remain private. No new audio or animated clips were generated in this continuation. New artwork and exact wording have not been marked finally approved.
+
 ## Production and language requirements
 
 Use short, concrete English tied to visible actions. Explain necessary cultural names visually; do not claim compliance with a specific EOW level before checking that level. Preserve meaningful action, natural pacing and intelligible narration from the established film workflow. Full scripts, images and production files remain private. The Canva source is unchanged.
@@ -33,4 +39,4 @@ Use short, concrete English tied to visible actions. Explain necessary cultural 
 
 The nine source pages were viewed in Canva. Official sources checked: [festival history](https://www.oktoberfest.de/en/magazine/tradition/the-history-of-oktoberfest), [September explanation](https://www.oktoberfest.de/en/information/service-for-visitors/faqs-for-wiesn-visitors), and [family activities](https://www.oktoberfest.de/en/information/children-and-family/wiesn-tips-for-families).
 
-Continue from the three first-segment source illustrations and their visual feedback. Resume narration and editing after the image work; retain the request for more natural movement and shorter holds. The guide-led trial authorization is settled; final character artwork, wording, pacing and audiovisual approval remain pending. The remaining seven segments have not been produced. Existing Germany and Japan worksheet releases are unchanged.
+Continue visual work from the second-segment illustrations or proceed to the planned September-timing topic. Resume narration and editing after the image work; retain the request for more natural movement and shorter holds. The guide-led continuation is authorized; final artwork, wording, pacing and audiovisual approval remain pending. Segments three through eight have not yet been illustrated. Existing Germany and Japan worksheet releases are unchanged.

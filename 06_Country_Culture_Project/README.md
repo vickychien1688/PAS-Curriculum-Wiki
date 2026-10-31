@@ -1,4 +1,4 @@
-2026-11-01: [Oktoberfest cultural video plan and first visual trial](germany-oktoberfest-video-planning.md). The user requested first focusing on three source illustrations and flagged the earlier video's slow-motion feel. A shorter timing plan is drafted but has not been rendered; narration and editing are deferred. Seven further segments remain in planning; no public audiovisual release.
+2026-11-01: [Oktoberfest cultural video plan and image production](germany-oktoberfest-video-planning.md). Three new origin-story illustrations for segment two are complete privately, continuing the first segment's guide and visual style. Earlier slow-motion feedback is retained; narration and editing remain deferred. Segments three through eight remain in planning; no public audiovisual release.
 
 
 
