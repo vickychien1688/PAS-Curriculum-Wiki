@@ -1,4 +1,4 @@
-2026-10-31: [Oktoberfest cultural video plan and first visual trial](germany-oktoberfest-video-planning.md). The guide-led approach and first-segment trial are authorized. A private 33-second animated preview with simple English captions is ready for review; narration and music await the established service's November 1 reset. Seven further segments remain in planning; no public audiovisual release.
+2026-11-01: [Oktoberfest cultural video plan and first visual trial](germany-oktoberfest-video-planning.md). The user requested first focusing on three source illustrations and flagged the earlier video's slow-motion feel. A shorter timing plan is drafted but has not been rendered; narration and editing are deferred. Seven further segments remain in planning; no public audiovisual release.
 
 
 
