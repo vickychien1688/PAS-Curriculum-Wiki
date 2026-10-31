@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Level 3 WS2 approved; Level 4 wording proposed
+
+The user explicitly approves the complete Level 3 WS2 and asks to review Level 4 wording. Its exact reviewed PNG and PDF are archived in the established private approved-layout folder and approval snapshot, with matching checksums; sixteen other approved media files remain unchanged. No media is rebuilt. Level 3 content and visual approval are settled; audio and the real QR remain pending.
+
+A private Level 4 text proposal connects the existing seasonal reading to curriculum vocabulary for picnics, celebrations and hiking, retaining personal season/activity preferences and the approved monkey-warmth fact. Current remote EOW4 scope and Units 1–4 and official culture sources were reviewed. The passage uses general present-tense cultural descriptions; vocabulary support and actual unit completion are distinguished. Skiing is limited to snowy areas. Wording is pending review and no Level 4 art, layout or audio has been produced. Continue text before layout, preserve the fixed typography, and do not infer Level 5 WS2 sharing from the earlier WS1 decision. Full materials remain private.
+
 ## 2026-11-01 — Persistent title typography
 
 Established Japan PE1 typography is now explicit in the shared production skill and a dedicated long-term-memory entry: ordinary section headings use Nunito Bold 700 at an actual 14 PDF points; the supplementary fact heading uses Nunito Black 900 at 17 points. The approved Four Seasons WS2 page title remains Chewy Regular at 34 points, with its existing colors and placement. Body text remains 13 points. Reuse these styles for subsequent pages and levels and verify actual exported type and rendered appearance before delivery. The WS2 page-title size is not a new global standard for other culture series.
