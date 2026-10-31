@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Persistent title typography
+
+Established Japan PE1 typography is now explicit in the shared production skill and a dedicated long-term-memory entry: ordinary section headings use Nunito Bold 700 at an actual 14 PDF points; the supplementary fact heading uses Nunito Black 900 at 17 points. The approved Four Seasons WS2 page title remains Chewy Regular at 34 points, with its existing colors and placement. Body text remains 13 points. Reuse these styles for subsequent pages and levels and verify actual exported type and rendered appearance before delivery. The WS2 page-title size is not a new global standard for other culture series.
+
+A read-only check of the current Level 3 WS2 PDF confirms these sizes, embedded font hashes and weights. No worksheet media changed, and visual approval remains pending. The shared skill notes the legacy internal ExtraLight font name despite the actual Black weight, to avoid substituting the wrong face. Audio and the real QR remain pending.
+
 ## 2026-11-01 — Level 3 WS2 wording approved; visual sample ready
 
 The user confirms the Level 3 wording. A private one-page PDF and 600dpi PNG sample now apply the approved Level 2 layout, retaining the introductory sentence in the main reading area, the four existing seasonal illustrations, and personal-preference responses. Longer captions wrap naturally at 13pt; the supplementary fact now includes the warming purpose of hot-spring bathing in a two-line 13pt block. Section headings remain 14pt and the supplementary heading 17pt. No artwork is regenerated.
