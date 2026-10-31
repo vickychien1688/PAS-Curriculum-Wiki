@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-10-31 — Level 1 WS2 approved; Level 2 text review
+
+The user confirms the complete existing Level 1 WS2 content and layout and requests the Level 2 wording next. The exact reviewed PNG and PDF are archived in the established private approved-layout directory and approval snapshot, with identical SHA256 hashes; twelve other approved files remain unchanged. No artwork or layout is regenerated. Starter continues to use its approved blossom-attendance version, while Level 1 retains its separately accepted monkey fact. Both content and visual approval for Level 1 are settled; audio and the real QR remain pending.
+
+A private Level 2 proposal contains five short reading sentences about seasonal scenery and weather, plus a picture-based weather exchange and proposed reuse of the supplementary fact. EOW2 Units 1–4 were read from current remote main; Unit 3 supports the weather language. Culture vocabulary remains explicitly taught with pictures, and completion of Unit 3 or Unit 4 is not assumed. Official Web Japan and park sources were checked, with regional climate variation and limited monkey-bathing behavior retained in teacher notes. The wording, oral activity and Level 2 visual treatment await review. No Level 2 artwork, PDF, audio or QR has been produced. Full wording and materials remain private.
+
 ## 2026-10-31 — Starter WS2 approved; session closed
 
 The user approves the complete current Starter WS2 layout and asks to finish for the session. Approval covers the four-season Hello Kitty section, cherry-blossom attendance fact with its year/estimate qualification, all five subtly rounded illustration frames and verified heading typography. The exact reviewed PNG and PDF have been copied into the established private desktop approved-layout folder, with matching checksums. The superseded version is retained privately; twelve other existing WS1 and Level 1 files remain unchanged. No artwork was regenerated.
