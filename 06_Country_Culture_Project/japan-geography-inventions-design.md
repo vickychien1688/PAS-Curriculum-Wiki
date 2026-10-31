@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Level 2 WS2 approved; Level 3 wording proposed
+
+The user accepts the revised complete Level 2 WS2 and asks to continue. Its exact reviewed PNG and PDF are archived in the established private approved-layout folder and approval snapshot, with matching hashes. Fourteen other approved files remain unchanged; no layout or artwork is regenerated. Level 2 content and visual approval are settled. Audio and the real QR remain pending.
+
+A private Level 3 proposal preserves the four-season activity and personal-preference structure while adding supported cultural clothing, a mountain setting for skiing, and the warming purpose of monkey hot-spring bathing. EOW3 Units 1–4 and official cultural sources were checked. New culture vocabulary is supported rather than assumed mastered, and later-unit completion is not presumed. Concrete wording remains pending review; no Level 3 visuals or audio have been produced. Keep the introductory statement in the main reading area and continue text before layout. Other ongoing culture-topic work is unchanged.
+
 ## 2026-10-31 — Level 2 WS2 sample produced; opening sentence restored to the reading body
 
 The user authorizes production of the revised seasonal-activity and preference text. A private one-page PDF and 600dpi PNG sample now reuse the five existing illustrations, with native 13pt body text, 14pt ordinary heading and 17pt supplementary heading. The reading leads into season and activity response prompts; the supplementary monkey fact remains. Audio and the real QR are explicitly pending.
