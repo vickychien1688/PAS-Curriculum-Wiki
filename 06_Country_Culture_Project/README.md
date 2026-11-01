@@ -1,4 +1,4 @@
-2026-11-02: [Oktoberfest — artistic, readable chapter lettering](germany-oktoberfest-video-planning.md). V09 uses hand-lettered title typography in the short sample and full food chapter, retaining immediate visibility, the v07 gesture and unchanged soundtracks. Visual approval and other chapter-opening integration remain pending.
+2026-11-02: [Oktoberfest — accepted sample style applied across all chapters](germany-oktoberfest-video-planning.md). V11 contains seven distinct artistic title pages, clear food presentation and slower English: 155.583-second festival film plus a separate 35.208-second cooking film. The v10 sample style is accepted; complete-film review remains pending.
 
 
 

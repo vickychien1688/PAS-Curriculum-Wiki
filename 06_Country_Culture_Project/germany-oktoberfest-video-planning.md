@@ -1,46 +1,36 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-02. Private review v04 has been exported as a 127.25-second festival film and a separate 28.708-second Potato Pancake cooking film. Both have Sparkles English narration, aligned captions and music. These are review outputs, not user-approved or publicly released media.
+Updated 2026-11-02. Version 11 is the current private review: a 155.583-second festival film and a separate 35.208-second Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
 
-## Artistic opening typography: v09 review
+## Applied standard
 
-The user requested a more artistic typeface after the v08 readability revision. The main title and subtitle now use the locally installed SwingSet BB hand-lettered display face. Cream lettering with a navy outline and subtle shadow gives the headline a painted-sign appearance; the chapter number remains in Nunito. Large text and immediate first-frame visibility are retained. Actual font loading and the rendered opening at 1920 and 640 pixels wide were checked.
+Every topic has a separate full-screen wooden illustrated title page, large hand-lettered type, and a distinct subject illustration. The title is visible from the first frame; a small chapter label identifies the following action. Seven new backgrounds cover the other six cultural topics and cooking, while the food chapter retains the accepted sample design. Main and subtitle typography use the locally available SwingSet BB; chapter numbers use Nunito. Font files remain private.
 
-The 8.375-second sample and 38.25-second food chapter were re-exported, retaining the wooden artwork, v07 natural gesture, other footage and timing. Both lengths retain byte-identical decoded audio compared with v08. Both renders and the packaged chapter passed decoding; 13 desktop files match their private originals by SHA-256. Font files remain private; only rendered media are delivered. No new paid image, animation or speech generation was needed. This remains a visual review, not final user approval.
+The existing Sparkles narration is slowed to 0.86 of its former rate with pitch preserved, with short pauses between shots and food presentations. Captions and teaching labels are retimed to this audio. People move at normal speed. The main film contains 29 distinct moving sources, each used once; cooking has eight moving sources and its own title. No moving source is looped, frozen, or slowed to fill speech. Music runs continuously across the cultural chapters.
 
-## Mother’s food-introduction gesture: v07 review
-
-The user rejected the mother’s awkward plate-setting pose at the end of the food opening sample. A new image and one new animation replace that action: the sausage plate remains supported on the table, the mother points naturally and interacts with the children, then rests her hands on the table. Both parents and both children remain present. The old plate-setting source is explicitly rejected for future assembly.
-
-The revised 8.375-second sample and 38.25-second complete food chapter have been exported. They retain the wooden-stall title, existing narration, music and other selected scenes. The sampled new hands, first/last poses and chapter cutpoints were inspected; both renders and the packaged chapter passed decoding. Decoded audio in the old and new short samples is byte-identical. Eleven desktop delivery files match the private originals by SHA-256. User visual approval and complete human listening remain pending. This targeted revision does not mean the other six new chapter openings have been completed.
-
-## Latest design feedback
-
-The user wants a separate full-screen opening page for every topic, replacing the large translucent title panel covering the scene. The subsequent v05 cream-background and triangle-bunting design was explicitly rejected. It must not be reused or treated as approved.
-
-A new v06 food opening sample uses newly generated full-bleed wooden-stall artwork with food at the right and the exact chapter title typeset on the wooden sign. The independent title lasts 2.292 seconds, followed by the family table and sausage introduction; the voiced sample lasts 8.375 seconds. This new visual direction is pending review and has not been applied to the other six chapters. Main-film runtime need not increase: the title uses the existing spoken-title interval.
+The latest request to hold up each named food supersedes v07’s plate-on-table gesture. Eight new food presentations show the items toward the viewer; longer presentations use native animation extensions. The v10 representative sample is 10.333 seconds and the complete food chapter is 48.167 seconds. The former awkward plate-setting pose remains rejected.
 
 ## Current cultural structure
 
-The topic headings retain the original Canva wording. Cooking is an independent extension rather than chapter eight of the festival film.
+Topic headings retain the original Canva wording. Cooking remains a separate extension.
 
-| Chapter | Topic | v04 length |
+| Chapter | Topic | v11 length |
 | --- | --- | --- |
-| 1 | What is Oktoberfest? | 15.000 seconds |
-| 2 | A Royal Wedding | 18.500 seconds |
-| 3 | Why September? | 10.000 seconds |
-| 4 | Oktoberfest Traditions | 15.750 seconds |
-| 5 | Traditional Clothes | 9.208 seconds |
-| 6 | Fun at Oktoberfest | 20.542 seconds |
-| 7 | Traditional German Food | 38.250 seconds |
+| 1 | What is Oktoberfest? | 18.000 seconds |
+| 2 | A Royal Wedding | 22.333 seconds |
+| 3 | Why September? | 12.000 seconds |
+| 4 | Oktoberfest Traditions | 19.125 seconds |
+| 5 | Traditional Clothes | 11.042 seconds |
+| 6 | Fun at Oktoberfest | 24.917 seconds |
+| 7 | Traditional German Food | 48.167 seconds |
 
-The main film has 29 unique moving-shot sources. Boy and girl guides alternate; music scenes show performance and dancing. The seven title pages must have recognizable topic differences. No moving source is looped, frozen, slowed or duplicated to fill narration. Existing native narration is retained; a few older clips use modest 1.05–1.12 speed adjustments.
+Boy and girl guides alternate. Calendar graphics show September / Start and October / End. Clothing is directly identified with names and arrows. Music scenes show performance, clapping and dancing; the opening ceremony includes tapping and an enthusiastic crowd response.
 
 ## Family, food and clothing
 
-Food is a shared family outing with both parents, a boy and a girl. One table contains eight different dishes, one plate or portion each, introduced individually with varied family interactions: bratwurst, roast pork knuckle, roast chicken, pretzel, sauerkraut, potato pancake, apple strudel and Sachertorte. Sachertorte is explicitly described as Austrian; availability at the festival was checked against the Café Theres menu.
+Food is a shared family outing with both parents, a boy and a girl. One table contains eight different dishes, one plate or portion each, introduced individually: bratwurst, roast pork knuckle, roast chicken, pretzel, sauerkraut, potato pancake, apple strudel and Sachertorte. Each named item is held or presented visibly. Sachertorte is explicitly described as Austrian; festival availability was checked against the Café Theres menu.
 
-The mother wears a plausible modest Dirndl blouse with a shallow square neckline, broad opaque white panel above the bust, comfortable natural fit, blue floral dress and plain blue waist apron. Visible cleavage, exaggerated bust, arbitrary ordinary shirt collars and earlier rejected clothing variants are excluded. Clothing is Bavarian regional traditional dress, not a single national German uniform. Dirndl, apron and Lederhosen are directly identified with labels and arrows.
+The mother retains a modest Dirndl blouse with a shallow square neckline, broad opaque white panel above the bust, comfortable fit, blue floral dress and plain blue waist apron. Clothing is Bavarian regional traditional dress, not a single national German uniform. Dirndl, apron and Lederhosen are directly identified.
 
 ## Source checking
 
@@ -52,8 +42,8 @@ The separate cooking sequence covers adult-led peeling, grating, squeezing, mixi
 
 ## Validation and remaining work
 
-The v04 main film and cooking film are 1920×1080 at 24 fps, H.264/AAC, and passed full decoding. Selected source contact sheets, critical tapping frames, clothing arrows, Start/End text and cooking cutpoints were visually inspected. New native narration was locally transcribed to check content. The v06 opening sample also passed decoding; the full-page title and transition into the four-person family scene were visually checked. Five desktop sample files match their private originals by SHA-256.
+The eight chapter exports and two packaged films are 1920×1080 at 24 fps, H.264/AAC, and passed full decoding. Actual title frames, every chapter’s cutpoint sheet, the calendar labels, clothing pointers, food presentations and new extension junctions were visually inspected. Existing narration was locally transcribed after the speed adjustment. Main-film/cooking loudness is about −17.6/−18.1 LUFS, with true peaks of −2.6/−2.9 dBFS. Thirty-two desktop delivery files match the private v11 originals by SHA-256; nine v10 files are also verified.
 
-These checks do not constitute full-speed human viewing, complete human listening or final user approval. The featured apple-strudel shot was corrected to sliced apple filling, but background strudel in other food scenes still has overly rounded pieces; this remains a visual limitation to revise, not a claim of complete food realism.
+This is sampled visual and technical validation, not complete real-time human viewing, complete human listening, or final user approval. Some background apple-strudel filling remains overly rounded, cabbage is stylized, and exuberant expressions remain for review. The scenes are generated illustrations rather than documentary images.
 
-Next, review v09 artistic typography and the retained gesture correction, resolve remaining food-detail concerns, extend the accepted title direction to the other chapters, and export the integrated final review. Previous rejected versions and reasons are retained. Full scripts, prompts, source assets, media and production files remain private. No additional quota purchase, voice replacement or public audiovisual release has been made. Other Germany/Japan materials and the source Canva deck remain unchanged.
+Next, review the integrated v11 films and address specific feedback without reopening the accepted sample direction. Earlier rejected translucent panels, the v05 cream-and-bunting title, detached hands, empty plates and duplicate-looking crowd are not reintroduced. The v04–v09 outputs remain historical. Full scripts, prompts, source assets, fonts and production files remain private. No extra quota purchase, voice replacement or public audiovisual release has been made.
