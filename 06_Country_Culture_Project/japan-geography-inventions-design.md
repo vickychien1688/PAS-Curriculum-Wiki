@@ -1,5 +1,14 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Unified titles and section headings across both worksheets
+
+The user explicitly requests consistency for both page titles and every section heading. All current Japan PE1 WS1/WS2 levels now use 34pt Chewy Regular 400 page titles and 17pt Nunito Black 900 section headings. This replaces 42/34pt page-title differences and 12/14/17pt section-heading differences, including the previously overlooked numbered bottom sections in Starter and Level 1. The numeric choices are the implementation of the user's consistency request, not a claim that the user specified each number.
+
+Five page titles and twenty-two section headings were corrected across ten distinct pages. A byte-identical Level 5 WS2 copy remains shared with Level 4; all eleven current PDFs and eleven 600dpi PNGs are updated in the established private delivery locations. Level 5 WS1 retains its existing shared pointer. Student wording, images, body text, response prompts and activities remain unchanged, and historical approval snapshots remain available.
+
+All eleven PDFs pass the shared actual-size/font-weight checker; an older mixed-style PDF is correctly rejected. For all ten distinct pages, fresh-process rendering confirms zero pixel changes outside heading regions and unchanged non-heading text geometry. Full-page visual review and representative Poppler renders were checked. The shared production skill, JSON specification, persistent memory and per-package current-version pointers now refer to this unified revision. Future delivery must validate the final PDF, including smaller numbered headings. Visual feedback on this correction remains welcome; audio and production QR are still pending. Full teaching materials and source files stay private.
+
+
 ## 2026-11-01 — Typography audit after renewed visual feedback
 
 A read-only audit of eleven current private PDFs confirms that all WS2 levels retain the shared title sizes and faces: 34pt Chewy Regular page title, 14pt Nunito Bold 700 ordinary headings, and 17pt Nunito Black 900 supplementary headings. Level 4 and its Level 5 copy have no size/weight drift from earlier levels. The first worksheet's page title is 42pt Chewy Regular, so the two worksheet titles do have different sizes. This existing cross-page distinction is now explicit in the persistent memory.
