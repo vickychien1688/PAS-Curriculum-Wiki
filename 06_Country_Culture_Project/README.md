@@ -1,4 +1,4 @@
-2026-11-02: [Oktoberfest — accepted sample style applied across all chapters](germany-oktoberfest-video-planning.md). V11 contains seven distinct artistic title pages, clear food presentation and slower English: 155.583-second festival film plus a separate 35.208-second cooking film. The v10 sample style is accepted; complete-film review remains pending.
+2026-11-02: [Oktoberfest — v11 main film and v12 natural-speed cooking](germany-oktoberfest-video-planning.md). The 155.583-second festival film retains the accepted sample style. The separate cooking film now uses its original narration speed and lasts 28.708 seconds after feedback that v11 sounded too slow. Revised pace and complete-film approval remain pending.
 
 
 

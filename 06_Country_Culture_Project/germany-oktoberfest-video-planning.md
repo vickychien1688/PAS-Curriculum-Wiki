@@ -1,12 +1,18 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-02. Version 11 is the current private review: a 155.583-second festival film and a separate 35.208-second Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+Updated 2026-11-02. The current private review is the unchanged 155.583-second v11 festival film and the separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+
+## Cooking pace revision: v12
+
+The user found the cooking narration too slow and unnatural. Version 12 directly reuses the original native Sparkles recording, removing v11’s additional 0.86 time stretch and inserted pauses. Speech content and pitch are retained, and captions and step labels follow the original native timestamps. The cooking film is 28.708 seconds instead of 35.208 seconds. The v11 artistic title, cooking demonstrations and family ending remain; the main festival film has not changed.
+
+Both cooking outputs passed full decoding. The title, cutpoints and ending were visually inspected; seven desktop files match their private originals by SHA-256. These checks do not constitute complete human listening or user approval of the revised pace. No new image, animation or speech generation was needed.
 
 ## Applied standard
 
 Every topic has a separate full-screen wooden illustrated title page, large hand-lettered type, and a distinct subject illustration. The title is visible from the first frame; a small chapter label identifies the following action. Seven new backgrounds cover the other six cultural topics and cooking, while the food chapter retains the accepted sample design. Main and subtitle typography use the locally available SwingSet BB; chapter numbers use Nunito. Font files remain private.
 
-The existing Sparkles narration is slowed to 0.86 of its former rate with pitch preserved, with short pauses between shots and food presentations. Captions and teaching labels are retimed to this audio. People move at normal speed. The main film contains 29 distinct moving sources, each used once; cooking has eight moving sources and its own title. No moving source is looped, frozen, or slowed to fill speech. Music runs continuously across the cultural chapters.
+In the main festival film, the existing Sparkles narration is slowed to 0.86 of its former rate with pitch preserved, with short pauses between shots and food presentations. Captions and teaching labels are retimed to this audio. People move at normal speed. The main film contains 29 distinct moving sources, each used once; cooking has eight moving sources and its own title. No moving source is looped, frozen, or slowed to fill speech. Music runs continuously across the cultural chapters.
 
 The latest request to hold up each named food supersedes v07’s plate-on-table gesture. Eight new food presentations show the items toward the viewer; longer presentations use native animation extensions. The v10 representative sample is 10.333 seconds and the complete food chapter is 48.167 seconds. The former awkward plate-setting pose remains rejected.
 
@@ -42,8 +48,8 @@ The separate cooking sequence covers adult-led peeling, grating, squeezing, mixi
 
 ## Validation and remaining work
 
-The eight chapter exports and two packaged films are 1920×1080 at 24 fps, H.264/AAC, and passed full decoding. Actual title frames, every chapter’s cutpoint sheet, the calendar labels, clothing pointers, food presentations and new extension junctions were visually inspected. Existing narration was locally transcribed after the speed adjustment. Main-film/cooking loudness is about −17.6/−18.1 LUFS, with true peaks of −2.6/−2.9 dBFS. Thirty-two desktop delivery files match the private v11 originals by SHA-256; nine v10 files are also verified.
+The prior v11 eight chapter exports and two packaged films are 1920×1080 at 24 fps, H.264/AAC, and passed full decoding. Actual title frames, every chapter’s cutpoint sheet, the calendar labels, clothing pointers, food presentations and new extension junctions were visually inspected. Existing narration was locally transcribed after the speed adjustment. Main-film/cooking loudness is about −17.6/−18.1 LUFS, with true peaks of −2.6/−2.9 dBFS. Thirty-two desktop delivery files match the private v11 originals by SHA-256; nine v10 files are also verified.
 
 This is sampled visual and technical validation, not complete real-time human viewing, complete human listening, or final user approval. Some background apple-strudel filling remains overly rounded, cabbage is stylized, and exuberant expressions remain for review. The scenes are generated illustrations rather than documentary images.
 
-Next, review the integrated v11 films and address specific feedback without reopening the accepted sample direction. Earlier rejected translucent panels, the v05 cream-and-bunting title, detached hands, empty plates and duplicate-looking crowd are not reintroduced. The v04–v09 outputs remain historical. Full scripts, prompts, source assets, fonts and production files remain private. No extra quota purchase, voice replacement or public audiovisual release has been made.
+Next, review the v11 main film and v12 cooking pace and address specific feedback without reopening the accepted sample direction. Earlier rejected translucent panels, the v05 cream-and-bunting title, detached hands, empty plates and duplicate-looking crowd are not reintroduced. The v04–v09 outputs remain historical. Full scripts, prompts, source assets, fonts and production files remain private. No extra quota purchase, voice replacement or public audiovisual release has been made.
