@@ -2,6 +2,16 @@
 
 Updated 2026-11-01. Private review v03 is one continuous 148.417-second film with eight clearly identified topics, Sparkles English narration, speech-aligned captions and continuous music. It is 31.1% shorter than v02 in response to the user's slow-pacing feedback. Final user approval remains pending. Previous reviews are retained; no public audiovisual release has been made.
 
+## v04 revision in progress — latest user decisions
+
+The latest playable film is still v03. The new deliverable will be a seven-topic festival film plus a separate Potato Pancake cooking film. Neither new film has been exported or approved yet. Preserve the exact Canva topic headings, unique shot sources, lively normal-speed actions, simple English narration and visible chapter identification.
+
+The food section now depicts a family outing with both parents, a boy and a girl at one shared table. Introduce the original eight different foods individually, one plate/portion of each, with varied family interactions. Repetitive stalls of identical dishes and the earlier mother-and-boy-only arrangement are superseded. The mother's outfit must retain a plausible Dirndl blouse, a shallow square neckline with a broad opaque white panel above the bust, natural comfortable fit, blue floral dress and plain blue waist apron. No visible cleavage or exaggerated bust; do not replace the blouse with an arbitrary ordinary shirt collar. Earlier high-collar and low-neck revisions are rejected. Clothing is described as Bavarian regional traditional dress, not a single national German uniform.
+
+Research has included the user's [DW Travel film](https://www.youtube.com/watch?v=Eom1s9LRKik), especially clothing at 2:53 and 3:10, the official [Dirndl guidance](https://www.oktoberfest.de/en/attractions/tradition/perfect-dirndl-oktoberfest), Munich Tourism, actual BR opening ceremony footage, and festival food menus. The guide confirms multiple blouse necklines including higher-necked options; the selected shallow square-neck style preserves cultural context while meeting the classroom presentation requirement. Sachertorte is identified as Austrian, with its festival availability verified in the Café Theres menu. All culture films require cross-checking primary sources and relevant real demonstrations before generating instructional actions.
+
+Pending production: finish and inspect the latest family/clothing animations; add Start/End calendar labels, clear clothing labels and lively opening cheers; align existing native voice recordings; rebuild correct cooking demonstrations as a separate film; then export, inspect and provide playable reviews. Full media and scripts remain private, with no public release or additional quota purchase.
+
 ## Structure and current private outputs
 
 Chapter openers use the exact topic headings visually checked against the supplied Canva deck. Each opener has a different newly generated scene. Food precedes cooking to connect the festival visit to the practical extension.
