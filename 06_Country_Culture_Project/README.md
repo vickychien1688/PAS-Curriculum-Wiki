@@ -1,4 +1,4 @@
-2026-11-02: [Oktoberfest — natural family-food gesture and independent openers](germany-oktoberfest-video-planning.md). V07 replaces the rejected mother plate-setting motion in the short sample and full food chapter. Other chapter-opening integration and final visual approval remain pending; full media stay private.
+2026-11-02: [Oktoberfest — larger, immediately visible chapter title](germany-oktoberfest-video-planning.md). V08 enlarges the food opening text and fixes its missing first-frame headline in the short sample and full food chapter. The v07 natural gesture and soundtrack are retained. Final visual approval and other chapter-opening integration remain pending.
 
 
 
