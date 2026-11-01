@@ -1,4 +1,4 @@
-2026-11-02: [Oktoberfest — v11 main film and v12 natural-speed cooking](germany-oktoberfest-video-planning.md). The 155.583-second festival film retains the accepted sample style. The separate cooking film now uses its original narration speed and lasts 28.708 seconds after feedback that v11 sounded too slow. Revised pace and complete-film approval remain pending.
+2026-11-02: [Oktoberfest — v13 content/motion revision and v12 cooking](germany-oktoberfest-video-planning.md). The current main-film review is 192.667 seconds, with corrected family/food continuity, clearer clothing background, more rides, group singing/clapping and a favorite-food question. The separate 28.708-second cooking film is unchanged. Complete-film approval remains pending.
 
 
 
