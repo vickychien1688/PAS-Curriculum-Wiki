@@ -15,6 +15,8 @@ Updated 2026-11-01. Eight private animated review chapters are now rendered with
 | 7 | Food stalls and representative foods | 27 seconds |
 | 8 | Potato-pancake cooking extension | 49 seconds |
 
+A verified local desktop review copy is also available after the user reported difficulty opening the review. The combined MP4 has been loaded successfully in QuickTime; this access fix does not change the content or its pending approval status.
+
 The eight chapters total 222.5 seconds. Each is available privately as a separate 1920×1080, 24 fps MP4 with editable subtitle data; a combined review film and chapter-selection page are also prepared. Full scripts, prompts, reference images and video files remain private.
 
 The supplied Canva deck contains a cover and eight topics. The accepted guide-led narrative uses short, concrete English tied to visible action, without compulsory repeated quizzes. Food is introduced before cooking so the child guide's visit leads naturally into the practical extension. The new food-stall establishing shot shows the approach and setting before closer introductions of pretzels, sausages, potato pancakes and apple sauce.
