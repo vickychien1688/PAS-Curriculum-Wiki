@@ -1,4 +1,4 @@
-2026-11-02: [Oktoberfest — larger, immediately visible chapter title](germany-oktoberfest-video-planning.md). V08 enlarges the food opening text and fixes its missing first-frame headline in the short sample and full food chapter. The v07 natural gesture and soundtrack are retained. Final visual approval and other chapter-opening integration remain pending.
+2026-11-02: [Oktoberfest — artistic, readable chapter lettering](germany-oktoberfest-video-planning.md). V09 uses hand-lettered title typography in the short sample and full food chapter, retaining immediate visibility, the v07 gesture and unchanged soundtracks. Visual approval and other chapter-opening integration remain pending.
 
 
 
