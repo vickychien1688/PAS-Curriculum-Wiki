@@ -35,6 +35,8 @@ Sources checked include the official [festival history](https://www.oktoberfest.
 
 ## Sound, validation and next step
 
+Following the user’s instruction to continue, the eight chapter narration scripts and cached generation workflow are prepared against the current 30-shot timeline. Each topic heading is spoken once; the wedding-race explanation remains one complete sentence. The live account check on November 1 at 16:39 Taipei still showed no included quota, with reset scheduled for 18:53. The generation guard stopped before any synthesis request. No new audio or v03 film has been produced; v02 remains the current playable review. Continue with the retained Sparkles voice after rechecking quota, then align actual speech and captions.
+
 Review music retains its CC BY 4.0 attribution. The existing Sparkles narration voice is unchanged; this revision used no new TTS or additional paid quota. Narration is still pending the existing account reset, and caption timing must then be aligned to the actual voiceover.
 
 The eight chapter files and complete film are 1920×1080 at 24 fps, H.264 with AAC 48 kHz. All have full-decode evidence. The complete video's picture and audio streams are each 215.5 seconds, with a measured peak of −3.5 dB. New native clips were sampled each second; all chapter title cards and cutpoints were visually sampled. Thirty unique video sources and underlying reference-image identities were checked. Twenty-nine desktop delivery files match the private source checksums. QuickTime displayed 03:36 and advancing playback, then was paused at the opening title.
