@@ -1,4 +1,4 @@
-2026-11-01: [Oktoberfest review v03 — voiced pacing revision](germany-oktoberfest-video-planning.md). The private eight-chapter film is now 148.417 seconds, 31.1% shorter, with Sparkles narration, speech-aligned captions, continuous music and 30 unique shots. User approval remains pending; no public audiovisual release.
+2026-11-02: [Oktoberfest — family food and independent chapter openers](germany-oktoberfest-video-planning.md). Seven-topic main review and separate cooking review are exported. The user rejected the first standalone-title design; a new illustrated food-opening sample is pending visual review. Full media remain private.
 
 
 
