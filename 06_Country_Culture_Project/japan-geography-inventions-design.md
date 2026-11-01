@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Starter WS3 onset expression revised after visual feedback
+
+The user rejects the first picture's restrained concern and requests Maruko's exaggerated childlike terror and visible whole-body trembling. A private v3 sample replaces only that onset picture with a stronger cartoon reaction, including enlarged startled eyes, an open mouth, sweat, dread shading and shaking hands, hips and knees. The four-picture layout and subsequent protective actions retain their established form.
+
+All wording, font properties, text geometry and four reused illustrations are unchanged. Actual typography validation, full-page/detail review and two rendering engines were checked; comparison with v2 confirms zero changed pixels outside the first picture frame. Existing approved media and the preceding sample are preserved. The revised PNG/PDF is available in the established private desktop sample folder. Visual approval remains pending, as do audio and production QR. The rejected mild expression and its reason are recorded privately; full materials and prompts remain private.
+
+
 ## 2026-11-01 — Starter WS3 earthquake activity revised to four pictures
 
 The user requests an initial picture of the earthquake starting and Maruko looking alarmed, followed by the three protection actions. The private revised sample now presents four numbered pictures from left to right: an onset scene and the three previously produced action illustrations. The existing onset cue moves beneath the first picture; no new English learning text is added.
