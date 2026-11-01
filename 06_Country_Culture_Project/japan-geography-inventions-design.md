@@ -1,5 +1,14 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Starter WS3 wording and guide accepted; complete sample ready
+
+The user accepts the preceding Starter WS3 text and Maruko guide proposal. A private one-page native-text PDF and 600dpi PNG now combine a large Mount Fuji panorama, three separate classroom-protection illustrations, and a highest-mountain fact. The reading and classroom practice are distinct sections; the worksheet does not suggest that volcanoes cause all earthquakes. Teacher-led practice uses a nearby sturdy desk and distinguishes lowering the body, taking cover and holding a desk leg while remaining protected.
+
+The established header, school logo, listening module and scenic footer are retained. Actual 34pt Chewy Regular titles, 17pt Nunito Black section headings and 13pt body text pass font/hash/weight validation. The shared rule and checker explicitly include subsequent Japan PE1 pages and the new activity heading. Full-page rendering in two engines and action details were reviewed; the original twenty-two approved media files remain unchanged. The PNG/PDF sample is available in the established private desktop folder, with generation prompts, editable source, approval record and QA kept privately.
+
+Whole-page visual approval, audio and production QR remain pending. Continue from the PNG sample without reopening accepted wording, guide or typography decisions; do not infer sharing with another level. Full student materials and art remain private.
+
+
 ## 2026-11-01 — Continue with Starter WS3 content discussion
 
 After the full heading correction, the user requests continuation. Following the current six-theme sequence, work moves to Starter WS3 about Mount Fuji, volcano recognition and classroom earthquake protection. Current Starter Units 1–4 and official JMA and Taiwan CWA/NFA information were reviewed. A private short text proposal pairs teacher-led recognition with the three protection actions and a highest-mountain fact. Volcano eruptions and earthquakes remain distinct phenomena.
