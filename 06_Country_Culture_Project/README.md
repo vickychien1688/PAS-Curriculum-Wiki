@@ -1,4 +1,4 @@
-2026-11-01: [Oktoberfest eight-part animated review](germany-oktoberfest-video-planning.md). Eight private chapters with English captions and music are rendered, including the food-stall approach and cooking sequence. Narration and final approval remain pending; no public audiovisual release.
+2026-11-01: [Oktoberfest review v02 — one film, eight chapters](germany-oktoberfest-video-planning.md). A private 215.5-second film now has exact topic openers, 30 unique shots, boy/girl guides, visible music and dancing, and a revised historical crowd. Narration and final approval remain pending; no public audiovisual release.
 
 
 

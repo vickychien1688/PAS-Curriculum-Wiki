@@ -1,31 +1,31 @@
-# Oktoberfest: eight-part cultural video review
+# Oktoberfest: one film with eight chapters
 
-Updated 2026-11-01. Eight private animated review chapters are now rendered with simple English captions and music. The user authorized continuing the full series after the first trial. Formal narration, final timing and audiovisual approval remain pending. No public audiovisual release has been made.
+Updated 2026-11-01. Private review v02 is rendered as one continuous 215.5-second film with eight clearly identified topics, simple English captions and continuous music. Formal narration and final user approval remain pending. The previous v01 review is retained as history; no public audiovisual release has been made.
 
 ## Structure and current private outputs
 
-| Part | Focus | Review length |
+Chapter openers use the exact topic headings visually checked against the supplied Canva deck. Each opener has a different newly generated scene. Food precedes cooking to connect the festival visit to the practical extension.
+
+| Chapter | Topic heading | Review length |
 | --- | --- | --- |
-| 1 | Welcome to Oktoberfest and Munich | 26.5 seconds |
-| 2 | Royal wedding celebration and horse race | 28 seconds |
-| 3 | Why the festival begins in September | 26 seconds |
-| 4 | Parade and opening tradition | 22 seconds |
-| 5 | Traditional clothing | 22 seconds |
-| 6 | Rides, games and music | 22 seconds |
-| 7 | Food stalls and representative foods | 27 seconds |
-| 8 | Potato-pancake cooking extension | 49 seconds |
+| 1 | What is Oktoberfest? | 20 seconds |
+| 2 | A Royal Wedding | 30.5 seconds |
+| 3 | Why September? | 16 seconds |
+| 4 | Oktoberfest Traditions | 23 seconds |
+| 5 | Traditional Clothes | 16 seconds |
+| 6 | Fun at Oktoberfest | 35 seconds |
+| 7 | Traditional German Food | 22 seconds |
+| 8 | Let’s Make Potato Pancakes! | 53 seconds |
 
-A verified local desktop review copy is also available after the user reported difficulty opening the review. The combined MP4 has been loaded successfully in QuickTime; this access fix does not change the content or its pending approval status.
+The complete film contains 30 unique shots from 30 distinct source-image identities. No source video or image is reused as another shot, crop or filler. Boy and girl guides alternate. New material includes arrival, a storybook, warm autumn weather, a drummer, a dress demonstration, a carousel, fresh pretzels, ingredients, an early festival gathering, accordion playing and dancing. Music scenes include visible performance, clapping and dancing.
 
-The eight chapters total 222.5 seconds. Each is available privately as a separate 1920×1080, 24 fps MP4 with editable subtitle data; a combined review film and chapter-selection page are also prepared. Full scripts, prompts, reference images and video files remain private.
-
-The supplied Canva deck contains a cover and eight topics. The accepted guide-led narrative uses short, concrete English tied to visible action, without compulsory repeated quizzes. Food is introduced before cooking so the child guide's visit leads naturally into the practical extension. The new food-stall establishing shot shows the approach and setting before closer introductions of pretzels, sausages, potato pancakes and apple sauce.
+The full film has a continuous music bed across chapter boundaries. Separate chapter files remain available only for focused review. The local review page plays the complete film and seeks to chapter locations. A verified desktop copy has been loaded and played in QuickTime after the user previously reported difficulty opening the review.
 
 ## Revisions and continuity
 
-The first trial had been described as too slow. The shorter first chapter is now actually rendered with shorter holds and selective picture-speed changes. Subsequent clips use native character action through the established VideoExpress workflow.
+Twelve new reference images and native animation jobs were made; eleven new clips were selected. The user rejected the first historical festival picture because adults and children appeared cloned. That image and its animation are excluded. Its replacement uses five foreground people with distinct ages, faces, hairstyles, builds and clothing. Background crowds must not become copies of the recurring guides.
 
-The mother's white blouse, blue floral bodice, blue waist apron and waist bow are the cooking continuity reference; the boy retains his light-blue kitchen apron. Disembodied-hand reference images and an unsettling applesauce image were rejected before use in the review edit. Revised cooking frames show connected arms and a visible torso. Frying includes actual spatula turns; minor pancake overlap and count ambiguity remain review limitations. A mistaken food-camera focus and changing book-page art were revised selectively. Calendar labels are added locally and tracked with the board rather than generated as image text.
+The mother's white blouse, blue floral bodice, blue waist apron and waist bow remain the cooking continuity reference; the boy retains his light-blue kitchen apron. The earlier disembodied-hand and unsettling applesauce images remain rejected. Retained cooking clips show connected arms, frying and applesauce preparation; minor pancake overlap and count ambiguity remain review limitations. Calendar labels are added locally and tracked with the board.
 
 ## History and source scope
 
@@ -35,6 +35,8 @@ Sources checked include the official [festival history](https://www.oktoberfest.
 
 ## Sound, validation and next step
 
-Review music has been added with retained CC BY 4.0 attribution. The original ElevenLabs narration voice remains selected, but its account quota has not reset; no substitute voice or additional paid quota was used. Caption timing is provisional and must be aligned to the eventual narration.
+Review music retains its CC BY 4.0 attribution. The existing Sparkles narration voice is unchanged; this revision used no new TTS or additional paid quota. Narration is still pending the existing account reset, and caption timing must then be aligned to the actual voiceover.
 
-The actual chapter files and combined film have specification and full-decode evidence. Native clips, final frames and cutpoints have sampled visual review records. Sampling and decoding are not represented as full-speed human viewing, listening or final user approval. Continue with the existing private review files and revision history, then add narration and retime only what requires it. Other Germany and Japan worksheet releases and the original Canva design remain unchanged.
+The eight chapter files and complete film are 1920×1080 at 24 fps, H.264 with AAC 48 kHz. All have full-decode evidence. The complete video's picture and audio streams are each 215.5 seconds, with a measured peak of −3.5 dB. New native clips were sampled each second; all chapter title cards and cutpoints were visually sampled. Thirty unique video sources and underlying reference-image identities were checked. Twenty-nine desktop delivery files match the private source checksums. QuickTime displayed 03:36 and advancing playback, then was paused at the opening title.
+
+These checks are not represented as full-speed human viewing, complete listening or final user approval. Continue from v02 with its rejection history, then add the existing narration voice and retime only what requires it. Full scripts, prompts, reference images, media and production files remain private in the established canonical workspace and media archive. Public documentation contains scope and status only. Other Germany and Japan worksheet releases and the original Canva design remain unchanged.
