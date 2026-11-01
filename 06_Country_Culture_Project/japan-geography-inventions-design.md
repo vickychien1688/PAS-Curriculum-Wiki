@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Typography audit after renewed visual feedback
+
+A read-only audit of eleven current private PDFs confirms that all WS2 levels retain the shared title sizes and faces: 34pt Chewy Regular page title, 14pt Nunito Bold 700 ordinary headings, and 17pt Nunito Black 900 supplementary headings. Level 4 and its Level 5 copy have no size/weight drift from earlier levels. The first worksheet's page title is 42pt Chewy Regular, so the two worksheet titles do have different sizes. This existing cross-page distinction is now explicit in the persistent memory.
+
+All twenty-two media files are unchanged. Numeric conformance does not resolve the user's renewed visual concern; it remains active feedback. No new size, weight or blanket restyling decision is inferred. Content and the shared Level 4/5 arrangement remain accepted, and audio/production QR are still pending. Complete audit evidence and all teaching materials remain private.
+
+
 ## 2026-11-01 — Level 4 and Level 5 WS2 share the accepted layout
 
 After viewing the complete Level 4 sample, the user requests the same worksheet for Level 5. The accepted Level 4 PNG and PDF are archived unchanged, with byte-identical Level 5 access copies. Only the higher-level filenames carry the established shared-use note after the extension. No separate passage, artwork or layout is created. The fixed typography and all student content remain identical; eighteen earlier approved media files are preserved.
