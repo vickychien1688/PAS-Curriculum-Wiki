@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Starter WS3 earthquake activity revised to four pictures
+
+The user requests an initial picture of the earthquake starting and Maruko looking alarmed, followed by the three protection actions. The private revised sample now presents four numbered pictures from left to right: an onset scene and the three previously produced action illustrations. The existing onset cue moves beneath the first picture; no new English learning text is added.
+
+Only the activity area changes. Its captions retain 13pt size and one baseline; the established 34pt page title and 17pt Black section headings are preserved. Full-page and detailed review in two rendering engines, actual type checks and image checksums pass. Rendering confirms no pixel changes outside the activity area; the four reused source images, earlier sample and twenty-two previously approved media files are unchanged. The new PNG/PDF is saved privately in the established desktop sample area. Whole-page visual approval, audio and production QR remain pending; the initial alarm scene introduces immediate protective action and is not a prolonged standing instruction. Full artwork, prompts and student materials remain private.
+
+
 ## 2026-11-01 — Starter WS3 wording and guide accepted; complete sample ready
 
 The user accepts the preceding Starter WS3 text and Maruko guide proposal. A private one-page native-text PDF and 600dpi PNG now combine a large Mount Fuji panorama, three separate classroom-protection illustrations, and a highest-mountain fact. The reading and classroom practice are distinct sections; the worksheet does not suggest that volcanoes cause all earthquakes. Teacher-led practice uses a nearby sturdy desk and distinguishes lowering the body, taking cover and holding a desk leg while remaining protected.
