@@ -1,6 +1,6 @@
 # Oktoberfest: one film with eight chapters
 
-Updated 2026-11-01. Private review v02 is rendered as one continuous 215.5-second film with eight clearly identified topics, simple English captions and continuous music. Formal narration and final user approval remain pending. The previous v01 review is retained as history; no public audiovisual release has been made.
+Updated 2026-11-01. Private review v03 is one continuous 148.417-second film with eight clearly identified topics, Sparkles English narration, speech-aligned captions and continuous music. It is 31.1% shorter than v02 in response to the user's slow-pacing feedback. Final user approval remains pending. Previous reviews are retained; no public audiovisual release has been made.
 
 ## Structure and current private outputs
 
@@ -8,14 +8,14 @@ Chapter openers use the exact topic headings visually checked against the suppli
 
 | Chapter | Topic heading | Review length |
 | --- | --- | --- |
-| 1 | What is Oktoberfest? | 20 seconds |
-| 2 | A Royal Wedding | 30.5 seconds |
-| 3 | Why September? | 16 seconds |
-| 4 | Oktoberfest Traditions | 23 seconds |
-| 5 | Traditional Clothes | 16 seconds |
-| 6 | Fun at Oktoberfest | 35 seconds |
-| 7 | Traditional German Food | 22 seconds |
-| 8 | Let’s Make Potato Pancakes! | 53 seconds |
+| 1 | What is Oktoberfest? | 15.000 seconds |
+| 2 | A Royal Wedding | 18.500 seconds |
+| 3 | Why September? | 10.000 seconds |
+| 4 | Oktoberfest Traditions | 16.958 seconds |
+| 5 | Traditional Clothes | 9.208 seconds |
+| 6 | Fun at Oktoberfest | 20.542 seconds |
+| 7 | Traditional German Food | 17.833 seconds |
+| 8 | Let’s Make Potato Pancakes! | 40.375 seconds |
 
 The complete film contains 30 unique shots from 30 distinct source-image identities. No source video or image is reused as another shot, crop or filler. Boy and girl guides alternate. New material includes arrival, a storybook, warm autumn weather, a drummer, a dress demonstration, a carousel, fresh pretzels, ingredients, an early festival gathering, accordion playing and dancing. Music scenes include visible performance, clapping and dancing.
 
@@ -35,10 +35,10 @@ Sources checked include the official [festival history](https://www.oktoberfest.
 
 ## Sound, validation and next step
 
-Following the user’s instruction to continue, the eight chapter narration scripts and cached generation workflow are prepared against the current 30-shot timeline. Each topic heading is spoken once; the wedding-race explanation remains one complete sentence. The live account check on November 1 at 16:39 Taipei still showed no included quota, with reset scheduled for 18:53. The generation guard stopped before any synthesis request. No new audio or v03 film has been produced; v02 remains the current playable review. Continue with the retained Sparkles voice after rechecking quota, then align actual speech and captions.
+The existing included voice quota had reset when checked at 20:45 Taipei on November 1. Eight native Sparkles narration takes were generated with the retained voice settings, then aligned using their actual character timestamps. Chapter titles are spoken once. Inter-shot silence and long picture holds were shortened; some selected picture movement runs at 1.05–1.12 times speed. Speech rate and pitch are unchanged. No video source is looped, frozen or slowed to fill narration time.
 
-Review music retains its CC BY 4.0 attribution. The existing Sparkles narration voice is unchanged; this revision used no new TTS or additional paid quota. Narration is still pending the existing account reset, and caption timing must then be aligned to the actual voiceover.
+The complete film mixes the native voice with a continuous music bed that lowers during speech. Music retains its CC BY 4.0 attribution. No additional quota purchase or voice replacement was made.
 
-The eight chapter files and complete film are 1920×1080 at 24 fps, H.264 with AAC 48 kHz. All have full-decode evidence. The complete video's picture and audio streams are each 215.5 seconds, with a measured peak of −3.5 dB. New native clips were sampled each second; all chapter title cards and cutpoints were visually sampled. Thirty unique video sources and underlying reference-image identities were checked. Twenty-nine desktop delivery files match the private source checksums. QuickTime displayed 03:36 and advancing playback, then was paused at the opening title.
+The eight chapter files and complete film are 1920×1080 at 24 fps, H.264 with AAC 48 kHz. All passed full decoding. The complete picture is 148.416667 seconds and audio is 148.416 seconds; integrated loudness is −18.9 LUFS and true peak is −1.9 dBFS. All chapter contact sheets and cutpoint pairs were visually sampled. Full aligned narration and the final mixed soundtrack were transcribed locally to check content. The same ordered selection of 30 unique source videos and reference-image identities is retained. Twenty-nine desktop delivery files match their private source checksums. QuickTime displayed 02:28 and advancing playback before returning to the opening.
 
-These checks are not represented as full-speed human viewing, complete listening or final user approval. Continue from v02 with its rejection history, then add the existing narration voice and retime only what requires it. Full scripts, prompts, reference images, media and production files remain private in the established canonical workspace and media archive. Public documentation contains scope and status only. Other Germany and Japan worksheet releases and the original Canva design remain unchanged.
+These checks are not represented as full-speed human viewing, complete human listening or final user approval. Continue from the v03 voiced pacing review and its retained rejection history. Full scripts, prompts, reference images, media and production files remain private in the established canonical workspace and media archive. Public documentation contains scope and status only. Other Germany and Japan worksheet releases and the original Canva design remain unchanged.

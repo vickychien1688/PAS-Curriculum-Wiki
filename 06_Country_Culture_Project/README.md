@@ -1,4 +1,4 @@
-2026-11-01: [Oktoberfest review v02 — one film, eight chapters](germany-oktoberfest-video-planning.md). A private 215.5-second film now has exact topic openers, 30 unique shots, boy/girl guides, visible music and dancing, and a revised historical crowd. Narration and final approval remain pending; no public audiovisual release.
+2026-11-01: [Oktoberfest review v03 — voiced pacing revision](germany-oktoberfest-video-planning.md). The private eight-chapter film is now 148.417 seconds, 31.1% shorter, with Sparkles narration, speech-aligned captions, continuous music and 30 unique shots. User approval remains pending; no public audiovisual release.
 
 
 
