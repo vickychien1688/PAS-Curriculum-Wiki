@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-01 — Continue with Starter WS3 content discussion
+
+After the full heading correction, the user requests continuation. Following the current six-theme sequence, work moves to Starter WS3 about Mount Fuji, volcano recognition and classroom earthquake protection. Current Starter Units 1–4 and official JMA and Taiwan CWA/NFA information were reviewed. A private short text proposal pairs teacher-led recognition with the three protection actions and a highest-mountain fact. Volcano eruptions and earthquakes remain distinct phenomena.
+
+Specific English, activity presentation, supplementary fact and the previously proposed Maruko guide remain under discussion; no artwork, student PDF, audio or QR has been produced. Do not assume Starter/L1 or other level sharing. Continue text before layout, retain the unified 34pt page-title/17pt Black section-heading specification, and preserve the first two worksheets. Full proposed teaching content and source snapshots stay private.
+
+
 ## 2026-11-01 — Unified titles and section headings across both worksheets
 
 The user explicitly requests consistency for both page titles and every section heading. All current Japan PE1 WS1/WS2 levels now use 34pt Chewy Regular 400 page titles and 17pt Nunito Black 900 section headings. This replaces 42/34pt page-title differences and 12/14/17pt section-heading differences, including the previously overlooked numbered bottom sections in Starter and Level 1. The numeric choices are the implementation of the user's consistency request, not a claim that the user specified each number.
