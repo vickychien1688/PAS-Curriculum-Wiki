@@ -1,4 +1,4 @@
-2026-11-02: [Oktoberfest — family food and independent chapter openers](germany-oktoberfest-video-planning.md). Seven-topic main review and separate cooking review are exported. The user rejected the first standalone-title design; a new illustrated food-opening sample is pending visual review. Full media remain private.
+2026-11-02: [Oktoberfest — natural family-food gesture and independent openers](germany-oktoberfest-video-planning.md). V07 replaces the rejected mother plate-setting motion in the short sample and full food chapter. Other chapter-opening integration and final visual approval remain pending; full media stay private.
 
 
 

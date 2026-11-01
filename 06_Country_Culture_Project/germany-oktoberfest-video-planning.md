@@ -2,6 +2,12 @@
 
 Updated 2026-11-02. Private review v04 has been exported as a 127.25-second festival film and a separate 28.708-second Potato Pancake cooking film. Both have Sparkles English narration, aligned captions and music. These are review outputs, not user-approved or publicly released media.
 
+## Mother’s food-introduction gesture: v07 review
+
+The user rejected the mother’s awkward plate-setting pose at the end of the food opening sample. A new image and one new animation replace that action: the sausage plate remains supported on the table, the mother points naturally and interacts with the children, then rests her hands on the table. Both parents and both children remain present. The old plate-setting source is explicitly rejected for future assembly.
+
+The revised 8.375-second sample and 38.25-second complete food chapter have been exported. They retain the wooden-stall title, existing narration, music and other selected scenes. The sampled new hands, first/last poses and chapter cutpoints were inspected; both renders and the packaged chapter passed decoding. Decoded audio in the old and new short samples is byte-identical. Eleven desktop delivery files match the private originals by SHA-256. User visual approval and complete human listening remain pending. This targeted revision does not mean the other six new chapter openings have been completed.
+
 ## Latest design feedback
 
 The user wants a separate full-screen opening page for every topic, replacing the large translucent title panel covering the scene. The subsequent v05 cream-background and triangle-bunting design was explicitly rejected. It must not be reused or treated as approved.
@@ -44,4 +50,4 @@ The v04 main film and cooking film are 1920×1080 at 24 fps, H.264/AAC, and pass
 
 These checks do not constitute full-speed human viewing, complete human listening or final user approval. The featured apple-strudel shot was corrected to sliced apple filling, but background strudel in other food scenes still has overly rounded pieces; this remains a visual limitation to revise, not a claim of complete food realism.
 
-Next, review the new food opening design, resolve remaining food-detail concerns, extend the accepted title direction to the other chapters, and export the integrated final review. Previous rejected versions and reasons are retained. Full scripts, prompts, source assets, media and production files remain private. No additional quota purchase, voice replacement or public audiovisual release has been made. Other Germany/Japan materials and the source Canva deck remain unchanged.
+Next, review the v07 gesture correction and food opening design, resolve remaining food-detail concerns, extend the accepted title direction to the other chapters, and export the integrated final review. Previous rejected versions and reasons are retained. Full scripts, prompts, source assets, media and production files remain private. No additional quota purchase, voice replacement or public audiovisual release has been made. Other Germany/Japan materials and the source Canva deck remain unchanged.
