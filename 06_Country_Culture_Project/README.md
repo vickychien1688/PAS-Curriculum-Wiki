@@ -1,3 +1,5 @@
+2026-11-03: [Oktoberfest v21 — corrected roast-chicken motion near 2:54](germany-oktoberfest-video-planning.md). Local motion repair retains approved pacing, soundtrack, wooden chapter Logos and farewell branding. Complete and targeted private review files delivered.
+
 2026-11-03: [Oktoberfest v20 — larger wooden-card Logos and farewell branding](germany-oktoberfest-video-planning.md). Chapter marks moved down and enlarged; final family farewell gets an upper-left Logo. Timing/audio retained, other scenes clear. Private complete and short review files delivered.
 
 2026-11-03: [Oktoberfest v19 — Logo only on wooden chapter cards](germany-oktoberfest-video-planning.md). Accepted v18 pacing/audio and body footage retained; continuous watermark rejected, official transparent branding limited to seven title pages. Private complete and small files delivered; no lip-sync or channel publication.

@@ -1,6 +1,10 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-03. The current private review is the 191.042-second v20 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. The user has now accepted the v18 main film; v20 adjusts title-card branding and adds the requested farewell Logo, available for review. The separate cooking film has its own review status.
+Updated 2026-11-03. The current private review is the 191.042-second v21 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. The user has now accepted the v18 main film; v21 corrects roast-chicken motion near 2:54 while retaining v20 branding, available for review. The separate cooking film has its own review status.
+
+## v21: stable roast-chicken motion near 2:54
+
+The user identified an abrupt large rotation of the roast chickens near 2:54. A private VideoExpress continuation from the last safe source frame replaces the final 0.75 seconds of motion; the roast-chicken shot is locally recomposited at its original duration. Native 0.85 narration, subtitle timing, soundtrack and v20 wooden-card/farewell branding are unchanged. Six chapter files are bit-identical; unedited portions of the seventh chapter and full master retain identical decoded pixels. Ten exports passed full decoding, frame-count and audio-stream checks; the changed frames and cutpoints were visually inspected. Complete, lightweight and 10-second targeted private reviews are available. Full human viewing/listening and user acceptance of the corrected movement are not claimed. No channel creation or publication occurred.
 
 ## v20: larger chapter branding and a farewell Logo
 
