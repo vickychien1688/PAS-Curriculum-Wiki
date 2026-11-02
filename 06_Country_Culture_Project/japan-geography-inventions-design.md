@@ -1,5 +1,16 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-03 — Audio order corrected; WS3 rejected; WS1 Starter preview ready
+
+The user reports broken/distorted sound in the preceding WS3 preview and requires production to begin with the first worksheet, completing that worksheet before proceeding. The adopted sequence is WS1 across its existing levels, beginning with Starter, before WS2 or WS3. The prior WS3 audio is rejected and preserved for later investigation; its visual worksheet approval remains valid. Neither the native nor delivered WS3 files show digital full-scale clipping in a four-times oversampled check, but that does not rule out synthesis or playback defects, and the precise audible cause is unconfirmed.
+
+A private WS1 Starter preview now contains eight approved learning phrases/instructions and a roughly34-second practice track. It retains Sparkles, native speed0.85 and three-second practice gaps. Native PCM sources feed a single MP3 encode. Two saturated candidates for one sentence were excluded; one bounded replacement uses locally reduced similarity and calmer punctuation without changing its words, speaker or pace. This is not a new global voice preset or evidence that the prior issue is cured.
+
+All selected native sources are free of full-scale samples; final decode, levels and transcripts were checked, including the Japanese greeting. Actual prior approved audio was used as a diagnostic reference. Pitch-method disagreements and the lack of auditory assessment remain documented; these checks do not establish natural timbre or Japanese accent approval. The preview, individual clips, lossless full track, exact script and provenance stay private. All twenty-four approved worksheet media files are unchanged.
+
+Next: review WS1 Starter's concrete audio, then continue WS1 Level1 and subsequent existing levels. Other WS1 audio, publication and QR integration remain unfinished. Do not describe the first worksheet across all levels as complete, and do not resume later worksheets out of order.
+
+
 ## 2026-11-03 — Starter WS3 native audio preview produced
 
 The restored speech quota was checked and the user-authorized Starter WS3 audio preview is complete privately. It uses the established Sparkles voice at native speed 0.85, similarity 0.85 and stability 0.70–0.75. Eight individual clips include a separate optional teacher-supported height supplement. The main practice track is approximately 29 seconds, with three-second practice gaps; the optional number reading is excluded from that track. Native delivery is retained with constant-gain normalization only.
