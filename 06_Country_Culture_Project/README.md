@@ -1,3 +1,5 @@
+2026-11-03: [Oktoberfest v17 sound revision delivered](germany-oktoberfest-video-planning.md). Audible drum, group singing/clapping and cheers; 161.542-second complete film, unchanged speech speed, 720p and under-10-MB private copies. Illustrative audio is labeled, not presented as field sound. Full human listening and final user approval remain pending.
+
 2026-11-02: [Oktoberfest sound authenticity audit](germany-oktoberfest-video-planning.md). User asks for factual sound verification; parade drums and group singing/clapping need matching audible examples. v16 visuals retained, sound revision pending; no new export.
 
 2026-11-02: [Oktoberfest v16 small review files](germany-oktoberfest-video-planning.md). Added a full-film copy below 10 MB plus food/cake previews after the 285 MB master could not be viewed; content unchanged, review pending.
