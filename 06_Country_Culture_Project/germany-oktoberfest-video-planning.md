@@ -1,6 +1,12 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-02. The current private review is the 156.542-second v14 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+Updated 2026-11-02. The current private review is the 156.542-second v15 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+
+## Calendar text correction: v15
+
+The user reported October jumping twice at 36–38 seconds. The right-hand calendar tracker briefly included the boy's hand in the paper boundary, enlarging and shifting the labels before returning. The correction rejects that outlier, smooths the paper position and fixes the label scale. October, End and 10 now remain stable while following the card's natural movement. September is unchanged.
+
+Only chapter 3 was re-rendered. The six other chapter videos and captions are byte-identical to v14; the full-film and chapter-3 AAC audio streams also match v14 exactly. Duration, cultural content, 37 distinct moving sources, natural narration and family farewell remain unchanged. No new image, animation or speech generation was needed. A separate 4.25-second calendar preview accompanies the complete film.
 
 ## Natural narration and ending: v14
 
@@ -26,7 +32,7 @@ Both cooking outputs passed full decoding. The title, cutpoints and ending were 
 
 Every topic has a separate full-screen wooden illustrated title page, large hand-lettered type, and a distinct subject illustration. The title is visible from the first frame; a small chapter label identifies the following action. Seven new backgrounds cover the other six cultural topics and cooking, while the food chapter retains the accepted sample design. Main and subtitle typography use the locally available SwingSet BB; chapter numbers use Nunito. Font files remain private.
 
-The v14 main film uses fresh native Sparkles narration with revised sentence gaps and no post-production speech slowdown. Its 37 distinct visible moving sources are each used once; cooking has eight moving sources and its own title. No moving source is looped, frozen, or slowed to fill speech. Music runs continuously across the cultural chapters. All new selected motion is at native speed except the deliberately faster dance described above.
+The v15 main film retains v14’s native Sparkles narration with revised sentence gaps and no post-production speech slowdown. Its 37 distinct visible moving sources are each used once; cooking has eight moving sources and its own title. No moving source is looped, frozen, or slowed to fill speech. Music runs continuously across the cultural chapters. All new selected motion is at native speed except the deliberately faster dance described above.
 
 The latest request to hold up each named food supersedes v07’s plate-on-table gesture. Eight new food presentations show the items toward the viewer; longer presentations use native animation extensions. The v10 representative sample is 10.333 seconds and the complete food chapter is 48.167 seconds. The former awkward plate-setting pose remains rejected.
 
@@ -34,7 +40,7 @@ The latest request to hold up each named food supersedes v07’s plate-on-table 
 
 Topic headings retain the original Canva wording. Cooking remains a separate extension.
 
-| Chapter | Topic | v14 length |
+| Chapter | Topic | v15 length |
 | --- | --- | --- |
 | 1 | What is Oktoberfest? | 14.375 seconds |
 | 2 | A Royal Wedding | 16.792 seconds |
@@ -65,8 +71,10 @@ For v13, cross-checks include the official [Dirndl history](https://www.oktoberf
 
 ## Validation and remaining work
 
-The seven v14 chapter exports and combined main film are 1920×1080 at 24 fps, H.264/AAC, and passed full decoding. The new farewell selected range was sampled at 8 fps, including its native extension junction. Final first frames, every cutpoint, calendar/clothing labels and ending typography/fade were inspected. All native takes and the entire final mix were transcribed locally. Long-form transcription anomalies were checked against source mappings and isolated segments; foreign-name spelling variation is documented. Loudness is approximately −18.61 LUFS, with a true peak of −1.93 dBFS. Twenty-six desktop files match their private originals by SHA-256. The previous v13 main film and separate v12 cooking remain byte-identical.
+The v15 chapter exports and combined main film are 1920×1080 at 24 fps, H.264/AAC. The revised chapter, complete film and short preview passed full decoding; the six unchanged chapters retain their v14 decoding evidence. All 102 rendered calendar frames were checked: the largest adjacent October text-center step decreased from 35.5 to 1 pixel, and width change from 23 to 1 pixel. The before/after comparison and changed chapter cutpoints were inspected. Twenty-seven desktop files match their private originals by SHA-256. The full-film and chapter-3 audio streams match v14; the separate v12 cooking film remains byte-identical.
+
+V14's prior checks of the farewell, other chapter cutpoints and final audio transcription remain applicable to the unchanged material. Its mix measured approximately −18.61 LUFS with a true peak of −1.93 dBFS. No claim of a new complete human listening pass is made.
 
 This is sampled visual and technical validation, not complete real-time human viewing, complete human listening, or final user approval. Some background apple-strudel filling remains overly rounded, cabbage is stylized, and expressions and speech pace remain subject to review. The scenes are generated illustrations rather than documentary images.
 
-Next, review the v14 main-film delivery and farewell, and the v12 cooking pace and address specific feedback without reopening the accepted sample direction. Earlier rejected translucent panels, the v05 cream-and-bunting title, detached hands, empty plates and duplicate-looking crowds are not reintroduced. Failed new generations are retained privately with rejection reasons. Full scripts, prompts, source assets, fonts and production files remain private. No public audiovisual release has been made.
+Next, review the v15 calendar correction and complete film, and the v12 cooking pace and address specific feedback without reopening the accepted sample direction. Earlier rejected translucent panels, the v05 cream-and-bunting title, detached hands, empty plates and duplicate-looking crowds are not reintroduced. Failed new generations are retained privately with rejection reasons. Full scripts, prompts, source assets, fonts and production files remain private. No public audiovisual release has been made.
