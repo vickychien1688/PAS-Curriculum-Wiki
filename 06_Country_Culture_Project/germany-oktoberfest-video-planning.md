@@ -1,10 +1,14 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-03. The current private review is the 161.542-second v17 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+Updated 2026-11-03. The current private review is the 191.042-second v18 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
 
-## Pacing sample pending approval
+## Approved pacing applied: v18
 
-The user identified erratic calendar gestures, an unnecessarily difficult regional adjective and insufficient breathing room. Their latest instruction is to hear a short speed sample before any complete-film revision. One private 11.811-second four-sentence preview uses the established voice at native 0.85 speed with 0.600-second sentence gaps. The full film remains v17 at its existing speed; no v18 movie or replacement animation has been generated. Calendar gesture repair, simpler clothing wording and full-film pacing changes await the user's response to this sample.
+The user approved the private 0.85-speed listening sample. The complete 191.042-second v18 film now uses the established voice at native 0.85, sentence gaps around 0.6 seconds and longer chapter, listening and question holds. Four sentences reuse the exact approved sample takes; there is no post-production speech-speed or pitch alteration. The regional clothing sentence uses simpler child-friendly wording. The sample approval does not constitute final approval of the entire film.
+
+A new private VideoExpress calendar shot holds a steady presenting hand. Month and Start/End labels use tracked board features and fixed font scale. Narration begins over the preceding autumn scene before the calendar enters on the month name. A brief new continuation of the roast-chicken stall provides sufficient original-speed footage. No body shot is repeated or frozen to extend time. The same 37 unique body shots, illustrative drum/singing/cheering tracks, family ending and separate v12 cooking film remain. Lip-sync is not applied.
+
+The master, seven chapter files and two lightweight copies passed decoding; timing, captions, audio levels and visual samples were checked. Native narration and the final closing line were transcribed. Full human playback/listening and complete-film user approval remain pending. The private review includes a 720p copy of approximately 29.6 MB and a copy below 10 MB. Full media and production sources remain private. Earlier v17 specifications below are historical.
 
 ## Sound revision delivered: v17
 
