@@ -1,6 +1,14 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-02. The current private review is the 156.542-second v15 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+Updated 2026-11-02. The current private review is the 156.542-second v16 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+
+## Black Forest cake visual and narration correction: v16
+
+The user's latest instruction explicitly requested replacing the cake image as well as its name. It supersedes the earlier text-only choice. The new private v16 review replaces the mother's held cake with visible chocolate sponge, white whipped-cream layers, cherries and chocolate shavings, retaining the same family of four and modest clothing. One localized image edit and one VideoExpress motion generation supply a 4.042-second presentation shot. The cake is described as a famous German cake, supported by [Baden-Württemberg tourism](https://www.visit-bw.com/en/tips-and-stories/black-forest-cake), without claiming it is an Oktoberfest signature.
+
+One sentence uses the established Sparkles voice at native speed. The six unaffected chapter files, v15 month correction, family farewell and separate v12 cooking film are preserved. The full film remains 156.542 seconds at 1920 × 1080, 24 fps. Changed-source frame sampling, rendered cutpoint inspection, subtitle/ASR comparison and complete decoding passed; these are not a claim of complete human listening or final user approval. A short cake preview accompanies the full review. The current VideoExpress HD lip-sync path required 9:16; no lip-sync was applied to this landscape film. Public gallery sharing was disabled. Full media and working files remain private.
+
+The following research notes describe the earlier state before this explicit visual correction.
 
 ## Food relevance review: 2026-11-02 (no new film export)
 

@@ -1,3 +1,5 @@
+2026-11-02: [Oktoberfest v16 — Black Forest cake correction](germany-oktoberfest-video-planning.md). Cake imagery, label, subtitle and established voice now agree. New family presentation motion; 156.542-second main film, unchanged v12 cooking. Private review pending; lip-sync not applied. This supersedes the earlier no-export research status below.
+
 2026-11-02: [Oktoberfest food relevance review](germany-oktoberfest-video-planning.md). Official festival sources distinguish signature food from café availability; cake replacement awaits this corrected scope. VideoExpress lip-sync controls verified, no new generation or v16 export. Current film remains v15.
 
 2026-11-02: [Oktoberfest — v15 stable calendar labels](germany-oktoberfest-video-planning.md). Corrected the October/End/10 jump at 36–38 seconds and supplied a short calendar preview. The main film remains 156.542 seconds; v14 narration, music and family farewell are unchanged. The separate 28.708-second v12 cooking film is unchanged. Complete-film approval remains pending.
