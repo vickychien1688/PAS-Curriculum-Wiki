@@ -1,8 +1,14 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-02. The current private review is the 192.667-second v13 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+Updated 2026-11-02. The current private review is the 156.542-second v14 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
 
-## Content and motion revision: v13
+## Natural narration and ending: v14
+
+The user found the main-film delivery slow and unnatural and requested a proper ending. All seven chapters were re-recorded with the same Sparkles voice at native speed 0.95 and stability 0.58. The prior additional time stretching is removed. Whole spoken phrases retain their recorded pitch and timing; excess gaps between punctuation phrases are shortened. Titles remain connected, captions and teaching labels follow the new native timestamps, and the favorite-food question retains answer space.
+
+A new 7.25-second family farewell closes the outing, with a distinct sunset waving scene, large hand-lettered goodbye, and a gentle picture/music fade. The main film now lasts 156.542 seconds and uses 37 distinct visible moving sources. Cultural content and prior source checking are retained; this ending adds no historical claim. The cooking film stays at v12. These are review changes, not confirmation that the user has accepted the revised naturalness.
+
+## Previous content and motion revision: v13
 
 The latest timecoded review led to replacements for disappearing bread, the hesitant calendar guide, the unhappy parade expression and the unstable pretzel presentation. Calendar Start/End labels are tracked onto the new blank cards. The family remains four distinct people with modest clothing.
 
@@ -20,7 +26,7 @@ Both cooking outputs passed full decoding. The title, cutpoints and ending were 
 
 Every topic has a separate full-screen wooden illustrated title page, large hand-lettered type, and a distinct subject illustration. The title is visible from the first frame; a small chapter label identifies the following action. Seven new backgrounds cover the other six cultural topics and cooking, while the food chapter retains the accepted sample design. Main and subtitle typography use the locally available SwingSet BB; chapter numbers use Nunito. Font files remain private.
 
-Unchanged main-film sections retain the previously accepted Sparkles pacing. Changed sections use new native timestamps and shot-specific pauses. The v13 main film contains 36 distinct visible moving sources, each used once; cooking has eight moving sources and its own title. No moving source is looped, frozen, or slowed to fill speech. Music runs continuously across the cultural chapters. All new selected motion is at native speed except the deliberately faster dance described above.
+The v14 main film uses fresh native Sparkles narration with revised sentence gaps and no post-production speech slowdown. Its 37 distinct visible moving sources are each used once; cooking has eight moving sources and its own title. No moving source is looped, frozen, or slowed to fill speech. Music runs continuously across the cultural chapters. All new selected motion is at native speed except the deliberately faster dance described above.
 
 The latest request to hold up each named food supersedes v07’s plate-on-table gesture. Eight new food presentations show the items toward the viewer; longer presentations use native animation extensions. The v10 representative sample is 10.333 seconds and the complete food chapter is 48.167 seconds. The former awkward plate-setting pose remains rejected.
 
@@ -28,15 +34,15 @@ The latest request to hold up each named food supersedes v07’s plate-on-table 
 
 Topic headings retain the original Canva wording. Cooking remains a separate extension.
 
-| Chapter | Topic | v13 length |
+| Chapter | Topic | v14 length |
 | --- | --- | --- |
-| 1 | What is Oktoberfest? | 18.000 seconds |
-| 2 | A Royal Wedding | 22.333 seconds |
-| 3 | Why September? | 12.000 seconds |
-| 4 | Oktoberfest Traditions | 19.125 seconds |
-| 5 | Traditional Clothes | 30.042 seconds |
-| 6 | Fun at Oktoberfest | 26.542 seconds |
-| 7 | Traditional German Food | 64.625 seconds |
+| 1 | What is Oktoberfest? | 14.375 seconds |
+| 2 | A Royal Wedding | 16.792 seconds |
+| 3 | Why September? | 9.000 seconds |
+| 4 | Oktoberfest Traditions | 14.333 seconds |
+| 5 | Traditional Clothes | 23.042 seconds |
+| 6 | Fun at Oktoberfest | 23.250 seconds |
+| 7 | Traditional German Food | 55.750 seconds |
 
 Boy and girl guides alternate. Calendar graphics show September / Start and October / End. Clothing is directly identified with names and arrows. Music scenes show performance, clapping and dancing; the opening ceremony includes tapping and an enthusiastic crowd response.
 
@@ -59,8 +65,8 @@ For v13, cross-checks include the official [Dirndl history](https://www.oktoberf
 
 ## Validation and remaining work
 
-The seven v13 chapter exports and combined main film are 1920×1080 at 24 fps, H.264/AAC, and passed full decoding. New source motion was sampled at 4 fps, and family/pretzel continuity at 8 fps. Selected source ranges, extension junctions, final title frames, every cutpoint, calendar labels and clothing pointers were visually inspected. Full final-mix local transcription recognizes the new teaching content; an existing foreign-name spelling difference for Sachertorte is recorded. Main-film loudness is approximately −18.12 LUFS, with a true peak of −2.55 dBFS. Twenty-six desktop delivery files match their private originals by SHA-256. The previous v11 main film and separate v12 cooking film remain byte-identical.
+The seven v14 chapter exports and combined main film are 1920×1080 at 24 fps, H.264/AAC, and passed full decoding. The new farewell selected range was sampled at 8 fps, including its native extension junction. Final first frames, every cutpoint, calendar/clothing labels and ending typography/fade were inspected. All native takes and the entire final mix were transcribed locally. Long-form transcription anomalies were checked against source mappings and isolated segments; foreign-name spelling variation is documented. Loudness is approximately −18.61 LUFS, with a true peak of −1.93 dBFS. Twenty-six desktop files match their private originals by SHA-256. The previous v13 main film and separate v12 cooking remain byte-identical.
 
 This is sampled visual and technical validation, not complete real-time human viewing, complete human listening, or final user approval. Some background apple-strudel filling remains overly rounded, cabbage is stylized, and expressions and speech pace remain subject to review. The scenes are generated illustrations rather than documentary images.
 
-Next, review the v13 main film and v12 cooking pace and address specific feedback without reopening the accepted sample direction. Earlier rejected translucent panels, the v05 cream-and-bunting title, detached hands, empty plates and duplicate-looking crowds are not reintroduced. Failed new generations are retained privately with rejection reasons. Full scripts, prompts, source assets, fonts and production files remain private. No public audiovisual release has been made.
+Next, review the v14 main-film delivery and farewell, and the v12 cooking pace and address specific feedback without reopening the accepted sample direction. Earlier rejected translucent panels, the v05 cream-and-bunting title, detached hands, empty plates and duplicate-looking crowds are not reintroduced. Failed new generations are retained privately with rejection reasons. Full scripts, prompts, source assets, fonts and production files remain private. No public audiovisual release has been made.
