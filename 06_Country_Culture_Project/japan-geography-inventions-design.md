@@ -1,5 +1,14 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-03 — Starter WS3 native audio preview produced
+
+The restored speech quota was checked and the user-authorized Starter WS3 audio preview is complete privately. It uses the established Sparkles voice at native speed 0.85, similarity 0.85 and stability 0.70–0.75. Eight individual clips include a separate optional teacher-supported height supplement. The main practice track is approximately 29 seconds, with three-second practice gaps; the optional number reading is excluded from that track. Native delivery is retained with constant-gain normalization only.
+
+All individual clips and the assembled track pass transcript, decode and level checks. Full pitch contours were compared with an actual approved culture recording; pitch tracking ambiguity and the absence of human audition are documented. These checks do not establish listening approval. The complete preview, exact script, settings, raw candidates and production records remain private. Twenty-four approved worksheet files are unchanged.
+
+Next: review this concrete lesson's sound, then publish the exact approved audio and integrate the real QR within the authorized scope. Audio is not published and the current worksheet still shows its pending status. No other level is inferred or generated.
+
+
 ## 2026-11-02 — Starter WS3 final visual revision accepted and archived
 
 The user accepts the final exaggerated Maruko fear reaction. The unchanged resulting v3 Starter worksheet PNG and PDF have been archived in the established private approved-layout folder, with the exact feedback and version recorded. The four-picture sequence, remaining illustrations, wording and unified typography are retained; no artwork or layout is rebuilt. Archive, sample, master and approval snapshot checksums agree. Twenty-two prior approved media files remain unchanged, bringing the physical approved archive to twenty-four media files.
