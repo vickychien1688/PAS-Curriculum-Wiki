@@ -2,6 +2,10 @@
 
 Updated 2026-11-03. The current private review is the 161.542-second v17 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
 
+## Pacing sample pending approval
+
+The user identified erratic calendar gestures, an unnecessarily difficult regional adjective and insufficient breathing room. Their latest instruction is to hear a short speed sample before any complete-film revision. One private 11.811-second four-sentence preview uses the established voice at native 0.85 speed with 0.600-second sentence gaps. The full film remains v17 at its existing speed; no v18 movie or replacement animation has been generated. Calendar gesture repair, simpler clothing wording and full-film pacing changes await the user's response to this sample.
+
 ## Sound revision delivered: v17
 
 The complete private film now includes audible marching-drum, wordless group singing/clapping and opening-cheer illustrations. Five seconds of listening and reaction space were added without slowing recorded speech or source motion. Four unaffected chapter video streams are unchanged; the cake correction, month labels, family ending and separate cooking film remain. The review defaults to a 720p copy of approximately 25 MB, with a copy below 10 MB and the 1080p master available privately.
