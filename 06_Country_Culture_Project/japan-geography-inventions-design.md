@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-02 — Starter WS3 final visual revision accepted and archived
+
+The user accepts the final exaggerated Maruko fear reaction. The unchanged resulting v3 Starter worksheet PNG and PDF have been archived in the established private approved-layout folder, with the exact feedback and version recorded. The four-picture sequence, remaining illustrations, wording and unified typography are retained; no artwork or layout is rebuilt. Archive, sample, master and approval snapshot checksums agree. Twenty-two prior approved media files remain unchanged, bringing the physical approved archive to twenty-four media files.
+
+Visual approval is settled for this version. Audio and the production QR remain pending, and no sharing with another level is inferred. Continue future levels through the existing text-first review process. Full student materials, artwork and approval snapshots stay private.
+
+
 ## 2026-11-01 — Starter WS3 onset expression revised after visual feedback
 
 The user rejects the first picture's restrained concern and requests Maruko's exaggerated childlike terror and visible whole-body trembling. A private v3 sample replaces only that onset picture with a stronger cartoon reaction, including enlarged startled eyes, an open mouth, sweat, dread shading and shaking hands, hips and knees. The four-picture layout and subsequent protective actions retain their established form.
