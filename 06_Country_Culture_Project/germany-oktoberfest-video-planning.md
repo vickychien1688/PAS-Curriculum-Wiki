@@ -1,6 +1,10 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-03. The current private review is the 191.042-second v19 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. The user has now accepted the v18 main film; v19 adds only title-card branding and is available for review. The separate cooking film has its own review status.
+Updated 2026-11-03. The current private review is the 191.042-second v20 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. The user has now accepted the v18 main film; v20 adjusts title-card branding and adds the requested farewell Logo, available for review. The separate cooking film has its own review status.
+
+## v20: larger chapter branding and a farewell Logo
+
+The user requested larger, lower Logos on the wooden chapter cards and a Logo at the upper left of the final See you next time scene. v20 implements these local changes with the same official transparent asset. The family and farewell text remain unobstructed; other body scenes carry no watermark. Duration, native 0.85 narration, subtitle timing and audio streams are unchanged. Only the seven intros and the farewell shot were re-encoded, with all other decoded body frames preserved. Private full, chapter, small and short comparison files are available for review. No new AI generation, channel creation, upload or publication occurred.
 
 ## v19: transparent Logo on wooden chapter cards only
 

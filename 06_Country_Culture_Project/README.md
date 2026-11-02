@@ -1,3 +1,5 @@
+2026-11-03: [Oktoberfest v20 — larger wooden-card Logos and farewell branding](germany-oktoberfest-video-planning.md). Chapter marks moved down and enlarged; final family farewell gets an upper-left Logo. Timing/audio retained, other scenes clear. Private complete and short review files delivered.
+
 2026-11-03: [Oktoberfest v19 — Logo only on wooden chapter cards](germany-oktoberfest-video-planning.md). Accepted v18 pacing/audio and body footage retained; continuous watermark rejected, official transparent branding limited to seven title pages. Private complete and small files delivered; no lip-sync or channel publication.
 
 2026-11-03: [Oktoberfest v18 pacing and calendar revision delivered](germany-oktoberfest-video-planning.md). Approved native 0.85-speed sample applied to the 191.042-second complete film, clearer pauses and simpler clothing wording; calendar hand motion repaired. Private 720p and under-10-MB review files. Full-film approval and human listening remain pending.
