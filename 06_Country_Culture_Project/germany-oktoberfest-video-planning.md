@@ -2,6 +2,14 @@
 
 Updated 2026-11-02. The current private review is the 156.542-second v15 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
 
+## Food relevance review: 2026-11-02 (no new film export)
+
+The user requested renewed verification of foods representative of Munich Oktoberfest before changing the cake. [Munich Tourism’s festival FAQ](https://www.muenchen.travel/artikel/muenchen-tipps-fuer/oktoberfest-tipps) and [food guide](https://www.munich.travel/en/topics/markets-festivals/oktoberfest/a-letter-by-letter-guide-to-oktoberfest) support roast chicken, pork knuckle, pretzels and sausages as teaching priorities. Apple strudel, Kaiserschmarrn and roasted almonds have clear festival relevance. This is an editorial priority based on official descriptions, not a sales ranking. Potato pancakes also have [official children’s menu evidence](https://www.oktoberfest.de/informationen/kinder-und-familie/guenstige-angebote-fuer-die-kleinen-den-zelten-auf-der-wiesn); the cooking extension remains valid. Gingerbread hearts should be described as a classic souvenir.
+
+Sachertorte appears on Café Theres’ actual 2025 menu, establishing availability, not festival-wide signature status. Black Forest cake is a German specialty, but the checked sources do not establish it as an Oktoberfest signature. Do not relabel the clearly depicted Sachertorte without correcting the visual. The current linked nine-page Canva deck shows Apple Strudel and Sachertorte on page 9; the user's reference to two cakes could refer to two desserts or another source version. The earlier assumption that Black Forest cake had been omitted was not verified. No cake replacement, new narration or v16 export has been made.
+
+The user identified VideoExpress as the lip-sync tool. Its logged-in interface exposes Lipsync HD Video and an older Lipsync Video workflow. Availability is verified; importing this existing multi-person footage and synchronizing the established voice have not yet been tested. No generation was submitted. The playable deliverable remains v15, with v12 cooking unchanged.
+
 ## Calendar text correction: v15
 
 The user reported October jumping twice at 36–38 seconds. The right-hand calendar tracker briefly included the boy's hand in the paper boundary, enlarging and shifting the labels before returning. The correction rejects that outlier, smooths the paper position and fixes the label scale. October, End and 10 now remain stable while following the card's natural movement. September is unchanged.
