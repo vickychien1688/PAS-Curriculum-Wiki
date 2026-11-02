@@ -1,6 +1,12 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-03. The current private review is the 191.042-second v21 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. The user has now accepted the v18 main film; v21 corrects roast-chicken motion near 2:54 while retaining v20 branding, available for review. The separate cooking film has its own review status.
+Updated 2026-11-03. The user has approved the 191.042-second v21 festival film and authorized its YouTube upload. It is uploaded as a private video; HD processing and the platform copyright check are complete. The separate 28.708-second v12 Potato Pancake cooking film retains its independent review status.
+
+## v21 approved: channel branding and private YouTube delivery
+
+The existing channel is now named Our Reading Space and displays the authentic yellow-hand Logo; the public channel page was visually verified. The accepted 1080p master was uploaded unchanged, with its branded wooden-card thumbnail, bilingual description, seven chapter timestamps, music attribution, AI illustration disclosure and timed English captions. The video is configured as children's educational content. The platform reports no copyright issues and completed HD processing. Opening playback progressed in Studio; full online viewing/listening is not claimed.
+
+Final visibility remains pending the user's choice. The film has not been publicly published. Its private link, exact master hash and upload ID are retained in the private project delivery record to prevent duplicate uploads. Earlier revision notes below are historical; the v21 acceptance above supersedes their pending-review statements.
 
 ## v21: stable roast-chicken motion near 2:54
 

@@ -1,3 +1,5 @@
+2026-11-03: [Oktoberfest v21 approved — channel Logo and private YouTube upload complete](germany-oktoberfest-video-planning.md). Existing channel renamed Our Reading Space; official Logo, HD master, branded thumbnail, chapter markers and English captions saved. Final visibility awaits user choice; no public video publication.
+
 2026-11-03: [Oktoberfest v21 — corrected roast-chicken motion near 2:54](germany-oktoberfest-video-planning.md). Local motion repair retains approved pacing, soundtrack, wooden chapter Logos and farewell branding. Complete and targeted private review files delivered.
 
 2026-11-03: [Oktoberfest v20 — larger wooden-card Logos and farewell branding](germany-oktoberfest-video-planning.md). Chapter marks moved down and enlarged; final family farewell gets an upper-left Logo. Timing/audio retained, other scenes clear. Private complete and short review files delivered.
