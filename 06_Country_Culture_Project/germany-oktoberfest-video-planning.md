@@ -1,6 +1,12 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
-Updated 2026-11-03. The current private review is the 191.042-second v18 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
+Updated 2026-11-03. The current private review is the 191.042-second v19 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. The user has now accepted the v18 main film; v19 adds only title-card branding and is available for review. The separate cooking film has its own review status.
+
+## v19: transparent Logo on wooden chapter cards only
+
+The user accepted the v18 film and treats lip-sync as optional. The current v19 retains its 191.042-second timing, native 0.85 narration, body footage and soundtrack. An existing official transparent brand mark appears only on the seven wooden chapter cards. A continuous corner watermark was rejected as too busy; body scenes have no Logo overlay. Chapter body video was stream-copied, and all ten corresponding audio streams match v18. The separate v12 cooking film is unchanged.
+
+Private full, chapter, 720p and small review exports are delivered. The seven branded title cards were visually checked, and complete decoding, frame counts and audio identity were verified. Full human viewing/listening is not claimed. Lip-sync has not been applied. Future films should include the appropriate official transparent Logo where the composition supports it, rather than defaulting to a continuous watermark. No channel has been created and no media uploaded or published.
 
 ## Approved pacing applied: v18
 
