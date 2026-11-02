@@ -2,6 +2,10 @@
 
 Updated 2026-11-02. The current private review is the 156.542-second v16 festival film and the unchanged, separate 28.708-second v12 Potato Pancake cooking film. The user accepted the representative v10 food sample and asked for the same approach in every chapter. This approves the sample style; final approval of the complete films remains pending.
 
+## Small-file review delivery: v16
+
+The 285 MB full-resolution file was too large for the user to review. Additional private H.264/AAC faststart copies now provide the full film at 854 × 480 (9.22 MB), the food chapter at 960 × 540 (3.99 MB), and the cake preview at 1280 × 720 (0.46 MB). Content and timing are unchanged; the 1080p master is retained. The review page defaults to the small full film. All three files passed full decoding and duration checks; playback on the user's device remains unconfirmed.
+
 ## Black Forest cake visual and narration correction: v16
 
 The user's latest instruction explicitly requested replacing the cake image as well as its name. It supersedes the earlier text-only choice. The new private v16 review replaces the mother's held cake with visible chocolate sponge, white whipped-cream layers, cherries and chocolate shavings, retaining the same family of four and modest clothing. One localized image edit and one VideoExpress motion generation supply a 4.042-second presentation shot. The cake is described as a famous German cake, supported by [Baden-Württemberg tourism](https://www.visit-bw.com/en/tips-and-stories/black-forest-cake), without claiming it is an Oktoberfest signature.
