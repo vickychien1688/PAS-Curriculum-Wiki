@@ -1,5 +1,16 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Reusable Germany Week video resources, 2026-11-04
+
+At the user's request, both published final films are registered for future Germany Week use:
+
+| Resource | Approved version | Classroom use |
+|---|---|---|
+| [Oktoberfest for Kids](https://youtu.be/0DLnXcH5UeY) | Festival v21 | Seven-topic cultural introduction; chapter clips retained privately |
+| [Cook with Mom: Potato Pancakes](https://youtu.be/DBkrNmx1s-w) | Cooking v22 | Food and cooking English extension |
+
+The private archive retains 1080p masters, small previews, English subtitles, official branding and attribution notes. An indexed 51-file inventory was verified, with both master hashes matching the published versions. Future reuse starts with these finals; changes create a new version while retaining originals and credits. No re-upload or public-video change was made during archiving.
+
 ## Cooking v22 published on YouTube, 2026-11-04
 
 The user explicitly authorized publication after receiving the complete v22 film. [Let's Make Potato Pancakes! — Cook with Mom](https://youtu.be/DBkrNmx1s-w) is now public on Our Reading Space. The 49.58-second 1080p film retains continuous apple sauce action, native 0.85 Mom narration, approved peeling and the official Logo. English SRT, bilingual description, recipe references and CC BY 4.0 music attribution are included. It is marked made for kids with AI disclosure; YouTube's copyright check found no issues.

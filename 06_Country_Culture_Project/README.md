@@ -1,3 +1,5 @@
+2026-11-04: [Germany Week reusable video resources](germany-oktoberfest-video-planning.md) archived at user request: festival v21 and cooking v22, with private HD masters, captions, branding, source credits and a verified file index.
+
 2026-11-04: [Cook with Mom — Potato Pancakes is public on YouTube](https://youtu.be/DBkrNmx1s-w). User-authorized v22, 1080p playback verified, official Logo cover, English captions, AI disclosure and music attribution complete.
 
 2026-11-04: [Potato Pancakes v22 — continuous apple sauce shot](germany-oktoberfest-video-planning.md). Replaces the user-rejected v21 jump cut with one newly generated medium shot; original audio and approved peeling retained. Private full-film review ready, not published.
