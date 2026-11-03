@@ -1,5 +1,13 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Separate cooking film v14: ingredients and egg-free option, 2026-11-03
+
+The independent Potato Pancakes film now follows a cooking-show sequence: ingredients, preparation, frying, sweet apple sauce pairing and family tasting. The 53.292-second private review has 14 unique source shots, four newly generated images and four new VideoExpress clips. Five standalone images carry the authentic Our Reading Space Logo. Native Sparkles speech remains at the approved 0.85 setting; final mix gain is reduced by 6 dB (approximately -24.8 LUFS, -12.8 dBFS true peak). There is no post-production speech stretching, repeated-shot padding or slowed footage.
+
+The narration and ingredient card identify an egg-free option. The demonstration still contains egg and wheat; the separate bilingual notes explain a sourced substitute and a separate no-egg recipe, with ingredient-label and cross-contact guidance. The notes do not describe the recipe as universally allergy-safe. Common savory potato pancakes with sweet apple sauce are corroborated by [LURCH](https://www.lurch.de/recipes/Rezepte/Kartoffelpuffer-Grundrezept), [BR](https://www.br.de/br-fernsehen/sendungen/landfrauenkueche/rezept-evelyn-heil-1-karftoffelpuffer-hauptspeise-102.html) and [REWE](https://www.rewe.de/rezeptsammlung/kartoffelpuffer/).
+
+Both exports pass full decoding, with 1279 frames at 24 fps. Caption, Logo, cutpoint and ending samples were inspected; each new motion clip was sampled at four frames per second. Voice-only transcription matches the script; mixed-file transcription has one in/an ambiguity on retained source narration. Full human listening and user final approval are pending. The private package contains a 59.75 MB master, 8.72 MB preview, captions, cover, review page, notes and branded images; 14 delivered files match the private archive by SHA-256. No cooking-video upload has occurred. The published seven-topic main film is unchanged, and the worksheet remains stopped.
+
 ## Separate cooking film v13: branded finish, 2026-11-03
 
 The user resumed completion of the independent Potato Pancakes film. Version 13 is a 29.958-second private review export, retaining the original native Sparkles narration, wording and pace. The authentic transparent Our Reading Space Logo appears on the wooden opening and family ending. An additional 1.25 seconds of previously unused native ending footage gives the last line breathing room, followed by a picture/music fade. No new cloud generation, slowed footage, loop or frozen padding was used.

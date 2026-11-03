@@ -1,3 +1,5 @@
+2026-11-03: [Potato Pancakes cooking v14](germany-oktoberfest-video-planning.md). A 53-second cooking-show review with ingredients first, a sourced egg-free option, sweet apple sauce pairing, official Logo images and lower audio level. Private 720p/1080p exports are ready; user review pending. Main festival video unchanged; worksheet remains stopped.
+
 2026-11-03: [Potato Pancakes cooking v13](germany-oktoberfest-video-planning.md). Complete private review export with official opening/ending Logo and a natural ending extension; original narration and cooking body preserved. Worksheet work stopped by the user; cooking final approval pending.
 
 2026-11-03: [Oktoberfest video worksheet v2](germany-oktoberfest-video-worksheet.md). One-page private sample with four simple viewing tasks, original Germany header and Nunito typography, verified video QR and teacher notes. Japan-style v1 rejected; v2 review pending.
