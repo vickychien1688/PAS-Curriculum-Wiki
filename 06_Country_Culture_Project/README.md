@@ -1,3 +1,5 @@
+2026-11-04: [Potato Pancakes v21 — apple sauce motion corrected](germany-oktoberfest-video-planning.md). The spoon-to-mouth interval is removed; actual sauce placement cuts to the finished serving. Full Mom voice-over delivery and short correction excerpt available privately. Audio, duration and approved peeling retained; no new generation or publication.
+
 2026-11-04: [Cook with Mom — Potato Pancakes v20](germany-oktoberfest-video-planning.md). User cancelled lip-sync; both talking shots restored to natural presentation footage. Complete Mom voice-over film delivered with original 0.85 audio, approved peeling and branded ending. No new cloud generation or publication.
 
 2026-11-03: [Cook with Mom — Potato Pancakes v19](germany-oktoberfest-video-planning.md). Mom delivers every line; two direct-to-camera introductions now use VideoExpress lip-sync. Original 0.85 audio and approved peeling retained. Full private review plus two short clips delivered; lip-sync naturalness and full-film acceptance pending.

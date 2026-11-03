@@ -1,5 +1,11 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v21: remove the spoon-to-mouth action, 2026-11-04
+
+Following the user's observation near 39 seconds, the apple sauce shot retains the actual deposit beside the pancake and removes the entire mouth-approach source interval. A cut then shows the completed plate while the spoon returns to the sauce bowl. Previously unused normal-speed tails of the preceding cooking and presentation shots maintain the 49.583-second total. No slow motion, reversed action, repeated padding or audio stretching is used. Scene-label and Logo timing follow the new picture cuts; the original full audio and English subtitle file are unchanged. Mom's native 0.85 voice-over and the approved peeling shot remain; lip-sync remains cancelled.
+
+VideoExpress was under maintenance, so this correction uses existing local footage, with no generation submitted. Both complete exports contain 1190 frames at 24 fps and pass full decoding, along with a 6.5-second focused excerpt. Repaired-motion frame sequences, changed boundaries, full-film shot samples and preview frames were inspected; complete human playback/listening and user approval are not claimed. Twelve private deliverables match the archive by SHA-256, including a 55.31 MB master and 8.10 MB preview. No cooking-video publication occurred.
+
 ## Cooking v20: voice-over delivery; lip-sync cancelled, 2026-11-04
 
 The user rejected v19 lip synchronization and explicitly cancelled further lip-sync work, prioritizing a smooth complete cooking film. Both talking animations are replaced with the previous natural ingredient-presentation and serving shots. Mom remains the sole narrator. The Cook with Mom title, official Logo, native 0.85 speech, existing pauses and reduced mix, approved medium-shot peeling, cooking sequence and family-ending fade are retained. No new cloud generation, purchase or upgrade occurred; the exploratory HD lip-sync interface was closed without submitting a generation.
