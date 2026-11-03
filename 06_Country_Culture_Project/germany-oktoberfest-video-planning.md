@@ -1,5 +1,14 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v15 opening and v16 peeling revision, 2026-11-03
+
+The private cooking review is now 50.75 seconds. A 14.21-second v15 opening sample simplified the food-preparation vocabulary and restored the previously selected native 0.85 speech setting with stability 0.58. Its wording is incorporated provisionally into v16; natural delivery still awaits user review. No speech time stretching was applied.
+
+Following feedback about the mother's peeling action, the fork-held source shot was replaced. Two image/motion candidates were made using the existing VideoExpress workflow. The first was rejected for potato deformation and an implausibly long shaving; the selected second candidate contributes 2.667 seconds at native speed. Adult-help narration moves to the preparation scene. All 14 sources remain unique; official branding and the existing cooking sequence are retained. The [BDA preparation guide](https://www.bda.uk.com/food-health/cooking-at-home/top-tips/correct-peeling-and-chopping-techniques.html) informed board support and peeling direction. The result remains an AI illustration, not a live technique demonstration.
+
+The private package contains a 57.06 MB HD master, 8.31 MB full preview, 1.95 MB focused review, captions and notes. All three videos pass full decoding; the full film has 1218 frames at 24 fps. Source motion, master cutpoints and preview samples were visually inspected; full human listening is not claimed. Integrated loudness is about -24.7 LUFS, true peak -11.8 dBFS. Nine desktop/archive files match by SHA-256. Motion and opening approval are pending. No cooking-video publication occurred; the approved festival video is unchanged and worksheet work remains stopped.
+
+
 ## Separate cooking film v14: ingredients and egg-free option, 2026-11-03
 
 The independent Potato Pancakes film now follows a cooking-show sequence: ingredients, preparation, frying, sweet apple sauce pairing and family tasting. The 53.292-second private review has 14 unique source shots, four newly generated images and four new VideoExpress clips. Five standalone images carry the authentic Our Reading Space Logo. Native Sparkles speech remains at the approved 0.85 setting; final mix gain is reduced by 6 dB (approximately -24.8 LUFS, -12.8 dBFS true peak). There is no post-production speech stretching, repeated-shot padding or slowed footage.
