@@ -1,5 +1,12 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v18: voice delivery and simple cooking cautions, 2026-11-03
+
+At the user's request, the standalone cooking film replaces adult-only phrasing with short, child-friendly cautions in narration, the opening board, captions and accompanying notes. Four native voice lines were re-recorded using the existing Sparkles voice at speed 0.85 and the selected stable teaching settings. The opening phrase uses a lower ending; the closing word is shorter, with complete phonemes retained. No post-production pitch shift or speech time-stretch was used. The normal-speed final shot is shortened to 3.5 seconds, with a brief music tail and fade.
+
+The approved medium-shot peeling action, clear single-line preparation question and official transparent Logo remain. The 49.583-second 1080p/720p exports each have 1190 frames at 24 fps. Both complete exports and three focused excerpts pass full decoding; revised speech transcripts match, cut-point/frame samples were inspected, and thirteen private desktop/archive deliverables match by SHA-256. The reduced mix is approximately −24.8 LUFS with −10.9 dBFS true peak. Native voice generations: four calls, 100 submitted characters; no new image or video generation. Full human listening and user approval are pending; automated transcription and frame samples are not presented as full perceptual review. No cooking-film publication occurred.
+
+
 ## Cooking v17: clear single-line preparation titles, 2026-11-03
 
 At the user's explicit request, the preparation question keeps its wording and now appears in clear bold Nunito on one line. Both the mother-introduction and food-list scenes use the revised typography; the official Logo is retained. The 14 shot sources, timings and subtitles are unchanged from v16, including the approved medium-shot peeling action. The original final audio stream is copied exactly, preserving native 0.85 speech and the reduced mix level. No cloud generation was used.

@@ -1,3 +1,5 @@
+2026-11-03: [Potato Pancakes cooking v18](germany-oktoberfest-video-planning.md). Native opening/closing delivery revised at speed 0.85; simple cautions replace adult-only wording. A 49.58-second private review and three short excerpts are ready. Voice review pending; approved peeling retained.
+
 2026-11-03: [Potato Pancakes cooking v17](germany-oktoberfest-video-planning.md). Clear single-line preparation titles; native soundtrack and approved peeling retained. Full private review and title preview delivered; layout review pending.
 
 2026-11-03: [Potato Pancakes cooking v16](germany-oktoberfest-video-planning.md). Revised peeling motion and simpler opening, native speech speed 0.85. Complete 50.75-second private review plus focused short clip; peeling action and medium framing accepted, full-film and opening-delivery approval separate. Main festival film unchanged; worksheet stopped.
