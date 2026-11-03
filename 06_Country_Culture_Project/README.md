@@ -1,3 +1,5 @@
+2026-11-03: [Potato Pancakes cooking v17](germany-oktoberfest-video-planning.md). Clear single-line preparation titles; native soundtrack and approved peeling retained. Full private review and title preview delivered; layout review pending.
+
 2026-11-03: [Potato Pancakes cooking v16](germany-oktoberfest-video-planning.md). Revised peeling motion and simpler opening, native speech speed 0.85. Complete 50.75-second private review plus focused short clip; peeling action and medium framing accepted, full-film and opening-delivery approval separate. Main festival film unchanged; worksheet stopped.
 
 2026-11-03: [Potato Pancakes cooking v14](germany-oktoberfest-video-planning.md). A 53-second cooking-show review with ingredients first, a sourced egg-free option, sweet apple sauce pairing, official Logo images and lower audio level. Private 720p/1080p exports are ready; user review pending. Main festival video unchanged; worksheet remains stopped.

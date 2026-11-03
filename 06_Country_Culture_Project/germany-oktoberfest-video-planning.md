@@ -1,5 +1,12 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v17: clear single-line preparation titles, 2026-11-03
+
+At the user's explicit request, the preparation question keeps its wording and now appears in clear bold Nunito on one line. Both the mother-introduction and food-list scenes use the revised typography; the official Logo is retained. The 14 shot sources, timings and subtitles are unchanged from v16, including the approved medium-shot peeling action. The original final audio stream is copied exactly, preserving native 0.85 speech and the reduced mix level. No cloud generation was used.
+
+Private 50.75-second 1080p/720p exports and a 4.04-second title preview pass full decoding. Actual title-frame samples were inspected; audio and subtitle hashes match their sources. Ten private desktop/archive deliverables match by SHA-256. Typography and full-film review are pending; the approved peeling scope remains accepted. No cooking-film publication occurred.
+
+
 ## Cooking v15 opening and v16 peeling revision, 2026-11-03
 
 Framing feedback: avoid hand close-ups and push-ins; retain the mother and worktop in a medium shot. The v16 output already uses the uncropped source frame, and the focused review is a time excerpt. After viewing the same short preview, the user accepted the peeling action and medium framing. The complete v16 already contains this shot; no new export or generation was needed. Approval is scoped to the shown peeling preview.
