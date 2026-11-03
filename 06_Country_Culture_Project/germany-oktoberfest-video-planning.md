@@ -1,5 +1,11 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v20: voice-over delivery; lip-sync cancelled, 2026-11-04
+
+The user rejected v19 lip synchronization and explicitly cancelled further lip-sync work, prioritizing a smooth complete cooking film. Both talking animations are replaced with the previous natural ingredient-presentation and serving shots. Mom remains the sole narrator. The Cook with Mom title, official Logo, native 0.85 speech, existing pauses and reduced mix, approved medium-shot peeling, cooking sequence and family-ending fade are retained. No new cloud generation, purchase or upgrade occurred; the exploratory HD lip-sync interface was closed without submitting a generation.
+
+The 49.583-second 1080p/720p exports each contain 1190 frames at 24 fps and pass full decoding. Their audio streams and subtitle file match v18 exactly. Source sequences, master shot boundaries/midpoints, preview samples and ending frames were inspected; complete human playback/listening is not claimed. Eleven private desktop/archive deliverables match by SHA-256, including a 55.32 MB master and 8.09 MB preview. Version 20 is the current complete narration-led delivery. No further lip-sync trial is pending, and no cooking-video publication occurred. Full media and production files remain private.
+
 ## Cooking v19: Mom hosts the lesson with two lip-synced introductions, 2026-11-03
 
 The standalone film is now framed as Cook with Mom. All speech belongs to Mom; preparation, cooking and tasting cutaways use her voice-over. Two direct-to-camera segments have actually been generated and integrated using the authorized VideoExpress lip-sync workflow with imported existing audio. The opening and plated-food introduction total about 7.54 seconds. Public sharing and reverse playback were disabled; no new TTS or images, purchase or upgrade was used.
