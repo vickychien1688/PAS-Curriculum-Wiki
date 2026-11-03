@@ -1,5 +1,9 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Playback quality check, 2026-11-03
+
+The current Studio preview decoded at 640×360, while the watch page automatically selected 240p. Selecting 1080p HD on the watch page loaded a verified 1920×1080 stream. The uploaded 1080p master is unchanged; no replacement upload or re-encoding was needed. Visibility was already public when inspected in this turn; no visibility change was made during this check. Earlier private-upload status below is historical. Full-film online compression comparison is not claimed.
+
 Updated 2026-11-03. The user has approved the 191.042-second v21 festival film and authorized its YouTube upload. It is uploaded as a private video; HD processing and the platform copyright check are complete. The separate 28.708-second v12 Potato Pancake cooking film retains its independent review status.
 
 ## v21 approved: channel branding and private YouTube delivery
