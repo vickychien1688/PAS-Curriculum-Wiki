@@ -1,3 +1,5 @@
+2026-11-04: Germany classroom-photo social posts are planned for future work. The user asked to stop for now and preserve the handoff. Photo selection, copy and publication scheduling are not yet completed; existing video resources remain unchanged.
+
 2026-11-04: Future planning note — the user may remake Germany PE1, PE2 and PE3 videos. This is tentative: titles, order, schedule and revision scope are not yet specified. Preserve existing resources; align each level with its current approved curriculum before production. No remake has started.
 
 2026-11-04: [Germany Week reusable video resources](germany-oktoberfest-video-planning.md) archived at user request: festival v21 and cooking v22, with private HD masters, captions, branding, source credits and a verified file index.
