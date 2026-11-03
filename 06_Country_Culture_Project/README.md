@@ -1,3 +1,5 @@
+2026-11-04: Future planning note — the user may remake Germany PE1, PE2 and PE3 videos. This is tentative: titles, order, schedule and revision scope are not yet specified. Preserve existing resources; align each level with its current approved curriculum before production. No remake has started.
+
 2026-11-04: [Germany Week reusable video resources](germany-oktoberfest-video-planning.md) archived at user request: festival v21 and cooking v22, with private HD masters, captions, branding, source credits and a verified file index.
 
 2026-11-04: [Cook with Mom — Potato Pancakes is public on YouTube](https://youtu.be/DBkrNmx1s-w). User-authorized v22, 1080p playback verified, official Logo cover, English captions, AI disclosure and music attribution complete.
