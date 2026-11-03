@@ -1,5 +1,11 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v19: Mom hosts the lesson with two lip-synced introductions, 2026-11-03
+
+The standalone film is now framed as Cook with Mom. All speech belongs to Mom; preparation, cooking and tasting cutaways use her voice-over. Two direct-to-camera segments have actually been generated and integrated using the authorized VideoExpress lip-sync workflow with imported existing audio. The opening and plated-food introduction total about 7.54 seconds. Public sharing and reverse playback were disabled; no new TTS or images, purchase or upgrade was used.
+
+The full 49.583-second film retains 1190 frames at 24 fps, native 0.85 speech, the reduced mix, approved medium-shot peeling action, single-line preparation title, official transparent Logo and distinct sources. Both complete audio streams and the English subtitle file are identical to v18. The 53.11 MB HD master, 8.11 MB preview and two focused excerpts pass full decoding; thirteen private deliverables match their archive by SHA-256. Both generated speech transcripts match the supplied words and audio timing; source and master frame samples were inspected. Full human viewing/listening and perceptual lip-sync naturalness remain unverified and pending user review. The mother briefly opens her hands beside the bowl in the introduction; the bowl remains on the worktop. The serving plate and its three pancakes remain held throughout the second segment. No cooking-video publication occurred. Complete media and production records remain private.
+
 ## Cooking v18: voice delivery and simple cooking cautions, 2026-11-03
 
 At the user's request, the standalone cooking film replaces adult-only phrasing with short, child-friendly cautions in narration, the opening board, captions and accompanying notes. Four native voice lines were re-recorded using the existing Sparkles voice at speed 0.85 and the selected stable teaching settings. The opening phrase uses a lower ending; the closing word is shorter, with complete phonemes retained. No post-production pitch shift or speech time-stretch was used. The normal-speed final shot is shortened to 3.5 seconds, with a brief music tail and fade.

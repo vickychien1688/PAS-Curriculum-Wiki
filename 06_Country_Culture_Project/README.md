@@ -1,3 +1,5 @@
+2026-11-03: [Cook with Mom — Potato Pancakes v19](germany-oktoberfest-video-planning.md). Mom delivers every line; two direct-to-camera introductions now use VideoExpress lip-sync. Original 0.85 audio and approved peeling retained. Full private review plus two short clips delivered; lip-sync naturalness and full-film acceptance pending.
+
 2026-11-03: [Potato Pancakes cooking v18](germany-oktoberfest-video-planning.md). Native opening/closing delivery revised at speed 0.85; simple cautions replace adult-only wording. A 49.58-second private review and three short excerpts are ready. Voice review pending; approved peeling retained.
 
 2026-11-03: [Potato Pancakes cooking v17](germany-oktoberfest-video-planning.md). Clear single-line preparation titles; native soundtrack and approved peeling retained. Full private review and title preview delivered; layout review pending.
