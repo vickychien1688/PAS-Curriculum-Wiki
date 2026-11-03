@@ -1,5 +1,11 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v22 published on YouTube, 2026-11-04
+
+The user explicitly authorized publication after receiving the complete v22 film. [Let's Make Potato Pancakes! — Cook with Mom](https://youtu.be/DBkrNmx1s-w) is now public on Our Reading Space. The 49.58-second 1080p film retains continuous apple sauce action, native 0.85 Mom narration, approved peeling and the official Logo. English SRT, bilingual description, recipe references and CC BY 4.0 music attribution are included. It is marked made for kids with AI disclosure; YouTube's copyright check found no issues.
+
+The public page and 1080p quality option were verified; playback reported 1920×1080 after selecting HD. This is publication/playback verification, not a claim of full human viewing/listening. Full production media and evidence remain private. The existing seven-topic festival film is unchanged. Publication is complete, with no pending approval for this upload.
+
 ## Cooking v22: continuous apple sauce action replaces rejected jump cut, 2026-11-04
 
 The user rejected v21's discontinuity. One newly generated VideoExpress medium shot now replaces the internal cut and crop: Mom deposits sauce beside the pancake, moves the spoon back to the bowl, and begins another scoop. The continuous 4.042-second source is used at normal speed, with no internal cut, reverse, frozen padding or framing change. The previous two shots continue through 4 and 13 previously unused frames; the full film remains 49.583 seconds. Original native 0.85 Mom voice-over, reduced audio mix and English SRT are unchanged. Approved peeling is retained; lip-sync remains cancelled.
