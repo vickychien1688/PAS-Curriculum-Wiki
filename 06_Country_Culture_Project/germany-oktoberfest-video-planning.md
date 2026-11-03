@@ -1,5 +1,13 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Separate cooking film v13: branded finish, 2026-11-03
+
+The user resumed completion of the independent Potato Pancakes film. Version 13 is a 29.958-second private review export, retaining the original native Sparkles narration, wording and pace. The authentic transparent Our Reading Space Logo appears on the wooden opening and family ending. An additional 1.25 seconds of previously unused native ending footage gives the last line breathing room, followed by a picture/music fade. No new cloud generation, slowed footage, loop or frozen padding was used.
+
+The unchanged cooking body contains 541 decoded frames identical to v12. Both 1080p and 720p exports have 719 frames at 24 fps and pass full decoding. Final mixed-speech transcription matches the source script; integrated loudness is approximately -18.1 LUFS and true peak -3.9 dBFS. Cutpoints, branding and ending samples were visually inspected. Full human playback/listening and user final approval are not claimed. Existing recipe and preparation references were rechecked: [LURCH](https://www.lurch.de/recipes/Rezepte/Kartoffelpuffer-Grundrezept) and [BDA](https://www.bda.uk.com/food-health/cooking-at-home/top-tips/correct-peeling-and-chopping-techniques.html).
+
+The private desktop/iCloud package includes a 33.34 MB master, 9.33 MB review copy, English subtitles, cover, review page and attribution; all seven delivered files match by SHA-256. The cooking film has not been uploaded to YouTube. The approved main festival video and its existing publication remain unchanged. The separate worksheet task has been stopped at the user's request, with its files preserved.
+
 ## Companion worksheet, 2026-11-03
 
 A [single-page video worksheet v2](germany-oktoberfest-video-worksheet.md) is available as a private review sample. The original Germany visual system is restored after the user rejected Japan-derived typography. The existing approved video is unchanged.

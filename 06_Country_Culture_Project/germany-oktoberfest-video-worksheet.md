@@ -1,5 +1,7 @@
 # Oktoberfest video companion worksheet
 
+**Current status, 2026-11-03:** The user has stopped worksheet production and intends classroom worksheet design to be led by teachers. V2 files and earlier rejection records are preserved; no further worksheet revisions or publication are scheduled. The review notes below describe the last delivered sample, not an active request to continue.
+
 Updated 2026-11-03. The user requests one worksheet for the approved seven-topic Oktoberfest film. A single-page v2 review sample is delivered privately. No grade assignment or visual/content approval is inferred.
 
 ## Scope and learning tasks

@@ -1,3 +1,5 @@
+2026-11-03: [Potato Pancakes cooking v13](germany-oktoberfest-video-planning.md). Complete private review export with official opening/ending Logo and a natural ending extension; original narration and cooking body preserved. Worksheet work stopped by the user; cooking final approval pending.
+
 2026-11-03: [Oktoberfest video worksheet v2](germany-oktoberfest-video-worksheet.md). One-page private sample with four simple viewing tasks, original Germany header and Nunito typography, verified video QR and teacher notes. Japan-style v1 rejected; v2 review pending.
 
 2026-11-03: [Oktoberfest playback quality checked](germany-oktoberfest-video-planning.md). Studio preview was 360p and watch-page Auto selected 240p; manually selecting 1080p loaded the full-HD stream. Existing visibility observed as public; no re-upload or visibility change.
