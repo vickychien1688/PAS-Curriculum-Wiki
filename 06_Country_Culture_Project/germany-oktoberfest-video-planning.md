@@ -1,5 +1,12 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Cooking v22: continuous apple sauce action replaces rejected jump cut, 2026-11-04
+
+The user rejected v21's discontinuity. One newly generated VideoExpress medium shot now replaces the internal cut and crop: Mom deposits sauce beside the pancake, moves the spoon back to the bowl, and begins another scoop. The continuous 4.042-second source is used at normal speed, with no internal cut, reverse, frozen padding or framing change. The previous two shots continue through 4 and 13 previously unused frames; the full film remains 49.583 seconds. Original native 0.85 Mom voice-over, reduced audio mix and English SRT are unchanged. Approved peeling is retained; lip-sync remains cancelled.
+
+1080p and 720p exports and a 6.5-second excerpt pass full decoding. Original audio hashes match. Full-range action samples, individual spoon-return frames, edited boundaries, film shot samples and preview frames were inspected; complete human playback/listening and user approval are not claimed. Complete media and production records stay private. No cooking-film publication or new purchase occurred.
+
+
 ## Cooking v21: remove the spoon-to-mouth action, 2026-11-04
 
 Following the user's observation near 39 seconds, the apple sauce shot retains the actual deposit beside the pancake and removes the entire mouth-approach source interval. A cut then shows the completed plate while the spoon returns to the sauce bowl. Previously unused normal-speed tails of the preceding cooking and presentation shots maintain the 49.583-second total. No slow motion, reversed action, repeated padding or audio stretching is used. Scene-label and Logo timing follow the new picture cuts; the original full audio and English subtitle file are unchanged. Mom's native 0.85 voice-over and the approved peeling shot remain; lip-sync remains cancelled.
