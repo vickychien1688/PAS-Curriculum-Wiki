@@ -2,6 +2,8 @@
 
 ## Cooking v15 opening and v16 peeling revision, 2026-11-03
 
+Framing feedback: avoid hand close-ups and push-ins; retain the mother and worktop in a medium shot. The v16 output already uses the uncropped source frame, and the focused review is a time excerpt. No new export was made for this clarification; user approval remains pending.
+
 The private cooking review is now 50.75 seconds. A 14.21-second v15 opening sample simplified the food-preparation vocabulary and restored the previously selected native 0.85 speech setting with stability 0.58. Its wording is incorporated provisionally into v16; natural delivery still awaits user review. No speech time stretching was applied.
 
 Following feedback about the mother's peeling action, the fork-held source shot was replaced. Two image/motion candidates were made using the existing VideoExpress workflow. The first was rejected for potato deformation and an implausibly long shaving; the selected second candidate contributes 2.667 seconds at native speed. Adult-help narration moves to the preparation scene. All 14 sources remain unique; official branding and the existing cooking sequence are retained. The [BDA preparation guide](https://www.bda.uk.com/food-health/cooking-at-home/top-tips/correct-peeling-and-chopping-techniques.html) informed board support and peeling direction. The result remains an AI illustration, not a live technique demonstration.
