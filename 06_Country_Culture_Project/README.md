@@ -1,3 +1,5 @@
+2026-11-03: [Oktoberfest video worksheet v2](germany-oktoberfest-video-worksheet.md). One-page private sample with four simple viewing tasks, original Germany header and Nunito typography, verified video QR and teacher notes. Japan-style v1 rejected; v2 review pending.
+
 2026-11-03: [Oktoberfest playback quality checked](germany-oktoberfest-video-planning.md). Studio preview was 360p and watch-page Auto selected 240p; manually selecting 1080p loaded the full-HD stream. Existing visibility observed as public; no re-upload or visibility change.
 
 2026-11-03: [Oktoberfest v21 approved — channel Logo and private YouTube upload complete](germany-oktoberfest-video-planning.md). Existing channel renamed Our Reading Space; official Logo, HD master, branded thumbnail, chapter markers and English captions saved. Final visibility awaits user choice; no public video publication.

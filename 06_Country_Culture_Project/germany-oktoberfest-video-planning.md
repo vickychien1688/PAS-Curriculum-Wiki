@@ -1,5 +1,9 @@
 # Oktoberfest: seven cultural chapters and a separate cooking film
 
+## Companion worksheet, 2026-11-03
+
+A [single-page video worksheet v2](germany-oktoberfest-video-worksheet.md) is available as a private review sample. The original Germany visual system is restored after the user rejected Japan-derived typography. The existing approved video is unchanged.
+
 ## Playback quality check, 2026-11-03
 
 The current Studio preview decoded at 640×360, while the watch page automatically selected 240p. Selecting 1080p HD on the watch page loaded a verified 1920×1080 stream. The uploaded 1080p master is unchanged; no replacement upload or re-encoding was needed. Visibility was already public when inspected in this turn; no visibility change was made during this check. Earlier private-upload status below is historical. Full-film online compression comparison is not claimed.
