@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-06 — Starter listening approved; Level 1 preview
+
+Vicky approved the Worksheet 1 Starter v2 reading and sentence playback. Level 1 now has a private preview with a continuous reading of the eight core lines, individual playback for each, and an independent listening-and-numbering activity with three cues in the teacher's prescribed order. Shared greetings use the approved Starter audio. Level 1 listening approval is pending; Level 2 follows within Worksheet 1.
+
+
 ## 2026-11-06 — Starter WS1 listening controls
 
 For Japan PE1 Worksheet 1, offer one continuous full reading and a separate play button for each sentence. Use short conversational transitions for the full reading. The Starter private preview pairs a 14.59-second full track with eight independently playable lines. The wording, voice and original takes are preserved. Listening review is pending before audio publication and QR integration. Level 1 follows Starter within Worksheet 1.
