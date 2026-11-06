@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-06 — Starter WS1 listening controls
+
+For Japan PE1 Worksheet 1, offer one continuous full reading and a separate play button for each sentence. Use short conversational transitions for the full reading. The Starter private preview pairs a 14.59-second full track with eight independently playable lines. The wording, voice and original takes are preserved. Listening review is pending before audio publication and QR integration. Level 1 follows Starter within Worksheet 1.
+
+
 ## 2026-11-03 — Audio order corrected; WS3 rejected; WS1 Starter preview ready
 
 The user reports broken/distorted sound in the preceding WS3 preview and requires production to begin with the first worksheet, completing that worksheet before proceeding. The adopted sequence is WS1 across its existing levels, beginning with Starter, before WS2 or WS3. The prior WS3 audio is rejected and preserved for later investigation; its visual worksheet approval remains valid. Neither the native nor delivered WS3 files show digital full-scale clipping in a four-times oversampled check, but that does not rule out synthesis or playback defects, and the precise audible cause is unconfirmed.
