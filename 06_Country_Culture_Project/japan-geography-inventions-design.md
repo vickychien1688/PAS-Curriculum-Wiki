@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Level 1 Worksheet 2 intonation approved; Level 2 listening preview
+
+Vicky approved the Level 1 Worksheet 2 v2 final-sentence revision and corresponding full reading; exact approved file identities are recorded privately. The Level 2 preview now offers a 25.70-second continuous reading and eleven sentence buttons, following the approved page's seasonal reading, two oral questions and cultural fact. Blank response stems remain for children to answer. Nine new native recordings retain the established voice and 0.85 speed; two approved clips are reused, including the just-approved final fact sentence.
+
+Source-page identity, new-line and full transcripts, audio assembly, embedded files and browser playback controls are verified. A known standalone transcription discrepancy for an unchanged approved clip is retained as a diagnostic limitation. Technical checks do not certify naturalness; Level 2 listening approval remains pending, then Level 3 follows. Worksheet 1 across all levels and Worksheet 2 Starter/Level 1 remain approved. No public audio or production QR was released; complete materials stay private.
+
+
 ## 2026-11-07 — Level 1 Worksheet 2 final-sentence intonation revision
 
 Vicky rejected the final snow-monkey sentence's intonation. The private v2 preview replaces that sentence with one native retake, keeping its words, speaker and 0.85 speed. The TTS prompt uses a full stop and stability 0.75 to seek a natural declarative delivery; no pitch/time processing or word-tail cuts are applied. Six preceding clips and the full reading's preceding PCM remain identical. The revised sentence is 3.11 seconds and the full reading is 18.29 seconds. Word, waveform and file checks are recorded separately from listening approval, which remains pending. The rejected recording is retained privately; no worksheet wording or public audio changes are made.
