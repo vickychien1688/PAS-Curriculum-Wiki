@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Level 1 Worksheet 2 final-sentence intonation revision
+
+Vicky rejected the final snow-monkey sentence's intonation. The private v2 preview replaces that sentence with one native retake, keeping its words, speaker and 0.85 speed. The TTS prompt uses a full stop and stability 0.75 to seek a natural declarative delivery; no pitch/time processing or word-tail cuts are applied. Six preceding clips and the full reading's preceding PCM remain identical. The revised sentence is 3.11 seconds and the full reading is 18.29 seconds. Word, waveform and file checks are recorded separately from listening approval, which remains pending. The rejected recording is retained privately; no worksheet wording or public audio changes are made.
+
+
 ## 2026-11-07 — Starter Worksheet 2 revision approved; Level 1 listening ready
 
 Vicky approved the clarified Starter Worksheet 2 wording, revised visual files and matching audio. The exact approved PDF and PNG replace the prior private desktop archive copies; historical files are preserved, and the other twenty archived media files are unchanged. Audio approval does not include public publication or a production QR.
