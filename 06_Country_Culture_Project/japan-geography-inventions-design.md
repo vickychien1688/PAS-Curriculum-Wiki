@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Level 3 approved; shared Level 4/5 listening ready
+
+Vicky approved Worksheet 1 Level 3. The shared Level 4/5 private preview now contains a 45.68-second continuous reading and sixteen sentence buttons covering its approved nine-sentence geography section, greetings, flag dialogue and island-count fact. Twelve clips reuse approved audio; four were newly recorded with the established speaker and native 0.85 speed. Both levels use the same audio package. Starter through Level 3 have listening approval; Level 4/5 listening approval is pending before moving on to Worksheet 2.
+
+
 ## 2026-11-07 — Level 2 approved; Level 3 private listening ready
 
 Vicky approved Worksheet 1 Level 2. Level 3 now offers a 37.15-second continuous reading and fourteen sentence buttons, including its approved country, big/small islands and capital language. Ten lines reuse approved recordings; four lines were newly recorded at the established native 0.85 speed. The selected audio and transcript checks are complete; listening approval is pending. The shared Level 4/5 version follows within Worksheet 1.
