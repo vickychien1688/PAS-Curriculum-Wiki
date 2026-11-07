@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Level 2 Worksheet 2 complete native-question rerecording
+
+Vicky rejected the local pronoun-pitch edit as still unnatural. Private v4 replaces the whole question with a complete native recording using the same voice identity and a scoped model/delivery comparison, based on an existing approved culture-course configuration. The selected question is 2.00 seconds; only constant gain is applied, with no pitch/time processing or word cuts. Ten other clips and the full reading outside the replaced sentence remain unchanged. The full reading is 25.75 seconds.
+
+Word, waveform, file and playback checks are complete. Prompt-tag timing and uncertain pitch tracking are recorded as limitations, not listening approval. The earlier rejected versions remain private, and the new phrase's overall rhythm and timbre await Vicky's review. No public audio, worksheet or production QR changes were made.
+
+
 ## 2026-11-07 — Level 2 Worksheet 2 targeted pronoun-pitch revision
 
 Vicky specifically identified excessive pitch on the pronoun in the favorite-season question. After three bounded native candidates retained the problem, private v3 applies a narrow, smoothly transitioned pitch adjustment to that word in the prior recording. The edit retains the local contour shape rather than flattening the whole sentence, with no time change or word-tail cut. All lossless samples outside the 0.21-second word region and ten other sentence clips remain unchanged; the full reading stays 25.74 seconds.
