@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Starter Worksheet 2 fact clarified
+
+The user found the bare participant number unclear. The revised private sample explicitly names cherry-blossom viewing and Japan while preserving the visible 2024 estimate qualification. The underlying source is a forecast, not a measured annual count. Only the fact sentence changes; artwork, page geometry, 13pt body text and unified headings remain intact, with pixel preservation outside the edited text verified.
+
+A matching private audio revision replaces the final sentence and preserves the preceding five clips. The full reading is 12.38 seconds and retains continuous and individual playback. Revised wording, visual sample and listening remain pending user review before Level 1 continues. Original files are retained, no public audio or production QR has been released, and complete materials remain private.
+
+
 ## 2026-11-07 — Worksheet 1 audio approved across all levels; Worksheet 2 Starter preview
 
 Vicky approved the shared Level 4/5 original-source v3 edit. Worksheet 1 listening is now approved for Starter, Levels 1–3 and shared Levels 4/5, with exact version fingerprints recorded privately.
