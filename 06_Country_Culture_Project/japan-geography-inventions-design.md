@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Original-source splice revision
+
+Following Vicky's editing feedback, shared Level 4/5 v3 trims a late tail after the second sentence and rejoins the original third sentence. The complete PCM is identical to v1 except for the 0.554-second deletion. The new full reading is 45.13 seconds, with an 8.63-second private excerpt. No new speech was generated for v3. Listening approval is pending.
+
+
 ## 2026-11-07 — Shared Level 4/5 repeated-word correction
 
 Vicky reported repeated “Four” at the sentence transition. The v2 private preview replaces sentences two and three with one connected native recording, split within the pause for sentence controls and reconstructed continuously in the full track. The full reading is 45.14 seconds; a short correction excerpt is available privately. Original audio and the rejection record are retained. Shared Level 4/5 listening approval remains pending.
