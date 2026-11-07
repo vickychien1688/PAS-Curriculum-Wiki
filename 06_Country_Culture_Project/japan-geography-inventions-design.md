@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Shared Level 4/5 repeated-word correction
+
+Vicky reported repeated “Four” at the sentence transition. The v2 private preview replaces sentences two and three with one connected native recording, split within the pause for sentence controls and reconstructed continuously in the full track. The full reading is 45.14 seconds; a short correction excerpt is available privately. Original audio and the rejection record are retained. Shared Level 4/5 listening approval remains pending.
+
+
 ## 2026-11-07 — Level 3 approved; shared Level 4/5 listening ready
 
 Vicky approved Worksheet 1 Level 3. The shared Level 4/5 private preview now contains a 45.68-second continuous reading and sixteen sentence buttons covering its approved nine-sentence geography section, greetings, flag dialogue and island-count fact. Twelve clips reuse approved audio; four were newly recorded with the established speaker and native 0.85 speed. Both levels use the same audio package. Starter through Level 3 have listening approval; Level 4/5 listening approval is pending before moving on to Worksheet 2.
