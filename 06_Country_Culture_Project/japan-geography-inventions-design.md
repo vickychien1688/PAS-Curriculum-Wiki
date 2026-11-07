@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Level 2 Worksheet 2 v4 approved; Level 3 listening preview
+
+Vicky approved the complete native-question revision and matching Level 2 Worksheet 2 reading. The exact accepted question is reused unchanged in the Level 3 preview. Level 3 contains a 31.27-second full reading and twelve sentence controls: four new seasonal/cultural lines and eight reused approved clips, following its existing approved worksheet. Response blanks remain for children to complete.
+
+The four new native recordings retain the established voice and 0.85 request setting. Transcript, source identity, audio assembly, embedded files and playback controls are verified, while pronunciation and naturalness remain pending listening review. Worksheet 1 across all levels and Worksheet 2 Starter through Level 2 are approved. Shared Level 4/5 Worksheet 2 follows Level 3 approval. No public audio, worksheet changes or production QR were released; complete materials remain private.
+
+
 ## 2026-11-07 — Level 2 Worksheet 2 complete native-question rerecording
 
 Vicky rejected the local pronoun-pitch edit as still unnatural. Private v4 replaces the whole question with a complete native recording using the same voice identity and a scoped model/delivery comparison, based on an existing approved culture-course configuration. The selected question is 2.00 seconds; only constant gain is applied, with no pitch/time processing or word cuts. Ten other clips and the full reading outside the replaced sentence remain unchanged. The full reading is 25.75 seconds.
