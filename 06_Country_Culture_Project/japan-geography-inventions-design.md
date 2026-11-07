@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Worksheet 1 audio approved across all levels; Worksheet 2 Starter preview
+
+Vicky approved the shared Level 4/5 original-source v3 edit. Worksheet 1 listening is now approved for Starter, Levels 1–3 and shared Levels 4/5, with exact version fingerprints recorded privately.
+
+Worksheet 2 Starter now has a private 10.43-second continuous reading and six sentence buttons covering the approved seasons and cherry-blossom fact. Five new native recordings use the established voice and 0.85 speed; one approved question is reused. Full waveform assembly, decoding, embedded-file identity and browser playback checks are complete. New lines and the full transcript match; a reused clip has a documented single-clip STT discrepancy against its prior matching transcript, so technical evidence is not presented as listening approval. Starter Worksheet 2 listening remains pending; Level 1 follows. Audio publication and production QR integration are still pending, and complete materials remain private.
+
+
 ## 2026-11-07 — Original-source splice revision
 
 Following Vicky's editing feedback, shared Level 4/5 v3 trims a late tail after the second sentence and rejoins the original third sentence. The complete PCM is identical to v1 except for the 0.554-second deletion. The new full reading is 45.13 seconds, with an 8.63-second private excerpt. No new speech was generated for v3. Listening approval is pending.
