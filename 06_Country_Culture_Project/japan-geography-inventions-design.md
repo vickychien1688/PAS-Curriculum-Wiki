@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Starter Worksheet 2 revision approved; Level 1 listening ready
+
+Vicky approved the clarified Starter Worksheet 2 wording, revised visual files and matching audio. The exact approved PDF and PNG replace the prior private desktop archive copies; historical files are preserved, and the other twenty archived media files are unchanged. Audio approval does not include public publication or a production QR.
+
+The Level 1 Worksheet 2 private preview contains four season question-and-answer pairs followed by its already approved snow-monkey fact, with an 18.38-second full reading and seven individual sentence buttons. The same question recording is intentionally used for each season, following the existing teacher sequence. Five clips reuse approved Starter audio; two new clips retain the established voice and native 0.85 speed. Transcript, assembly, decoding, file identity and browser playback checks are complete. Level 1 listening approval remains pending, then Level 2 follows. Complete teaching materials and audio remain private.
+
+
 ## 2026-11-07 — Starter Worksheet 2 fact clarified
 
 The user found the bare participant number unclear. The revised private sample explicitly names cherry-blossom viewing and Japan while preserving the visible 2024 estimate qualification. The underlying source is a forecast, not a measured annual count. Only the fact sentence changes; artwork, page geometry, 13pt body text and unified headings remain intact, with pixel preservation outside the edited text verified.
