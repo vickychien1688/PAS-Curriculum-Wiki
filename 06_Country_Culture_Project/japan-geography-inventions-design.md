@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Level 3 Worksheet 2 reviewed; shared Level 4/5 listening preview
+
+After receiving the Level 3 audio, Vicky requested its corresponding worksheet and replied “ok” after viewing the current approved page. That review context and exact file identities are recorded privately. The shared Level 4/5 Worksheet 2 preview now contains a 36.97-second continuous reading and thirteen sentence controls. The two current worksheet PDFs are byte-identical, and one common recording follows the established shared-level decision.
+
+Five new seasonal-activity lines use the established voice and native 0.85 setting; eight approved clips are reused unchanged. Transcript, source identity, waveform assembly, embedded files and playback controls are verified separately from listening approval, which remains pending. Worksheet 1 across all levels and Worksheet 2 Starter through Level 3 are accepted. Worksheet 3 Starter follows shared Level 4/5 approval; its earlier rejected audio will not be reused. No public audio, worksheet changes or production QR were released.
+
+
 ## 2026-11-07 — Level 2 Worksheet 2 v4 approved; Level 3 listening preview
 
 Vicky approved the complete native-question revision and matching Level 2 Worksheet 2 reading. The exact accepted question is reused unchanged in the Level 3 preview. Level 3 contains a 31.27-second full reading and twelve sentence controls: four new seasonal/cultural lines and eight reused approved clips, following its existing approved worksheet. Response blanks remain for children to complete.
