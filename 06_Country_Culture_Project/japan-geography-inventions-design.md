@@ -1,5 +1,12 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-07 — Level 2 Worksheet 2 oral-question intonation revision
+
+Following Vicky's feedback on the favorite-season question, private v2 replaces only that sentence with a complete native retake. Two bounded candidates retain the established voice, wording and 0.85 speed; the selected take uses stability 0.75 with a full-stop synthesis prompt while retaining the printed question mark. No pitch/time resynthesis or word-tail cuts are applied. The question is 2.00 seconds and the full reading is 25.74 seconds. Ten other clips and the full waveform outside the replacement are unchanged.
+
+Transcript, file identity, assembly and playback checks are recorded separately from listening approval, which remains pending. The rejected original is retained privately. No worksheet, public audio or production QR changes were made; Level 3 follows only after Level 2 review.
+
+
 ## 2026-11-07 — Level 1 Worksheet 2 intonation approved; Level 2 listening preview
 
 Vicky approved the Level 1 Worksheet 2 v2 final-sentence revision and corresponding full reading; exact approved file identities are recorded privately. The Level 2 preview now offers a 25.70-second continuous reading and eleven sentence buttons, following the approved page's seasonal reading, two oral questions and cultural fact. Blank response stems remain for children to answer. Nine new native recordings retain the established voice and 0.85 speed; two approved clips are reused, including the just-approved final fact sentence.
