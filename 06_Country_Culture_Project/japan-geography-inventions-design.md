@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-09 — Worksheet 3 Starter/Level 1 intonation revision
+
+Vicky rejects the fourth recording's intonation. Its complete audio set is marked rejected, with identities and feedback preserved; the aligned worksheet and three-block wording remain unchanged. The replacement returns to the established Sparkles/Turbo configuration at requested native speed 0.85 and stability 0.75, compared with actual previously approved recordings. The other worksheet's accepted 0.80 pace remains a lesson-specific setting.
+
+Three native section recordings share fresh request context. Connected imperative and height phrasing changes synthesis punctuation only, preserving every spoken word and its order. Six bounded native candidates produce a private approximately 27.44-second full preview, three section tracks and twelve sentence files. Fixed gain and short section gaps are the only routine processing; there is no pitch reshaping, time stretching or removed word ending. All thirteen line/full transcripts, original worksheet identity, lossless assembly, file identities and technical playback checks pass. Pitch-tracking uncertainties and rising question contours remain explicitly unapproved by listening. The new audio awaits actual auditory review before publication or QR integration; other lessons remain untouched. Full materials and rejection records are privately backed up.
+
 ## 2026-11-09 — Worksheet 2 Levels 4/5 standalone QR delivered
 
 A shared standalone high-resolution PNG and scalable SVG QR now link to the approved [listening page](https://e-reading.now/sp/254), retaining a four-module quiet zone. Both outputs decode correctly. The existing four official PDF/PNG copies already contain the same working destination and remain unchanged. Current public metadata, representative artwork and all 16 exact approved audio identities were reconfirmed. The lesson retains ordered whole-play and individual controls; physical phone scanning is not yet tested. Complete QR assets and checks remain in the private project archive.
