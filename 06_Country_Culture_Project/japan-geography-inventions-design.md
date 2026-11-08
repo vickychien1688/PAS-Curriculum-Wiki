@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 2 Level 4/5 cultural-depth revision discussion
+
+Vicky identifies missing higher-level cultural depth in the published shared Level 4/5 reading. Seasonal activities must remain, with explicit connections to everyday food/clothing/festivals, changing natural beauty, appreciation of short-lived blossoms and autumn colors, and respect/gratitude for nature expressed in seasonal poetry, art, literature and daily life. Distinction from lower levels should come from cultural understanding, not merely longer sentences.
+
+After supplying a possible two-part reading and requesting page reflow, the user clarifies that the English should first be reconsidered and the snow-monkey fact need not be retained. Wording and layout remain under discussion; no new PDF, audio or public replacement has been produced. Existing Level 3 and shared Level 4/5 published files are distinct and correctly mapped, but that does not resolve the cultural-content omission. The proposed revised wording and source checks remain private.
+
 ## 2026-11-08 — Worksheet 3 paired bands and shared Level 2/3 sample
 
 The user selects unchanged Starter Worksheet 3 reuse for Level 1 and explains the accompanying video bands: Starter/Level 1, Level 2/3 and Level 4/5. Remaining Worksheet 3 production now follows those paired bands; earlier Worksheets 1/2 are not retroactively merged. Level 1's private PDF and PNG are byte-identical to the previously approved Starter artwork and text, with the higher-level filename labeled as shared.
