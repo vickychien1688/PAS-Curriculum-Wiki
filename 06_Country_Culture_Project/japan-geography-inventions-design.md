@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 2 Levels 4/5 slightly slower audio preview
+
+Vicky finds the revised audio slightly fast. A new private shared-band preview retains the exact approved worksheet wording and short gaps, with the established Sparkles voice at native requested speed 0.80 instead of 0.85. This is a lesson-specific trial, not a new series default. The full track is approximately 90.22 seconds versus 85.67 seconds previously; aligned word spans increase about 5.6%, so the change is actual speech pacing rather than added repetition pauses.
+
+The complete reading, directions and three A/B questions remain available as a full track and 16 individual controls, with an offline old/new comparison. All 17 transcripts, assembly order, decoding/levels and file identities pass technical checks. Complete native words and tails are retained with constant gain only; candidate history and uncertain pitch diagnostics stay private. Auditory review is still pending. Current public sp/254 audio, official PDFs and Drive versions remain unchanged until the exact new recording is accepted; approved worksheet artwork and other lessons are unaffected.
+
 ## 2026-11-08 — Worksheet 3 Starter/Level 1 audio rejected and revised
 
 Vicky rejects the second Starter audio preview because the voice changes unexpectedly. The entire rejected set is retained as history and excluded from publication. She also requests a spoken question connecting the earthquake scene to the three protective actions; the shared-band recording now includes that transition. Existing approved worksheet artwork/layout files remain unchanged.
