@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-09 — Worksheet 2 Levels 4/5 standalone QR delivered
+
+A shared standalone high-resolution PNG and scalable SVG QR now link to the approved [listening page](https://e-reading.now/sp/254), retaining a four-module quiet zone. Both outputs decode correctly. The existing four official PDF/PNG copies already contain the same working destination and remain unchanged. Current public metadata, representative artwork and all 16 exact approved audio identities were reconfirmed. The lesson retains ordered whole-play and individual controls; physical phone scanning is not yet tested. Complete QR assets and checks remain in the private project archive.
+
 ## 2026-11-08 — Worksheet 2 Levels 4/5 revised materials approved and published
 
 Vicky approves the slower shared recording with “完美”. The exact 90.22-second local full track and its 16 matching sentence/question clips are now the accepted audio for the approved cultural worksheet. Its native 0.80 pace is a lesson-specific setting. The shared [listening page](https://e-reading.now/sp/254) retains the representative seasonal artwork, individual controls and ordered whole-play control without a duplicate full-track item.
