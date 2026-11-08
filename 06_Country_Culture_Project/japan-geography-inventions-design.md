@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 3 Level 4/5 layout rejected; vertical revision
+
+Vicky rejects the first shared Level 4/5 layout. Its wording remains accepted, including oral teacher support for plate tectonics and the unchanged sequencing activity. The rejected composition is preserved as history, and the new layout uses the accepted series scaffold with the Fuji scene above a continuous reading, followed by the action task.
+
+All 73 reading words and all other page text remain identical. The body stays at 13 points with regular weight, while the established headings remain. Original artwork, header/footer identity, native type size/weight, paired-file equality and final full-page/detail renders are checked. The second private sample is ready for visual review; it is not an approved print or listening release. Starter/Level 1 and Level 2/3 visual approvals remain intact; Worksheet 3 audio and production QR work are still pending. Full worksheets and production files stay private.
+
 ## 2026-11-08 — Worksheet 3 Level 2/3 visually approved; shared Level 4/5 sample
 
 After viewing the complete revised Level 2/3 page, Vicky approves it with “可以”. The paired PDFs and 600-dpi PNGs are archived unchanged in their separate approved-layout desktop folders, with approval scope and exact file identities recorded privately. This does not approve audio or complete production QR work.
