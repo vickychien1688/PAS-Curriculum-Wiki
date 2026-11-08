@@ -1,5 +1,9 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-09 — Worksheet 2 Levels 4/5 Drive upload verified
+
+Following Vicky's upload request after seeing the complete worksheet, both existing level-specific Drive PDFs were updated in place with the approved complete worksheet, including the embedded listening QR. IDs, names, folders and sharing permissions remain unchanged. Both downloaded files match the approved SHA-256 identity; their printed QR and clickable PDF link point to the shared sp/254 lesson. This delivery covers the existing Drive locations; audio, other lessons and the franchise website are unchanged.
+
 ## 2026-11-09 — Worksheet 3 Starter/Level 1 intonation revision
 
 Vicky rejects the fourth recording's intonation. Her delayed clarification identifies excessive high–low pitch movement that sounds like singing. This refines the fourth-version rejection; the subsequently delivered fifth preview still awaits listening and is not automatically approved or rejected. Its complete audio set is marked rejected, with identities and feedback preserved; the aligned worksheet and three-block wording remain unchanged. The replacement returns to the established Sparkles/Turbo configuration at requested native speed 0.85 and stability 0.75, compared with actual previously approved recordings. The other worksheet's accepted 0.80 pace remains a lesson-specific setting.
