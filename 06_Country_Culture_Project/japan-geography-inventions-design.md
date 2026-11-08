@@ -8,6 +8,8 @@ Three native section recordings share fresh request context. Connected imperativ
 
 ## 2026-11-09 — Worksheet 2 Levels 4/5 standalone QR delivered
 
+Delivery clarification: Vicky requests the QR on the worksheet. Both official worksheets already embed the verified lesson QR in the upper-right LISTEN area. Delivery therefore provides the complete worksheet preview and official PDF; standalone QR files are supplementary only.
+
 A shared standalone high-resolution PNG and scalable SVG QR now link to the approved [listening page](https://e-reading.now/sp/254), retaining a four-module quiet zone. Both outputs decode correctly. The existing four official PDF/PNG copies already contain the same working destination and remain unchanged. Current public metadata, representative artwork and all 16 exact approved audio identities were reconfirmed. The lesson retains ordered whole-play and individual controls; physical phone scanning is not yet tested. Complete QR assets and checks remain in the private project archive.
 
 ## 2026-11-08 — Worksheet 2 Levels 4/5 revised materials approved and published
