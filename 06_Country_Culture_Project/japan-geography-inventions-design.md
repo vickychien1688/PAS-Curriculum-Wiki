@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 3 Level 2/3 visually approved; shared Level 4/5 sample
+
+After viewing the complete revised Level 2/3 page, Vicky approves it with “可以”. The paired PDFs and 600-dpi PNGs are archived unchanged in their separate approved-layout desktop folders, with approval scope and exact file identities recorded privately. This does not approve audio or complete production QR work.
+
+For the next shared Level 4/5 worksheet, the user selects oral teacher explanation of plate tectonics. The three proposed plate sentences are therefore removed from the student reading; the remaining 73-word passage retains the Taiwan connection and adds concrete shelter/hold-on guidance and Japanese school drill culture. The original 98-word proposal remains historical. Official safety and school-culture sources and lower-band curriculum boundaries have been checked; new cultural vocabulary receives teacher support.
+
+The private Level 4/5 visual sample reuses the accepted Fuji and Maruko artwork, keeps the same single ordering-and-practice activity and cultural fact, and reflows the reading at the established 13-point body size. Full wording, absence of the removed sentences, typography, original artwork, unchanged activity/header/footer pixels, paired-file identity and two-renderer visual checks pass. Its new layout still awaits user review; all Worksheet 3 audio/production QR items remain separate pending work. Other chats' Worksheet 1/2 work is preserved. Full student pages and production files remain private.
+
 ## 2026-11-08 — Worksheet 2 Levels 4/5: clear closed-answer reading questions
 
 The user clarifies that removing open-ended discussion should not remove the learning task. After finding the initial fill-in/checkbox format unclear, the latest private sample uses three complete comprehension questions with explicitly labeled A/B options, a circle-one instruction, and row separators. The items check seasonal effects on daily life, the short duration of cherry blossoms, and respect for nature; a separate teacher key is provided. The previously approved 93-word reading remains unchanged; that count excludes headings, directions and questions.
