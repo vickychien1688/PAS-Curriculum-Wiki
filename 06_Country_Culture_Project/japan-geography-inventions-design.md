@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Level 4/5 Worksheet 2 wording approved; reflow ready for review
+
+Vicky approved the complete 120-word two-part reading. A private one-page shared Level 4/5 sample now retains the seasonal activities and adds the full cultural passage on daily life, transient natural beauty, seasonal art/literature, and gratitude/respect for nature. The snow-monkey fact is removed; a reflection prompt asks why people still visit short-lived cherry blossoms.
+
+Approved seasonal artwork is reused in a compact horizontal row. The fixed 34-point title, 17-point section headings and 13-point reading text remain. Complete wording, original artwork identity, source header/footer, two-renderer visual checks, shared-level file equality and existing QR decoding were verified. This is a visual-review sample, not a newly published revision. The existing QR still opens the old approved recording; additional culture/reflection audio and final visual approval remain pending before updating the shared listening page and official delivery files. Full student materials remain private.
+
 ## 2026-11-08 — Worksheet 2 Level 4/5 cultural-depth revision discussion
 
 Vicky identifies missing higher-level cultural depth in the published shared Level 4/5 reading. Seasonal activities must remain, with explicit connections to everyday food/clothing/festivals, changing natural beauty, appreciation of short-lived blossoms and autumn colors, and respect/gratitude for nature expressed in seasonal poetry, art, literature and daily life. Distinction from lower levels should come from cultural understanding, not merely longer sentences.
