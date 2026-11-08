@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 2 Levels 4/5: clear closed-answer reading questions
+
+The user clarifies that removing open-ended discussion should not remove the learning task. After finding the initial fill-in/checkbox format unclear, the latest private sample uses three complete comprehension questions with explicitly labeled A/B options, a circle-one instruction, and row separators. The items check seasonal effects on daily life, the short duration of cherry blossoms, and respect for nature; a separate teacher key is provided. The previously approved 93-word reading remains unchanged; that count excludes headings, directions and questions.
+
+The two-by-two seasonal illustrations and lighter 13-point body text remain, with consistent headings. Reading integrity, question/answer alignment, clear choice placement, native fonts, final full-page renders, shared-level file identity and QR integrity were checked. The new questions and layout await review. Current public PDFs, Drive files and the listening page remain unchanged; the QR still plays the earlier recording. Earlier incomplete or unclear layouts remain historical, and full student materials stay private.
+
 ## 2026-11-08 — Worksheet 2 Levels 4/5: 93-word illustrated revision, open-ended task removed
 
 Vicky approved a 93-word shorter reading, then rejected the open-ended Think task and found the page still visually dense. The new private review sample removes that task and pairs each seasonal activity sentence with its approved illustration in a two-by-two arrangement. All 93 approved reading words remain, including seasonal activities and the cultural themes; the cultural passage has three short thematic paragraphs. Reading text uses 13-point Nunito Regular, with the existing 34-point page title and 17-point Black section headings retained.
