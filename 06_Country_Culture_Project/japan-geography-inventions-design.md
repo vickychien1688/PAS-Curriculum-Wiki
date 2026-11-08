@@ -1,5 +1,10 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Reserve Mount Fuji–Yushan comparison for the second video
+
+Vicky decided to address children's likely question about whether Mount Fuji is higher than Taiwan's Yushan in the second Japan video. The current Starter Worksheet 3 remains unchanged; this is a future video content note, not a request to begin video production or approval of the pending audio. The comparison uses published elevations of 3,776 m for Mount Fuji and 3,952 m for Yushan, a difference of about 176 m. Specific script and visual treatment remain for video development. Sources: [Geospatial Information Authority of Japan](https://web1.gsi.go.jp/WNEW/PRESS-RELEASE/keikaku61003.html) and [Yushan National Park](https://www.ysnp.gov.tw/StaticPage/Mountain).
+
+
 ## 2026-11-07 — Worksheet 2 complete; Starter Worksheet 3 fresh listening preview
 
 Vicky approved the shared Level 4/5 Worksheet 2 audio with “ok”; all levels of Worksheets 1 and 2 now have listening approval. Starter Worksheet 3 resumes from its unchanged, visually approved page with eight newly recorded clips. The 13.26-second continuous full track contains seven core learning/action/fact lines. The printed height remains a separate optional audio button. The earlier distortion-rejected Worksheet 3 recording is preserved privately and not reused.
