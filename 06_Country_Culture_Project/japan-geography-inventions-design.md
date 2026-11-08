@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 3 Starter/Level 1 audio rejected and revised
+
+Vicky rejects the second Starter audio preview because the voice changes unexpectedly. The entire rejected set is retained as history and excluded from publication. She also requests a spoken question connecting the earthquake scene to the three protective actions; the shared-band recording now includes that transition. Existing approved worksheet artwork/layout files remain unchanged.
+
+A new private approximately 14.86-second full track and nine individual controls derive from one continuous native Sparkles recording, with the height fact available separately. Two Turbo candidates showing native saturation were excluded; a single eleven_v3 comparison is a lesson-specific candidate, not a global model change. Only fixed gain and complete-sentence segmentation at quiet boundaries were applied. All ten transcripts, file identities, waveform continuity and technical playback are checked; pitch diagnostics and muted playback do not establish auditory approval. The revised recording still requires actual listening review before publication and production QR integration. Other chats' Worksheet 1/2 work is preserved; full materials remain private.
+
 ## 2026-11-08 — Worksheet 2 Levels 4/5 visual approval and revised listening preview
 
 Vicky approves the complete revised worksheet and requests updated audio. Its 93-word reading, three full A/B comprehension questions, instructions and visual layout are recorded as approved without altering the accepted PDF/PNG bytes. A shared private listening preview now includes the reading, cultural heading, instructions and all question options, without speaking the answer key or retaining the removed activities.
