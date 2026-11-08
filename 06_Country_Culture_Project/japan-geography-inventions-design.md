@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 2 Levels 4/5 revised materials approved and published
+
+Vicky approves the slower shared recording with “完美”. The exact 90.22-second local full track and its 16 matching sentence/question clips are now the accepted audio for the approved cultural worksheet. Its native 0.80 pace is a lesson-specific setting. The shared [listening page](https://e-reading.now/sp/254) retains the representative seasonal artwork, individual controls and ordered whole-play control without a duplicate full-track item.
+
+The current audio-upload endpoint automatically adjusts loudness and re-encodes files. The original approved MP3 files were therefore uploaded through the authenticated Cloudflare dashboard into the site's existing media storage and linked to this lesson through its authorized update API. All 16 public HTTPS audio files match the approved identities. Browser checks confirm complete ordered playback at normal speed, individual switching/stopping, and the representative image loading above the audio list. Website code, security policy and global audio behavior are unchanged. Initial transformed uploads and an incompatible inline-audio trial are excluded from the final lesson.
+
+Both levels' approved PDF and 600-dpi PNG files replace the prior desktop versions unchanged; final QR codes retain the same lesson URL. The two existing Drive PDFs are updated in place, with file IDs, folders, names and permissions preserved, and downloaded copies match the accepted source. The worksheet and sound are finalized; physical phone scanning remains untested. Other lessons and the concurrent Worksheet 3 work are unchanged. Complete student materials, source audio and delivery records remain private.
+
 ## 2026-11-08 — Worksheet 3 Starter/Level 1 worksheet–audio alignment revision
 
 Vicky identifies the missing cultural-fact heading and the mismatch between the printed worksheet and narration. A revised paired-band sample follows all three teaching blocks in paper order, including their headings and the printed height. The requested earthquake question is now also printed beside the activity heading and spoken before the four cue/action cards. The former approved layout remains archived; only the new question region differs in the review sample.
