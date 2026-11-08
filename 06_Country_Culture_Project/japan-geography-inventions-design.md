@@ -1,5 +1,13 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 3 paired bands and shared Level 2/3 sample
+
+The user selects unchanged Starter Worksheet 3 reuse for Level 1 and explains the accompanying video bands: Starter/Level 1, Level 2/3 and Level 4/5. Remaining Worksheet 3 production now follows those paired bands; earlier Worksheets 1/2 are not retroactively merged. Level 1's private PDF and PNG are byte-identical to the previously approved Starter artwork and text, with the higher-level filename labeled as shared.
+
+The user explicitly retains the three-action ordering and teacher-led practice activity. A private common Level 2/3 review sample reuses the approved Fuji and Maruko artwork, adds a short supported reading and three blank ordering circles, and keeps earthquake onset separate from the actions being ordered. Native text, fixed 34/17/13-point typography, source identity, two renderers and the activity layout were checked. Technical review and activity confirmation are not final text or visual approval.
+
+The next step is visual review of this pair, followed by shared Level 4/5 content. Audio and production QR for these Worksheet 3 samples remain pending. The user assigned the separate Worksheet 1 QR check to someone else; this work stopped that check without changing the platform or Drive. Full student pages, audio, artwork and production files remain private.
+
 ## 2026-11-08 — Worksheets 1 and 2 published with production QR codes
 
 Vicky authorized publication of the previously approved recordings. Worksheets 1 and 2 are now available across Starter and Levels 1–5, using ten listening pages because Levels 4/5 share each lesson. Each page includes approved representative artwork, complete sequential playback and individual sentence controls. Exact original audio files are preserved; the whole-play control reads the ordered list once with short transitions and no long repetition pauses.
