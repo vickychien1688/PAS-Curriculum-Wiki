@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 3 Starter/Level 1 worksheet–audio alignment revision
+
+Vicky identifies the missing cultural-fact heading and the mismatch between the printed worksheet and narration. A revised paired-band sample follows all three teaching blocks in paper order, including their headings and the printed height. The requested earthquake question is now also printed beside the activity heading and spoken before the four cue/action cards. The former approved layout remains archived; only the new question region differs in the review sample.
+
+The new approximately 26.96-second full recording, three section tracks and twelve sentence files come from one continuous native Sparkles take with fixed gain only. An offline comparison player displays the exact worksheet alongside its matching section/sentence controls. All three printed blocks match the script; original artwork/text, paired-file identity, typography, rendering, all thirteen line/full transcripts and lossless audio continuity are checked. Technical playback and pitch diagnostics do not establish auditory approval. The revised visual/audio sample still awaits actual review before final archiving, exact-file publication and QR integration. Other lessons remain unchanged. Full materials are privately backed up under the user's explicit project instructions; this public page contains status/specification only.
+
 ## 2026-11-08 — Worksheet 2 Levels 4/5 slightly slower audio preview
 
 Vicky finds the revised audio slightly fast. A new private shared-band preview retains the exact approved worksheet wording and short gaps, with the established Sparkles voice at native requested speed 0.80 instead of 0.85. This is a lesson-specific trial, not a new series default. The full track is approximately 90.22 seconds versus 85.67 seconds previously; aligned word spans increase about 5.6%, so the change is actual speech pacing rather than added repetition pauses.
