@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 2 Levels 4/5 visual approval and revised listening preview
+
+Vicky approves the complete revised worksheet and requests updated audio. Its 93-word reading, three full A/B comprehension questions, instructions and visual layout are recorded as approved without altering the accepted PDF/PNG bytes. A shared private listening preview now includes the reading, cultural heading, instructions and all question options, without speaking the answer key or retaining the removed activities.
+
+The established Sparkles voice and requested native 0.85 speed are retained. The approximately 85.67-second complete track and 16 individual sentence/question controls reuse one exact approved line and contain 15 newly recorded items. Full waveform order, all 17 transcripts, decoding/levels, embedded files and complete browser playback plus individual controls were checked. Technical checks do not establish auditory approval; native candidates and diagnostic limitations remain in the private record. After the user's listening confirmation, the exact approved files and accepted worksheets can replace the current shared sp/254 lesson. Public audio, current official PDFs and Drive versions remain unchanged during this preview.
+
 ## 2026-11-08 — Worksheet 3 all paired-band layouts approved
 
 After seeing the complete second Level 4/5 layout, Vicky approves it with “ok”. Its exact PDF and 600-dpi PNG are archived unchanged for both levels. The rejected first layout remains historical. All three Worksheet 3 bands—Starter/Level 1, Level 2/3 and Level 4/5—now have approved wording and visual layouts. The twelve desktop PDF/PNG files across six level folders match their approved identities.
