@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 2 Levels 4/5: 93-word illustrated revision, open-ended task removed
+
+Vicky approved a 93-word shorter reading, then rejected the open-ended Think task and found the page still visually dense. The new private review sample removes that task and pairs each seasonal activity sentence with its approved illustration in a two-by-two arrangement. All 93 approved reading words remain, including seasonal activities and the cultural themes; the cultural passage has three short thematic paragraphs. Reading text uses 13-point Nunito Regular, with the existing 34-point page title and 17-point Black section headings retained.
+
+Exact wording, artwork identity, header/footer, font size and actual weight, final renders, paired-level file equality and both QR formats were checked. The longer and earlier dense samples remain historical. The new visual layout and updated recording still require review; the existing QR plays the earlier published audio. Official PDFs, Drive files and the listening page are unchanged. No replacement activity or new reading words were added. Full student materials and sources remain private.
+
 ## 2026-11-08 — Worksheet 3 Level 2/3 transition approved; revised sample
 
 The user approves a short safety question bridging the earthquake description and protective actions. The revised shared Level 2/3 sample also connects Japan's geography with children's Taiwan experience. The island fact and earthquake frequency are separate statements: teacher notes explicitly reject island count as a cause and reserve plate-boundary explanation for supported oral teaching.
