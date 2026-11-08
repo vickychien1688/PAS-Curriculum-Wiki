@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 3 all paired-band layouts approved
+
+After seeing the complete second Level 4/5 layout, Vicky approves it with “ok”. Its exact PDF and 600-dpi PNG are archived unchanged for both levels. The rejected first layout remains historical. All three Worksheet 3 bands—Starter/Level 1, Level 2/3 and Level 4/5—now have approved wording and visual layouts. The twelve desktop PDF/PNG files across six level folders match their approved identities.
+
+This completes the visual worksheet stage only. Worksheet 3 listening review, remaining shared-band recordings, production QR codes and publication remain pending; this visual approval is not audio approval. Separate Worksheet 1/2 work is unaffected, and full student materials remain private.
+
 ## 2026-11-08 — Worksheet 3 Level 4/5 layout rejected; vertical revision
 
 Vicky rejects the first shared Level 4/5 layout. Its wording remains accepted, including oral teacher support for plate tectonics and the unchanged sequencing activity. The rejected composition is preserved as history, and the new layout uses the accepted series scaffold with the Fuji scene above a continuous reading, followed by the action task.
