@@ -1,5 +1,21 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheets 1 and 2 published with production QR codes
+
+Vicky authorized publication of the previously approved recordings. Worksheets 1 and 2 are now available across Starter and Levels 1–5, using ten listening pages because Levels 4/5 share each lesson. Each page includes approved representative artwork, complete sequential playback and individual sentence controls. Exact original audio files are preserved; the whole-play control reads the ordered list once with short transitions and no long repetition pauses.
+
+The twelve worksheet PDF/PNG pairs now contain their actual listening-page QR codes. Text and artwork outside the existing QR area are unchanged, and the shared Level 4/5 pairs remain identical. Current desktop copies and the six existing Worksheet 1 Drive PDFs were updated; six Worksheet 2 PDFs were added. Teacher guides now describe the available audio controls. Existing Drive IDs and sharing permissions are retained for replacements. Remote media and delivered PDF checksums, final QR decoding, image loading and browser playback were verified. Physical phone scanning is still pending; technical playback is distinct from auditory approval. Full worksheets and production files remain private.
+
+| Level | Worksheet 1 | Worksheet 2 |
+|---|---|---|
+| Starter | [Listen](https://e-reading.now/sp/245) | [Listen](https://e-reading.now/sp/250) |
+| Level 1 | [Listen](https://e-reading.now/sp/246) | [Listen](https://e-reading.now/sp/251) |
+| Level 2 | [Listen](https://e-reading.now/sp/247) | [Listen](https://e-reading.now/sp/252) |
+| Level 3 | [Listen](https://e-reading.now/sp/248) | [Listen](https://e-reading.now/sp/253) |
+| Levels 4/5 | [Listen](https://e-reading.now/sp/249) | [Listen](https://e-reading.now/sp/254) |
+
+Starter Worksheet 3 remains a private listening preview awaiting approval. The Fuji–Yushan comparison remains a future video-planning item. Earlier entries describing Worksheets 1/2 as unpublished are historical.
+
 ## 2026-11-08 — Reserve Mount Fuji–Yushan comparison for the second video
 
 Vicky decided to address children's likely question about whether Mount Fuji is higher than Taiwan's Yushan in the second Japan video. The current Starter Worksheet 3 remains unchanged; this is a future video content note, not a request to begin video production or approval of the pending audio. The comparison uses published elevations of 3,776 m for Mount Fuji and 3,952 m for Yushan, a difference of about 176 m. Specific script and visual treatment remain for video development. Sources: [Geospatial Information Authority of Japan](https://web1.gsi.go.jp/WNEW/PRESS-RELEASE/keikaku61003.html) and [Yushan National Park](https://www.ysnp.gov.tw/StaticPage/Mountain).
