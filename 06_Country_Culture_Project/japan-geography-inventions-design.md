@@ -1,5 +1,11 @@
 # Japan: geography, nature and inventions — design discussion
 
+## 2026-11-08 — Worksheet 3 Level 2/3 transition approved; revised sample
+
+The user approves a short safety question bridging the earthquake description and protective actions. The revised shared Level 2/3 sample also connects Japan's geography with children's Taiwan experience. The island fact and earthquake frequency are separate statements: teacher notes explicitly reject island count as a cause and reserve plate-boundary explanation for supported oral teaching.
+
+The 38-word reading keeps the fixed 13-point body text and existing approved art, sequencing activity and cultural fact. Text completeness, typography, source identity, two-renderer review, unchanged surrounding page pixels and equality of both levels' files were checked. A new private review sample preserves v1 history. Wording approval does not imply approval of the revised visual page or new audio. Visual review precedes the shared Level 4/5 Worksheet 3; Worksheet 3 audio and production QR remain pending. Other chats' Worksheet 1/2 publication and Worksheet 2 cultural revision are unaffected. Full materials remain private.
+
 ## 2026-11-08 — Level 4/5 Worksheet 2 wording approved; reflow ready for review
 
 Vicky approved the complete 120-word two-part reading. A private one-page shared Level 4/5 sample now retains the seasonal activities and adds the full cultural passage on daily life, transient natural beauty, seasonal art/literature, and gratitude/respect for nature. The snow-monkey fact is removed; a reflection prompt asks why people still visit short-lived cherry blossoms.
