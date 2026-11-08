@@ -1,3 +1,11 @@
+## 2026-11-09 — Worksheet 3 Starter/Level 1 audio approved and QR delivered
+
+Vicky approves the exact 27-second v5 listening sample with “ok”. The shared pair is now available at [the Worksheet 3 listening page](https://e-reading.now/sp/258), with approved representative artwork and twelve ordered sentence controls. The full original and sentence recordings retain their approved bytes; no regeneration, pitch processing or server loudness re-encoding was applied. The normal page-wide playback reads each line once with the platform’s short transitions; the exact full recording is also archived privately and at its media URL.
+
+Both complete worksheets now contain the real QR and clickable destination. Existing artwork, the requested earthquake transition question, the cultural-fact heading and height remain aligned. Text and pixels outside the QR area are unchanged. The paired PDFs and high-resolution PNGs are identical, decoded and visually checked. Desktop files and one PDF in each original Drive folder were delivered and verified by checksum. Listening approval and technical browser checks are recorded separately; physical phone scanning is not claimed.
+
+Levels 2/3 and 4/5 retain approved worksheet designs but still require their own audio review and QR completion. Full paid materials and production records remain in the private backup; this public page contains only status and specifications.
+
 # Japan: geography, nature and inventions — design discussion
 
 ## 2026-11-09 — Worksheet 2 Levels 4/5 Drive upload verified
