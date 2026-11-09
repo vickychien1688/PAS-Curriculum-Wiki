@@ -1,3 +1,15 @@
+## 2026-11-09 — PE2 topics and final order confirmed: Yuzuyu → Namahage → Warai Matsuri
+
+The user selects Warai Matsuri, Yuzuyu and Namahage, then explicitly places Yuzuyu first and laughter last. The accepted PE2 sequence is now:
+
+1. **Yuzuyu (winter-solstice yuzu bathing custom)** — seasonal bathing culture.
+2. **Oga Namahage** — masks, New Year's Eve visits and blessings.
+3. **Warai Matsuri / Nyu Festival** — laughter, expression and encouragement as the course finale.
+
+This replaces the earlier hot-springs → New Year masks → summer-festival framework. Namahage is selected, no longer merely a candidate. The teaching order is not calendar order: Warai Matsuri remains an October event. Yuzuyu is a seasonal bathing custom, and public baths are not necessarily natural hot springs. Keep December 31 Namahage household visits distinct from February's Sedo festival. Sources are the [Tokyo Sento Association](https://www.1010.or.jp/english/sento-event/), [Namahage Museum](https://namahage.co.jp/namahagekan/en/namahage/) and [Hidakagawa Tourism Association](https://hidakagawa-kanko.jp/miru/nyuujinnja/).
+
+The current private project record and former Starter onsen draft have been updated to prevent the old sequence or text from being used as the current approved version. Next develop Yuzuyu first, keeping level-specific language and participation activities. Exact student wording, activity materials, art and the 20-lesson allocation remain open. The previous goldfish-scooping idea is retained in history, with no new placement assigned. No new student material, audio or QR has been released.
+
 ## 2026-11-09 — Four-season festival comparison requested; December relevance and Namahage permitted
 
 The user asks for one distinctive festival per season, adds that December relevance is useful, and says Namahage is also acceptable. Namahage may therefore be included as the winter recommendation; this does not verify the teacher's original reference or approve the entire proposed set.
