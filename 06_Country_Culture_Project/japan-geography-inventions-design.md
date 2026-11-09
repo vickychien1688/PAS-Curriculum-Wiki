@@ -1,3 +1,11 @@
+## 2026-11-09 — Current Yuzuyu scope: cultural introduction only
+
+The user explicitly rejects activities for this topic and asks to introduce Yuzuyu with bathing etiquette or differences from Taiwan's winter-solstice customs. This instruction supersedes the activity-based v1 guide and its proposed three-session allocation. The approved PE2 sequence remains Yuzuyu → Namahage → Warai Matsuri.
+
+A private, editable one-page v2 teacher introduction is prepared and visually checked. Its suggested structure introduces Yuzuyu, compares selected Japanese and Taiwanese winter-solstice customs, and briefly presents shared-bath manners. This structure is an editorial proposal within the requested scope. It does not add practical activities, materials, roleplay, assessment tasks or a fixed lesson allocation. Earlier project-level interest in activities must not be interpreted as requiring an activity for every topic. The separately teacher-managed volcano activity is unchanged.
+
+The old activity guide is retained only as superseded history. Current private source: `output/japan-pe2-yuzuyu-introduction-v2/LESSON_PLAN.json`. Sources: [Tokyo Sento Association](https://www.1010.or.jp/english/sento-event/), [Taiwan Ministry of Agriculture](https://www.moa.gov.tw/ws.php?id=2507794), and [JNTO](https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/). Full teaching materials remain private. Future student content and the overall twenty-session allocation remain to be developed as requested.
+
 ## 2026-11-09 — Yuzuyu teacher lesson plan prepared
 
 The user confirms the PE2 order as final and asks for the Yuzuyu lesson plan first. A private, editable four-page teacher guide has been produced and visually verified. The guide proposes three approximately ten-minute cultural segments, consistent with the existing short-session format: introduction to the custom; sensory exploration and a miniature bath model; and Japan–Taiwan winter-solstice comparison with bathing etiquette. This does not allocate the entire twenty-session course.
