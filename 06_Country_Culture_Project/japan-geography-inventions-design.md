@@ -1,3 +1,11 @@
+## 2026-11-09 — Worksheet 3 final band approved; all six levels delivered
+
+Vicky approves the exact 62.456-second Levels 4/5 preview with “ok”. Its shared listening page is now [published with the accepted artwork and twenty-one sentence controls](https://e-reading.now/sp/262). All twenty-one clips and the full recording match the approved file hashes: thirteen new exact files were uploaded and nine accepted activity/fact clips were reused. The site’s existing continuous-play function uses its normal short inter-clip transitions; the exact full recording is separately archived. No voice regeneration, pitch/speed processing or website code changes were applied.
+
+Both complete worksheets now contain the real vector QR and clickable destination while retaining accepted text and artwork. Final PDF/image decoding, visual checks, ordered playback and individual controls pass. The final PDFs in both original Drive folders were downloaded and match the desktop files. Physical phone scanning is not claimed.
+
+Worksheet 3 student materials, approved audio and QR are complete for Starter through Level 5, grouped Starter/Level 1, Levels 2/3 and Levels 4/5. The six-level delivery index is private. This completion does not imply all country-course activities, teacher guides, videos or franchise distribution are finished. The concurrently confirmed Project One disaster-practice planning remains intact; other published lessons are unchanged.
+
 ## 2026-11-09 — Activity-led project sequence; Project One disaster practice confirmed
 
 The user wants each Project in the existing 20-lesson course to lead to a practical activity. She explicitly confirms disaster-preparedness practice as Project One's activity, building on the taught earthquake-protection content. Detailed procedures should follow the school's established arrangements.
