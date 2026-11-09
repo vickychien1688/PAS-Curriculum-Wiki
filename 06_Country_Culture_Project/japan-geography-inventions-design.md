@@ -1,3 +1,11 @@
+## 2026-11-09 — Activity-led project sequence; Project One disaster practice confirmed
+
+The user wants each Project in the existing 20-lesson course to lead to a practical activity. She explicitly confirms disaster-preparedness practice as Project One's activity, building on the taught earthquake-protection content. Detailed procedures should follow the school's established arrangements.
+
+She requests bringing the former living-culture Project Three forward as Project Two and proposes a summer-festival goldfish-scooping experience after the seasons/earthquake lessons. [Kids Web Japan](https://web-japan.org/kidsweb/cool/13-08-26/index.html) documents goldfish and colorful-ball scooping as festival attractions. Classroom materials and procedures remain under discussion.
+
+Moving the inventions themes later is the proposed corresponding sequence. Its main practical activity, the internal order of living-culture themes and the 20-lesson allocation are not yet finalized. Preserve the existing nine-theme planning context; do not treat the older pop-culture plan as current. This is planning only: existing worksheets, audio, public releases and Drive organization remain unchanged. Full discussion records remain private.
+
 ## 2026-11-09 — Worksheet 3 Levels 4/5 complete listening preview
 
 The final shared band now has a private 62.46-second complete recording, three section tracks and twenty-one ordered items matching the accepted worksheet. Only the longer main reading is newly recorded with the established voice and native pace; the accepted activity and fact sections and their nine individual files are reused byte-for-byte from Levels 2/3. Semantic gaps follow the accepted shorter pause treatment. The plate explanation remains oral teacher support.
