@@ -1,3 +1,11 @@
+## 2026-11-09 — Current character: Psyduck; Hello Kitty superseded
+
+The user explicitly rejects using Hello Kitty again and selects Pokémon Psyduck. The current Starter Yuzuyu review sample is v3, with Psyduck demonstrating three shared-bath manners. The other sections retain clear Yuzuyu and tangyuan topic illustrations. The character choice is approved; new student wording and page artwork remain a review sample.
+
+The image tool successfully produced the Psyduck manners strip but rejected two additional guide scenarios, including revised fully clothed winter versions, with no specific reason beyond an `other` category. The user was informed. The sample uses only the successful artwork; the missing scenarios are not claimed as complete, and no alternate tool was used to recreate the blocked outputs.
+
+Current private source: `output/japan-pe2-yuzuyu-starter-psyduck-v3/`. The former Kitty version is preserved as rejected history. Native-text PDF and 600dpi PNG were checked with MuPDF and independent Poppler rendering, and delivery copies were checksum-verified. Cultural-introduction scope, PE2 topic order and level distinctions are unchanged. Audio and real QR remain pending; no Drive or franchise release has occurred. Full teaching materials remain private.
+
 ## 2026-11-09 — Yuzuyu Starter review sample with a cartoon guide
 
 The user authorizes a trial worksheet and then explicitly requests cartoon-character introduction. A one-page Starter sample has been revised to use Hello Kitty, carrying forward the familiar character from the seasons worksheet. This is the assistant's concrete character implementation for review, not a claim that the new wording or artwork is approved.
