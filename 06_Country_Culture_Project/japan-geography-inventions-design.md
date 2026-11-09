@@ -1,3 +1,9 @@
+## 2026-11-09 — Yuzuyu worksheet structure proposed
+
+The user asks how to plan the worksheet. A one-page structure is proposed: a main visual introducing Yuzuyu; a side-by-side comparison with Taiwan's winter-solstice tangyuan custom; and three small shared-bath etiquette illustrations. The comparison is the suggested main thread, with etiquette as a brief supplement. This is a proposal, not an approved page design or an allocation of three lessons.
+
+Keep the established PE2 visual identity. Starter uses images and limited key words with teacher support; Level 1 language requirements remain separate. Higher-level wording must align with the actual current language curriculum. Do not restore the rejected practical activities or add an assessment task by default. No student artwork, final English, audio or QR has been produced in this planning step. Full planning content is kept private at `output/japan-pe2-yuzuyu-worksheet-plan-v1/PLAN.json`. The approved topic order remains Yuzuyu → Namahage → Warai Matsuri.
+
 ## 2026-11-09 — Current Yuzuyu scope: cultural introduction only
 
 The user explicitly rejects activities for this topic and asks to introduce Yuzuyu with bathing etiquette or differences from Taiwan's winter-solstice customs. This instruction supersedes the activity-based v1 guide and its proposed three-session allocation. The approved PE2 sequence remains Yuzuyu → Namahage → Warai Matsuri.
