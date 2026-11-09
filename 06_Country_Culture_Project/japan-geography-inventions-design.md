@@ -1,3 +1,11 @@
+## 2026-11-09 — Festival alternatives researched; no replacement selected
+
+The user asks for distinctive alternatives to Namahage. The accepted PE2 framework remains hot springs → New Year mask culture (Namahage as a candidate) → summer festivals. Architecture remains excluded.
+
+Candidates: [Aomori Nebuta](https://aomori-tourism.com/en/spot/detail_15.html), with large illuminated character floats; [Akita Kanto](https://www.japan.travel/en/us/kanto-festival/), with lantern-pole balancing and harvest wishes; [Yokote Kamakura](https://www.yokotekamakura.com/event/3-5/), with winter snow domes, water-deity customs and children's hospitality; and [Setsubun](https://www.japan.travel/en/sg/jbyj-blog/demons-beans-and-stinky-fish/), with demon masks and bean throwing for good fortune.
+
+Nebuta and Kanto fit the existing summer unit. Setsubun is a practical mask-and-participation alternative but requires reframing the middle unit around welcoming spring. Yokote could support winter customs and sharing without reopening architecture. Use mid-February for Yokote (2026 dates changed) and early February before the start of spring for Setsubun; older English pages give outdated fixed dates. All classroom adaptations remain proposals; no replacement or new student wording has been approved.
+
 ## 2026-11-09 — Revised PE2 framework accepted; Namahage explicitly remains a candidate
 
 After replying “ok”, the user explicitly writes the sequence: hot springs → New Year mask culture (Namahage as a candidate) → summer festivals. This precise wording controls the accepted plan. Architecture is excluded. The second unit's theme is accepted, but Namahage is not yet the confirmed specific custom or a verified identification of the teacher's reference.
