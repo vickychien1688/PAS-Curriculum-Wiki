@@ -1,3 +1,11 @@
+## 2026-11-09 — Worksheet 3 Levels 2/3 rhythm approved and QR delivered
+
+Vicky approves the exact 42.637-second pause revision with “ok”. The paired band is now published at [the shared listening page](https://e-reading.now/sp/261), with approved representative artwork and seventeen ordered sentence controls. All seventeen sentence MP3s and the full recording retain their accepted bytes. The existing site-wide-play control uses its normal short transitions between sentence files; the exact full recording is also archived separately. No speech regeneration, pitch/speed change, global volume change or website code change was applied.
+
+Both complete worksheets now include the real vector QR and clickable destination. Approved text, artwork and pixels outside that region remain unchanged, with final PDF/image decoding and visual checks complete. The paired desktop PDFs and high-resolution images are identical. One unique final PDF was delivered into each original Drive folder and downloaded files match the desktop source. Complete ordered playback and individual controls are technically verified; physical phone scanning is not claimed.
+
+Starter/Level 1 and Levels 2/3 are delivered. Levels 4/5 still require their audio review and QR completion. Other lessons remain unchanged; full materials, approvals and production records remain private.
+
 ## 2026-11-09 — Worksheet 3 Levels 2/3 pause-rhythm revision
 
 Vicky rejects the first shared-band preview and clarifies that its pauses or pace sound unnatural. The exact rejected files and feedback remain private. A new 42.64-second preview shortens excess silence around sentences and regularizes semantic transitions, removing approximately 3.98 seconds from the former 46.62-second assembly. Speech samples, full word endings, pitch, gain and native speaking speed remain unchanged; no speech was regenerated or time-stretched.
