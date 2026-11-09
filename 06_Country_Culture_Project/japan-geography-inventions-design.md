@@ -1,3 +1,11 @@
+## 2026-11-09 — Architecture removed; masked New Year custom being identified
+
+The user explicitly removes the architecture unit from PE2. Hot springs/Japan–Taiwan connections and the summer-festival goldfish activity remain. The teacher's replacement idea is described as a mask festival around New Year that frightens children.
+
+The closest documented match is Oga no Namahage in Akita: masked, straw-clad visiting deities make household rounds on December 31 evening, admonishing idleness and bringing New Year blessings. This is a strong identification from the clues, not a confirmed teacher identification. See the [Namahage Museum](https://namahage.co.jp/namahagekan/en/namahage/) and [JNTO account](https://www.japan.travel/en/japan-magazine/1902_namahage/). Keep this household custom separate from February's [Namahage Sedo Festival](https://www.tohokukanko.jp/en/attractions/detail_10005.html). If the defining action is bean throwing, [Setsubun](https://www.japan.travel/en/sg/jbyj-blog/demons-beans-and-stinky-fish/) is a different candidate.
+
+A masked New Year visitor unit and classroom paper-mask art are proposals; their exact scope is not approved. The private Starter content record no longer labels architecture as the current accepted second unit. Existing onsen wording remains unapproved and unchanged. No new student material, artwork, audio, QR or external lesson release has been made.
+
 ## 2026-11-09 — Hot-spring cultural direction accepted; Starter content proposal
 
 The user accepts the first unit's direction: recognizing hot springs, exploring bathing culture and etiquette, and connecting Japan with Taiwan. The approved PE2 sequence remains hot springs, architecture, then festivals, with volcano implementation assigned to teachers.
