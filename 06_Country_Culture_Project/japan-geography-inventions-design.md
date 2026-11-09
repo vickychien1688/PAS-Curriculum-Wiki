@@ -1,3 +1,11 @@
+## 2026-11-09 — Yuzuyu teacher lesson plan prepared
+
+The user confirms the PE2 order as final and asks for the Yuzuyu lesson plan first. A private, editable four-page teacher guide has been produced and visually verified. The guide proposes three approximately ten-minute cultural segments, consistent with the existing short-session format: introduction to the custom; sensory exploration and a miniature bath model; and Japan–Taiwan winter-solstice comparison with bathing etiquette. This does not allocate the entire twenty-session course.
+
+The guide includes differentiated participation for Starter through Level 5, materials, teacher prompts, alternatives when yuzu or water use is unavailable, and observable learning outcomes. Classroom materials remain distinct from authentic yuzu and natural hot springs. English examples are teacher-supported, not a claim of completed PAS vocabulary alignment. Sources include the [Tokyo Sento Association](https://www.1010.or.jp/english/sento-event/), [MAFF](https://www.maff.go.jp/j/pr/aff/1701/spe2_01.html), [NAOJ](https://eco.mtk.nao.ac.jp/koyomi/yoko/2026/rekiyou262.html), [Taiwan Ministry of Agriculture](https://www.moa.gov.tw/ws.php?id=2507794), and [JNTO](https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/).
+
+The topic and order are approved; this newly prepared teaching plan and its three-session allocation remain available for review. Full teaching content stays private. No new student worksheet, illustration, audio, QR or teacher message has been released. Continue with the first Yuzuyu student-content proposal after incorporating lesson-plan feedback.
+
 ## 2026-11-09 — PE2 topics and final order confirmed: Yuzuyu → Namahage → Warai Matsuri
 
 The user selects Warai Matsuri, Yuzuyu and Namahage, then explicitly places Yuzuyu first and laughter last. The accepted PE2 sequence is now:
