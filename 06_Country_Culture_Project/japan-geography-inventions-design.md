@@ -1,3 +1,11 @@
+## 2026-11-09 — Worksheet 3 Levels 2/3 complete listening preview
+
+The approved paired worksheet remains unchanged. A private 46.62-second listening preview now follows all three printed teaching blocks, including headings, the activity instruction, printed labels, cultural-fact heading and height. The sorting activity remains intact and its answer key is not narrated. Plate explanations remain teacher-led oral supplementation.
+
+The established Sparkles voice and native 0.85 pace are retained. Four bounded native requests produced the new reading and activity; the identical cultural-fact section reuses the exact approved Starter recording. The full track, three section tracks, seventeen sentence files and worksheet-aligned player are available privately. All eighteen transcripts, paper order, lossless assembly, file identities and technical browser controls pass. Full pitch/word-tail checks retain their limitations and do not establish auditory approval. No pitch reshaping, time stretching or word-tail removal was applied.
+
+This paired band's actual listening approval is pending before exact-file publication and QR delivery. Starter/Level 1 remains delivered at sp/258; Level 4/5 audio follows afterward. Other worksheets remain unchanged. Full materials and production records are privately backed up under the project instructions.
+
 ## 2026-11-09 — Worksheet 3 Starter/Level 1 audio approved and QR delivered
 
 Vicky approves the exact 27-second v5 listening sample with “ok”. The shared pair is now available at [the Worksheet 3 listening page](https://e-reading.now/sp/258), with approved representative artwork and twelve ordered sentence controls. The full original and sentence recordings retain their approved bytes; no regeneration, pitch processing or server loudness re-encoding was applied. The normal page-wide playback reads each line once with the platform’s short transitions; the exact full recording is also archived privately and at its media URL.
