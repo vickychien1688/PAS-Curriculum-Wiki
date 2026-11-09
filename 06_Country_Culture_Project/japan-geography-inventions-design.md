@@ -1,3 +1,9 @@
+## 2026-11-09 — Worksheet 3 Levels 4/5 complete listening preview
+
+The final shared band now has a private 62.46-second complete recording, three section tracks and twenty-one ordered items matching the accepted worksheet. Only the longer main reading is newly recorded with the established voice and native pace; the accepted activity and fact sections and their nine individual files are reused byte-for-byte from Levels 2/3. Semantic gaps follow the accepted shorter pause treatment. The plate explanation remains oral teacher support.
+
+All item and full transcripts, unchanged worksheet identities, audio assembly, playback controls and complete technical playback are verified. Native candidate contours and uncertainties are retained privately; measurements do not constitute listening approval. This band's sound still requires Vicky's review before publishing unchanged audio and completing the QR worksheets. Starter/Level 1 and Levels 2/3 are already delivered; other lessons remain unchanged. Full materials and production files remain private.
+
 ## 2026-11-09 — Worksheet 3 Levels 2/3 rhythm approved and QR delivered
 
 Vicky approves the exact 42.637-second pause revision with “ok”. The paired band is now published at [the shared listening page](https://e-reading.now/sp/261), with approved representative artwork and seventeen ordered sentence controls. All seventeen sentence MP3s and the full recording retain their accepted bytes. The existing site-wide-play control uses its normal short transitions between sentence files; the exact full recording is also archived separately. No speech regeneration, pitch/speed change, global volume change or website code change was applied.
