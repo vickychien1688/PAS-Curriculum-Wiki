@@ -1,3 +1,9 @@
+## 2026-11-09 — Revised PE2 framework accepted; Namahage explicitly remains a candidate
+
+After replying “ok”, the user explicitly writes the sequence: hot springs → New Year mask culture (Namahage as a candidate) → summer festivals. This precise wording controls the accepted plan. Architecture is excluded. The second unit's theme is accepted, but Namahage is not yet the confirmed specific custom or a verified identification of the teacher's reference.
+
+The private project/content records now distinguish the approved three-unit framework from the candidate festival. Continue with the hot-spring unit and verify the second unit's cultural focus without reopening the approved overall order. Paper-mask work remains an activity direction; the summer goldfish-scooping activity remains. Exact student wording, artwork and activity details are not approved by this sequencing confirmation, and no new materials, audio or QR have been released.
+
 ## 2026-11-09 — Architecture removed; masked New Year custom being identified
 
 The user explicitly removes the architecture unit from PE2. Hot springs/Japan–Taiwan connections and the summer-festival goldfish activity remain. The teacher's replacement idea is described as a mask festival around New Year that frightens children.
