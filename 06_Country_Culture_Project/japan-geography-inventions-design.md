@@ -1,3 +1,11 @@
+## 2026-11-09 — Hot-spring cultural direction accepted; Starter content proposal
+
+The user accepts the first unit's direction: recognizing hot springs, exploring bathing culture and etiquette, and connecting Japan with Taiwan. The approved PE2 sequence remains hot springs, architecture, then festivals, with volcano implementation assigned to teachers.
+
+A private Starter content proposal now contains a twelve-word reading, two teacher-led wash-before-entry action cues and a short fact about milky-white spring water. [JNTO bathing guidance](https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/) supports the washing sequence; [JNTO's Nyuto description](https://www.japan.travel/en/us/nyuto-onsen-kyo/) supports the water-color fact. New cultural language is teacher-supported, not assumed mastered textbook vocabulary. The existing no-monkey constraint for Starter is retained.
+
+Exact new wording, activity details, guide character and artwork remain proposals for review. Starter and Level 1 language demands are separate. No new student page, illustration, audio, QR or public lesson has been produced; the accepted cultural direction does not constitute approval of those pending materials. Full content and source records remain private.
+
 ## 2026-11-09 — PE2 sequence accepted: hot springs, architecture, festivals
 
 The user replies “好” to the complete sequencing proposal, accepting: (1) hot springs and Japan–Taiwan connections, (2) Japanese architecture, and (3) summer festivals, culminating in the goldfish-scooping activity. This resolves the former architecture-first versus festival-first options; do not ask for the same sequence confirmation again. The original three cultural themes remain intact.
