@@ -1,3 +1,9 @@
+## 2026-11-09 — Worksheet 3 Levels 2/3 pause-rhythm revision
+
+Vicky rejects the first shared-band preview and clarifies that its pauses or pace sound unnatural. The exact rejected files and feedback remain private. A new 42.64-second preview shortens excess silence around sentences and regularizes semantic transitions, removing approximately 3.98 seconds from the former 46.62-second assembly. Speech samples, full word endings, pitch, gain and native speaking speed remain unchanged; no speech was regenerated or time-stretched.
+
+All seventeen items and the complete recording pass text checks; retained speech samples, timing assembly, worksheet identities, file identities and complete technical playback are verified. The worksheet-aligned full/section/sentence player is updated privately. Actual rhythm approval remains pending before publication or QR integration. The approved Starter recording and all worksheet designs remain unchanged; other lessons are unaffected.
+
 ## 2026-11-09 — Worksheet 3 Levels 2/3 complete listening preview
 
 The approved paired worksheet remains unchanged. A private 46.62-second listening preview now follows all three printed teaching blocks, including headings, the activity instruction, printed labels, cultural-fact heading and height. The sorting activity remains intact and its answer key is not narrated. Plate explanations remain teacher-led oral supplementation.
