@@ -1,3 +1,9 @@
+## 2026-11-09 — PE2 sequence accepted: hot springs, architecture, festivals
+
+The user replies “好” to the complete sequencing proposal, accepting: (1) hot springs and Japan–Taiwan connections, (2) Japanese architecture, and (3) summer festivals, culminating in the goldfish-scooping activity. This resolves the former architecture-first versus festival-first options; do not ask for the same sequence confirmation again. The original three cultural themes remain intact.
+
+Continue discussion of the first hot-spring unit's cultural focus, graded understanding goals, student language and activity. The assistant proposes connecting familiar hot springs with Japanese bathing culture and Taiwan, with a brief underground-heat bridge from PE1. Detailed first-unit content, visual design, audio and the allocation of all 20 lessons are not yet approved. PE1 volcano implementation remains with teachers; no extra volcano activity card is being produced. Existing published materials remain unchanged.
+
 ## 2026-11-09 — Topic-order discussion takes priority; volcano implementation stays with teachers
 
 The user assigns the volcano activity to teachers and explicitly prioritizes discussing the next topic over continuing worksheet production. The previously suggested extra volcano activity card is not being produced.
