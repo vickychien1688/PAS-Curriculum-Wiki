@@ -1,3 +1,11 @@
+## 2026-11-09 — Topic-order discussion takes priority; volcano implementation stays with teachers
+
+The user assigns the volcano activity to teachers and explicitly prioritizes discussing the next topic over continuing worksheet production. The previously suggested extra volcano activity card is not being produced.
+
+She compares architecture, festivals and hot springs. The assistant recommends a tentative sequence of hot springs/Japan–Taiwan connections, Japanese architecture, then summer festivals with goldfish scooping as the PE2 practical culmination. This retains the original three living-culture themes. The sequence is a proposal awaiting the user's decision, not an approved renumbering.
+
+The hot-spring bridge can build on underground heat after the Mount Fuji topic. [Oita Prefecture's educational explanation](https://www.pref.oita.jp/site/sin-kirarinnet/sin-kirarinnet-4-3-1.html) distinguishes volcanic and nonvolcanic hot springs; do not imply all hot springs result from eruptions. No new PE2 student worksheet, illustration, recording, QR or public material release has been made. Discuss the sequence and first theme before resuming production.
+
 ## 2026-11-09 — Volcano activity accepted; PE2 production authorized and three themes retained
 
 The user accepts adding a volcano-model activity to Project One while retaining earthquake-protection practice, then explicitly authorizes starting PE2 worksheet production. She subsequently asks how to connect the volcano activity to the existing lesson. A suggested approach places model observation after the Mount Fuji introduction and treats earthquake preparedness as a separate practical learning goal, without implying that every earthquake is caused by a volcanic eruption. The [NASA JPL classroom model](https://www.jpl.nasa.gov/edu/resources/project/make-a-volcano/) is a procedural reference; its chemical reaction must be distinguished from the processes inside real volcanoes. Detailed implementation and an optional separate activity card remain proposals.
