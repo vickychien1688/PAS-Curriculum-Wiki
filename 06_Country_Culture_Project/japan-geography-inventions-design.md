@@ -1,3 +1,11 @@
+## 2026-11-09 — Four-season festival comparison requested; December relevance and Namahage permitted
+
+The user asks for one distinctive festival per season, adds that December relevance is useful, and says Namahage is also acceptable. Namahage may therefore be included as the winter recommendation; this does not verify the teacher's original reference or approve the entire proposed set.
+
+Proposed set: spring — [Shimogamo Nagashibina](https://ja.kyoto.travel/event/season/march/), March 3 doll-floating for children's well-being; summer — [Aomori Nebuta](https://aomori-tourism.com/en/spot/detail_15.html), August illuminated floats and parade; autumn — [Hidakagawa Warai Matsuri / Nyu Festival](https://hidakagawa-kanko.jp/miru/nyuujinnja/), October laughter and costumed procession; winter — [Oga Namahage](https://namahage.co.jp/namahagekan/en/namahage/), December 31 household visits by masked visiting deities. Do not confuse the winter household custom with February's Sedo festival.
+
+A December extension to the bathing-culture unit is [winter-solstice yuzuyu](https://www.1010.or.jp/english/sento-event/). The [NAOJ 2026 calendar](https://eco.mtk.nao.ac.jp/koyomi/yoko/2026/rekiyou262.html) gives December 22. Yuzuyu is a seasonal bathing custom; a sento is not necessarily a natural hot spring. Do not repeat unsupported health guarantees. Other seasonal choices, the unit structure and classroom adaptations remain proposals; summer goldfish scooping is retained, and no new materials are released.
+
 ## 2026-11-09 — Festival alternatives researched; no replacement selected
 
 The user asks for distinctive alternatives to Namahage. The accepted PE2 framework remains hot springs → New Year mask culture (Namahage as a candidate) → summer festivals. Architecture remains excluded.
