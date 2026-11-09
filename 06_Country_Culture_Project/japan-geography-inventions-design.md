@@ -1,3 +1,11 @@
+## 2026-11-09 — Yuzuyu Starter review sample with a cartoon guide
+
+The user authorizes a trial worksheet and then explicitly requests cartoon-character introduction. A one-page Starter sample has been revised to use Hello Kitty, carrying forward the familiar character from the seasons worksheet. This is the assistant's concrete character implementation for review, not a claim that the new wording or artwork is approved.
+
+The page retains the three requested cultural sections: introduction to Yuzuyu, a Japan–Taiwan winter-solstice comparison, and brief shared-bath manners. No practical activity or assessment is added. It preserves the existing Japan page dimensions and brand assets, with the PE2 rose palette, 34pt title, 17pt section headings and 13pt body/captions. PDF text remains native. The final PDF and 600dpi PNG were checked through MuPDF and independent Poppler rendering; delivery copies were checksum-verified.
+
+The earlier object-led version is superseded and preserved privately. Current private source: `output/japan-pe2-yuzuyu-starter-kitty-v2/`. New cultural language is teacher-supported; Starter and Level 1 requirements remain distinct. Audio and real QR remain pending and are labeled accordingly in the review sample. No unapproved audio, Drive or franchise resource has been published. Next incorporate feedback before extending the accepted content to listening production. Full student materials, images and production sources remain private.
+
 ## 2026-11-09 — Yuzuyu worksheet structure proposed
 
 The user asks how to plan the worksheet. A one-page structure is proposed: a main visual introducing Yuzuyu; a side-by-side comparison with Taiwan's winter-solstice tangyuan custom; and three small shared-bath etiquette illustrations. The comparison is the suggested main thread, with etiquette as a brief supplement. This is a proposal, not an approved page design or an allocation of three lessons.
