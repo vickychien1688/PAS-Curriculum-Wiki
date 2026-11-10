@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 spring interaction sounds v5.1
+
+Following the user's positive feedback and request for click sounds, spring now has quiet button/frame taps, progressively higher blossom notes, butterfly/leaf reactions, a camera shutter, photo-book completion chime and page sound. These are directly requested real-time Web Audio effects; no new voice or external audio file is introduced. The accepted spring speech remains byte-identical. The independent Effects on/off switch persists locally and leaves spoken clues available. Effects automatically become quieter during speech, use soft envelopes and interruption fades, and limit rapid retriggers.
+
+The same owner-private Site is deployed from `d19c482f0eb32aa5d21c880a3a286d9f45c25d1f`. Local and live touch checks passed for effect triggers, speech ducking, independent mute, preference persistence and flow completion. Nine actual waveform renders peaked at about −24 dBFS or lower with zero starts/ends; rapid retrigger and node cleanup were checked. Physical speaker listening and the user's subjective sound/volume review remain pending. Full implementation and QA are privately backed up; other lessons and five legacy stops are unchanged.
+
 ## 2026-11-11 current game: Spring Photo Quest v5
 
 The user approved a focused spring prototype to give the game a character, purpose and keepsake. The spring sequence is: help a traveler → hear the clue → find three cherry blossoms among butterflies and a leaf → take a photo → choose a frame → add it to the Japan photo book. Distractors respond harmlessly; there is no timer or penalty. Saving, rather than merely tapping the targets, awards the spring stamp. One photo persists on the current browser without child information. Other five scenes retain v4 mechanics. English stays primary with one small Chinese cue per screen.
