@@ -1,5 +1,15 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 final three story missions v7
+
+The user accepted the first two missions and requested continuation. Summer now lets children choose firework colors and sky positions, then capture and keep a postcard. Autumn asks them to collect red/yellow leaves among harmless distractors and tap to arrange a bookmark with a chosen ribbon. Winter gives a choice of snowflake paths in three guarded moves, followed by a manually captured snow-day photo. Only saving the keepsake awards each stamp. No scissors, dragging requirement, timers or penalties; English remains primary with short Chinese support.
+
+Travel book now contains all six keepsakes. Existing ticket, suitcase flag and spring album remain accessible; new color/position, leaf/ribbon and route choices persist in the current browser without child data. Completing all six reveals a whole-trip heading. Existing original artwork and verified geography are preserved.
+
+New narration remains deferred at the user's explicit instruction. The accepted soft effects are reused, including independent mute and speech ducking. The only bundled voice is the unchanged approved spring clue. No new voice publication is implied.
+
+The same owner-private Site successfully deployed source `93b6049ce16dea2ae5f9390cadaed39a11a06554`. Local touch flows, distractors, save timing, replacement/keyboard controls, motion/navigation guards, persistence, six-card collection and prior-mission/spring regressions passed. Layouts were inspected at phone, tablet, desktop and projector dimensions and corrected. Live summer-to-winter completion, prior spring memory access, effects mute and reload persistence passed without JavaScript errors. Physical classroom hardware and user assessment of enjoyment remain pending. Full materials and QA are privately backed up; this public document records specifications only.
+
 ## 2026-11-11 first two story missions v6
 
 Following acceptance of spring effects, the user requested updates to the preceding games. Japan location now gives the traveler a purpose: find Japan using the existing verified map and island outline, manually fly from Taiwan, then stamp an arrival ticket. Only the stamp awards completion. Wrong mainland/sea taps do not unlock flight. Original Natural Earth map data and Japan hit polygons are preserved.
