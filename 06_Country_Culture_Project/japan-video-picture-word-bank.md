@@ -27,3 +27,7 @@ At the user’s request, v2 extends the existing landscape footer to both page e
 ## 2026-11-10 Asia correction and consolidated seasons
 
 The user identified the unclear Asia image, tiny seasonal images, and redundant four-season content. v3 uses a world locator with Asia distinctly highlighted, from [Notscott’s public-domain AsiaLocation.svg](https://commons.wikimedia.org/wiki/File:AsiaLocation.svg). Four seasonal scenes now appear once each in a 2-by-2 picture vocabulary area (144 × 81 pt each), alongside the existing season names and film phrases. The duplicate season learning panel is removed; the lower area retains only location, greeting, and flag meaning. The full-width footer, header, and original video QR remain unchanged. This is a revised review sample, not print approval.
+
+## 2026-11-10 touch activity constraints
+
+The user clarified that learners are in primary grades 1–2 and the classroom has a touch-enabled interactive whiteboard. The accompanying game must support direct touch. Cutting and pasting is not preferred because scissors handling is still difficult for some learners. The proposed first interaction is tapping large picture cards, with replay and teacher-controlled progression; independent reading is not required. A six-round content sequence is only a proposal. No game has been built, deployed, or published as part of this planning update.
