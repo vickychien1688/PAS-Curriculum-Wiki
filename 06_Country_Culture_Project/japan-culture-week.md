@@ -1,5 +1,17 @@
 # Japan Culture Week — current planning scope
 
+## 2026-11-10 — Five video-led themes
+
+Japan Culture Week will focus on short videos with selected classroom interactions. The confirmed sequence is:
+
+1. **Where is Japan?** Location, flag, four main islands, Tokyo, and seasonal scenery.
+2. **Yuzu baths.** Compare winter solstice customs in Taiwan and Japan.
+3. **Namahage.** Explore the New Year's Eve visit in Oga.
+4. **Summer festival game stalls.** Explore a festival through a goldfish-scooping activity.
+5. **Japanese food.** Introduce several dishes and make sushi rolls with a bamboo mat, using ingredients prepared in advance.
+
+Teaching time, activity logistics, and the transition from the previous PE structure are pending teacher discussion. Existing approved resources are documented separately.
+
 ## 2026-10-28 — All three visual attempts rejected
 
 The user rejected v3 and asked the assistant to review its own failures. v1, v2 and v3 are rejected records, not approved templates; there is currently no accepted Japan Starter worksheet. Stop producing further visual variants in this review turn. Preserve the already-clear content, title and reference directions. Technical rendering checks must not be represented as design acceptance. No audio, QR or student-material publication has occurred.
