@@ -1,5 +1,15 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 first two story missions v6
+
+Following acceptance of spring effects, the user requested updates to the preceding games. Japan location now gives the traveler a purpose: find Japan using the existing verified map and island outline, manually fly from Taiwan, then stamp an arrival ticket. Only the stamp awards completion. Wrong mainland/sea taps do not unlock flight. Original Natural Earth map data and Japan hit polygons are preserved.
+
+The flag task now builds a keepsake: choose white cloth, identify a red circle among other colors/shapes, tap the cloth to stamp the centered disc, choose a bag color, and attach the flag to the suitcase. Only attachment awards completion. No scissors, dragging, countdown or penalty. Travel book collects ticket and flag records alongside the existing spring photo entry; data remains in the current browser without student information. English stays primary with short Chinese hints.
+
+The user explicitly deferred Japan/flag narration: first complete gameplay and revise voice later. No new narration is bundled; the accepted procedural effects are reused. Spring artwork, logic and approved recording remain unchanged. The remaining seasonal preview mechanics are preserved.
+
+The same owner-private Site deployed successfully from `2d291dfe22443fb73c8a8fe544635cb6db71ebe2`. First-run touch checks, wrong targets, completion timing, keyboard selection, cancellation on navigation, persistence, spring audio/photo regressions and responsive layouts passed. The live URL was checked through the full first-two-to-spring sequence and Travel book reload; no new narration started and no JS errors occurred. Classroom whiteboard testing and user assessment of the new missions remain pending. Full materials and QA are private; only this specification is public.
+
 ## 2026-11-11 spring interaction sounds v5.1
 
 Following the user's positive feedback and request for click sounds, spring now has quiet button/frame taps, progressively higher blossom notes, butterfly/leaf reactions, a camera shutter, photo-book completion chime and page sound. These are directly requested real-time Web Audio effects; no new voice or external audio file is introduced. The accepted spring speech remains byte-identical. The independent Effects on/off switch persists locally and leaves spoken clues available. Effects automatically become quieter during speech, use soft envelopes and interruption fades, and limit rapid retriggers.
