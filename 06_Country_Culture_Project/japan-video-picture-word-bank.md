@@ -23,3 +23,7 @@ Full student material, media, source code, and checksums remain private. No new 
 ## 2026-11-10 footer revision
 
 At the user’s request, v2 extends the existing landscape footer to both page edges with uniform scaling and page-edge trimming of its base. The original image is retained. All text and all pixels above the footer are unchanged. The revised PDF and 600 dpi PNG were visually checked; artwork approval remains pending.
+
+## 2026-11-10 Asia correction and consolidated seasons
+
+The user identified the unclear Asia image, tiny seasonal images, and redundant four-season content. v3 uses a world locator with Asia distinctly highlighted, from [Notscott’s public-domain AsiaLocation.svg](https://commons.wikimedia.org/wiki/File:AsiaLocation.svg). Four seasonal scenes now appear once each in a 2-by-2 picture vocabulary area (144 × 81 pt each), alongside the existing season names and film phrases. The duplicate season learning panel is removed; the lower area retains only location, greeting, and flag meaning. The full-width footer, header, and original video QR remain unchanged. This is a revised review sample, not print approval.
