@@ -31,3 +31,11 @@ The user identified the unclear Asia image, tiny seasonal images, and redundant 
 ## 2026-11-10 touch activity constraints
 
 The user clarified that learners are in primary grades 1–2 and the classroom has a touch-enabled interactive whiteboard. The accompanying game must support direct touch. Cutting and pasting is not preferred because scissors handling is still difficult for some learners. The proposed first interaction is tapping large picture cards, with replay and teacher-controlled progression; independent reading is not required. A six-round content sequence is only a proposal. No game has been built, deployed, or published as part of this planning update.
+
+## 2026-11-10 playable touch review and visual/language revision
+
+At the user’s request, a six-round whiteboard game was implemented with 2–3 large picture choices, whole-card touch, original approved-video excerpts, unlimited replay/retry, explicit teacher-controlled next, fullscreen and restart. The user rejected the initial generic quiz/photo-collage appearance and requested ChatGPT art. The current v2 uses original coherent picture-book scenes, child travelers, travel picture cards and completion stamps. Country outlines remain data-derived.
+
+The latest user correction makes English the primary visible language: short English controls, prompts, feedback and teacher guide; only a short small Chinese support line per student screen. Cutting/pasting, dragging, timers and rankings are excluded.
+
+All six rounds were tested with simulated touch; desktop, whiteboard and narrow viewport layouts and self-contained offline image/audio loading were checked. An owner-private hosted review and offline HTML are available; the existing teaching platform, video and worksheet remain unchanged. Full art, source, audio and deliverables remain private. Artwork approval, question-order approval and physical classroom whiteboard testing remain pending.
