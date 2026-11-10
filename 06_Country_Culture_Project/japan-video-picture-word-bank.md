@@ -1,5 +1,15 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-10 current game candidate: scene adventure v3
+
+The user rejected v2 as not interesting, requested new speech, and asked for GitHub gameplay research. The current local candidate changes the six quiz stops into direct scene actions: fly to Japan, stamp the red circle on the flag, collect blossoms, launch fireworks at the touched position, collect autumn leaves, and guide a skier along snowflakes. English remains primary, with one small brief Chinese hint per student screen. Grades 1–2; no scissors, dragging requirement, timer, or penalty. Teacher-controlled Next and Listen remain. Summer supports free play after the task.
+
+Primary references: [Tiny House scene interactions](https://github.com/dobrindobrev/tiny-house), [HiddenObject Blueprint scene search](https://github.com/gamelab/HiddenObject-Blueprint), and [fireworks-js pointer interaction](https://github.com/crashmax-dev/fireworks-js). Concepts informed an independent implementation; third-party game code and artwork were not copied. Accurate geography uses the established Natural Earth source. New generated scene/sprite art and original full materials stay private.
+
+Six stages passed browser touch emulation. Wrong choices/order, stamp progress, replay, offline image/audio loading, and phone/tablet/desktop layouts were checked. Physical whiteboard use remains untested. Sixteen new Sparkles voice clips and a complete review track were generated with established culture-course settings; STT, levels and descriptive pitch diagnostics were recorded. Naturalness/listening approval is not claimed. Audio, artwork and gameplay remain review candidates.
+
+V3 is delivered as a local self-contained HTML file and playable audio review. The existing owner-private online project still serves historical v2. No new audio was published: the user's project authorization excludes publishing unapproved audio. Full source/media and rejected-version records are privately backed up; this public page contains only specifications and status. The worksheet v3 and approved source video are unchanged. Next: user play/listen review, then revise and update the existing online project after voice approval.
+
 Updated 2026-11-10. Stage: one-page visual review sample; not print-approved.
 
 The user supplied the approved entry-level Japan location video and accepted a new worksheet direction: a Word Bank followed by What I Learned. The subsequent clarification emphasizes the very young learners: every vocabulary entry must have a corresponding picture or diagram. This request resumes work on this specific companion page; it does not approve revisions to all prior Japan worksheets.
