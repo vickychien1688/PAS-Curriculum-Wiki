@@ -1,5 +1,15 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 current game: Spring Photo Quest v5
+
+The user approved a focused spring prototype to give the game a character, purpose and keepsake. The spring sequence is: help a traveler → hear the clue → find three cherry blossoms among butterflies and a leaf → take a photo → choose a frame → add it to the Japan photo book. Distractors respond harmlessly; there is no timer or penalty. Saving, rather than merely tapping the targets, awards the spring stamp. One photo persists on the current browser without child information. Other five scenes retain v4 mechanics. English stays primary with one small Chinese cue per screen.
+
+The user explicitly accepted the repaired sample and authorized attaching the spring clip on November 11. The exact existing 4.504667-second recording is now served in spring; it was not resynthesized or reprocessed. Other stops remain silent previews. This limited publication does not imply approval of the whole audio set.
+
+The same owner-private Site was updated successfully, source `c8f40668442cfbe9b97c1fab0e70cca61333bc17`. Local flow checks and live browser touch simulation verified wrong-object reactions, one-count-per-blossom, manual photo capture, frame choice, saving/reopening/reloading the photo book, next-stop navigation, audio replay/stop and unobstructed controls at the hosting toolbar. Phone, tablet and projector-sized layouts were inspected and fixed. The deployed audio checksum matches the approved source. Physical classroom whiteboard use, new artwork and enjoyment remain for user review.
+
+Full source, generated park/character art, complete prompts, approved recording, QA and prior rejected versions remain in the private culture project; no full teaching materials are added to this public Wiki. Next: try this single complete spring experience before extending the pattern to other scenes.
+
 ## 2026-11-10 delivery and audio correction: online interaction preview
 
 The user could not play from the local-file link and reported distortion in the v3 speech. That entire voice set is rejected; prior STT and the absence of digital clipping do not establish acceptable sound. Six scene missions are now deployed to the existing owner-private Site, keeping its audience unchanged. Normal account sign-in, all six missions, stamp completion and replay were tested at the live URL. A hosting toolbar that intercepted the replay button was found and fixed by compacting the completion page. Final deployment succeeded, source commit `be4a5cd62e1bcfd889cf9c3ef31cdc34f49ec8ea`.
