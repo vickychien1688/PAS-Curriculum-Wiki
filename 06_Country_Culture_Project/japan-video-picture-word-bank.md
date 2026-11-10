@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-10 delivery and audio correction: online interaction preview
+
+The user could not play from the local-file link and reported distortion in the v3 speech. That entire voice set is rejected; prior STT and the absence of digital clipping do not establish acceptable sound. Six scene missions are now deployed to the existing owner-private Site, keeping its audience unchanged. Normal account sign-in, all six missions, stamp completion and replay were tested at the live URL. A hosting toolbar that intercepted the replay button was found and fixed by compacting the completion page. Final deployment succeeded, source commit `be4a5cd62e1bcfd889cf9c3ef31cdc34f49ec8ea`.
+
+The live page is explicitly a silent interaction preview. Neither rejected speech nor unapproved replacement speech is bundled. Sixteen new native Sparkles takes were produced separately as lossless PCM/WAV with gain only and at least 6 dB of sample-peak headroom; MP3 alternatives were encoded once. The same words, voice identity, model and speed are preserved. A 15.48-second sample and full review were delivered locally. All individual/full-track STT checks matched; auditory absence of distortion is not claimed. Next: user listening review and physical whiteboard trial; only then attach the accepted exact voice files. Full media and production records remain private.
+
 ## 2026-11-10 current game candidate: scene adventure v3
 
 The user rejected v2 as not interesting, requested new speech, and asked for GitHub gameplay research. The current local candidate changes the six quiz stops into direct scene actions: fly to Japan, stamp the red circle on the flag, collect blossoms, launch fireworks at the touched position, collect autumn leaves, and guide a skier along snowflakes. English remains primary, with one small brief Chinese hint per student screen. Grades 1–2; no scissors, dragging requirement, timer, or penalty. Teacher-controlled Next and Listen remain. Summer supports free play after the task.
