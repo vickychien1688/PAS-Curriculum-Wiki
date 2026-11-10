@@ -19,3 +19,7 @@ The user supplied the approved entry-level Japan location video and accepted a n
 A single-page PDF and 600 dpi PNG were checked using MuPDF and independent Poppler rendering. Picture/word correspondence, map label placement, text sizing, and QR decoding were checked. Physical phone scanning remains untested. Content direction approval is distinct from approval of this new layout.
 
 Full student material, media, source code, and checksums remain private. No new audio or student-material publication occurred. Next: review the picture vocabulary layout with the user, then revise before any further level expansion.
+
+## 2026-11-10 footer revision
+
+At the user’s request, v2 extends the existing landscape footer to both page edges with uniform scaling and page-edge trimming of its base. The original image is retained. All text and all pixels above the footer are unchanged. The revised PDF and 600 dpi PNG were visually checked; artwork approval remains pending.
