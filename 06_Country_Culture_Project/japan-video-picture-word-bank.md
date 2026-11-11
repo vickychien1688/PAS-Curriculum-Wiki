@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 approved background music integrated v9
+
+The user explicitly accepted the third music audition with “可以，接這一版”. Its exact instrumental asset is now deployed to the existing owner-private game from source `5e3db89b6bf692923f40d0b2be1f9f9574cf6f3f`. The first two candidates remain superseded and archived privately.
+
+Music begins after the first interaction, continues across all six missions and the travel book, becomes quieter during speech, and has an independent saved Music toggle. Hidden tabs suspend playback; returning resumes it. Original voice, artwork and gameplay assets remain unchanged. Live checks confirmed playback, speech ducking, touch mute independence, spring regression and mobile layout with no JavaScript errors. Served music and spring audio hashes match their accepted sources. User listening approval is recorded privately; classroom speaker testing remains the next practical check.
+
 ## 2026-11-11 music revision 3: fuller game arrangement awaiting approval
 
 After the second audition, the user requested still more energy. The first two synthesized candidates are superseded and remain unpublished. A third instrumental game arrangement was generated in one bounded ElevenLabs music_v2 request, with no existing song or artist specified. Both a music-only audition and an audition at game volume with the unchanged approved speech are available privately. This is a new musical arrangement, not a tempo change to the accepted narration.
