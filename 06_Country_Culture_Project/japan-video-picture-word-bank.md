@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 background music candidate, awaiting listening review
+
+The user requested background music, then asked for a livelier arrangement after hearing the first sample. A new original 112 BPM instrumental loop and a 25-second audition with existing approved speech are prepared. The first candidate is superseded and preserved privately. The second candidate is awaiting listening approval; the owner-private live game remains on the approved v8 narration release.
+
+Local integration starts music after a user gesture, keeps a single loop across scenes, reduces music volume during spoken clues, provides an independent Music toggle with a saved preference, pauses in hidden tabs, and supports retry after an asset loading failure. Original gameplay, art and all approved speech assets remain unchanged. Browser checks cover these interactions and phone/desktop layout; decoded audio has no clipping in 4x peak checks. Listening preference and physical classroom speaker balance still require user review. Complete source, score, audio, revision history and QA are private; no new music has been published.
+
 ## 2026-11-11 approved narration integrated v8
 
 The user accepted the delivered v2 audition with “可以”. All sixteen selected cues are now integrated into the existing owner-private game as exact WAV files, without regeneration or processing. The accepted spring recording is unchanged. Each mission step gets its relevant short clue and a Listen replay control. Summer's camera cue begins when capture becomes available; autumn's save cue follows leaf arrangement; winter's photo cue follows arrival.
