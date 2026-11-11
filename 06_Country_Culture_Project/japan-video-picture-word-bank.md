@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 ending narration v12 approved and live
+
+The user approved all three auditioned recordings for publication. The exact accepted WAVs now accompany the final-stamp invitation, farewell and completed-book reminder; none were regenerated. Automatic entry cues, title/Listen replay and navigation cancellation share one player. Music stays lowered throughout the complete 11.285-second farewell and fades only after it finishes. Replay and returning to the collection preserve keepsakes and the user's music preference.
+
+The existing owner-private Site is deployed from source `c906b85eee702f6d96a1e501df8316c24b7bec2b`, deployment `appgdep_6af43011eb788191aa8609b5a87ddd38`. Live checks covered all three cues, the complete farewell, keyboard/touch replay, revisiting and playing again without JavaScript errors. Eight served assets match local SHA256 values. A CSS-only follow-up places all three 52px-high phone controls in one row above the platform toolbar; its final assets and touch behavior were rechecked. Fifty-two previous files, including 23 accepted narration WAVs and the music, remain byte-identical. Full scripts, media, approval evidence and QA stay in private backups. Classroom whiteboard/speaker testing remains the practical follow-up; narration acceptance is complete. Earlier pending-review notes below are historical.
+
 ## 2026-11-11 ending narration v12 prepared for listening review
 
 The user requested speech for the new ending. Three local recordings cover the final-stamp invitation, farewell and completed-book reminder, using the accepted voice settings. A complete audition begins with the approved spring reference. Native candidates and all revisions remain private; no new audio has been published and the live Site remains v11.
