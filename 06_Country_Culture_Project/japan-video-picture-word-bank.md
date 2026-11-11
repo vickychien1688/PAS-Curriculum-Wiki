@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 completed Travel book now has a final stamp and farewell v11
+
+The user identified the six-keepsake collection screen as lacking a clear ending. After all six actual saved keepsakes are present, a prominent final stamp opens a celebratory farewell using the approved artwork and existing save effect. The accepted music gently fades to rest; its independent control can resume it. Returning to the collection or an activity restores the user's music preference. Replay preserves all keepsakes; incomplete collections cannot trigger the ending.
+
+Touch, keyboard, title focus, reduced-motion behavior, completion persistence, the actual sixth-keepsake transition, music/mute behavior, and desktop/mobile layouts were verified. The existing owner-private Site is deployed from source `042ec840061612744bdc7400786e98c8c706717d`. Live checks passed without JavaScript errors; 28 served assets match local hashes, including all 23 approved narration WAVs and the accepted music. No new audio was generated or published. Complete materials, the user's reference screenshot, and QA stay private; classroom touch-screen testing remains the practical follow-up.
+
 ## 2026-11-11 all six opening stories approved and deployed v10
 
 The user accepted all six new opening recordings with “可以，全部接上”. The exact WAVs and the prepared title replay controls are now deployed to the existing owner-private game, source `5564c2f61fa1c94f3bd21784821606c59c50e546`, without audio regeneration.
