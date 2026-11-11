@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 ending narration v12 prepared for listening review
+
+The user requested speech for the new ending. Three local recordings cover the final-stamp invitation, farewell and completed-book reminder, using the accepted voice settings. A complete audition begins with the approved spring reference. Native candidates and all revisions remain private; no new audio has been published and the live Site remains v11.
+
+The prepared implementation uses the shared voice player with automatic cues, title/Listen replay, cancellation on navigation and a music fade triggered by the farewell finishing. It preserves the original 23 approved narration WAVs and music. Browser checks covered the complete farewell, replay, autoplay refusal and touch recovery, independent mute controls, six existing openings and responsive layouts without JavaScript errors. Transcription and waveform checks passed; descriptive pitch uncertainty is recorded and does not substitute for user listening approval. Publication waits for acceptance of these exact files.
+
 ## 2026-11-11 completed Travel book now has a final stamp and farewell v11
 
 The user identified the six-keepsake collection screen as lacking a clear ending. After all six actual saved keepsakes are present, a prominent final stamp opens a celebratory farewell using the approved artwork and existing save effect. The accepted music gently fades to rest; its independent control can resume it. Returning to the collection or an activity restores the user's music preference. Replay preserves all keepsakes; incomplete collections cannot trigger the ending.
