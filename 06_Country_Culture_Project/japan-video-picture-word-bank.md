@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 music revision 3: fuller game arrangement awaiting approval
+
+After the second audition, the user requested still more energy. The first two synthesized candidates are superseded and remain unpublished. A third instrumental game arrangement was generated in one bounded ElevenLabs music_v2 request, with no existing song or artist specified. Both a music-only audition and an audition at game volume with the unchanged approved speech are available privately. This is a new musical arrangement, not a tempo change to the accepted narration.
+
+The selected loop was locally tested for speech ducking and continuous playback. Decoding and 4x peak checks show no clipping. Playback controls and all previously approved voice assets remain unchanged. The third candidate still awaits listening approval; the live owner-private Site remains v8 without music. Full prompts, raw generation, working audio, revision history and QA are retained only in the private project backup.
+
 ## 2026-11-11 background music candidate, awaiting listening review
 
 The user requested background music, then asked for a livelier arrangement after hearing the first sample. A new original 112 BPM instrumental loop and a 25-second audition with existing approved speech are prepared. The first candidate is superseded and preserved privately. The second candidate is awaiting listening approval; the owner-private live game remains on the approved v8 narration release.
