@@ -1,5 +1,13 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 approved narration integrated v8
+
+The user accepted the delivered v2 audition with “可以”. All sixteen selected cues are now integrated into the existing owner-private game as exact WAV files, without regeneration or processing. The accepted spring recording is unchanged. Each mission step gets its relevant short clue and a Listen replay control. Summer's camera cue begins when capture becomes available; autumn's save cue follows leaf arrangement; winter's photo cue follows arrival.
+
+One shared audio player prevents overlapping speech. Scene changes, navigation, opening the Travel book or hiding the page stop the previous clue. If autoplay is blocked, Listen remains usable. Effects mute stays independent, with the existing quieter effects during speech. Existing gameplay, artwork and spring logic remain intact.
+
+Deployment succeeded from `cfa639ff8c515fb3f10a1445a02aadd27ccc8210`. Local checks exercised all sixteen cues, replay/cancellation, autoplay recovery, original spring speech and touch layouts. Live playback/navigation checks passed, and all seventeen served WAV hashes match their approved sources. No JavaScript errors occurred. User audition approval is recorded privately; physical classroom speaker testing remains pending. Full materials, acceptance provenance and QA remain private.
+
 ## 2026-11-11 other five stops: voice audition v2
 
 The user requested audio for the remaining five stops matching the accepted spring voice, for listening review. Sixteen short cues now map to the current Japan, flag, summer, autumn and winter interaction phases. Twelve cue texts have new native recordings; four unchanged cues reuse the repaired session's cached native sources. The same Sparkles/Turbo settings and speed 0.85 are retained, with constant gain aligned to the actual accepted spring clip. The spring recording itself remains unchanged.
