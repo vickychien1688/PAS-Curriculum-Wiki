@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 all six opening stories approved and deployed v10
+
+The user accepted all six new opening recordings with “可以，全部接上”. The exact WAVs and the prepared title replay controls are now deployed to the existing owner-private game, source `5564c2f61fa1c94f3bd21784821606c59c50e546`, without audio regeneration.
+
+Each opening reads the large story text and its short invitation. The story title and Listen control replay it; starting the activity interrupts it and uses the action cue. Speech uses one shared player and automatically reduces music volume. Browser autoplay restrictions leave both play controls available. Existing spring narration, action audio files, music and artwork remain preserved. Live checks covered all six opening-to-action transitions, title and touch replay, travel book cancellation and mobile layout without JavaScript errors. Six new voice files plus the existing spring and music assets all match their approved hashes. Physical classroom speaker testing remains a practical follow-up; full materials and approval records stay private.
+
 ## 2026-11-11 opening story narration v10 prepared for listening review
 
 The user requested spoken narration for each mission’s large opening story text and explicitly asked to begin. Six new recordings match the current opening story headings and their short supporting invitations, using the accepted voice settings. A complete audition and a short Japan/flag comparison are ready; user listening approval is pending, so the live Site remains v9.
