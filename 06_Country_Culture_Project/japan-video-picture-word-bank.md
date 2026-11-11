@@ -1,5 +1,13 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 other five stops: voice audition v2
+
+The user requested audio for the remaining five stops matching the accepted spring voice, for listening review. Sixteen short cues now map to the current Japan, flag, summer, autumn and winter interaction phases. Twelve cue texts have new native recordings; four unchanged cues reuse the repaired session's cached native sources. The same Sparkles/Turbo settings and speed 0.85 are retained, with constant gain aligned to the actual accepted spring clip. The spring recording itself remains unchanged.
+
+Deliverables are a 27.51-second comparison, a 67.81-second complete review, five individual stop reviews and separate WAV/MP3 cues. Both comparison tracks begin with the original spring waveform. All 18 line/full-review transcripts match, 23 MP3s decode without clipping, and selected sources have no saturated samples. Full-word tails and two-method pitch diagnostics were inspected against spring; these are technical checks, not auditory approval. The user must still assess naturalness and speaker playback.
+
+This is an audition-only candidate. The existing owner-private v7 game is unchanged, with only its approved spring narration. Full script, audio, request provenance, selection and QA remain private; no full teaching audio is added to this Wiki. Next: user listening review, followed by exact-file integration within the confirmed scope.
+
 ## 2026-11-11 final three story missions v7
 
 The user accepted the first two missions and requested continuation. Summer now lets children choose firework colors and sky positions, then capture and keep a postcard. Autumn asks them to collect red/yellow leaves among harmless distractors and tap to arrange a bookmark with a chosen ribbon. Winter gives a choice of snowflake paths in three guarded moves, followed by a manually captured snow-day photo. Only saving the keepsake awards each stamp. No scissors, dragging requirement, timers or penalties; English remains primary with short Chinese support.
