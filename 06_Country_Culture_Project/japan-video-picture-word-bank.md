@@ -1,5 +1,9 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 public link sharing enabled
+
+The user explicitly chose public access for anyone with the link, without sign-in. The existing Site now has public audience (access revision 2); source `c906b85eee702f6d96a1e501df8316c24b7bec2b` and all accepted media remain unchanged. Share the [first activity](https://our-reading-space-japan-touch.stony-bee-5640.chatgpt.site/#japan). Final browser requests with credentials omitted returned the game and four exact code/audio assets with HTTP 200 and no login redirects. Initial transient authorization failures are preserved in the private QA record. Progress remains local to each browser. Earlier owner-private notes below describe historical access; future deployments must use the current public audience.
+
 ## 2026-11-11 ending narration v12 approved and live
 
 The user approved all three auditioned recordings for publication. The exact accepted WAVs now accompany the final-stamp invitation, farewell and completed-book reminder; none were regenerated. Automatic entry cues, title/Listen replay and navigation cancellation share one player. Music stays lowered throughout the complete 11.285-second farewell and fades only after it finishes. Replay and returning to the collection preserve keepsakes and the user's music preference.
