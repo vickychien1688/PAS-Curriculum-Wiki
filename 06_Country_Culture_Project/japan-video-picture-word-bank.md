@@ -1,5 +1,11 @@
 # Japan video companion: picture vocabulary and learning record
 
+## 2026-11-11 opening story narration v10 prepared for listening review
+
+The user requested spoken narration for each mission’s large opening story text and explicitly asked to begin. Six new recordings match the current opening story headings and their short supporting invitations, using the accepted voice settings. A complete audition and a short Japan/flag comparison are ready; user listening approval is pending, so the live Site remains v9.
+
+Local integration reads the opening on entry, makes the large story title and Listen control replay it, and cancels it when the child begins the activity. Touch, keyboard and browser autoplay recovery are supported. Original spring clues, approved action audio files, music and artwork are preserved; the summer opening now corresponds to its displayed story. Six opening-to-action transitions and responsive layouts passed browser checks; transcription and waveform checks passed with descriptive pitch uncertainty retained. Complete scripts, candidate audio, rejected raw take, source and QA remain private.
+
 ## 2026-11-11 approved background music integrated v9
 
 The user explicitly accepted the third music audition with “可以，接這一版”. Its exact instrumental asset is now deployed to the existing owner-private game from source `5e3db89b6bf692923f40d0b2be1f9f9574cf6f3f`. The first two candidates remain superseded and archived privately.
